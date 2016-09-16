@@ -1,0 +1,11 @@
+Challenge 12: ydaO riboswitch
+This problem consists in predicting the structure of a RNA molecule with the following sequence:
+
+5'-AUCGCUGAACGCGGGGGACCCAGGGGGCGAAUCUCUUCCGAAAGGAAGAGU
+   AGGGUUACUCCUUCGACCCGAGCCCGUCAGCUAACCUCGCAAGCGUCCGAA
+   GGAGAAAAA-3'
+
+Crystal structure kindly provided by Dinshaw Patel
+Ren A, Patel DJ. 2014. c-di-AMP binds the ydaO riboswitch in two pseudo-symmetry-related pockets. Nat Chem Biol. 10(9):780-6.
+
+PDB id: 4QLM 4QLN 

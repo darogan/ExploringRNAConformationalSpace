@@ -1,0 +1,615 @@
+Assume test.run
+ line = SCALE 0.15
+Reading parameters from stem.model
+    0     1     2     2     1     0     0     0     0     0 
+ 9999   100    30     5     5     0     0     0     0     0 
+    0     0    20   -10    10     0     0     0     0     0 
+    0     0     2     2     5     0     0     0     0     0 
+    0     0     1     1     1     0     0     0     0     0 
+    0     0     5     0     0     0     0     0     0     0 
+    0     1     2     5     0     0     0     0     0     0 
+    0     0     0    10     5     0     0     0     0     0 
+    0     0    20    50   100     0     0     0     0     0 
+    0     0    10    20   100     0     0     0     0     0 
+End of parameters
+
+ Read  nmodels = 1
+Model 0 is nucleic with  Data::bondPP = 1
+ #  line = GROUP 0 1
+ # set GROUP  sort = 0 n = 1 level = 0 at[level] = 0 cell->uid = 0
+ #  line = INPUT stems.dat
+ # Reading file stems.dat
+ #  deep = 1
+ #  line = GROUP 0 5
+ # set GROUP  sort = 0 n = 5 level = 1 at[level] = 0 cell->uid = 1
+ #  line = GROUP -1 3    68.3  53.6  41.2     53.0  45.7  27.8
+ # set GROUP  sort = -1 n = 3 level = 2 at[level] = 0 cell->uid = 2
+ # Axis ends read  v = -1.1475 -0.5925 -1.005 cell->ends = -1
+ #  line = DOUBL 1 9
+ set BPAIR  sort = 1 n = 9 level = 3 at[level] = 0 cell->uid = 7
+ #  line = ATOM      1  P     G A   1      66.932  54.717  32.506  1.00  0.00
+ # set ATOM  level = 3 at[level] = 0 cell->uid = 7
+ #  line = ATOM      2  P     G A   2      66.612  49.156  34.222  1.00  0.00
+ # set ATOM  level = 3 at[level] = 1 cell->uid = 8
+ #  line = ATOM      3  P     G A   3      64.129  45.193  38.109  1.00  0.00
+ # set ATOM  level = 3 at[level] = 2 cell->uid = 9
+ #  line = ATOM      4  P     G A   4      59.622  43.553  41.204  1.00  0.00
+ # set ATOM  level = 3 at[level] = 3 cell->uid = 10
+ #  line = ATOM      5  P     G A   5      54.205  43.531  42.537  1.00  0.00
+ # set ATOM  level = 3 at[level] = 4 cell->uid = 11
+ #  line = ATOM      6  P     G A   6      48.651  45.080  40.719  1.00  0.00
+ # set ATOM  level = 3 at[level] = 5 cell->uid = 12
+ #  line = ATOM      7  P     G A   7      44.942  46.678  36.880  1.00  0.00
+ # set ATOM  level = 3 at[level] = 6 cell->uid = 13
+ #  line = ATOM      8  P     G A   8      43.662  47.638  31.261  1.00  0.00
+ # set ATOM  level = 3 at[level] = 7 cell->uid = 14
+ #  line = ATOM      9  P     G A   9      44.220  46.636  25.756  1.00  0.00
+ # set ATOM  level = 3 at[level] = 8 cell->uid = 15
+ #  line = GROUP 0 3
+ # EoG  level = 3 cell->uid = 15 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 8 cell->uid = 15 cell->kids = 2 cell->ends = 0
+ # Next  cell->uid = 16 last = T have = G
+ # set GROUP  sort = 0 n = 3 level = 3 at[level] = 9 cell->uid = 16
+ #  line = ATOM     10  P     G A  10      41.514  50.352  20.666  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 36
+ #  line = ATOM     11  P     G A  11      39.283  55.186  19.092  1.00  0.00
+ # set ATOM  level = 4 at[level] = 1 cell->uid = 37
+ #  line = ATOM     12  P     G A  12      39.589  60.508  18.216  1.00  0.00
+ # set ATOM  level = 4 at[level] = 2 cell->uid = 38
+ #  line = GROUP 0 1
+ # EoG  level = 3 cell->uid = 16 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 9 cell->uid = 16 cell->kids = 3 cell->ends = 0
+ # Next  cell->uid = 17 last = T have = G
+ # set GROUP  sort = 0 n = 1 level = 3 at[level] = 10 cell->uid = 17
+*NB* chain of one at level 4
+ #  line = ATOM     85  P     G A  85      60.045  39.705  31.960  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 39
+ #  line = DOUBL -1 9
+ # EoG  level = 3 cell->uid = 17 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 10 cell->uid = 17 cell->kids = 1 cell->ends = 0
+ # Next  cell->uid = 17 last = T have = D
+ Complementary strand found 
+ #  line = ATOM     86  P     G A  86      61.717  44.687  29.747  1.00  0.00
+ # set ATOM  level = 3 at[level] = 8 cell->uid = 15
+ #  line = ATOM     87  P     G A  87      60.528  50.278  28.276  1.00  0.00
+ # set ATOM  level = 3 at[level] = 7 cell->uid = 14
+ #  line = ATOM     88  P     G A  88      58.198  55.136  29.302  1.00  0.00
+ # set ATOM  level = 3 at[level] = 6 cell->uid = 13
+ #  line = ATOM     89  P     G A  89      56.009  58.702  33.383  1.00  0.00
+ # set ATOM  level = 3 at[level] = 5 cell->uid = 12
+ #  line = ATOM     90  P     G A  90      54.261  60.673  38.754  1.00  0.00
+ # set ATOM  level = 3 at[level] = 4 cell->uid = 11
+ #  line = ATOM     91  P     G A  91      55.092  59.795  44.359  1.00  0.00
+ # set ATOM  level = 3 at[level] = 3 cell->uid = 10
+ #  line = ATOM     92  P     G A  92      58.460  57.535  48.781  1.00  0.00
+ # set ATOM  level = 3 at[level] = 2 cell->uid = 9
+ #  line = ATOM     93  P     G A  93      64.095  54.516  50.109  1.00  0.00
+ # set ATOM  level = 3 at[level] = 1 cell->uid = 8
+ #  line = ATOM     94  P     G A  94      69.700  52.565  49.893  1.00  0.00
+ # set ATOM  level = 3 at[level] = 0 cell->uid = 7
+ #  line = GROUP -1 4    50.3  73.4  16.4     59.2  72.2  14.9
+ # EoG  level = 3 cell->uid = 17 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 10 cell->uid = 17 cell->kids = 1 cell->ends = 0
+ # EoG  level = 2 cell->uid = 2 moves[level].set = 0
+ # End of Cell  cell->level = 2 cell->id = 0 cell->uid = 2 cell->kids = 11 cell->ends = -1
+ # Next  cell->uid = 3 last = T have = G
+ # set GROUP  sort = -1 n = 4 level = 2 at[level] = 1 cell->uid = 3
+ # Axis ends read  v = 0.6675 -0.0900003 -0.1125 cell->ends = -1
+ #  line = GROUP 0 2
+ # set GROUP  sort = 0 n = 2 level = 3 at[level] = 0 cell->uid = 40
+ #  line = ATOM     13  P     G A  13      42.588  64.456  15.747  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 44
+ #  line = ATOM     14  P     G A  14      44.891  66.334  10.322  1.00  0.00
+ # set ATOM  level = 4 at[level] = 1 cell->uid = 45
+ #  line = DOUBL 2 3
+ # EoG  level = 3 cell->uid = 40 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 0 cell->uid = 40 cell->kids = 2 cell->ends = 0
+ # Next  cell->uid = 41 last = T have = D
+ set BPAIR  sort = 2 n = 3 level = 3 at[level] = 1 cell->uid = 41
+ #  line = ATOM     15  P     G A  15      46.313  71.178   9.199  1.00  0.00
+ # set ATOM  level = 3 at[level] = 1 cell->uid = 41
+ #  line = ATOM     16  P     G A  16      51.026  75.682   8.551  1.00  0.00
+ # set ATOM  level = 3 at[level] = 2 cell->uid = 42
+ #  line = ATOM     17  P     G A  17      57.613  77.465   8.504  1.00  0.00
+ # set ATOM  level = 3 at[level] = 3 cell->uid = 43
+ #  line = GROUP 0 1
+ # EoG  level = 3 cell->uid = 43 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 3 cell->uid = 43 cell->kids = 2 cell->ends = 0
+ # Next  cell->uid = 46 last = T have = G
+ # set GROUP  sort = 0 n = 1 level = 3 at[level] = 4 cell->uid = 46
+*NB* chain of one at level 4
+ #  line = ATOM     18  P     G A  18      62.500  76.096   8.807  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 54
+ #  line = GROUP 0 3
+ # EoG  level = 3 cell->uid = 46 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 4 cell->uid = 46 cell->kids = 1 cell->ends = 0
+ # Next  cell->uid = 47 last = T have = G
+ # set GROUP  sort = 0 n = 3 level = 3 at[level] = 5 cell->uid = 47
+ #  line = ATOM     36  P     G A  36      56.302  64.840   8.264  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 55
+ #  line = ATOM     37  P     G A  37      57.509  61.470  12.975  1.00  0.00
+ # set ATOM  level = 4 at[level] = 1 cell->uid = 56
+ #  line = ATOM     38  P     G A  38      60.393  62.448  18.155  1.00  0.00
+ # set ATOM  level = 4 at[level] = 2 cell->uid = 57
+ #  line = DOUBL -2 3
+ # EoG  level = 3 cell->uid = 47 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 5 cell->uid = 47 cell->kids = 3 cell->ends = 0
+ # Next  cell->uid = 47 last = T have = D
+ Complementary strand found 
+ #  line = ATOM     39  P     G A  39      60.743  66.942  21.298  1.00  0.00
+ # set ATOM  level = 3 at[level] = 3 cell->uid = 43
+ #  line = ATOM     40  P     G A  40      58.440  71.960  23.004  1.00  0.00
+ # set ATOM  level = 3 at[level] = 2 cell->uid = 42
+ #  line = ATOM     41  P     G A  41      54.296  75.590  23.687  1.00  0.00
+ # set ATOM  level = 3 at[level] = 1 cell->uid = 41
+ #  line = GROUP -1 3    61.2  68.9   2.8     62.8  43.6  12.8
+ # EoG  level = 3 cell->uid = 47 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 5 cell->uid = 47 cell->kids = 3 cell->ends = 0
+ # EoG  level = 2 cell->uid = 3 moves[level].set = 0
+ # End of Cell  cell->level = 2 cell->id = 1 cell->uid = 3 cell->kids = 6 cell->ends = -1
+ # Next  cell->uid = 4 last = T have = G
+ # set GROUP  sort = -1 n = 3 level = 2 at[level] = 2 cell->uid = 4
+ # Axis ends read  v = 0.12 -1.8975 0.75 cell->ends = -1
+ #  line = DOUBL 3 7
+ set BPAIR  sort = 3 n = 7 level = 3 at[level] = 0 cell->uid = 58
+ #  line = ATOM     19  P     G A  19      66.529  72.627   7.927  1.00  0.00
+ # set ATOM  level = 3 at[level] = 0 cell->uid = 58
+ #  line = ATOM     20  P     G A  20      67.943  65.983   5.777  1.00  0.00
+ # set ATOM  level = 3 at[level] = 1 cell->uid = 59
+ #  line = ATOM     21  P     G A  21      68.416  59.835   6.842  1.00  0.00
+ # set ATOM  level = 3 at[level] = 2 cell->uid = 60
+ #  line = ATOM     22  P     G A  22      65.553  56.907  12.788  1.00  0.00
+ # set ATOM  level = 3 at[level] = 3 cell->uid = 61
+ #  line = ATOM     23  P     G A  23      61.563  54.455  16.191  1.00  0.00
+ # set ATOM  level = 3 at[level] = 4 cell->uid = 62
+ #  line = ATOM     24  P     G A  24      58.081  50.365  18.262  1.00  0.00
+ # set ATOM  level = 3 at[level] = 5 cell->uid = 63
+ #  line = ATOM     25  P     G A  25      63.295  49.164  17.228  1.00  0.00
+ # set ATOM  level = 3 at[level] = 6 cell->uid = 64
+ #  line = GROUP 0 2
+ # EoG  level = 3 cell->uid = 64 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 6 cell->uid = 64 cell->kids = 2 cell->ends = 0
+ # Next  cell->uid = 65 last = T have = G
+ # set GROUP  sort = 0 n = 2 level = 3 at[level] = 7 cell->uid = 65
+ #  line = ATOM     26  P     G A  26      66.238  44.250  16.126  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 81
+ #  line = ATOM     27  P     G A  27      66.132  40.515  13.104  1.00  0.00
+ # set ATOM  level = 4 at[level] = 1 cell->uid = 82
+ #  line = DOUBL -3 7
+ # EoG  level = 3 cell->uid = 65 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 7 cell->uid = 65 cell->kids = 2 cell->ends = 0
+ # Next  cell->uid = 65 last = T have = D
+ Complementary strand found 
+ #  line = ATOM     28  P     G A  28      62.365  38.133   8.409  1.00  0.00
+ # set ATOM  level = 3 at[level] = 6 cell->uid = 64
+ #  line = ATOM     29  P     G A  29      57.271  40.780   5.008  1.00  0.00
+ # set ATOM  level = 3 at[level] = 5 cell->uid = 63
+ #  line = ATOM     30  P     G A  30      53.015  45.164   3.761  1.00  0.00
+ # set ATOM  level = 3 at[level] = 4 cell->uid = 62
+ #  line = ATOM     31  P     G A  31      51.870  51.754   4.306  1.00  0.00
+ # set ATOM  level = 3 at[level] = 3 cell->uid = 61
+ #  line = ATOM     32  P     G A  32      52.458  57.185   4.523  1.00  0.00
+ # set ATOM  level = 3 at[level] = 2 cell->uid = 60
+ #  line = ATOM     33  P     G A  33      55.228  60.837   2.054  1.00  0.00
+ # set ATOM  level = 3 at[level] = 1 cell->uid = 59
+ #  line = ATOM     34  P     G A  34      55.824  65.152  -2.328  1.00  0.00
+ # set ATOM  level = 3 at[level] = 0 cell->uid = 58
+ #  line = GROUP 0 1
+ # EoG  level = 3 cell->uid = 65 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 7 cell->uid = 65 cell->kids = 2 cell->ends = 0
+ # Next  cell->uid = 66 last = T have = G
+ # set GROUP  sort = 0 n = 1 level = 3 at[level] = 8 cell->uid = 66
+*NB* chain of one at level 4
+ #  line = ATOM     35  P     G A  35      52.152  65.101   3.133  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 83
+ #  line = GROUP -1 4    46.6  66.4  19.4     40.8  71.0  44.2
+ # EoG  level = 3 cell->uid = 66 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 8 cell->uid = 66 cell->kids = 1 cell->ends = 0
+ # EoG  level = 2 cell->uid = 4 moves[level].set = 0
+ # End of Cell  cell->level = 2 cell->id = 2 cell->uid = 4 cell->kids = 9 cell->ends = -1
+ # Next  cell->uid = 5 last = T have = G
+ # set GROUP  sort = -1 n = 4 level = 2 at[level] = 3 cell->uid = 5
+ # Axis ends read  v = -0.435 0.345 1.86 cell->ends = -1
+ #  line = GROUP 0 1
+ # set GROUP  sort = 0 n = 1 level = 3 at[level] = 0 cell->uid = 84
+*NB* chain of one at level 4
+ #  line = ATOM     42  P     G A  42      48.270  76.196  22.975  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 88
+ #  line = DOUBL 4 8
+ # EoG  level = 3 cell->uid = 84 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 0 cell->uid = 84 cell->kids = 1 cell->ends = 0
+ # Next  cell->uid = 85 last = T have = D
+ set BPAIR  sort = 4 n = 8 level = 3 at[level] = 1 cell->uid = 85
+ #  line = ATOM     43  P     G A  43      43.122  73.181  22.637  1.00  0.00
+ # set ATOM  level = 3 at[level] = 1 cell->uid = 85
+ #  line = ATOM     44  P     G A  44      40.195  67.977  23.797  1.00  0.00
+ # set ATOM  level = 3 at[level] = 2 cell->uid = 86
+ #  line = ATOM     45  P     G A  45      38.915  62.435  25.990  1.00  0.00
+ # set ATOM  level = 3 at[level] = 3 cell->uid = 87
+ #  line = ATOM     46  P     G A  46      39.689  59.199  31.111  1.00  0.00
+ # set ATOM  level = 3 at[level] = 4 cell->uid = 89
+ #  line = ATOM     47  P     G A  47      42.413  57.528  36.388  1.00  0.00
+ # set ATOM  level = 3 at[level] = 5 cell->uid = 90
+ #  line = ATOM     48  P     G A  48      45.766  58.513  41.317  1.00  0.00
+ # set ATOM  level = 3 at[level] = 6 cell->uid = 91
+ #  line = ATOM     49  P     G A  49      47.654  61.613  45.471  1.00  0.00
+ # set ATOM  level = 3 at[level] = 7 cell->uid = 92
+ #  line = ATOM     50  P     G A  50      46.846  66.209  48.339  1.00  0.00
+ # set ATOM  level = 3 at[level] = 8 cell->uid = 93
+ #  line = GROUP 0 3
+ # EoG  level = 3 cell->uid = 93 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 8 cell->uid = 93 cell->kids = 2 cell->ends = 0
+ # Next  cell->uid = 94 last = T have = G
+ # set GROUP  sort = 0 n = 3 level = 3 at[level] = 9 cell->uid = 94
+ #  line = ATOM     51  P     G A  51      42.880  69.415  49.453  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 112
+ #  line = ATOM     52  P     G A  52      39.515  68.317  44.596  1.00  0.00
+ # set ATOM  level = 4 at[level] = 1 cell->uid = 113
+ #  line = ATOM     53  P     G A  53      38.666  72.624  38.930  1.00  0.00
+ # set ATOM  level = 4 at[level] = 2 cell->uid = 114
+ #  line = DOUBL -4 8
+ # EoG  level = 3 cell->uid = 94 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 9 cell->uid = 94 cell->kids = 3 cell->ends = 0
+ # Next  cell->uid = 94 last = T have = D
+ Complementary strand found 
+ #  line = ATOM     54  P     G A  54      40.720  75.399  35.403  1.00  0.00
+ # set ATOM  level = 3 at[level] = 8 cell->uid = 93
+ #  line = ATOM     55  P     G A  55      47.525  74.791  34.471  1.00  0.00
+ # set ATOM  level = 3 at[level] = 7 cell->uid = 92
+ #  line = ATOM     56  P     G A  56      52.789  72.392  35.004  1.00  0.00
+ # set ATOM  level = 3 at[level] = 6 cell->uid = 91
+ #  line = ATOM     57  P     G A  57      56.393  68.380  34.188  1.00  0.00
+ # set ATOM  level = 3 at[level] = 5 cell->uid = 90
+ #  line = ATOM     58  P     G A  58      56.449  63.448  30.205  1.00  0.00
+ # set ATOM  level = 3 at[level] = 4 cell->uid = 89
+ #  line = ATOM     59  P     G A  59      54.759  59.607  26.431  1.00  0.00
+ # set ATOM  level = 3 at[level] = 3 cell->uid = 87
+ #  line = ATOM     60  P     G A  60      52.117  58.708  21.315  1.00  0.00
+ # set ATOM  level = 3 at[level] = 2 cell->uid = 86
+ #  line = ATOM     61  P     G A  61      50.069  59.698  16.181  1.00  0.00
+ # set ATOM  level = 3 at[level] = 1 cell->uid = 85
+ #  line = GROUP 0 4
+ # EoG  level = 3 cell->uid = 94 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 9 cell->uid = 94 cell->kids = 3 cell->ends = 0
+ # Next  cell->uid = 95 last = T have = G
+ # set GROUP  sort = 0 n = 4 level = 3 at[level] = 10 cell->uid = 95
+ #  line = ATOM     62  P     G A  62      46.873  53.710  16.473  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 115
+ #  line = ATOM     63  P     G A  63      45.533  47.735  15.702  1.00  0.00
+ # set ATOM  level = 4 at[level] = 1 cell->uid = 116
+ #  line = ATOM     64  P     G A  64      46.459  49.804  22.269  1.00  0.00
+ # set ATOM  level = 4 at[level] = 2 cell->uid = 117
+ #  line = ATOM     65  P     G A  65      51.326  49.377  19.562  1.00  0.00
+ # set ATOM  level = 4 at[level] = 3 cell->uid = 118
+ #  line = GROUP -1 3    54.8  35.8  26.5     45.6  24.8  13.9
+ # EoG  level = 3 cell->uid = 95 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 10 cell->uid = 95 cell->kids = 4 cell->ends = 0
+ # EoG  level = 2 cell->uid = 5 moves[level].set = 0
+ # End of Cell  cell->level = 2 cell->id = 3 cell->uid = 5 cell->kids = 11 cell->ends = -1
+ # Next  cell->uid = 6 last = T have = G
+ # set GROUP  sort = -1 n = 3 level = 2 at[level] = 4 cell->uid = 6
+ # Axis ends read  v = -0.69 -0.825 -0.945 cell->ends = -1
+ #  line = GROUP 0 2
+ # set GROUP  sort = 0 n = 2 level = 3 at[level] = 0 cell->uid = 119
+ #  line = ATOM     66  P     G A  66      49.544  44.611  18.663  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 122
+ #  line = ATOM     67  P     G A  67      50.160  38.971  18.505  1.00  0.00
+ # set ATOM  level = 4 at[level] = 1 cell->uid = 123
+ #  line = DOUBL 5 7
+ # EoG  level = 3 cell->uid = 119 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 0 cell->uid = 119 cell->kids = 2 cell->ends = 0
+ # Next  cell->uid = 120 last = T have = D
+ set BPAIR  sort = 5 n = 7 level = 3 at[level] = 1 cell->uid = 120
+ #  line = ATOM     68  P     G A  68      54.230  34.371  19.646  1.00  0.00
+ # set ATOM  level = 3 at[level] = 1 cell->uid = 120
+ #  line = ATOM     69  P     G A  69      59.229  31.475  20.876  1.00  0.00
+ # set ATOM  level = 3 at[level] = 2 cell->uid = 121
+ #  line = ATOM     70  P     G A  70      57.971  26.841  23.990  1.00  0.00
+ # set ATOM  level = 3 at[level] = 3 cell->uid = 124
+ #  line = ATOM     71  P     G A  71      53.262  23.639  26.088  1.00  0.00
+ # set ATOM  level = 3 at[level] = 4 cell->uid = 125
+ #  line = ATOM     72  P     G A  72      48.570  21.242  26.182  1.00  0.00
+ # set ATOM  level = 3 at[level] = 5 cell->uid = 126
+ #  line = ATOM     73  P     G A  73      44.246  19.681  23.238  1.00  0.00
+ # set ATOM  level = 3 at[level] = 6 cell->uid = 127
+ #  line = ATOM     74  P     G A  74      41.787  18.637  18.416  1.00  0.00
+ # set ATOM  level = 3 at[level] = 7 cell->uid = 128
+ #  line = GROUP 0 3
+ # EoG  level = 3 cell->uid = 128 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 7 cell->uid = 128 cell->kids = 2 cell->ends = 0
+ # Next  cell->uid = 129 last = T have = G
+ # set GROUP  sort = 0 n = 3 level = 3 at[level] = 8 cell->uid = 129
+ #  line = ATOM     75  P     G A  75      43.733  17.113  13.257  1.00  0.00
+ # set ATOM  level = 4 at[level] = 0 cell->uid = 144
+ #  line = ATOM     76  P     G A  76      48.870  19.950  12.740  1.00  0.00
+ # set ATOM  level = 4 at[level] = 1 cell->uid = 145
+ #  line = ATOM     77  P     G A  77      51.041  25.690  10.808  1.00  0.00
+ # set ATOM  level = 4 at[level] = 2 cell->uid = 146
+ #  line = DOUBL -5 7
+ # EoG  level = 3 cell->uid = 129 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 8 cell->uid = 129 cell->kids = 3 cell->ends = 0
+ # Next  cell->uid = 129 last = T have = D
+ Complementary strand found 
+ #  line = ATOM     78  P     G A  78      49.484  31.004   9.354  1.00  0.00
+ # set ATOM  level = 3 at[level] = 7 cell->uid = 128
+ #  line = ATOM     79  P     G A  79      45.068  33.757  13.257  1.00  0.00
+ # set ATOM  level = 3 at[level] = 6 cell->uid = 127
+ #  line = ATOM     80  P     G A  80      41.696  34.744  17.718  1.00  0.00
+ # set ATOM  level = 3 at[level] = 5 cell->uid = 126
+ #  line = ATOM     81  P     G A  81      41.512  35.096  23.759  1.00  0.00
+ # set ATOM  level = 3 at[level] = 4 cell->uid = 125
+ #  line = ATOM     82  P     G A  82      43.833  35.803  29.047  1.00  0.00
+ # set ATOM  level = 3 at[level] = 3 cell->uid = 124
+ #  line = ATOM     83  P     G A  83      48.714  36.110  33.037  1.00  0.00
+ # set ATOM  level = 3 at[level] = 2 cell->uid = 121
+ #  line = ATOM     84  P     G A  84      55.352  37.173  33.429  1.00  0.00
+ # set ATOM  level = 3 at[level] = 1 cell->uid = 120
+ #  line = TER
+ # teratoms zeroed by TER command
+  #  line = REBOND pdbid  12 13
+ #  line = REBOND pdbid  18 19
+ #  line = REBOND pdbid  35 36
+ #  line = REBOND pdbid  41 42
+ #  line = REBOND pdbid  65 66
+ #  line = REBOND pdbid  84 85
+ #  line = RETERM pdbid   1 94
+ # EoF 
+ # Moved back to previous file 
+ #  line = LINKS pdbid pairs.dat
+ # Linking by PDB resid numbers
+ # reading: pairs.dat
+ # Cell 138 linked to cell 141   PDBids = 72 to 79   dist = 2.749319
+ # Cell 134 linked to cell 137   PDBids = 70 to 81   dist = 2.762188
+ # Cell 136 linked to cell 139   PDBids = 71 to 80   dist = 2.713095
+ # Cell 50 linked to cell 53   PDBids = 16 to 39   dist = 2.738450
+ # Cell 48 linked to cell 51   PDBids = 15 to 40   dist = 2.758751
+ # Cell 81 linked to cell 123   PDBids = 26 to 67   dist = 2.563331
+ # Cell 52 linked to cell 57   PDBids = 17 to 38   dist = 2.709900
+ # Cell 132 linked to cell 135   PDBids = 69 to 82   dist = 2.693884
+ # Cell 140 linked to cell 143   PDBids = 73 to 78   dist = 2.799872
+ # Cell 88 linked to cell 99   PDBids = 42 to 60   dist = 2.697437
+ # Cell 44 linked to cell 49   PDBids = 13 to 41   dist = 2.700362
+ # Cell 73 linked to cell 76   PDBids = 22 to 30   dist = 2.910875
+ # Cell 22 linked to cell 25   PDBids = 3 to 91   dist = 2.741137
+ # Cell 117 linked to cell 39   PDBids = 64 to 85   dist = 2.925903
+ # Cell 24 linked to cell 27   PDBids = 4 to 90   dist = 2.715941
+ # Cell 79 linked to cell 130   PDBids = 25 to 68   dist = 2.627587
+ # Cell 54 linked to cell 56   PDBids = 18 to 37   dist = 2.400947
+ # Cell 26 linked to cell 29   PDBids = 5 to 89   dist = 2.671556
+ # Cell 80 linked to cell 118   PDBids = 28 to 65   dist = 2.895725
+ # Cell 106 linked to cell 109   PDBids = 48 to 55   dist = 2.661961
+ # Cell 96 linked to cell 101   PDBids = 43 to 59   dist = 2.741627
+ # Cell 32 linked to cell 35   PDBids = 8 to 86   dist = 2.753567
+ # Cell 20 linked to cell 23   PDBids = 2 to 92   dist = 2.800734
+ # Cell 82 linked to cell 122   PDBids = 27 to 66   dist = 2.695169
+ # Cell 18 linked to cell 21   PDBids = 1 to 93   dist = 2.674692
+ # Cell 75 linked to cell 78   PDBids = 23 to 29   dist = 2.726893
+ # Cell 34 linked to cell 116   PDBids = 9 to 63   dist = 1.529814
+ # Cell 136 linked to cell 137   PDBids = 71 to 81   dist = 2.486336
+ # Cell 102 linked to cell 109   PDBids = 46 to 55   dist = 2.665627
+ # Cell 134 linked to cell 139   PDBids = 70 to 80   dist = 2.872298
+ # EoF 
+ #  line = END
+ # EoG  level = 3 cell->uid = 129 moves[level].set = 0
+ # End of Cell  cell->level = 3 cell->id = 8 cell->uid = 129 cell->kids = 3 cell->ends = 0
+ # EoG  level = 2 cell->uid = 6 moves[level].set = 0
+ # End of Cell  cell->level = 2 cell->id = 4 cell->uid = 6 cell->kids = 9 cell->ends = -1
+ # EoG  level = 1 cell->uid = 1 moves[level].set = 0
+ # End of Cell  cell->level = 1 cell->id = 0 cell->uid = 1 cell->kids = 5 cell->ends = 0
+ # all groups complete
+  # End
+  # End of Cell  cell->level = 0 cell->id = 0 cell->uid = 0 cell->kids = 1 cell->ends = 0
+ # End of World
+  N  k = 9 j = 2 seg[j] = 9 nk = 10 jun->resn = 10 sej->resn = 9
+ jun->sis->resn = 9 sej->bro->resn = 10
+ N  k = 10 j = 3 seg[j] = 14 nk = 13 sej->resn = 86 jun->resn = 85
+ sej->sis->resn = 85 jun->bro->resn = 86
+ C  k = 10 j = 3 seg[j] = 14 ck = 13 sej->resn = 86 sen->resn = 85
+ sej->sis->resn = 85 sen->bro->resn = 86
+ C  k = 0 j = 0 seg[j] = 25 ck = 24 sej->resn = 15 sen->resn = 14
+ sej->sis->resn = 14 sen->bro->resn = 15
+ N  k = 4 j = 2 seg[j] = 27 nk = 28 jun->resn = 18 sej->resn = 17
+ jun->sis->resn = 17 sej->bro->resn = 18
+ C  k = 4 j = 2 seg[j] = 27 ck = 28 sen->resn = 18 sej->resn = 17
+ sen->sis->resn = 17 sej->bro->resn = 18
+ C  k = 5 j = 3 seg[j] = 32 ck = 31 sej->resn = 39 sen->resn = 38
+ sej->sis->resn = 38 sen->bro->resn = 39
+ N  k = 7 j = 2 seg[j] = 41 nk = 42 jun->resn = 26 sej->resn = 25
+ jun->sis->resn = 25 sej->bro->resn = 26
+ C  k = 7 j = 3 seg[j] = 44 ck = 43 sej->resn = 28 sen->resn = 27
+ sej->sis->resn = 27 sen->bro->resn = 28
+ N  k = 8 j = 1 seg[j] = 50 nk = 51 jun->resn = 35 sej->resn = 34
+ jun->sis->resn = 34 sej->bro->resn = 35
+ C  k = 8 j = 1 seg[j] = 50 ck = 51 sen->resn = 35 sej->resn = 34
+ sen->sis->resn = 34 sej->bro->resn = 35
+ N  k = 0 j = 0 seg[j] = 53 nk = 52 sej->resn = 43 jun->resn = 42
+ sej->sis->resn = 42 jun->bro->resn = 43
+ C  k = 0 j = 0 seg[j] = 53 ck = 52 sej->resn = 43 sen->resn = 42
+ sej->sis->resn = 42 sen->bro->resn = 43
+ N  k = 9 j = 2 seg[j] = 60 nk = 61 jun->resn = 51 sej->resn = 50
+ jun->sis->resn = 50 sej->bro->resn = 51
+ C  k = 9 j = 3 seg[j] = 64 ck = 63 sej->resn = 54 sen->resn = 53
+ sej->sis->resn = 53 sen->bro->resn = 54
+ N  k = 10 j = 1 seg[j] = 71 nk = 72 jun->resn = 62 sej->resn = 61
+ jun->sis->resn = 61 sej->bro->resn = 62
+ C  k = 0 j = 0 seg[j] = 78 ck = 77 sej->resn = 68 sen->resn = 67
+ sej->sis->resn = 67 sen->bro->resn = 68
+ N  k = 8 j = 2 seg[j] = 84 nk = 85 jun->resn = 75 sej->resn = 74
+ jun->sis->resn = 74 sej->bro->resn = 75
+ C  k = 8 j = 3 seg[j] = 88 ck = 87 sej->resn = 78 sen->resn = 77
+ sej->sis->resn = 77 sen->bro->resn = 78
+*NB* chain of one at level 4
+*NB* chain of one at level 4
+*NB* chain of one at level 4
+*NB* chain of one at level 4
+ nrelinks = 7
+ # NB end of low chain in chained parent 
+ # NB end of low chain in chained parent 
+ Data::focus = 0 0 0
+ Cell::total = 146
+Data structures all setup
+ Cell::total = 146
+ Data::depth = 4
+ Data::shrink = 0
+ #  uid = 0 atom = 0 btom = 0 ctom = 0 level = 0 kids = 1 type = 0 sort = 0 xyz = 5.29366 5.12223 2.57242 nbonds = 0 nlinks = 0 model = 0
+ # 	 uid = 1 atom = 0 btom = 0 ctom = 0 level = 1 kids = 5 type = 1 sort = 0 xyz = 5.29366 5.12223 2.57242 nbonds = 0 nlinks = 0 model = 0
+ # 		 uid = 2 atom = 0 btom = 0 ctom = 0 level = 2 kids = 11 type = 2 sort = 1 xyz = 5.67556 4.76825 4.35717 nbonds = 1 nlinks = 2 model = 0
+ # 			 uid = 7 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 1 xyz = 7.6177 5.20118 5.28748 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 18 atom = 1 btom = 1 ctom = 1 resn = 1 level = 4 kids = 0 type = 1 sort = 1 xyz = 7.4101 5.36258 3.98345 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 19 atom = 22 btom = 22 ctom = 22 resn = 94 level = 4 kids = 0 type = 1 sort = 1 xyz = 7.8253 5.03978 6.59151 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 8 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 1 xyz = 7.17333 4.93043 5.43238 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 20 atom = 2 btom = 2 ctom = 2 resn = 2 level = 4 kids = 0 type = 1 sort = 1 xyz = 7.3621 4.52843 4.24085 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 21 atom = 21 btom = 21 ctom = 21 resn = 93 level = 4 kids = 0 type = 1 sort = 1 xyz = 6.98455 5.33243 6.6239 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 9 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 1 xyz = 6.56448 4.85963 5.6243 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 22 atom = 3 btom = 3 ctom = 3 resn = 3 level = 4 kids = 0 type = 1 sort = 1 xyz = 6.98965 3.93398 4.8239 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 23 atom = 20 btom = 20 ctom = 20 resn = 92 level = 4 kids = 0 type = 1 sort = 1 xyz = 6.1393 5.78528 6.4247 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 10 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 1 xyz = 5.97385 4.90613 5.52478 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 24 atom = 4 btom = 4 ctom = 4 resn = 4 level = 4 kids = 0 type = 1 sort = 1 xyz = 6.3136 3.68798 5.28815 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 25 atom = 19 btom = 19 ctom = 19 resn = 91 level = 4 kids = 0 type = 1 sort = 1 xyz = 5.6341 6.12428 5.7614 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 11 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 1 xyz = 5.50525 4.97033 5.20438 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 26 atom = 5 btom = 5 ctom = 5 resn = 5 level = 4 kids = 0 type = 1 sort = 1 xyz = 5.50105 3.68468 5.4881 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 27 atom = 18 btom = 18 ctom = 18 resn = 90 level = 4 kids = 0 type = 1 sort = 1 xyz = 5.50945 6.25598 4.92065 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 12 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 1 xyz = 5.2198 4.93868 4.66521 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 28 atom = 6 btom = 6 ctom = 6 resn = 6 level = 4 kids = 0 type = 1 sort = 1 xyz = 4.66795 3.91703 5.2154 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 29 atom = 17 btom = 17 ctom = 17 resn = 89 level = 4 kids = 0 type = 1 sort = 1 xyz = 5.77165 5.96033 4.115 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 13 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 1 xyz = 5.1058 4.79108 4.07121 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 30 atom = 7 btom = 7 ctom = 7 resn = 7 level = 4 kids = 0 type = 1 sort = 1 xyz = 4.1116 4.15673 4.63955 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 31 atom = 16 btom = 16 ctom = 16 resn = 88 level = 4 kids = 0 type = 1 sort = 1 xyz = 6.1 5.42543 3.50285 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 14 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 1 xyz = 5.18455 4.49873 3.57283 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 32 atom = 8 btom = 8 ctom = 8 resn = 8 level = 4 kids = 0 type = 1 sort = 1 xyz = 3.9196 4.30073 3.7967 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 33 atom = 15 btom = 15 ctom = 15 resn = 87 level = 4 kids = 0 type = 1 sort = 1 xyz = 6.4495 4.69673 3.34895 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 15 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 1 xyz = 5.31558 4.00425 3.27028 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 34 atom = 9 btom = 9 ctom = 9 resn = 9 level = 4 kids = 0 type = 1 sort = 1 xyz = 4.0033 4.15043 2.97095 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 35 atom = 14 btom = 14 ctom = 14 resn = 86 level = 4 kids = 0 type = 1 sort = 1 xyz = 6.62785 3.85808 3.5696 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 16 atom = 0 btom = 0 ctom = 0 level = 3 kids = 3 type = 2 sort = 0 xyz = 3.3896 5.45733 2.00625 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 36 atom = 10 btom = 10 ctom = 10 resn = 10 level = 4 kids = 0 type = 1 sort = 0 xyz = 3.5974 4.70783 2.20745 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 37 atom = 11 btom = 11 ctom = 11 resn = 11 level = 4 kids = 0 type = 1 sort = 0 xyz = 3.26275 5.43293 1.97135 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 38 atom = 12 btom = 12 ctom = 12 resn = 12 level = 4 kids = 0 type = 1 sort = 0 xyz = 3.30865 6.23123 1.83995 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 17 atom = 0 btom = 0 ctom = 0 level = 3 kids = 1 type = 2 sort = 0 xyz = 6.37705 3.11078 3.90155 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 39 atom = 13 btom = 13 ctom = 13 resn = 85 level = 4 kids = 0 type = 1 sort = 0 xyz = 6.37705 3.11078 3.90155 nbonds = 1 nlinks = 5 model = 0
+ # 		 uid = 3 atom = 0 btom = 0 ctom = 0 level = 2 kids = 6 type = 2 sort = 1 xyz = 5.54644 7.6407 1.19595 nbonds = 1 nlinks = 2 model = 0
+ # 			 uid = 40 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 0 xyz = 3.93123 6.96428 1.06273 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 44 atom = 23 btom = 23 ctom = 23 resn = 13 level = 4 kids = 0 type = 1 sort = 0 xyz = 3.7585 6.82343 1.4696 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 45 atom = 24 btom = 24 ctom = 24 resn = 14 level = 4 kids = 0 type = 1 sort = 0 xyz = 4.10395 7.10513 0.655854 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 41 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 2 xyz = 4.91598 8.16263 1.574 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 48 atom = 25 btom = 25 ctom = 25 resn = 15 level = 4 kids = 0 type = 1 sort = 2 xyz = 4.31725 7.83173 0.487405 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 49 atom = 34 btom = 34 ctom = 34 resn = 41 level = 4 kids = 0 type = 1 sort = 2 xyz = 5.5147 8.49353 2.6606 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 42 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 2 xyz = 5.58025 8.22818 1.47418 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 50 atom = 26 btom = 26 ctom = 26 resn = 16 level = 4 kids = 0 type = 1 sort = 2 xyz = 5.0242 8.50733 0.390204 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 51 atom = 33 btom = 33 ctom = 33 resn = 40 level = 4 kids = 0 type = 1 sort = 2 xyz = 6.1363 7.94903 2.55815 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 43 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 2 xyz = 6.247 7.98555 1.3427 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 52 atom = 27 btom = 27 ctom = 27 resn = 17 level = 4 kids = 0 type = 1 sort = 2 xyz = 6.01225 8.77478 0.383154 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 53 atom = 32 btom = 32 ctom = 32 resn = 39 level = 4 kids = 0 type = 1 sort = 2 xyz = 6.48175 7.19633 2.30225 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 46 atom = 0 btom = 0 ctom = 0 level = 3 kids = 1 type = 2 sort = 0 xyz = 6.7453 8.56943 0.428604 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 54 atom = 28 btom = 28 ctom = 28 resn = 18 level = 4 kids = 0 type = 1 sort = 0 xyz = 6.7453 8.56943 0.428604 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 47 atom = 0 btom = 0 ctom = 0 level = 3 kids = 3 type = 2 sort = 0 xyz = 6.0805 6.59293 1.07725 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 55 atom = 29 btom = 29 ctom = 29 resn = 36 level = 4 kids = 0 type = 1 sort = 0 xyz = 5.8156 6.88103 0.347154 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 56 atom = 30 btom = 30 ctom = 30 resn = 37 level = 4 kids = 0 type = 1 sort = 0 xyz = 5.99665 6.37553 1.0538 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 57 atom = 31 btom = 31 ctom = 31 resn = 38 level = 4 kids = 0 type = 1 sort = 0 xyz = 6.42925 6.52223 1.8308 nbonds = 1 nlinks = 5 model = 0
+ # 		 uid = 4 atom = 0 btom = 0 ctom = 0 level = 2 kids = 9 type = 2 sort = 1 xyz = 6.3817 5.28884 0.355053 nbonds = 1 nlinks = 2 model = 0
+ # 			 uid = 58 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 3 xyz = 6.54678 7.48845 -0.472521 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 67 atom = 35 btom = 35 ctom = 35 resn = 19 level = 4 kids = 0 type = 1 sort = 3 xyz = 7.34965 8.04908 0.296605 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 68 atom = 50 btom = 50 ctom = 50 resn = 34 level = 4 kids = 0 type = 1 sort = 3 xyz = 5.7439 6.92783 -1.24165 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 59 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 3 xyz = 6.60813 6.66653 -0.305121 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 69 atom = 36 btom = 36 ctom = 36 resn = 20 level = 4 kids = 0 type = 1 sort = 3 xyz = 7.56175 7.05248 -0.0258955 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 70 atom = 49 btom = 49 ctom = 49 resn = 33 level = 4 kids = 0 type = 1 sort = 3 xyz = 5.6545 6.28058 -0.584346 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 60 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 3 xyz = 6.43585 5.93153 -0.0400705 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 71 atom = 37 btom = 37 ctom = 37 resn = 21 level = 4 kids = 0 type = 1 sort = 3 xyz = 7.6327 6.13028 0.133855 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 72 atom = 48 btom = 48 ctom = 48 resn = 32 level = 4 kids = 0 type = 1 sort = 3 xyz = 5.239 5.73278 -0.213996 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 61 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 3 xyz = 6.17703 5.30461 0.389605 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 73 atom = 38 btom = 38 ctom = 38 resn = 22 level = 4 kids = 0 type = 1 sort = 3 xyz = 7.20325 5.69108 1.02575 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 74 atom = 47 btom = 47 ctom = 47 resn = 31 level = 4 kids = 0 type = 1 sort = 3 xyz = 5.1508 4.91813 -0.246545 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 62 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 3 xyz = 5.96365 4.62646 0.603955 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 75 atom = 39 btom = 39 ctom = 39 resn = 23 level = 4 kids = 0 type = 1 sort = 3 xyz = 6.60475 5.32328 1.5362 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 76 atom = 46 btom = 46 ctom = 46 resn = 30 level = 4 kids = 0 type = 1 sort = 3 xyz = 5.32255 3.92963 -0.328296 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 63 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 3 xyz = 6.0217 3.9909 0.852804 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 77 atom = 40 btom = 40 ctom = 40 resn = 24 level = 4 kids = 0 type = 1 sort = 3 xyz = 6.08245 4.70978 1.84685 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 78 atom = 45 btom = 45 ctom = 45 resn = 29 level = 4 kids = 0 type = 1 sort = 3 xyz = 5.96095 3.27203 -0.141246 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 64 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 3 xyz = 6.7948 3.7023 1.03033 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 79 atom = 41 btom = 41 ctom = 41 resn = 25 level = 4 kids = 0 type = 1 sort = 3 xyz = 6.86455 4.52963 1.69175 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 80 atom = 44 btom = 44 ctom = 44 resn = 28 level = 4 kids = 0 type = 1 sort = 3 xyz = 6.72505 2.87498 0.368905 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 65 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 0 xyz = 7.29805 3.5124 1.2998 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 81 atom = 42 btom = 42 ctom = 42 resn = 26 level = 4 kids = 0 type = 1 sort = 0 xyz = 7.306 3.79253 1.52645 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 82 atom = 43 btom = 43 ctom = 43 resn = 27 level = 4 kids = 0 type = 1 sort = 0 xyz = 7.2901 3.23228 1.07315 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 66 atom = 0 btom = 0 ctom = 0 level = 3 kids = 1 type = 2 sort = 0 xyz = 5.1931 6.92018 -0.422496 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 83 atom = 51 btom = 51 ctom = 51 resn = 35 level = 4 kids = 0 type = 1 sort = 0 xyz = 5.1931 6.92018 -0.422496 nbonds = 1 nlinks = 5 model = 0
+ # 		 uid = 5 atom = 0 btom = 0 ctom = 0 level = 2 kids = 11 type = 2 sort = 1 xyz = 4.35098 6.76474 3.72813 nbonds = 1 nlinks = 2 model = 0
+ # 			 uid = 84 atom = 0 btom = 0 ctom = 0 level = 3 kids = 1 type = 2 sort = 0 xyz = 4.6108 8.58443 2.5538 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 88 atom = 52 btom = 52 ctom = 52 resn = 42 level = 4 kids = 0 type = 1 sort = 0 xyz = 4.6108 8.58443 2.5538 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 85 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 4 xyz = 4.35963 7.12095 2.0189 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 96 atom = 53 btom = 53 ctom = 53 resn = 43 level = 4 kids = 0 type = 1 sort = 4 xyz = 3.8386 8.13218 2.5031 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 97 atom = 71 btom = 71 ctom = 71 resn = 61 level = 4 kids = 0 type = 1 sort = 4 xyz = 4.88065 6.10973 1.5347 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 86 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 4 xyz = 4.2937 6.6564 2.49095 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 98 atom = 54 btom = 54 ctom = 54 resn = 44 level = 4 kids = 0 type = 1 sort = 4 xyz = 3.39955 7.35158 2.6771 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 99 atom = 70 btom = 70 ctom = 70 resn = 60 level = 4 kids = 0 type = 1 sort = 4 xyz = 5.18785 5.96123 2.3048 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 87 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 4 xyz = 4.39585 6.30818 3.03913 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 100 atom = 55 btom = 55 ctom = 55 resn = 45 level = 4 kids = 0 type = 1 sort = 4 xyz = 3.20755 6.52028 3.00605 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 101 atom = 69 btom = 69 ctom = 69 resn = 59 level = 4 kids = 0 type = 1 sort = 4 xyz = 5.58415 6.09608 3.0722 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 89 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 4 xyz = 4.58065 6.35355 3.70625 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 102 atom = 56 btom = 56 ctom = 56 resn = 46 level = 4 kids = 0 type = 1 sort = 4 xyz = 3.32365 6.03488 3.7742 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 103 atom = 68 btom = 68 ctom = 68 resn = 58 level = 4 kids = 0 type = 1 sort = 4 xyz = 5.83765 6.67223 3.6383 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 90 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 4 xyz = 4.78075 6.59813 4.40075 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 104 atom = 57 btom = 57 ctom = 57 resn = 47 level = 4 kids = 0 type = 1 sort = 4 xyz = 3.73225 5.78423 4.56575 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 105 atom = 67 btom = 67 ctom = 67 resn = 57 level = 4 kids = 0 type = 1 sort = 4 xyz = 5.82925 7.41203 4.23575 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 91 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 4 xyz = 4.76193 6.9729 4.83163 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 106 atom = 58 btom = 58 ctom = 58 resn = 48 level = 4 kids = 0 type = 1 sort = 4 xyz = 4.2352 5.93198 5.3051 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 107 atom = 66 btom = 66 ctom = 66 resn = 56 level = 4 kids = 0 type = 1 sort = 4 xyz = 5.28865 8.01383 4.35815 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 92 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 4 xyz = 4.50873 7.38533 5.1032 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 108 atom = 59 btom = 59 ctom = 59 resn = 49 level = 4 kids = 0 type = 1 sort = 4 xyz = 4.5184 6.39698 5.92821 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 109 atom = 65 btom = 65 ctom = 65 resn = 55 level = 4 kids = 0 type = 1 sort = 4 xyz = 4.49905 8.37368 4.2782 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 93 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 4 xyz = 3.93775 7.77563 5.3882 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 110 atom = 60 btom = 60 ctom = 60 resn = 50 level = 4 kids = 0 type = 1 sort = 4 xyz = 4.3972 7.08638 6.3584 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 111 atom = 64 btom = 64 ctom = 64 resn = 54 level = 4 kids = 0 type = 1 sort = 4 xyz = 3.4783 8.46488 4.418 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 94 atom = 0 btom = 0 ctom = 0 level = 3 kids = 3 type = 2 sort = 0 xyz = 3.42335 7.67283 5.7565 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 112 atom = 61 btom = 61 ctom = 61 resn = 51 level = 4 kids = 0 type = 1 sort = 0 xyz = 3.8023 7.56728 6.5255 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 113 atom = 62 btom = 62 ctom = 62 resn = 52 level = 4 kids = 0 type = 1 sort = 0 xyz = 3.29755 7.40258 5.79695 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 114 atom = 63 btom = 63 ctom = 63 resn = 53 level = 4 kids = 0 type = 1 sort = 0 xyz = 3.1702 8.04863 4.94705 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 95 atom = 0 btom = 0 ctom = 0 level = 3 kids = 4 type = 2 sort = 0 xyz = 4.50246 4.6785 1.88278 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 115 atom = 72 btom = 72 ctom = 72 resn = 62 level = 4 kids = 0 type = 1 sort = 0 xyz = 4.40125 5.21153 1.5785 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 116 atom = 73 btom = 73 ctom = 73 resn = 63 level = 4 kids = 0 type = 1 sort = 0 xyz = 4.20025 4.31528 1.46285 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 117 atom = 74 btom = 74 ctom = 74 resn = 64 level = 4 kids = 0 type = 1 sort = 0 xyz = 4.33915 4.62563 2.4479 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 118 atom = 75 btom = 75 ctom = 75 resn = 65 level = 4 kids = 0 type = 1 sort = 0 xyz = 5.0692 4.56158 2.04185 nbonds = 1 nlinks = 5 model = 0
+ # 		 uid = 6 atom = 0 btom = 0 ctom = 0 level = 2 kids = 9 type = 2 sort = 1 xyz = 4.70162 1.64648 2.22477 nbonds = 1 nlinks = 2 model = 0
+ # 			 uid = 119 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 0 xyz = 4.8481 3.42368 1.89515 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 122 atom = 76 btom = 76 ctom = 76 resn = 66 level = 4 kids = 0 type = 1 sort = 0 xyz = 4.8019 3.84668 1.907 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 123 atom = 77 btom = 77 ctom = 77 resn = 67 level = 4 kids = 0 type = 1 sort = 0 xyz = 4.8943 3.00068 1.8833 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 120 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 5 xyz = 5.58895 2.52083 3.08818 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 130 atom = 78 btom = 78 ctom = 78 resn = 68 level = 4 kids = 0 type = 1 sort = 5 xyz = 5.5048 2.31068 2.05445 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 131 atom = 94 btom = 94 ctom = 94 resn = 84 level = 4 kids = 0 type = 1 sort = 5 xyz = 5.6731 2.73098 4.1219 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 121 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 5 xyz = 5.46603 2.2239 3.15103 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 132 atom = 79 btom = 79 ctom = 79 resn = 69 level = 4 kids = 0 type = 1 sort = 5 xyz = 6.25465 1.87628 2.23895 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 133 atom = 93 btom = 93 ctom = 93 resn = 83 level = 4 kids = 0 type = 1 sort = 5 xyz = 4.6774 2.57153 4.0631 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 124 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 5 xyz = 5.0056 1.85333 3.08533 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 134 atom = 80 btom = 80 ctom = 80 resn = 70 level = 4 kids = 0 type = 1 sort = 5 xyz = 6.06595 1.18118 2.70605 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 135 atom = 92 btom = 92 ctom = 92 resn = 82 level = 4 kids = 0 type = 1 sort = 5 xyz = 3.94525 2.52548 3.4646 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 125 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 5 xyz = 4.47835 1.56015 2.84608 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 136 atom = 81 btom = 81 ctom = 81 resn = 71 level = 4 kids = 0 type = 1 sort = 5 xyz = 5.3596 0.70088 3.02075 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 137 atom = 91 btom = 91 ctom = 91 resn = 81 level = 4 kids = 0 type = 1 sort = 5 xyz = 3.5971 2.41943 2.6714 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 126 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 5 xyz = 4.14025 1.35398 2.40005 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 138 atom = 82 btom = 82 ctom = 82 resn = 72 level = 4 kids = 0 type = 1 sort = 5 xyz = 4.6558 0.34133 3.03485 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 139 atom = 90 btom = 90 ctom = 90 resn = 80 level = 4 kids = 0 type = 1 sort = 5 xyz = 3.6247 2.36663 1.76525 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 127 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 5 xyz = 4.06885 1.16288 1.84468 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 140 atom = 83 btom = 83 ctom = 83 resn = 73 level = 4 kids = 0 type = 1 sort = 5 xyz = 4.0072 0.10718 2.59325 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 141 atom = 89 btom = 89 ctom = 89 resn = 79 level = 4 kids = 0 type = 1 sort = 5 xyz = 4.1305 2.21858 1.0961 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 128 atom = 0 btom = 0 ctom = 0 level = 3 kids = 2 type = 2 sort = 5 xyz = 4.21563 0.878104 1.1903 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 142 atom = 84 btom = 84 ctom = 84 resn = 74 level = 4 kids = 0 type = 1 sort = 5 xyz = 3.63835 -0.0494206 1.86995 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 143 atom = 88 btom = 88 ctom = 88 resn = 78 level = 4 kids = 0 type = 1 sort = 5 xyz = 4.7929 1.80563 0.510654 nbonds = 1 nlinks = 5 model = 0
+ # 			 uid = 129 atom = 0 btom = 0 ctom = 0 level = 3 kids = 3 type = 2 sort = 0 xyz = 4.5525 0.29268 0.947804 nbonds = 1 nlinks = 2 model = 0
+ # 				 uid = 144 atom = 85 btom = 85 ctom = 85 resn = 75 level = 4 kids = 0 type = 1 sort = 0 xyz = 3.93025 -0.27802 1.0961 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 145 atom = 86 btom = 86 ctom = 86 resn = 76 level = 4 kids = 0 type = 1 sort = 0 xyz = 4.7008 0.14753 1.01855 nbonds = 1 nlinks = 5 model = 0
+ # 				 uid = 146 atom = 87 btom = 87 ctom = 87 resn = 77 level = 4 kids = 0 type = 1 sort = 0 xyz = 5.02645 1.00853 0.728754 nbonds = 1 nlinks = 5 model = 0
+ Reset  Cell::world->xyz = 0 0 0
+Pre-sorting XYZ lists
+Rough sort done
+Sorting X
+Sorting Y
+Sorting Z
+XYZ lists sorted
+ No viewing 
+Starting mover
+Starting sorter 
+Starting bumper 
+Starting linker 
+Starting looker 
+Starting fixers 
+Starting driver

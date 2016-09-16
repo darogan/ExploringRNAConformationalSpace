@@ -1,0 +1,23 @@
+using 82 pairs and 1 models
+
+
+pairs = 82
+Running with 61 true pairs
+Running with 82 pred pairs
+Running with 82 grem pairs
+Unsmoothed
+    nan
+    nan
+    nan
+Smoothed1x
+    nan
+    nan
+    nan
+Smoothed2x
+    nan
+    nan
+    nan
+
+pairs = 81
+Running with 61 true pairs
+Running with 81 pred pairs

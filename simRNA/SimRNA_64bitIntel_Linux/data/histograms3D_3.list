@@ -1,0 +1,28 @@
+./data/AA3.hist
+./data/AC3.hist
+./data/AG3.hist
+./data/AU3.hist
+./data/CA3.hist
+./data/CC3.hist
+./data/CG3.hist
+./data/CU3.hist
+./data/GA3.hist
+./data/GC3.hist
+./data/GG3.hist
+./data/GU3.hist
+./data/UA3.hist
+./data/UC3.hist
+./data/UG3.hist
+./data/UU3.hist
+./data/A-C4_3.hist
+./data/C-C4_3.hist
+./data/G-C4_3.hist
+./data/U-C4_3.hist
+./data/A-P_3.hist
+./data/C-P_3.hist
+./data/G-P_3.hist
+./data/U-P_3.hist
+./data/A_3_exvol.hist 0.1
+./data/C_3_exvol.hist 0.1
+./data/G_3_exvol.hist 0.1
+./data/U_3_exvol.hist 0.1

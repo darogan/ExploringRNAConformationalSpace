@@ -1,0 +1,36 @@
+select 52,63
+hbond 93
+colour hbonds blue 
+select 14,25
+hbond 77
+colour hbonds blue 
+select 53,62
+hbond 69
+colour hbonds blue 
+select 51,64
+hbond 65
+colour hbonds blue 
+select 16,23
+hbond 57
+colour hbonds blue 
+select 15,24
+hbond 53
+colour hbonds blue 
+select 8,38
+hbond 49
+colour hbonds blue 
+select 45,70
+hbond 45
+colour hbonds blue 
+select 54,61
+hbond 41
+colour hbonds blue 
+select 13,26
+hbond 29
+colour hbonds blue 
+select 47,68
+hbond 17
+colour hbonds blue 
+select 6,40
+hbond 9
+colour hbonds blue 

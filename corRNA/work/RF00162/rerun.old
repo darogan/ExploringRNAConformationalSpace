@@ -1,0 +1,63 @@
+# 1 = min kept (4000)
+
+# combine query, old seqs (gapless) and new seqs
+cp query.seq final.seq
+cat home/rfam9full/RF00162/RF00162.seq >> final.seq
+cat rfam.seq >> final.seq
+# set up mulsel run
+@ n = `grep '>' final.seq | wc -l`
+@ leng = `grep -v '[0-9\*]' query.seq | wc -c`
+@ leng--
+@ l  = $leng / 4
+@ le = $leng - $l
+@ ng = $leng + $l 
+echo $n starting sequences
+echo length = $leng
+echo range = $le to $ng
+cp code/skip99.run skip.run
+eval "sed -i 's/50 500/$le $ng/' skip.run"
+head -1 skip.run
+echo running mulsel
+./mulsel > mulsel.log
+tail -1 mulsel.log
+# reduce with mulsel
+foreach to ( 95 90 80 70 60 50 )
+	echo reduce to $to
+	cp code/skip$to.run skip.run
+	./mulsel > mulsel.log
+	tail -1 mulsel.log
+	cp final.seq final$to.seq
+	@ n = `grep '>' final.seq | wc -l`
+	if ( $n < $argv[1] ) break
+end
+@ half = $argv[1] / 2
+if ( $n > $half ) then
+	./mulsel > mulsel.log
+	tail -1 mulsel.log
+	@ n = `grep '>' final.seq | wc -l`
+endif
+if ( $n > $half ) then
+	./mulsel > mulsel.log
+	tail -1 mulsel.log
+endif
+#
+echo mulsel selection copied to mulsel.seq
+grep -v 'SEED:' final.seq > mulsel.seq
+#
+# replace old rfam seqs with gapped version
+cat mulsel.seq | grep -v ']' | tr -d "\*" > mulsel.fa
+tcsh addgaps.csh
+cat mulsel.gap.afa | awk '{if(match($1,">")){print $1 "\n" "seq"}else{print $1 "*"}}' > mulsel.gap.seq
+cp query.seq align.seq
+cat mulsel.gap.seq >> align.seq
+# align
+@ n = `grep '>' align.seq | wc -l`
+echo aligning gapped collection of $n seqs
+cp code/seqs.run test.run
+./multas > multas.log
+grep seqs final.aln
+grep '>' final.afa | wc -l
+echo top
+grep -v '>' final.afa | head
+echo bot
+grep -v '>' final.afa | tail

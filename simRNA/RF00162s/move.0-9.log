@@ -1,0 +1,170 @@
+
+move = 0
+Running with 26 true pairs
+Running with 26 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+  8.200
+  7.662
+  7.797
+Smoothed1x
+  7.583
+  7.041
+  7.044
+Smoothed2x
+  7.205
+  6.663
+  6.617
+
+move = 1
+Running with 26 true pairs
+Running with 26 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+  8.953
+  7.872
+  8.296
+Smoothed1x
+  8.286
+  7.241
+  7.549
+Smoothed2x
+  7.863
+  6.848
+  7.111
+
+move = 2
+Running with 26 true pairs
+Running with 26 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+  8.019
+  8.257
+  8.320
+Smoothed1x
+  7.294
+  7.559
+  7.574
+Smoothed2x
+  6.838
+  7.123
+  7.137
+
+move = 3
+Running with 26 true pairs
+Running with 26 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+  8.612
+  7.900
+  8.075
+Smoothed1x
+  7.895
+  7.158
+  7.364
+Smoothed2x
+  7.427
+  6.692
+  6.952
+
+move = 4
+Running with 26 true pairs
+Running with 26 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+ 10.521
+  8.976
+  8.305
+Smoothed1x
+  9.755
+  8.252
+  7.592
+Smoothed2x
+  9.234
+  7.776
+  7.170
+
+move = 5
+Running with 26 true pairs
+Running with 26 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+ 11.818
+ 10.489
+  8.316
+Smoothed1x
+ 11.064
+  9.755
+  7.600
+Smoothed2x
+ 10.529
+  9.252
+  7.171
+
+move = 6
+Running with 26 true pairs
+Running with 26 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+ 12.864
+ 11.386
+  7.698
+Smoothed1x
+ 12.076
+ 10.634
+  6.942
+Smoothed2x
+ 11.510
+ 10.108
+  6.490
+
+move = 7
+Running with 26 true pairs
+Running with 26 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+ 13.139
+ 12.633
+  7.808
+Smoothed1x
+ 12.342
+ 11.854
+  7.039
+Smoothed2x
+ 11.766
+ 11.297
+  6.570
+
+move = 8
+Running with 26 true pairs
+Running with 26 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+ 12.831
+ 12.526
+  7.611
+Smoothed1x
+ 12.030
+ 11.742
+  6.792
+Smoothed2x
+ 11.459
+ 11.185
+  6.299
+
+move = 9
+Running with 26 true pairs
+Running with 26 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+ 12.721
+ 11.858
+  7.775
+Smoothed1x
+ 11.932
+ 11.091
+  7.020
+Smoothed2x
+ 11.371
+ 10.558
+  6.558

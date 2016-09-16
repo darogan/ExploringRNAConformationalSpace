@@ -1,0 +1,4 @@
+wireframe off
+restrict *E
+backbone 100
+colour group

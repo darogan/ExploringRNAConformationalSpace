@@ -1,0 +1,13 @@
+using 115 pairs and 1 models
+
+
+pairs = 115
+Running with 95 true pairs
+Running with 114 pred pairs
+Running with 100 grem pairs
+Unsmoothed
+Smoothed1x
+Smoothed2x
+
+pairs = 114
+Running with 95 true pairs

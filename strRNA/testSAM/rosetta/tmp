@@ -1,0 +1,11 @@
+# 1 = data, 2 = cut on box (1 or 2), 3 = length penalty (0.1 or 1.0)
+cd $argv[1]box
+if ( ! -e home ) ln -s .. home
+cp home/topcons.vert .
+tcsh main/select/boxplot.csh $argv[1].dat $argv[2] $argv[3]
+cp boxA.plot boxA.both
+awk '{if($1<$2){print; n++} if(n==5){print ""; n=0}}' boxA.both > boxA.plot
+cp boxP.plot boxP.both
+awk '{if($1<$2){print; n++} if(n==5){print ""; n=0}}' boxP.both > boxP.plot
+gnuplot home/plot.gnu
+evince plot.ps &

@@ -1,0 +1,15 @@
+move = 0
+Unsmoothed 11.493 11.906 10.800
+Smoothed1x 10.940 11.300 10.224
+Smoothed2x 10.560 10.884  9.842
+
+move = 1
+Unsmoothed 11.503 11.462 10.669
+Smoothed1x 10.866 10.822 10.098
+Smoothed2x 10.433 10.372  9.726
+
+move = 2
+Unsmoothed 12.583 12.103 10.824
+Smoothed1x 11.958 11.445 10.205
+Smoothed2x 11.508 10.969  9.788
+

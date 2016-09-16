@@ -1,0 +1,93 @@
+select 103,137
+hbond 222
+colour hbonds green
+select 104,136
+hbond 218
+colour hbonds green
+select 102,138
+hbond 214
+colour hbonds green
+select 91,152
+hbond 210
+colour hbonds green
+select 53,70
+hbond 202
+colour hbonds green
+select 92,151
+hbond 186
+colour hbonds green
+select 101,139
+hbond 182
+colour hbonds green
+select 90,153
+hbond 170
+colour hbonds green
+select 105,135
+hbond 166
+colour hbonds green
+select 73,82
+hbond 154
+colour hbonds green
+select 93,150
+hbond 146
+colour hbonds green
+select 71,157
+hbond 142
+colour hbonds green
+select 83,161
+hbond 134
+colour hbonds green
+select 100,140
+hbond 130
+colour hbonds green
+select 85,159
+hbond 118
+colour hbonds green
+select 47,167
+hbond 114
+colour hbonds green
+select 74,81
+hbond 106
+colour hbonds green
+select 99,141
+hbond 86
+colour hbonds green
+select 98,142
+hbond 82
+colour hbonds green
+select 48,166
+hbond 74
+colour hbonds green
+select 97,143
+hbond 62
+colour hbonds green
+select 25,34
+hbond 54
+colour hbonds green
+select 96,144
+hbond 42
+colour hbonds green
+select 26,33
+hbond 38
+colour hbonds green
+select 99,142
+hbond 30
+colour hbonds green
+select 49,165
+hbond 26
+colour hbonds green
+select 97,144
+hbond 22
+colour hbonds green
+select 112,134
+hbond 18
+colour hbonds green
+select 75,82
+hbond 14
+colour hbonds green
+select 25,35
+hbond 6
+colour hbonds green
+select 106,134
+hbond 2
+colour hbonds green

@@ -1,0 +1,91 @@
+/*
+c++ hbonds.cpp -o hbonds sims/util.o sims/geom.o -lm
+
+*/
+#include "sims/util.hpp"
+#include "sims/geom.hpp"
+
+typedef struct { Vec xyz; int id; } Atom;
+
+int main (int argc, char** argv) {
+Atom	*hyd, *hev;
+char	line[111];
+FILE	*in,*out;
+int	n, cut, len, hydn, hevn, **bonds, *secsi;
+float	*secsf, x,y,z;
+	sscanf(argv[1],"%d", &len);
+	sscanf(argv[2],"%d", &cut);
+	Pi(len) Pi(cut) NL
+	len++;
+	hyd = new Atom[len*10];
+	hev = new Atom[len*10];
+	secsi = new int[len];
+	secsf = new float[len];
+	bonds = new int*[len]; FOR(i,len) bonds[i] = new int[len];
+	FOR(i,len) { secsi[i] = 0; FOR(j,len) bonds[i][j] = 0; }
+	in = fopen("hydro.dat","r");
+	hydn = 0;
+	DO { int io = read_line(in,line); 
+		if (io <= 0) break;
+		sscanf(line,"%d %f%f%f", &n, &x,&y,&z);
+		hyd[hydn].xyz.x = x; hyd[hydn].xyz.y = y; hyd[hydn].xyz.z = z;
+		hyd[hydn].id = n;
+		hydn++;
+	}
+	Pt(Hydrogens) Pi(hydn) NL
+	fclose(in);
+	in = fopen("heavy.dat","r");
+	hevn = 0;
+	DO { int io = read_line(in,line); 
+		if (io <= 0) break;
+		sscanf(line,"%d %f%f%f", &n, &x,&y,&z);
+		hev[hevn].xyz.x = x; hev[hevn].xyz.y = y; hev[hevn].xyz.z = z;
+		hev[hevn].id = n;
+		hevn++;
+	}
+	Pt(Heavy atm) Pi(hevn) NL
+	fclose(in);
+	n = 0;
+	FOR(i,hevn) { float a,b,c;
+		FOR(j,hydn) {
+			if (hev[i].id != hyd[j].id) continue;
+			a = hev[i].xyz|hyd[j].xyz;		// a = A--H
+			if (a > 1.1) continue;
+			FOR(k,hevn) { int id = hev[i].id, kd = hev[k].id;
+				if (abs(id-kd) < 4 ) continue;
+				b = hev[k].xyz|hyd[j].xyz;	// b = H...B
+				if (b > 3.5) continue;
+				c = hev[i].xyz|hev[k].xyz;	// c = A--H...B
+				if (c < 0.8*(a+b)) continue;
+				bonds[id][kd]++;
+				bonds[kd][id]++;
+				secsi[id]++;
+				secsi[kd]++;
+				n++;
+			}
+		}
+	}
+	Pi(n) NL
+	FOR(j,2) {
+		FIR(i,len) secsf[i] = (float)(secsi[i-1]+secsi[i]+secsi[i+1])/2.0;
+		FIR(i,len) secsi[i] = (int)(secsf[i]+0.0);
+	}
+	out = fopen("secs.out","w");
+	FOR(i,len) {
+		if (secsi[i] < cut ) continue;
+		fprintf(out,"%d %d\n", i,secsi[i]);
+	}
+	fclose(out);
+	out = fopen("secs.dat","w");
+	FOR(i,len) {
+		if (secsi[i] < cut ) secsi[i] = 0;
+		fprintf(out,"%d %d\n", i,secsi[i]);
+	}
+	fclose(out);
+	out = fopen("pairs.dat","w");
+	FOR(i,len) FOR(j,len) {
+		if (bonds[i][j] <  2) continue;
+		fprintf(out,"%d %d %d\n", i,j,bonds[i][j]);
+	}
+	fclose(out);
+}

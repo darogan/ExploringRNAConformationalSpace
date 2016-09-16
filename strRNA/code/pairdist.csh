@@ -1,0 +1,1 @@
+egrep '( 19 | 52 )' models.$argv[1].pdb | awk '{x1=$7; y1=$8; z1=$9; if($2==52){x=x1-x2; y=y1-y2; z=z1-z2; d = sqrt(x*x+y*y+z*z); print d}; x2=x1; y2=y1; z2=z1}' | head -10 | awk '{s+=$1; print s/10}' | tail -1

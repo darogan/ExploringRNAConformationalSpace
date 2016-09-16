@@ -1,0 +1,608 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+100000 sequences to be read in length range 72 -> 120
+
+Calculating peptide table based on length 6
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+166 sequences read into 166 blocks, (166 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 20
+Top 3 scores held per sequence
+Sequences in the range 1<Dij<10 scored
+Adjacent sequences scored with bonus of 10
+634 pairs collected
+631
+ npairs = 631
+pre_order  npairs = 631
+ malloc OK
+reorder  malloc OK done
+preorder  new block mallock OK
+cluster_pairs total list_alloc = 40
+pack_lists 159/166 blocks moved
+
+New sequence order is:
+* Block 0 <=== 42	USER>>seq45	  109   rfam
+* Block 1 <=== 38	USER>>seq41	  109   rfam
+* Block 2 <=== 43	USER>>seq46	  104   rfam
+* Block 3 <=== 37	USER>>seq40	  108   rfam
+* Block 4 <=== 47	USER>>seq50	  103   rfam
+* Block 5 <=== 52	USER>>seq55	  101   rfam
+* Block 6 <=== 50	USER>>seq53	  116   rfam
+* Block 7 <=== 53	USER>>seq56	  115   rfam
+* Block 8 <=== 49	USER>>seq52	  111   rfam
+* Block 9 <=== 44	USER>>seq47	  100   rfam
+* Block 10 <=== 46	USER>>seq49	  100   rfam
+* Block 11 <=== 51	USER>>seq54	  104   rfam
+* Block 12 <=== 45	USER>>seq48	  100   rfam
+* Block 13 <=== 24	USER>>seq26	  105   rfam
+* Block 14 <=== 34	USER>>seq37	  108   rfam
+* Block 15 <=== 28	USER>>seq30	  105   rfam
+* Block 16 <=== 40	USER>>seq43	  104   rfam
+* Block 17 <=== 35	USER>>seq38	  111   rfam
+* Block 18 <=== 36	USER>>seq39	  111   rfam
+* Block 19 <=== 26	USER>>seq28	   99   rfam
+* Block 20 <=== 29	USER>>seq31	  112   rfam
+* Block 21 <=== 30	USER>>seq32	  113   rfam
+* Block 22 <=== 19	USER>>seq21	  112   rfam
+* Block 23 <=== 39	USER>>seq42	  105   rfam
+* Block 24 <=== 32	USER>>seq34	  110   rfam
+* Block 25 <=== 33	USER>>seq36	  108   rfam
+* Block 26 <=== 31	USER>>seq33	  106   rfam
+* Block 27 <=== 18	USER>>seq20	  115   rfam
+* Block 28 <=== 14	USER>>seq16	  116   rfam
+* Block 29 <=== 23	USER>>seq25	  115   rfam
+* Block 30 <=== 17	USER>>seq19	  114   rfam
+* Block 31 <=== 27	USER>>seq29	  116   rfam
+* Block 32 <=== 25	USER>>seq27	  117   rfam
+* Block 33 <=== 22	USER>>seq24	  104   rfam
+* Block 34 <=== 20	USER>>seq22	  103   rfam
+* Block 35 <=== 16	USER>>seq18	  114   rfam
+* Block 36 <=== 15	USER>>seq17	  110   rfam
+* Block 37 <=== 8	USER>>seq10	  110   rfam
+* Block 38 <=== 10	USER>>seq12	  110   rfam
+* Block 39 <=== 11	USER>>seq13	  110   rfam
+* Block 40 <=== 12	USER>>seq14	  110   rfam
+* Block 41 <=== 13	USER>>seq15	  110   rfam
+* Block 42 <=== 7	USER>>seq9	  110   rfam
+* Block 43 <=== 9	USER>>seq11	  110   rfam
+* Block 44 <=== 4	USER>>seq6	  115   rfam
+* Block 45 <=== 3	USER>>seq5	  115   rfam
+* Block 46 <=== 1	USER>>seq3	  115   rfam
+* Block 47 <=== 2	USER>>seq4	  115   rfam
+* Block 48 <=== 5	USER>>seq7	  113   rfam
+* Block 49 <=== 6	USER>>seq8	  108   rfam
+* Block 50 <--- 21	USER>>seq23	  112   rfam
+* Block 51 <--- 41	USER>>seq44	  109   rfam
+* Block 52 <=== 54	USER>>seq57	  101   rfam
+* Block 53 <=== 48	USER>>seq51	  112   rfam
+* Block 54 <=== 58	USER>>seq61	  107   rfam
+* Block 55 <=== 60	USER>>seq63	  107   rfam
+* Block 56 <=== 61	USER>>seq64	  107   rfam
+* Block 57 <=== 62	USER>>seq65	  107   rfam
+* Block 58 <=== 57	USER>>seq60	  107   rfam
+* Block 59 <=== 59	USER>>seq62	  107   rfam
+* Block 60 <=== 72	USER>>seq75	  105   rfam
+* Block 61 <=== 69	USER>>seq72	   94   rfam
+* Block 62 <=== 75	USER>>seq78	  105   rfam
+* Block 63 <=== 76	USER>>seq79	  105   rfam
+* Block 64 <=== 74	USER>>seq77	  105   rfam
+* Block 65 <=== 77	USER>>seq80	  105   rfam
+* Block 66 <=== 78	USER>>seq81	  105   rfam
+* Block 67 <=== 79	USER>>seq82	  105   rfam
+* Block 68 <=== 80	USER>>seq83	  105   rfam
+* Block 69 <=== 81	USER>>seq84	  105   rfam
+* Block 70 <=== 82	USER>>seq85	  105   rfam
+* Block 71 <=== 83	USER>>seq86	  105   rfam
+* Block 72 <=== 84	USER>>seq87	  105   rfam
+* Block 73 <=== 85	USER>>seq88	  105   rfam
+* Block 74 <=== 86	USER>>seq89	  105   rfam
+* Block 75 <=== 87	USER>>seq90	  105   rfam
+* Block 76 <=== 88	USER>>seq91	  105   rfam
+* Block 77 <=== 89	USER>>seq92	  105   rfam
+* Block 78 <=== 90	USER>>seq93	  105   rfam
+* Block 79 <=== 91	USER>>seq94	  105   rfam
+* Block 80 <=== 92	USER>>seq95	  105   rfam
+* Block 81 <=== 93	USER>>seq96	  105   rfam
+* Block 82 <=== 94	USER>>seq97	  105   rfam
+* Block 83 <=== 95	USER>>seq98	  105   rfam
+* Block 84 <=== 96	USER>>seq99	  105   rfam
+* Block 85 <=== 97	USER>>seq100	  105   rfam
+* Block 86 <=== 98	USER>>seq101	  105   rfam
+* Block 87 <=== 71	USER>>seq74	  116   rfam
+* Block 88 <=== 64	USER>>seq67	  103   rfam
+* Block 89 <=== 70	USER>>seq73	  105   rfam
+* Block 90 <=== 67	USER>>seq70	  105   rfam
+* Block 91 <=== 68	USER>>seq71	  110   rfam
+* Block 92 <=== 65	USER>>seq68	  110   rfam
+* Block 93 <=== 56	USER>>seq59	  105   rfam
+* Block 94 <=== 101	USER>>seq104	  111   rfam
+* Block 95 <=== 73	USER>>seq76	   98   rfam
+* Block 96 <=== 55	USER>>seq58	  101   rfam
+* Block 97 <--- 63	USER>>seq66	   98   rfam
+* Block 98 <--- 66	USER>>seq69	  103   rfam
+* Block 99 <=== 99	USER>>seq102	  106   rfam
+* Block 100 <=== 103	USER>>seq106	  107   rfam
+* Block 101 <=== 100	USER>>seq103	  106   rfam
+* Block 102 <=== 105	USER>>seq108	  107   rfam
+* Block 103 <=== 104	USER>>seq107	  105   rfam
+* Block 104 <=== 110	USER>>seq113	  110   rfam
+* Block 105 <=== 102	USER>>seq105	  104   rfam
+* Block 106 <=== 111	USER>>seq114	  110   rfam
+* Block 107 <=== 160	USER>>seq163	  108   rfam
+* Block 108 <=== 159	USER>>seq162	  108   rfam
+* Block 109 <=== 107	USER>>seq110	  104   rfam
+* Block 110 <=== 165	USER>>seq168	  110   rfam
+* Block 111 <=== 157	USER>>seq160	  112   rfam
+* Block 112 <=== 161	USER>>seq164	  101   rfam
+* Block 113 <=== 162	USER>>seq165	  100   rfam
+* Block 114 <=== 158	USER>>seq161	  104   rfam
+* Block 115 <=== 166	USER>>seq169	   95   rfam
+* Block 116 <=== 155	USER>>seq158	   96   rfam
+* Block 117 <=== 163	USER>>seq166	  103   rfam
+* Block 118 <=== 154	USER>>seq157	   96   rfam
+* Block 119 <=== 156	USER>>seq159	   96   rfam
+* Block 120 <=== 164	USER>>seq167	  103   rfam
+* Block 121 <=== 146	USER>>seq149	  107   rfam
+* Block 122 <=== 148	USER>>seq151	  107   rfam
+* Block 123 <=== 149	USER>>seq152	  107   rfam
+* Block 124 <=== 150	USER>>seq153	  107   rfam
+* Block 125 <=== 151	USER>>seq154	  107   rfam
+* Block 126 <=== 152	USER>>seq155	  107   rfam
+* Block 127 <=== 153	USER>>seq156	  107   rfam
+* Block 128 <=== 145	USER>>seq148	  107   rfam
+* Block 129 <=== 147	USER>>seq150	  107   rfam
+* Block 130 <=== 135	USER>>seq138	  105   rfam
+* Block 131 <=== 118	USER>>seq121	   92   rfam
+* Block 132 <=== 119	USER>>seq122	  105   rfam
+* Block 133 <=== 122	USER>>seq125	  105   rfam
+* Block 134 <=== 123	USER>>seq126	  105   rfam
+* Block 135 <=== 124	USER>>seq127	  105   rfam
+* Block 136 <=== 125	USER>>seq128	  105   rfam
+* Block 137 <=== 126	USER>>seq129	  105   rfam
+* Block 138 <=== 127	USER>>seq130	  105   rfam
+* Block 139 <=== 128	USER>>seq131	  105   rfam
+* Block 140 <=== 129	USER>>seq132	  105   rfam
+* Block 141 <=== 130	USER>>seq133	  105   rfam
+* Block 142 <=== 131	USER>>seq134	  105   rfam
+* Block 143 <=== 132	USER>>seq135	  105   rfam
+* Block 144 <=== 133	USER>>seq136	  105   rfam
+* Block 145 <=== 120	USER>>seq123	  105   rfam
+* Block 146 <=== 121	USER>>seq124	  105   rfam
+* Block 147 <=== 114	USER>>seq117	   96   rfam
+* Block 148 <=== 112	USER>>seq115	   96   rfam
+* Block 149 <=== 113	USER>>seq116	   96   rfam
+* Block 150 <=== 116	USER>>seq119	   96   rfam
+* Block 151 <=== 115	USER>>seq118	   96   rfam
+* Block 152 <=== 109	USER>>seq112	  104   rfam
+* Block 153 <=== 106	USER>>seq109	  104   rfam
+* Block 154 <=== 108	USER>>seq111	  104   rfam
+* Block 155 <--- 117	USER>>seq120	  109   rfam
+* Block 156 <=== 141	USER>>seq144	  112   rfam
+* Block 157 <=== 143	USER>>seq146	  112   rfam
+* Block 158 <=== 140	USER>>seq143	  112   rfam
+* Block 159 <=== 142	USER>>seq145	  112   rfam
+* Block 160 <=== 139	USER>>seq142	  109   rfam
+* Block 161 <=== 134	USER>>seq137	  111   rfam
+* Block 162 <=== 138	USER>>seq141	  113   rfam
+* Block 163 <=== 137	USER>>seq140	   99   rfam
+* Block 164 <--- 136	USER>>seq139	  101   rfam
+* Block 165 <--- 144	USER>>seq147	   99   rfam
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 1 window = 20
+ minscore = 999 pepscore = 0 list_limit = 10
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 1000
+
+(71 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+      USER>>seq47
+1000
+      USER>>seq49
+
+
+      USER>>seq38
+1000
+      USER>>seq39
+
+
+      USER>>seq10
+1000
+      USER>>seq12
+1000
+      USER>>seq13
+1000
+      USER>>seq14
+1000
+      USER>>seq15
+1000
+      USER>>seq9
+1000
+      USER>>seq11
+
+
+      USER>>seq6
+1000
+      USER>>seq5
+
+
+      USER>>seq3
+1000
+      USER>>seq4
+
+
+      USER>>seq61
+1000
+      USER>>seq63
+1000
+      USER>>seq64
+1000
+      USER>>seq65
+1000
+      USER>>seq60
+1000
+      USER>>seq62
+
+
+      USER>>seq78
+1000
+      USER>>seq79
+1000
+      USER>>seq77
+1000
+      USER>>seq80
+1000
+      USER>>seq81
+1000
+      USER>>seq82
+1000
+      USER>>seq83
+1000
+      USER>>seq84
+1000
+      USER>>seq85
+1000
+      USER>>seq86
+
+
+      USER>>seq87
+1000
+      USER>>seq88
+1000
+      USER>>seq89
+1000
+      USER>>seq90
+1000
+      USER>>seq91
+1000
+      USER>>seq92
+1000
+      USER>>seq93
+1000
+      USER>>seq94
+1000
+      USER>>seq95
+1000
+      USER>>seq96
+
+
+      USER>>seq97
+1000
+      USER>>seq98
+1000
+      USER>>seq99
+1000
+      USER>>seq100
+1000
+      USER>>seq101
+
+
+      USER>>seq163
+1000
+      USER>>seq162
+
+
+      USER>>seq157
+1000
+      USER>>seq159
+
+
+      USER>>seq149
+1000
+      USER>>seq151
+1000
+      USER>>seq152
+1000
+      USER>>seq153
+1000
+      USER>>seq154
+1000
+      USER>>seq155
+1000
+      USER>>seq156
+1000
+      USER>>seq148
+1000
+      USER>>seq150
+
+
+      USER>>seq122
+1000
+      USER>>seq125
+1000
+      USER>>seq126
+1000
+      USER>>seq127
+1000
+      USER>>seq128
+1000
+      USER>>seq129
+1000
+      USER>>seq130
+1000
+      USER>>seq131
+1000
+      USER>>seq132
+1000
+      USER>>seq133
+
+
+      USER>>seq134
+1000
+      USER>>seq135
+1000
+      USER>>seq136
+1000
+      USER>>seq123
+1000
+      USER>>seq124
+
+
+      USER>>seq117
+1000
+      USER>>seq115
+1000
+      USER>>seq116
+1000
+      USER>>seq119
+1000
+      USER>>seq118
+
+
+      USER>>seq109
+1000
+      USER>>seq111
+
+
+      USER>>seq144
+1000
+      USER>>seq146
+1000
+      USER>>seq143
+1000
+      USER>>seq145
+
+
+98 groups ( 17 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 2 window = 22
+ minscore = 990 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 999
+
+(10 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     p- USER>>seq47
+     b- USER>>seq49
+1000
+     -- USER>>seq48
+
+
+     -- USER>>seq113
+1000
+     -- USER>>seq114
+
+
+     p- USER>>seq97
+     b- USER>>seq98
+     b- USER>>seq99
+     b- USER>>seq100
+     b- USER>>seq101
+1000
+     p- USER>>seq78
+     b- USER>>seq79
+     b- USER>>seq77
+     b- USER>>seq80
+     b- USER>>seq81
+     b- USER>>seq82
+     b- USER>>seq83
+     b- USER>>seq84
+     b- USER>>seq85
+     b- USER>>seq86
+1000
+     p- USER>>seq87
+     b- USER>>seq88
+     b- USER>>seq89
+     b- USER>>seq90
+     b- USER>>seq91
+     b- USER>>seq92
+     b- USER>>seq93
+     b- USER>>seq94
+     b- USER>>seq95
+     b- USER>>seq96
+
+
+     -- USER>>seq102
+1000
+     -- USER>>seq103
+
+
+     -- USER>>seq166
+1000
+     -- USER>>seq167
+
+
+     -- USER>>seq158
+1000
+     p- USER>>seq157
+     b- USER>>seq159
+
+
+     p- USER>>seq122
+     b- USER>>seq125
+     b- USER>>seq126
+     b- USER>>seq127
+     b- USER>>seq128
+     b- USER>>seq129
+     b- USER>>seq130
+     b- USER>>seq131
+     b- USER>>seq132
+     b- USER>>seq133
+1000
+     p- USER>>seq134
+     b- USER>>seq135
+     b- USER>>seq136
+     b- USER>>seq123
+     b- USER>>seq124
+
+
+     -- USER>>seq17
+990
+     p- USER>>seq10
+     b- USER>>seq12
+     b- USER>>seq13
+     b- USER>>seq14
+     b- USER>>seq15
+     b- USER>>seq9
+     b- USER>>seq11
+
+
+89 groups ( 17 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 4 window = 24
+ minscore = 990 pepscore = 0 list_limit = 6
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+ nblocks = 166 seedblk = 0 seedseq = 1682194432
+picked USER>>seq45 (0.000000)
+picked USER>>seq41 (0.000000)
+picked USER>>seq46 (0.000000)
+picked USER>>seq40 (0.000000)
+picked USER>>seq50 (0.000000)
+picked USER>>seq55 (0.000000)
+picked USER>>seq53 (0.000000)
+picked USER>>seq56 (0.000000)
+picked USER>>seq52 (0.000000)
+picked USER>>seq47 (0.000000)
+picked USER>>seq54 (0.000000)
+picked USER>>seq26 (0.000000)
+picked USER>>seq37 (0.000000)
+picked USER>>seq30 (0.000000)
+picked USER>>seq43 (0.000000)
+picked USER>>seq38 (0.000000)
+picked USER>>seq28 (0.000000)
+picked USER>>seq31 (0.000000)
+picked USER>>seq32 (0.000000)
+picked USER>>seq21 (0.000000)
+picked USER>>seq42 (0.000000)
+picked USER>>seq34 (0.000000)
+picked USER>>seq36 (0.000000)
+picked USER>>seq33 (0.000000)
+picked USER>>seq20 (0.000000)
+picked USER>>seq16 (0.000000)
+picked USER>>seq25 (0.000000)
+picked USER>>seq19 (0.000000)
+picked USER>>seq29 (0.000000)
+picked USER>>seq27 (0.000000)
+picked USER>>seq24 (0.000000)
+picked USER>>seq22 (0.000000)
+picked USER>>seq18 (0.000000)
+picked USER>>seq17 (0.000000)
+picked USER>>seq6 (0.000000)
+picked USER>>seq3 (0.000000)
+picked USER>>seq7 (0.000000)
+picked USER>>seq8 (0.000000)
+picked USER>>seq23 (0.000000)
+picked USER>>seq44 (0.000000)
+picked USER>>seq57 (0.000000)
+picked USER>>seq51 (0.000000)
+picked USER>>seq61 (0.000000)
+picked USER>>seq75 (0.000000)
+picked USER>>seq72 (0.000000)
+picked USER>>seq97 (0.000000)
+picked USER>>seq74 (0.000000)
+picked USER>>seq67 (0.000000)
+picked USER>>seq73 (0.000000)
+picked USER>>seq70 (0.000000)
+picked USER>>seq71 (0.000000)
+picked USER>>seq68 (0.000000)
+picked USER>>seq59 (0.000000)
+picked USER>>seq104 (0.000000)
+picked USER>>seq76 (0.000000)
+picked USER>>seq58 (0.000000)
+picked USER>>seq66 (0.000000)
+picked USER>>seq69 (0.000000)
+picked USER>>seq102 (0.000000)
+picked USER>>seq106 (0.000000)
+picked USER>>seq108 (0.000000)
+picked USER>>seq107 (0.000000)
+picked USER>>seq113 (0.000000)
+picked USER>>seq105 (0.000000)
+picked USER>>seq163 (0.000000)
+picked USER>>seq110 (0.000000)
+picked USER>>seq168 (0.000000)
+picked USER>>seq160 (0.000000)
+picked USER>>seq164 (0.000000)
+picked USER>>seq165 (0.000000)
+picked USER>>seq161 (0.000000)
+picked USER>>seq169 (0.000000)
+picked USER>>seq158 (0.000000)
+picked USER>>seq166 (0.000000)
+picked USER>>seq149 (0.000000)
+picked USER>>seq138 (0.000000)
+picked USER>>seq121 (0.000000)
+picked USER>>seq122 (0.000000)
+picked USER>>seq117 (0.000000)
+picked USER>>seq112 (0.000000)
+picked USER>>seq109 (0.000000)
+picked USER>>seq120 (0.000000)
+picked USER>>seq144 (0.000000)
+picked USER>>seq142 (0.000000)
+picked USER>>seq137 (0.000000)
+picked USER>>seq141 (0.000000)
+picked USER>>seq140 (0.000000)
+picked USER>>seq139 (0.000000)
+picked USER>>seq147 (0.000000)
+ kept = 89

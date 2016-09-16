@@ -1,0 +1,18 @@
+Infernal 1.1 release notes
+http://infernal.janelia.org/
+EPN, Wed Oct 23 20:39:07 2013
+________________________________________________________________
+
+This is the first official release of Infernal 1.1. 
+
+Infernal 1.1 has been in testing since June 2011. It is now ready for
+production use. It has been stable for many months and is already
+deployed in its release candidate versions for Rfam and by several
+other power users. 
+
+There is only one small difference between 1.1 and the previous 1.1rc4
+release, a bug fix involving calibration of very large models:
+
+ - #i40: cmcalibrate: fails on very large models (only observed for 
+         eukaryotic LSU rRNA models).
+

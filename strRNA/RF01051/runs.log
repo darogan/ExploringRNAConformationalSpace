@@ -1,0 +1,23 @@
+using 24 pairs and 10 models
+
+
+move = 0
+Running with 24 true pairs
+Running with 24 pred pairs
+Running with 24 grem pairs
+Unsmoothed
+  8.429
+ 13.334
+  7.245
+Smoothed1x
+  7.827
+ 12.787
+  6.547
+Smoothed2x
+  7.496
+ 12.419
+  6.182
+
+move = 2
+Running with 24 true pairs
+Running with 24 pred pairs

@@ -1,0 +1,2616 @@
+# 1	NR_4.0_81883.33Exact matchThermus thermophilus	1FJG    STRUCTURE OF THE THERMUS THERMOPHILUS 30S RIBOSOMAL SUBUNIT IN COMPLEX WITH THE ANTIBIOTICS STREPTOMYCIN, SPECTINOMYCIN, AND PAROMOMYCIN    X-RAY DIFFRACTION    Chain(s): A,X; model(s): 1	3.0 
+
+	1513	1FJG, 4OX9, 1J5E, 2UUA, 2UUC, 1N32, 4B3M, 1IBL, 4LF7, 4LF8, 2UU9, 1HR0, 4B3R, 2UUB, 2VQE, 1HNW, 4JI1, 4LF6, 4LF4, 1HNX, 4B3T, 2VQF, 4JUW, 4JI7, 4LF9, 4LFB, 3T1Y, 2UXC, 1IBK, 4B3S, 4DV6, 1HNZ, 1IBM, 4DR6, 1XMQ, 4GKJ, 4AQY, 4KHP, 4DR2, 4LFC, 4QJT, 3V2C, 1XNR, 4RBH, 1XNQ, 4QCM, 4GKK, 4RB5, 4RB9, 4DUY, 4RBJ, 4QCQ, 2E5L, 1VXP, 4DR5, 1VVL, 1VX8, 3V2E, 3PYN, 4JYA, 2ZM6, 3PYQ, 4DR3, 4QCS, 4RB7, 4JI3, 4NVW, 4LFA, 4RBF, 4RBD, 4RBB, 2HHH, 1VXI, 4K0K, 4JI6, 4NVY, 3F1E, 4JV5, 4JI5, 1VXS, 3F1G, 2UXD, 3D5A, 4NW0, 1XMO, 4DV7, 1VVN, 4JI8, 3D5C, 4QCU, 4DH9, 1VXM, 3T1H, 4W2A, 4NVU, 4QCY, 3I8H, 4W2C, 1N33, 4DHB, 3MR8, 1VVT, 2Y10, 3MS0, 1I96, 3UXT, 4QCO, 2UXB, 3I8G, 4DV4, 3UXS, 2Y18, 3UZ7, 1VXK, 4QCW, 4L6M, 1VVR, 4B8H, 4DR1, 4LF5, 4L6K, 4NXN, 2Y0W, 4KBT, 1VVP, 4DR4, 4B8F, 3UZ6, 1I94, 2Y0U, 4G5K, 4CR1, 4JI2, 2WRK, 2XSY, 4DV0, 4KWZ, 3HUY, 3UZ4, 2Y0Y, 4KX1, 4QD0, 2XUY, 4KDA, 3KNN, 1VVV, 3KNL, 3I9D, 4NXM, 2XQD, 3UZI, 3UYF, 2WRI, 4KBV, 4KDJ, 3I9B, 4KD8, 4G5M, 1VY0, 1VVX, 3UZG, 2Y14, 4DR7, 4KFK, 4KDG, 4JI0, 4KFH, 3UZ3, 2J02, 3TVG, 2J00, 3OGE, 3TVF, 4K0L, 3V6U, 3V24, 1VY2, 4KCY, 3V6V, 4KVB, 3FIC, 3UYD, 2Y16, 3OGY, 4KD0, 3UZM, 2WDG, 2WDH, 3KIS, 3KIQ, 4G5T, 2WDM, 4DV3, 4DV5, 2WDK, 4EJ9, 2X9T, 3PYU, 3OHC, 4G5V, 3PYS, 4DUZ, 3V26, 4BYD, 4K0P, 1I95, 3OHD, 3OI0, 2X9R, 4BYB, 4DV1, 3OHY, 4EJA, 3V28, 2F4V, 3KIX, 3KIU, 3HUW, 4ABR, 4JI4, 1VVZ, 2WH3, 2Y12, 2WH1, 3OI2, 3UZL, 3OI4, 4DV2, 3OTO, 3V22, 4QS0, 2QNH, 2XFZ, 3ZVO, 3ZN7, 3ZND, 3KNH, 3KNJ, 4QS2, 2B9O, 2V46, 2B64, 2B9M, 2V48, 2XG1, 2OW8, 2HGI, 1N34, 2WRQ, 2HGR, 2WRN, 1N36, 2HGP, 1YL4, 1I97, 1FKA
+# 2	NR_4.0_01065.22Exact matchThermus thermophilus	4QCN    Crystal structure of the Thermus thermophilus 70S ribosome in the pre-attack state of peptide bond formation containing acylated tRNA- substrates in the A and P sites. This entry contains the 50S subunit of the first 70S ribosome in the ASU.    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.6 
+
+	2939	4QCN, 4NVV, 4RBE, 4RB6, 3V2F, 4NVZ, 4RBA, 4RBI, 3V2D, 4QCR, 4NW1, 4NVX, 4QCZ, 4RBG, 3V29, 3UXR, 3V25, 4QCV, 3V23, 4QCP, 4RB8, 4RBK, 3UXQ, 3V27, 3PYO, 3PYR, 4RBC, 4QCT, 4DHC, 4DHA, 1VXJ, 4JUX, 1VXT, 4QJS, 3UYE, 4QD1, 3I8I, 3UZ1, 1VXQ, 1VVM, 3TVE, 3PYT, 4KFL, 3PYV, 4K0M, 4K0Q, 4W2D, 2WDN, 4KFI, 4QCX, 4EJC, 1VVO, 2WDL, 4W2B, 3MS1, 1VX9, 3MRZ, 3F1H, 4L6J, 3UZ9, 2WH2, 4L6L, 3UYG, 2WH4, 3ZNE, 3TVH, 3V6W, 3F1F, 3ZN9, 3V6X, 3OHJ, 1VXN, 2WDJ, 3UZK, 3OHZ, 1VVQ, 3OHK, 3I9E, 2WDI, 3OI1, 3KIT, 3UZF, 1VVS, 3KIR, 3KNM, 3UZ2, 3OH5, 3OH7, 3I8F, 3UZ8, 3HUX, 4KX2, 1VXL, 4BTD, 4G5U, 3KIW, 3UZH, 3KIY, 4EJB, 4KX0, 3D5B, 1VVW, 2XG2, 2X9S, 3D5D, 2XG0, 2X9U, 4BYC, 4BYE, 2J01, 2J03, 4G5L, 1VVU, 3UZN, 4KDH, 3I9C, 4KD2, 3FIN, 4KD9, 4KDK, 3HUZ, 3KNO, 4G5W, 4KDB, 1VY3, 3OI5, 4G5N, 1VW0, 2Y0X, 3OI3, 4KCZ, 4B8G, 2Y0V, 2WRJ, 2WRL, 4ABS, 1VY1, 4B8I, 2XUX, 2Y11, 2Y19, 1VVY, 2XTG, 4KBU, 3KNI, 4KBW, 2XQE, 2Y0Z, 2Y15, 2Y17, 4QS1, 2Y13, 4QS3, 2V47, 2V49, 1VSP, 3KNK, 1VSA, 3ZVP, 2WRR, 2WRO, 2HGU, 2HGJ, 2HGQ, 2B9P, 2B66, 2B9N, 1YL3
+# 3	NR_4.0_09299.20Exact matchEscherichia coli	2AW7    Crystal structure of the bacterial ribosome from Escherichia coli at 3.5 A resolution. This file contains the 30S subunit of the second 70S ribosome. The entire crystal structure contains two 70S ribosomes and is described in remark 400.    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.5 
+
+	1530	2AW7, 1VS7, 2QAN, 2QBF, 2QAL, 2AVY, 4A2I, 2QBD, 3I1M, 3DF3, 1VS5, 3OFX, 3DF1, 2QBB, 2Z4M, 2QB9, 3OAQ, 4ADV, 2QP0, 2QBH, 3OR9, 2Z4K, 2QBJ, 3OFA, 2QOY, 3I1Q, 4KJA, 2QOW, 4KJ2, 4PEA, 4KIY, 3I1Z, 2I2P, 4TOU, 4KJ6, 2I2U, 3I21, 4TP8, 4PE9, 4TP0, 4TOW, 3I1O, 2QOU, 3OFO, 4TPC, 3I1S, 4TP4, 4KJC, 4KJ0, 4WAO, 3OFB, 4TON, 4KJ8, 3ORA, 4GD2, 3OAR, 4TPE, 4WAQ, 4TOL, 3J5N, 3OFY, 4GD1, 3UOQ, 4TP6, 3J5J, 4TPA, 3SFS, 4TP2, 2WWL, 3J00, 3J36, 3FIH, 3OFP, 3J5B, 3J4V, 3J5D, 3KC4, 3J53, 3J4Z, 3IZW, 3J5F, 3J55, 3J5H, 3J4Y, 3J57, 3J59, 3J4W, 3J18, 3IZV, 4KJ4, 4GAQ, 4GAS, 3J2H, 3J2G, 3J10, 3J2B, 3J2D, 3J2F, 3J29, 3J28, 3J2E, 3J0U, 3J0X, 3J0V, 3J0Z, 3J5T, 3J13, 3J5X, 3J2A, 3J2C, 2GY9, 2YKR, 2GYB, 2VHO, 2VHP, 3E1C, 3E1A
+# 4	NR_4.0_00834.20Exact matchEscherichia coli	2QBG    Crystal structure of the bacterial ribosome from Escherichia coli in complex with ribosome recycling factor (RRF). This file contains the 50S subunit of the second 70S ribosome, with RRF bound. The entire crystal structure contains two 70S ribosomes and is described in remark 400.    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	3.3 
+
+	2958	2QBG, 3ORB, 2QBE, 3OFC, 3I1N, 3OAT, 2QAO, 2AWB, 2J28, 3OFR, 2QAM, 2I2V, 3J5L, 2I2T, 4KJ9, 2QBC, 2QBA, 1VS8, 2AW4, 2QBK, 3OFZ, 3SGF, 4KJ1, 1VS6, 2QOZ, 3DF2, 3DF4, 2Z4N, 2QP1, 2QBI, 2Z4L, 3R8S, 4TPD, 4TP5, 3I1R, 4TP1, 4PEB, 3I20, 3UOS, 4WAP, 4KJ7, 3J7Z, 4KIX, 4TOM, 4KJ5, 3J19, 4TP9, 2QOX, 3J5O, 4KIZ, 4TOV, 2QOV, 4UY8, 4KJB, 3R8T, 4PEC, 3I1T, 4TOX, 3I1P, 4GAU, 3J37, 4TOO, 4TP7, 2WWQ, 3I22, 3FIK, 4KJ3, 3J5A, 4TPF, 3OAS, 3OFD, 3J52, 3J01, 3OG0, 4WAR, 3J4X, 3J5K, 3J54, 3J5C, 3J56, 3J51, 4CSU, 1VT2, 4TP3, 3J5E, 3J58, 3KCR, 3BBX, 4TPB, 3J5G, 4GAR, 3J5I, 3J50, 3IZU, 3OFQ, 3IZT, 3J0T, 3J5W, 3J8G, 3J0W, 3J12, 3J14, 3J0Y, 3J11, 3J5U, 2VHM, 2VHN, 2GYA, 2GYC, 3E1D, 3E1B
+# 5	NR_4.0_33913.3Exact matchHaloarcula marismortui	1S72    REFINED CRYSTAL STRUCTURE OF THE HALOARCULA MARISMORTUI LARGE RIBOSOMAL SUBUNIT AT 2.4 ANGSTROM RESOLUTION    X-RAY DIFFRACTION    Chain(s): 0,9; model(s): 1	2.4 
+
+	2871	1S72, 1VQO, 1VQP, 1VQ6, 1VQK, 3CC2, 3CPW, 3CCU, 1K73, 1JJ2, 1M90, 1VQ4, 1VQ8, 3CC4, 1VQM, 1VQL, 3G6E, 1VQ9, 3CCM, 1YHQ, 1NJI, 1QVF, 1VQ7, 1VQN, 4HUB, 1KQS, 3CXC, 3CCV, 1KC8, 1VQ5, 3CCQ, 3CC7, 1YI2, 1Q86, 3CCL, 1YIT, 1K9M, 3OW2, 3CMA, 1YJW, 1YIJ, 1N8R, 1FFK, 3G71, 3CCE, 1Q82, 1M1K, 1YJN, 2OTL, 1K8A, 1QVG, 3CD6, 1Q7Y, 1Q81, 1KD1, 2OTJ, 1YJ9, 3I55, 2QEX, 3I56, 3CCS, 3CME, 3CCR, 1W2B, 3CCJ, 2QA4, 3G4S, 1FG0, 1FFZ
+# 6	NR_4.0_51295.2Exact matchSaccharomyces cerevisiae	3U5F    The structure of the eukaryotic ribosome at 3.0 A resolution. This entry contains ribosomal RNA and ions of the 40S subunit, ribosome B    X-RAY DIFFRACTION    Chain(s): 6; model(s): 1	3.0 
+
+	1769	3U5F, 4ULR, 4UJR, 4UL6, 4UKB, 4ULB, 4UJM, 3U5B, 4BYV, 4BYO, 4UKM, 4UKW, 4UJW, 4UJP, 4UK6, 4UKR, 4ULG, 4UK9, 4ULM, 4UL4, 4UJK, 4UKU, 4UK1, 4UL9, 4UJH, 4UJF, 4UKK, 4UJZ, 4ULJ, 4UK4, 4ULP, 4UKH, 4ULE, 4UKP, 4UJU, 4UKF, 1VWV, 4UL1, 1VXZ, 1VXW, 1VW9, 4UKZ, 3J80, 3J81, 3JYV, 3IZE, 3O30, 3O2Z, 4CUX
+# 7	NR_4.0_30846.1Exact matchSaccharomyces cerevisiae	3U5H    The structure of the eukaryotic ribosome at 3.0 A resolution. This entry contains ribosomal RNA and ions of the 60S subunit, ribosome B    X-RAY DIFFRACTION    Chain(s): 5,7,8; model(s): 1	3.0 
+
+	3429	3U5H, 4B6B, 3U5D, 4UL7, 4UJQ, 4UKA, 4UJS, 4ULK, 4BYW, 4BYP, 4ULC, 4UJL, 4UK0, 4UL5, 4UKC, 4UJN, 4ULA, 4UKL, 4UKV, 4ULH, 4UJV, 4ULS, 4UK7, 4UKX, 4UK2, 4UKN, 4ULQ, 4UK5, 4ULN, 4ULF, 4UKS, 4UJG, 4UJI, 4UJX, 4UKQ, 4UKG, 4UKI, 4CUV, 4UL2, 4UL0, 3IZF, 1VXU, 1VXX, 1VWS, 1VW7, 3O58, 3O5H, 3JYX
+# 8	NR_4.0_77076.4Exact matchSatellite Tobacco Mosaic Virus	4OQ8    Satellite Tobacco Mosaic Virus Refined to 1.4 A Resolution using icosahedral constraints    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	1.5 
+
+	20	4OQ8, 1RRR, 1A34, 4NIA, 4OQ9, 4BY7, 2E2I, 404D, 2NVQ, 2JA8, 2E2H, 1OO7, 2YU9, 1JB8, 4BY1, 1PJG, 3HOY, 4Q5V, 1EFO, 2JA7, 2VUM, 3HOV, 2NVT, 2R7Z, 3I4N, 1R9S, 1SFO, 1PJO, 1Y1W, 2JA6, 3HOX, 1RRD, 1G4Q, 2NVZ, 3I4M, 1R9T, 2NVX, 3M4O, 1Y77, 2JA5
+# 9	NR_4.0_58986.3Exact matchDeinococcus radiodurans	4IOA    Crystal structure of compound 4e bound to large ribosomal subunit (50S) from Deinococcus radiodurans    X-RAY DIFFRACTION    Chain(s): X,Y; model(s): 1	3.2 
+
+	2808	4IOA, 4IO9, 4IOC, 2ZJR, 3CF5, 2ZJP, 2ZJQ, 3DLL, 2AAR, 2OGM, 3PIO, 3JQ4, 2D3O, 2OGO, 1JZY, 1K01, 1JZX, 3PIP, 1Y69, 1JZZ, 1J5A, 2O44, 2OGN, 1OND, 1NWX, 1NWY, 3FWO, 1NJO, 1NJP, 1NKW, 1P9X, 1NJM, 1NJN, 2O43, 1SM1, 1XBP, 1Z58, 2O45
+# 10	NR_4.0_26065.4Exact matchBacillus subtilis	3FO4    Crystal structure of guanine riboswitch C74U mutant bound to 6-chloroguanine    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.9 
+
+	63	3FO4, 2XNZ, 3GOG, 3FO6, 4FEO, 2EET, 3GAO, 4FEN, 2G9C, 4FEP, 4FE5, 2EEV, 3GER, 2EES, 2EEW, 1Y27, 3DS7, 4FEL, 4FEJ, 3GES, 2EEU, 3G4M, 3GOT, 2B57
+# 11	NR_4.0_70780.9Exact match	1MWL    Crystal structure of geneticin bound to the eubacterial 16S rRNA A site    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.4 
+
+	42	1MWL, 2BEE, 4K32, 2BE0, 3S4P, 4GPW, 4GPY, 4GPX, 2PWT, 1YRJ, 4F8U, 2F4T, 2ET4, 2ET5, 1LC4, 3WRU, 2ET3, 4P20, 2ESJ, 1J7T, 4F8V, 2ESI
+# 12	NR_4.0_43978.4Exact matchSaccharomyces cerevisiae	1I9V    CRYSTAL STRUCTURE ANALYSIS OF A TRNA-NEOMYCIN COMPLEX    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.6 
+
+	73	1I9V, 1ZO3, 1ZO1, 1FCW, 1EHZ, 6TNA, 1OB5, 1TRA, 4TRA, 1MJ1, 1TN1, 1TN2, 1EVV, 1SZ1, 1ML5, 1OB2, 1TTT, 3WC2, 4TNA, 3IZY
+# 13	NR_4.0_13578.1Exact matchOceanobacillus iheyensis	4FAW    Structure of Oceanobacillus iheyensis group II intron in the presence of K+, Mg2+ and a hydrolyzed oligonucleotide fragment    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.7 
+
+	392	4FAW, 4FAU, 3G78, 4E8N, 4E8Q, 3IGI, 4E8K, 4FAR, 4E8T, 4FB0, 3BWP, 4E8P, 4FAQ, 4E8M, 4E8R, 3EOH, 4DS6, 4FAX, 3EOG, 4E8V
+# 14	NR_4.0_33284.5Exact match	2P7D    A Minimal, 'Hinged' Hairpin Ribozyme Construct Solved with Mimics of the Product Strands at 2.25 Angstroms Resolution    X-RAY DIFFRACTION    Chain(s): A,B,C,D,P; model(s): 1	2.3 
+
+	61	2P7D, 3GS8, 3GS5, 2OUE, 2FGP, 2P7E, 2NPY, 2BCY, 2D2K, 1X9C, 1ZFX, 3GS1, 1ZFV, 4G6R, 1ZFT, 2P7F, 2BCZ, 1X9K, 2NPZ
+# 15	NR_4.0_35786.2Exact match	2DR8    Complex structure of CCA-adding enzyme with tRNAminiDC and CTP    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.5 
+
+	33	2DR8, 2ZH1, 2ZH7, 2DR7, 2ZHA, 2ZH9, 2ZH3, 2ZH2, 2ZH6, 2ZH5, 2DVI, 2DR9, 2ZH4, 2ZHB, 2ZH8, 2DRA, 2DRB, 2DR5
+# 16	NR_4.0_84248.3Exact matchEscherichia coli	1QRS    GLUTAMINYL-TRNA SYNTHETASE MUTANT D235N COMPLEXED WITH GLUTAMINE TRANSFER RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.6 
+
+	74	1QRS, 1O0C, 1QRT, 1QTQ, 1GTR, 4JXZ, 1GTS, 1QRU, 1O0B, 1EUY, 4JYZ, 4JXX, 1EXD, 2RE8, 1ZJW, 2RD2, 1EUQ
+# 17	NR_4.0_18567.2Exact match	1NLC    HIV-1 DIS(Mal) duplex Zn-soaked    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.9 
+
+	46	1NLC, 1WVD, 1Y6T, 1Y6S, 462D, 1O3Z, 1Y73, 1Y99, 1Y95, 1Y90, 2OIJ, 2OJ0, 2OIY, 3C44, 3FAR, 3DVV
+# 18	NR_4.0_87602.3Exact match	3B5F    Crystal Structure of a Minimally Hinged Hairpin Ribozyme Incorporating the Ade38Dap Mutation and a 2',5' Phosphodiester Linkage at the Active Site    X-RAY DIFFRACTION    Chain(s): A,B,C; model(s): 1	2.7 
+
+	60	3B5F, 3B91, 3B58, 3BBK, 4G6P, 3B5S, 3BBI, 3I2R, 3B5A, 3CR1, 3BBM, 3I2S, 3I2Q, 4G6S, 3I2U, 3CQS
+# 19	NR_4.0_17591.2Exact matchThermoanaerobacter tengcongensis	2HO7    Pre-cleavage state of the Thermoanaerobacter tengcongensis glmS ribozyme bound to glucose-6-phosphate    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.9 
+
+	141	2HO7, 2Z75, 2H0X, 2GCS, 2GCV, 2Z74, 2H0W, 3B4B, 2H0S, 3B4A, 2HO6, 4MEG, 2H0Z, 3B4C, 4MEH
+# 20	NR_4.0_30156.2Exact matchEscherichia coli	2PXV    Variant 6 of Ribonucleoprotein Core of the E. Coli Signal Recognition Particle    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	49	2PXV, 2PXK, 2PXD, 2PXQ, 2PXB, 2PXT, 2PXP, 2PXE, 1DUL, 3LQX, 1HQ1, 2PXU, 2PXF, 2PXL, 2XKV
+# 21	NR_4.0_65520.2Exact matchHepatitis delta virus	1VBY    Crystal Structure of the Hepatitis Delta Virus Gemonic Ribozyme Precursor, with C75U mutaion, and Mn2+ bound    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.9 
+
+	73	1VBY, 4PRF, 1VC5, 1SJ4, 1SJ3, 1VBX, 1VC0, 2OIH, 1VBZ, 1SJF, 1VC6, 4PR6, 1DRZ, 2OJ3
+# 22	NR_4.0_80516.2Exact match	1XPE    HIV-1 subtype B genomic RNA Dimerization Initiation Site    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.9 
+
+	46	1XPE, 1XP7, 2B8R, 2B8S, 1XPF, 2FD0, 2FCY, 1ZCI, 1Y3S, 1Y3O, 1YXP, 2FCX, 2FCZ, 1K9W
+# 23	NR_4.0_89320.3Exact match	4NLF    2'-trifluoromethylthio-2'-deoxycytidine-modified SRL    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.0 
+
+	26	4NLF, 483D, 1Q9A, 480D, 3DVZ, 1MSY, 3S8U, 3S7C, 3DW6, 3DW4, 3DW7, 3DW5, 4NMG
+# 24	NR_4.0_66753.1Exact match	3DIR    Crystallization of the Thermotoga maritima lysine riboswitch bound to N6-1-iminoethyl-L-Lysine    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.9 
+
+	172	3DIR, 3DIL, 3DJ2, 3DIQ, 3DIX, 3DIG, 3DJ0, 3DIS, 3DIM, 3DIY, 3DIZ, 3DIO
+# 25	NR_4.0_64037.6Exact matchHOMO SAPIENS	4MSR    RNA 10mer duplex with six 2'-5'-linkages    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.2 
+
+	20	4MSR, 2YKG, 3VYX, 3VYY, 1DI2, 4BPB, 1RC7, 3ZD7, 4MSB, 3ZD6, 3ADL, 1FIX
+# 26	NR_4.0_39906.1Exact match	2HOJ    Crystal structure of an E. coli thi-box riboswitch bound to thiamine pyrophosphate, manganese ions    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.5 
+
+	74	2HOJ, 4NYB, 2HOO, 4NYD, 4NYC, 2HOL, 2HOK, 3K0J, 2HOM, 4NYG, 2HOP
+# 27	NR_4.0_40846.3Exact match	3F4G    Crystal structure of the FMN riboswitch bound to riboflavin.    X-RAY DIFFRACTION    Chain(s): X,Y; model(s): 1	3.0 
+
+	109	3F4G, 3F4E, 3F2Q, 3F2Y, 3F4H, 3F2W, 3F30, 3F2X, 3F2T, 2YIE, 2YIF
+# 28	NR_4.0_65527.2Exact match	3GX5    Crystal structure of T. tencongensis SAM-I riboswitch variant A94G/U34 bound with SAM    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.4 
+
+	94	3GX5, 2GIS, 3GX6, 3IQR, 3GX2, 3IQP, 3IQN, 3GX3, 3GX7, 2YDH
+# 29	NR_4.0_42666.1Exact match	3UCZ    The c-di-GMP-I riboswitch bound to GpG    X-RAY DIFFRACTION    Chain(s): D,R; model(s): 1	2.8 
+
+	93	3UCZ, 3UCU, 3UD3, 3MXH, 3MUR, 3UD4, 3MUV, 3MUM, 3IRW, 3MUT
+# 30	NR_4.0_88216.3Exact match	3ULD    High resolution structure of DNA/RNA hybrid in complex with RNase H catalytic domain D132N mutant    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.6 
+
+	6	3ULD, 2G8U, 3TWH, 2G8F, 2G8W, 2G8I, 2G8K, 2R7Y, 2G8H, 2G8V
+# 31	NR_4.0_93814.4Exact match	4AQ7    Ternary complex of E. coli leucyl-tRNA synthetase, tRNA(leu) and leucyl-adenylate analogue in the aminoacylation conformation    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.5 
+
+	154	4AQ7, 3ZGZ, 4ARI, 4CQN, 3ZJV, 3ZJU, 4AS1, 4ARC, 3ZJT, 2NQP
+# 32	NR_4.0_25403.1Exact matchPanicum mosaic virus	4FY3    The Crystallographic Structure of Panicum Mosaic Virus    X-RAY DIFFRACTION    Chain(s): 2; model(s): 1	2.9 
+
+	204	4FY3, 4FY7, 4FY5, 4FY2, 4FY6, 4FY9, 4FYA, 4FY1, 4FY8, 4FY4
+# 33	NR_4.0_14573.1Exact matchEnterobacterio phage MS2	2BU1    MS2-RNA HAIRPIN (5BRU -5) COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.2 
+
+	32	2BU1, 2C4Q, 2C4Y, 1ZDI, 2IZ8, 2B2E, 1AQ4, 2B2G, 1AQ3
+# 34	NR_4.0_63111.1Exact match	3OWZ    Crystal structure of glycine riboswitch, soaked in Iridium    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	3.0 
+
+	168	3OWZ, 3OX0, 3OXJ, 3OWW, 3OXM, 3OXE, 3OXD, 3OWI, 3OXB
+# 35	NR_4.0_86592.1Exact match	488D    CATALYTIC RNA ENZYME-PRODUCT COMPLEX    X-RAY DIFFRACTION    Chain(s): A,B,C,D; model(s): 1	3.1 
+
+	65	488D, 299D, 301D, 359D, 300D, 1NYI, 1MME, 1Q29, 379D
+# 36	NR_4.0_04722.1Exact matchESCHERICHIA COLI	1QA6    CRYSTAL STRUCTURE OF A CONSERVED RIBOSOMAL PROTEIN-RNA COMPLEX    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.8 
+
+	116	1QA6, 1HC8, 1MMS, 1OLN, 1Y39, 1C04, 3J0D, 2JQ7
+# 37	NR_4.0_32890.2Exact matchSACCHAROMYCES CEREVISIAE	2ZM5    Crystal structure of tRNA modification enzyme MiaA in the complex with tRNA(Phe)    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.6 
+
+	74	2ZM5, 2ZXU, 3L0U, 3FOZ, 4BYS, 3BBV, 4CXB, 4BYX
+# 38	NR_4.0_70614.1Exact match	3SLQ    Crystal structure of the 2'- Deoxyguanosine riboswitch bound to guanosine-5'-monophosphate    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.5 
+
+	129	3SLQ, 3SLM, 3SKZ, 3SKI, 3SKL, 3SKT, 3SKR, 3SKW
+# 39	NR_4.0_16673.1Exact match	2CV1    Glutamyl-tRNA synthetase from Thermus thermophilus in complex with tRNA(Glu), ATP, and an analog of L-glutamate: a quaternary complex    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.4 
+
+	150	2CV1, 2DXI, 1G59, 1N77, 1N78, 2CV2, 2CV0
+# 40	NR_4.0_13418.1Exact match	4LVZ    Structure of the THF riboswitch bound to 2,6-diaminopurine    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.8 
+
+	89	4LVZ, 3SD3, 4LVW, 4LVV, 4LVX, 4LVY, 4LW0
+# 41	NR_4.0_22394.1Exact match	4NGD    Structure of human Dicer Platform-PAZ-Connector Helix cassette in complex with 12-mer siRNA having 5'-p and UU-3' ends (1.95 Angstrom resolution)    X-RAY DIFFRACTION    Chain(s): B; model(s): 1,2	2.0 
+
+	24	4NGD, 4NGB, 4NGC, 4NH3, 4NGG, 4NH5, 4NH6
+# 42	NR_4.0_52250.1Exact match	157D    CRYSTAL AND MOLECULAR STRUCTURE OF R(CGCGAAUUAGCG): AN RNA DUPLEX CONTAINING TWO G(ANTI).A(ANTI) BASE-PAIRS    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.8 
+
+	24	157D, 1YYO, 1YYK, 1AL5, 1CX5, 1AC3
+# 43	NR_4.0_32957.3Exact matchHomo sapiens	1MFQ    Crystal Structure Analysis of a Ternary S-Domain Complex of Human Signal Recognition Particle    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.1 
+
+	127	1MFQ, 2GO5, 4P3E, 3KTV, 1RY1, 1L9A
+# 44	NR_4.0_42639.1Exact match	1U6B    CRYSTAL STRUCTURE OF A SELF-SPLICING GROUP I INTRON WITH BOTH EXONS    X-RAY DIFFRACTION    Chain(s): B,C,D; model(s): 1	3.1 
+
+	219	1U6B, 3BO2, 3IIN, 3BO3, 3BO4, 1ZZN
+# 45	NR_4.0_00642.1Exact match	2GQ6    Crystal structure of an RNA racemate    X-RAY DIFFRACTION    Chain(s): K,L; model(s): 1	1.3 
+
+	32	2GQ6, 2GQ5, 2G32, 2GQ7, 2GQ4, 2GPM
+# 46	NR_4.0_40299.1Exact match	2NZ4    Structural investigation of the GlmS ribozyme bound to its catalytic cofactor    X-RAY DIFFRACTION    Chain(s): G,H,R,S; model(s): 1	2.5 
+
+	594	2NZ4, 3G96, 3L3C, 3G8T, 3G9C, 3G8S
+# 47	NR_4.0_80518.1Exact match	3HJW    Structure of a functional ribonucleoprotein pseudouridine synthase bound to a substrate RNA    X-RAY DIFFRACTION    Chain(s): D,E; model(s): 1	2.4 
+
+	70	3HJW, 3LWQ, 3LWP, 3LWV, 3LWR, 3LWO
+# 48	NR_4.0_14535.1Exact match	3OK4    Crystal structure of the ANA:RNA decamer suffering from lattice translocation defects    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	1.2 
+
+	30	3OK4, 3OK2, 2KP4, 219D, 2KP3, 2BJ6
+# 49	NR_4.0_34451.1Exact matchTETRAHYMENA THERMOPHILA	4BPP    The crystal structure of the eukaryotic 40S ribosomal subunit in complex with eIF1 and eIF1A - Complex 4    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.7 
+
+	1717	4BPP, 4BPO, 4BPE, 4BPN, 2XZM, 2XZN
+# 50	NR_4.0_01208.2Exact matchEscherichia coli	3CW5    E. coli Initiator tRNA    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.1 
+
+	72	3CW5, 3DEG, 3CW6, 3V11, 2FMT
+# 51	NR_4.0_96825.3Exact match	3OL9    Poliovirus polymerase elongation complex with 3'-deoxy-CTP    X-RAY DIFFRACTION    Chain(s): J,K,L,N,O,P; model(s): 1	2.3 
+
+	140	3OL9, 3OLA, 3OLB, 3OL6, 4K4Z
+# 52	NR_4.0_39844.1Exact match	466D    DISORDER AND TWIN REFINEMENT OF RNA HEPTAMER DOUBLE HELIX    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.2 
+
+	28	466D, 4U37, 434D, 4U38, 464D
+# 53	NR_4.0_82906.1Exact match	4ENB    Crystal structure of fluoride riboswitch, bound to Iridium    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.3 
+
+	51	4ENB, 4ENA, 3VRS, 4ENC, 4EN5
+# 54	NR_4.0_22129.2Exact match	4TV0    Drosophila stem-loop binding protein complexed with histone mRNA stem-loop, Selenomethionine derivative    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.6 
+
+	25	4TV0, 4TUX, 4L8R, 4QOZ, 4TUW
+# 55	NR_4.0_20825.1Exact match	4TZZ    Co-crystals of the Ternary Complex Containing a T-box Stem I RNA, its Cognate tRNAGly, and B. subtilis YbxF protein, treated by removing lithium sulfate and increasing PEG3350 concentration from 20% to 45% post crystallization    X-RAY DIFFRACTION    Chain(s): B,C,E,F; model(s): 1	3.6 
+
+	699	4TZZ, 4LCK, 4TZW, 4TZV, 4TZP
+# 56	NR_4.0_96943.1Exact matchsynthetic construct	1GID    CRYSTAL STRUCTURE OF A GROUP I RIBOZYME DOMAIN: PRINCIPLES OF RNA PACKING    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.5 
+
+	316	1GID, 1HR2, 2R8S, 1L8V
+# 57	NR_4.0_42267.1Exact match	1K8W    Crystal structure of the E. coli pseudouridine synthase TruB bound to a T stem-loop RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.9 
+
+	21	1K8W, 1ZL3, 1ZE2, 2AB4
+# 58	NR_4.0_91662.2Exact matchMethanocaldococcus jannaschii	1LNG    Crystal Structure of the SRP19-7S.S SRP RNA Complex of M. jannaschii    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	97	1LNG, 2V3C, 3NDB, 1Z43
+# 59	NR_4.0_90154.1Exact match	1M5O    Transition State Stabilization by a Catalytic RNA    X-RAY DIFFRACTION    Chain(s): D,E; model(s): 1	2.2 
+
+	224	1M5O, 1M5V, 1M5K, 1M5P
+# 60	NR_4.0_34687.1Exact match	1YZD    Crystal structure of an RNA duplex containing a site specific 2'-amine substitution at a C-G Watson-Crick base pair    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.4 
+
+	30	1YZD, 1Z79, 1YY0, 2H1M
+# 61	NR_4.0_56921.3Exact match	2FQN    Crystal structure of the Homo sapiens cytoplasmic ribosomal decoding A site    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.3 
+
+	43	2FQN, 2O3Y, 2O3W, 2G5K
+# 62	NR_4.0_85581.1Exact match	2J0S    THE CRYSTAL STRUCTURE OF THE EXON JUNCTION COMPLEX AT 2.2 A RESOLUTION    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.2 
+
+	6	2J0S, 2HYI, 3EX7, 2J0Q
+# 63	NR_4.0_41987.1Exact matchTOBACCO MOSAIC VIRUS	2TMV    VISUALIZATION OF PROTEIN-NUCLEIC ACID INTERACTIONS IN A VIRUS. REFINED STRUCTURE OF INTACT TOBACCO MOSAIC VIRUS AT 2.9 ANGSTROMS RESOLUTION BY X-RAY FIBER DIFFRACTION    FIBER DIFFRACTION    Chain(s): R; model(s): 1	2.9 
+
+	3	2TMV, 1CGM, 2OM3, 2XEA
+# 64	NR_4.0_19468.1Exact matchHOMO SAPIENS	2Y9B    STRUCTURE OF THE SPLICEOSOMAL U4 SNRNP CORE DOMAIN    X-RAY DIFFRACTION    Chain(s): V; model(s): 1	3.6 
+
+	204	2Y9B, 2Y9D, 2Y9A, 2Y9C
+# 65	NR_4.0_86811.1Exact match	3B31    Crystal structure of domain III of the Cricket Paralysis Virus IRES RNA    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.4 
+
+	43	3B31, 3MJA, 3MJ3, 3MJB
+# 66	NR_4.0_29446.1Exact matchThermotoga Maritima	3D0U    Crystal Structure of Lysine Riboswitch Bound to Lysine    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.8 
+
+	161	3D0U, 4ERJ, 4ERL, 3D0X
+# 67	NR_4.0_26026.1Exact matchArabidopsis thaliana	3D2V    Structure of the eukaryotic TPP-specific riboswitch bound to the antibacterial compound pyrithiamine pyrophosphate    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.0 
+
+	154	3D2V, 3D2X, 3D2G, 2CKY
+# 68	NR_4.0_23158.1Exact match	3EPH    Crystallographic snapshots of eukaryotic dimethylallyltransferase acting on tRNA: Insight into tRNA recognition and reaction mechanism    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.0 
+
+	138	3EPH, 3EPJ, 3EPK, 3EPL
+# 69	NR_4.0_25208.1Exact match	3GTL    Backtracked RNA polymerase II complex with 13mer with G<>U mismatch    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.4 
+
+	12	3GTL, 3GTJ, 3GTG, 3GTO
+# 70	NR_4.0_84659.1Exact match	3IVK    Crystal Structure of the Catalytic Core of an RNA Polymerase Ribozyme Complexed with an Antigen Binding Antibody Fragment    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.1 
+
+	256	3IVK, 3HHN, 3R1L, 3R1H
+# 71	NR_4.0_61514.2Exact match	3KMS    G62S mutant of foot-and-mouth disease virus RNA-polymerase in complex with a template- primer RNA trigonal structure    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.2 
+
+	12	3KMS, 4IQX, 3KLV, 3KNA
+# 72	NR_4.0_28600.1Exact match	3NCU    Structural and functional insights into pattern recognition by the innate immune receptor RIG-I    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.6 
+
+	22	3NCU, 2KXZ, 2KY0, 2KY1
+# 73	NR_4.0_29749.2Exact match	3OVA    How the CCA-adding Enzyme Selects Adenine over Cytosine in Position 76 of tRNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.0 
+
+	34	3OVA, 3OVS, 3OVB, 3OV7
+# 74	NR_4.0_31131.2Exact match	3S1R    RNA Polymerase II Initiation Complex with a 5-nt 3'-deoxy RNA soaked with GTP    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.2 
+
+	5	3S1R, 3S1Q, 3RZD, 3S2H
+# 75	NR_4.0_42146.2Exact match	3ZP8    HIGH-RESOLUTION FULL-LENGTH HAMMERHEAD RIBOZYME    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	60	3ZP8, 3ZD4, 2OEU, 3ZD5
+# 76	NR_4.0_15980.1Exact match	479D    CRYSTAL STRUCTURE A DNA:RNA HYBRID DUPLEX, A DYNAMIC MODEL FOR RNASE H RECOGNITION    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.9 
+
+	9	479D, 2DQP, 2DQQ, 2DQO
+# 77	NR_4.0_50692.1Exact matchTETRAHYMENA THERMOPHILA	4A1B    T.THERMOPHILA 60S RIBOSOMAL SUBUNIT IN COMPLEX WITH INITIATION FACTOR 6. THIS FILE CONTAINS 26S RRNA AND PROTEINS OF MOLECULE 3.    X-RAY DIFFRACTION    Chain(s): 1; model(s): 1	3.5 
+
+	3119	4A1B, 4A19, 4A1D, 4A18
+# 78	NR_4.0_32791.1Exact matchTETRAHYMENA THERMOPHILA	4A1C    T.THERMOPHILA 60S RIBOSOMAL SUBUNIT IN COMPLEX WITH INITIATION FACTOR 6. THIS FILE CONTAINS 5S RRNA, 5.8S RRNA AND PROTEINS OF MOLECULE 4.    X-RAY DIFFRACTION    Chain(s): 2,3; model(s): 1	3.5 
+
+	274	4A1C, 4A1E, 4A1A, 4A17
+# 79	NR_4.0_39069.1Exact match	4A3E    RNA POLYMERASE II INITIAL TRANSCRIBING COMPLEX WITH A 5NT DNA-RNA HYBRID AND SOAKED WITH AMPCPP    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.4 
+
+	4	4A3E, 4A3C, 4A3B, 4A3M
+# 80	NR_4.0_14409.1Exact match	4AL7    Crystal structure of the Csy4-minimal crRNA complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	14	4AL7, 4AL6, 2XLJ, 2XLK
+# 81	NR_4.0_88350.1Exact match	4KZD    Crystal structure of an RNA aptamer in complex with fluorophore and Fab    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.2 
+
+	83	4KZD, 4KZE, 4Q9R, 4Q9Q
+# 82	NR_4.0_07605.1Exact match	4NFO    Crystal Structure Analysis of the 16mer GCAGACUUAAGUCUGC    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.0 
+
+	32	4NFO, 1Z7F, 4NFP, 4NFQ
+# 83	NR_4.0_52196.1Exact match	4RKV    Structural variations and solvent structure of UGGGGU quadruplexes stabilized by Sr2+ ions    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1,2,3,4	0.9 
+
+	48	4RKV, 4RJ1, 1J8G, 4RNE
+# 84	NR_4.0_44387.1Exact matchSus scrofa	4W21    Structure of the 80S mammalian ribosome bound to eEF2 (this entry contains the large ribosomal subunit RNA)    ELECTRON MICROSCOPY    Chain(s): 5,7,8; model(s): 1		3936	4W21, 4W1Z, 4W24, 4W26
+# 85	NR_4.0_79628.1Exact matchThermus thermophilus	1F7Y    THE CRYSTAL STRUCTURE OF TWO UUCG LOOPS HIGHLIGHTS THE ROLE PLAYED BY 2'-HYDROXYL GROUPS IN ITS UNUSUAL STABILITY    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.8 
+
+	57	1F7Y, 1DK1, 1KUQ
+# 86	NR_4.0_08469.1Exact matchSaccharomyces cerevisiae	1IL2    Crystal Structure of the E. coli Aspartyl-tRNA Synthetase:Yeast tRNAasp:aspartyl-Adenylate Complex    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.6 
+
+	129	1IL2, 1ASZ, 1ASY
+# 87	NR_4.0_37102.1Exact match	1KD5    The Crystal Structure of r(GGUCACAGCCC)2 metal free form    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	22	1KD5, 1KD4, 1KD3
+# 88	NR_4.0_59388.1Exact match	1L2X    Atomic Resolution Crystal Structure of a Viral RNA Pseudoknot    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.3 
+
+	27	1L2X, 437D, 1L3D
+# 89	NR_4.0_08058.1Exact match	1O9M    THE COMPLEX OF A NOVEL ANTIBIOTIC WITH THE AMINOACYL SITE OF THE BACTERIAL RIBOSOME REVEALED BY X-RAY CRYSTALLOGRAPHY.    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.4 
+
+	42	1O9M, 2F4U, 2ET8
+# 90	NR_4.0_81563.1Exact match	1Q96    Crystal structure of a mutant of the sarcin/ricin domain from rat 28S rRNA    X-RAY DIFFRACTION    Chain(s): A,C; model(s): 1	1.8 
+
+	81	1Q96, 1Q93, 430D
+# 91	NR_4.0_31517.1Exact matchStaphylococcus aureus	1QU2    INSIGHTS INTO EDITING FROM AN ILE-TRNA SYNTHETASE STRUCTURE WITH TRNA(ILE) AND MUPIROCIN    X-RAY DIFFRACTION    Chain(s): T; model(s): 1	2.2 
+
+	75	1QU2, 1FFY, 1QU3
+# 92	NR_4.0_39983.1Exact match	1YKV    Crystal structure of the Diels-Alder ribozyme complexed with the product of the reaction between N-pentylmaleimide and covalently attached 9-hydroxymethylanthracene    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	3.3 
+
+	98	1YKV, 1YLS, 1YKQ
+# 93	NR_4.0_89897.2Exact matchBACTERIOPHAGE MS2	1ZSE    RNA stemloop from bacteriophage Qbeta complexed with an N87S mutant MS2 Capsid    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.0 
+
+	12	1ZSE, 2BS1, 2BS0
+# 94	NR_4.0_95307.1Exact match	1ZX7    Molecular Recognition of RNA by Neomycin and a Restricted Neomycin Derivative    X-RAY DIFFRACTION    Chain(s): A,B,G,H; model(s): 1	2.2 
+
+	116	1ZX7, 2A04, 1ZZ5
+# 95	NR_4.0_42812.1Exact match	2BTE    THERMUS THERMOPHILUS LEUCYL-TRNA SYNTHETASE COMPLEXED WITH WITH A TRNALEU TRANSCRIPT IN THE POST-EDITING CONFORMATION AND A POST-TRANSFER EDITING SUBSTRATE ANALOGUE    X-RAY DIFFRACTION    Chain(s): B,E; model(s): 1	2.9 
+
+	156	2BTE, 2V0G, 2BYT
+# 96	NR_4.0_57818.1Exact matchENTEROBACTERIO PHAGE MS2	2C4Z    MS2-RNA HAIRPIN (2SU -5-6) COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.6 
+
+	26	2C4Z, 2C51, 2BNY
+# 97	NR_4.0_25474.1Exact match	2DER    Cocrystal structure of an RNA sulfuration enzyme MnmA and tRNA-Glu in the initial tRNA binding state    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	3.1 
+
+	145	2DER, 2DET, 2DEU
+# 98	NR_4.0_24626.2Exact match	2DU3    Crystal structure of Archaeoglobus fulgidus O-phosphoseryl-tRNA synthetase complexed with tRNACys and O-phosphoserine    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.6 
+
+	71	2DU3, 2DU4, 2DU5
+# 99	NR_4.0_83381.1Exact matchEscherichia coli	2GIC    Crystal Structure of a vesicular stomatitis virus nucleocapsid-RNA complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.9 
+
+	45	2GIC, 3PU4, 3HHZ
+# 100	NR_4.0_12312.1Exact match	2O5I    Crystal structure of the T. thermophilus RNA polymerase elongation complex    X-RAY DIFFRACTION    Chain(s): H; model(s): 1	2.5 
+
+	32	2O5I, 2O5J, 2PPB
+# 101	NR_4.0_47124.1Exact match	2OE5    1.5 A X-ray crystal structure of Apramycin complex with RNA fragment GGCGUCGCUAGUACCG/GGUACUAAAAGUCGCCC containing the human ribosomal decoding A site: RNA construct with 3'-overhang    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.5 
+
+	33	2OE5, 2OE8, 2OE6
+# 102	NR_4.0_88399.1Exact match	2PLY    Structure of the mRNA binding fragment of elongation factor SelB in complex with SECIS RNA.    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.6 
+
+	46	2PLY, 2UWM, 1WSU
+# 103	NR_4.0_36851.2Exact match	2R20    Structure of the RNA brominated tridecamer r(GCGUU-5BUGAAACGC) at 1.3 A (Br2)    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.3 
+
+	24	2R20, 2R21, 2R1S
+# 104	NR_4.0_42402.1Exact match	2R7W    Crystal Structure of Rotavirus SA11 VP1/RNA (UGUGACC)/mRNA 5'-CAP (m7GpppG) complex    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.6 
+
+	7	2R7W, 2R7X, 2R7R
+# 105	NR_4.0_11265.2Exact matchSaccharomyces cerevisiae	2TRA    RESTRAINED REFINEMENT OF TWO CRYSTALLINE FORMS OF YEAST ASPARTIC ACID AND PHENYLALANINE TRANSFER RNA CRYSTALS    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.0 
+
+	65	2TRA, 3TRA, 1VTQ
+# 106	NR_4.0_26351.1Exact matchPECTOBACTERIUM ATROSEPTICUM	2XD0    A PROCESSED NON-CODING RNA REGULATES A BACTERIAL ANTIVIRAL SYSTEM    X-RAY DIFFRACTION    Chain(s): V; model(s): 1	3.0 
+
+	35	2XD0, 2XDB, 2XDD
+# 107	NR_4.0_52850.1Exact matchESCHERICHIA COLI	2YHQ    Structure of respiratory syncytial virus nucleocapsid protein, P1 crystal form    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.6 
+
+	140	2YHQ, 2YHP, 2YHM
+# 108	NR_4.0_97850.1Exact match	3BNP    Crystal Structure of the Homo sapiens Mitochondrial Ribosomal Decoding Site (A1555G Mutant)    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.7 
+
+	43	3BNP, 3BNO, 3BNN
+# 109	NR_4.0_33239.1Exact match	3BNQ    Crystal Structure of the Homo sapiens Mitochondrial Ribosomal Decoding Site in the Presence of SrCl2 (A1555G mutant, Br-derivative)    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.0 
+
+	86	3BNQ, 3BNS, 3BNR
+# 110	NR_4.0_92723.1Exact match	3BSO    Norwalk Virus polymerase bound to cytidine 5'-triphosphate and primer-template RNA    X-RAY DIFFRACTION    Chain(s): P,T; model(s): 1	1.7 
+
+	16	3BSO, 3H5X, 3H5Y
+# 111	NR_4.0_86551.1Exact match	3E5C    Crystal Structure of the SMK box (SAM-III) Riboswitch with SAM    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.3 
+
+	52	3E5C, 3E5F, 3E5E
+# 112	NR_4.0_39765.2Exact match	3FU2    Cocrystal structure of a class-I preQ1 riboswitch    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.9 
+
+	93	3FU2, 3K1V, 2L1V
+# 113	NR_4.0_15092.1Exact match	3HOU    Complete RNA polymerase II elongation complex I with a T-U mismatch    X-RAY DIFFRACTION    Chain(s): 3; model(s): 1	3.2 
+
+	22	3HOU, 3HOW, 3HOZ
+# 114	NR_4.0_08224.1Exact match	3I5X    Structure of Mss116p bound to ssRNA and AMP-PNP    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.9 
+
+	9	3I5X, 3I62, 3I61
+# 115	NR_4.0_55213.1Exact match	3M3Y    RNA polymerase II elongation complex C    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.2 
+
+	11	3M3Y, 3GTM, 3GTQ
+# 116	NR_4.0_35740.1Exact match	3O7V    Crystal Structure of human Hiwi1 (V361M) PAZ domain (residues 277-399) in complex with 14-mer RNA (12-bp + 2-nt overhang) containing 2'-OCH3 at its 3'-end    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.1 
+
+	26	3O7V, 3O6E, 3O3I
+# 117	NR_4.0_10319.1Exact match	3OL7    Poliovirus polymerase elongation complex with CTP    X-RAY DIFFRACTION    Chain(s): B,C,D,F,G,H; model(s): 1	2.7 
+
+	140	3OL7, 4K4S, 4K4T
+# 118	NR_4.0_41266.2Exact match	3Q1Q    Structure of a Bacterial Ribonuclease P Holoenzyme in Complex with tRNA    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	3.8 
+
+	423	3Q1Q, 3Q1R, 2A2E
+# 119	NR_4.0_08567.1Exact match	3Q50    Structural analysis of a class I PreQ1 riboswitch aptamer in the metabolite-bound state    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.8 
+
+	33	3Q50, 3Q51, 3GCA
+# 120	NR_4.0_78897.2Exact matchHomo sapiens	3RG5    Crystal Structure of Mouse tRNA(Sec)    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.0 
+
+	172	3RG5, 3A3A, 3HL2
+# 121	NR_4.0_77082.1Exact match	3SUX    Crystal structure of THF riboswitch, bound with THF    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.9 
+
+	100	3SUX, 3SUY, 3SUH
+# 122	NR_4.0_93230.1Exact matchThermus thermophilus	3UMY    Crystal structure of mutant ribosomal protein T217A TthL1 in complex with 80nt 23S RNA from Thermus thermophilus    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.9 
+
+	80	3UMY, 3U4M, 3U56
+# 123	NR_4.0_47610.1Exact match	3WFS    tRNA processing enzyme complex 3    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.3 
+
+	72	3WFS, 3WFR, 3WFQ
+# 124	NR_4.0_52677.1Exact match	4G9Z    Lassa nucleoprotein with dsRNA reveals novel mechanism for immune suppression    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.0 
+
+	8	4G9Z, 4GV3, 4GV6
+# 125	NR_4.0_98864.1Exact match	4OHY    Structure of a RNA-processing protein    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	2	4OHY, 4OI1, 4OI0
+# 126	NR_4.0_59726.1Exact match	4PQU    Crystal structure of HIV-1 Reverse Transcriptase in complex with RNA/DNA and dATP    X-RAY DIFFRACTION    Chain(s): T; model(s): 1	2.5 
+
+	42	4PQU, 4PUO, 4PWD
+# 127	NR_4.0_88472.1Exact match	1DQH    CRYSTAL STRUCTURE OF HELIX II OF THE X. LAEVIS SOMATIC 5S RRNA WITH A CYTOSINE BULGE IN TWO CONFORMATIONS    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.7 
+
+	19	1DQH, 1DQF
+# 128	NR_4.0_14853.1Exact matchEscherichia coli	1EFW    Crystal structure of aspartyl-tRNA synthetase from Thermus thermophilus complexed to tRNAasp from Escherichia coli    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.0 
+
+	126	1EFW, 1C0A
+# 129	NR_4.0_09710.1Exact matchThermus thermophilus	1EIY    THE CRYSTAL STRUCTURE OF PHENYLALANYL-TRNA SYNTHETASE FROM THERMUS THERMOPHILUS COMPLEXED WITH COGNATE TRNAPHE    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.3 
+
+	76	1EIY, 2IY5
+# 130	NR_4.0_02943.1Exact match	1ET4    CRYSTAL STRUCTURE OF A VITAMIN B12 BINDING RNA APTAMER WITH LIGAND AT 2.3 A    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.3 
+
+	175	1ET4, 1DDY
+# 131	NR_4.0_80869.1Exact match	1F7V    CRYSTAL STRUCTURE OF YEAST ARGINYL-TRNA SYNTHETASE COMPLEXED WITH THE TRNAARG    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.9 
+
+	60	1F7V, 1F7U
+# 132	NR_4.0_60542.1Exact match	1FUF    CRYSTAL STRUCTURE OF A 14BP RNA OLIGONUCLEOTIDE CONTAINING DOUBLE UU BULGES: A NOVEL INTRAMOLECULAR U*(AU) BASE TRIPLE    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.7 
+
+	26	1FUF, 1IK5
+# 133	NR_4.0_15524.1Exact match	1FXL    CRYSTAL STRUCTURE OF HUD AND AU-RICH ELEMENT OF THE C-FOS RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.8 
+
+	8	1FXL, 4ED5
+# 134	NR_4.0_38798.1Exact match	1GAX    CRYSTAL STRUCTURE OF THERMUS THERMOPHILUS VALYL-TRNA SYNTHETASE COMPLEXED WITH TRNA(VAL) AND VALYL-ADENYLATE ANALOGUE    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.9 
+
+	150	1GAX, 1IVS
+# 135	NR_4.0_40519.1Exact match	1GTF    THE STRUCTURE OF THE TRP RNA-BINDING ATTENUATION PROTEIN (TRAP) BOUND TO A 53-NUCLEOTIDE RNA MOLECULE CONTAINING GAGUU REPEATS    X-RAY DIFFRACTION    Chain(s): W; model(s): 1	1.8 
+
+	44	1GTF, 1C9S
+# 136	NR_4.0_06628.1Exact matchESCHERICHIA COLI	1H2C    EBOLA VIRUS MATRIX PROTEIN VP40 N-TERMINAL DOMAIN IN COMPLEX WITH RNA (HIGH-RESOLUTION VP40[55-194] VARIANT).    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	1.6 
+
+	3	1H2C, 1H2D
+# 137	NR_4.0_78106.1Exact match	1H38    STRUCTURE OF A T7 RNA POLYMERASE ELONGATION COMPLEX AT 2.9A RESOLUTION    X-RAY DIFFRACTION    Chain(s): F; model(s): 1	2.9 
+
+	32	1H38, 1S0V
+# 138	NR_4.0_53390.1Exact matchTHERMUS THERMOPHILUS	1H4S    PROLYL-TRNA SYNTHETASE FROM THERMUS THERMOPHILUS COMPLEXED WITH TRNAPRO(CGG) AND A PROLYL-ADENYLATE ANALOGUE    X-RAY DIFFRACTION    Chain(s): T; model(s): 1	2.9 
+
+	65	1H4S, 1H4Q
+# 139	NR_4.0_17595.3Exact match	1JBR    Crystal Structure of the Ribotoxin Restrictocin and a 31-mer SRD RNA Inhibitor    X-RAY DIFFRACTION    Chain(s): C,F; model(s): 1	2.2 
+
+	61	1JBR, 1JBT
+# 140	NR_4.0_32011.1Exact match	1JID    Human SRP19 in complex with helix 6 of Human SRP RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.8 
+
+	26	1JID, 1L1W
+# 141	NR_4.0_00643.1Exact match	1M8W    CRYSTAL STRUCTURE OF THE PUMILIO-HOMOLOGY DOMAIN FROM HUMAN PUMILIO1 IN COMPLEX WITH NRE1-19 RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.2 
+
+	15	1M8W, 1M8X
+# 142	NR_4.0_29157.1Exact match	1M8Y    CRYSTAL STRUCTURE OF THE PUMILIO-HOMOLOGY DOMAIN FROM HUMAN PUMILIO1 IN COMPLEX WITH NRE2-10 RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.6 
+
+	20	1M8Y, 2YJY
+# 143	NR_4.0_25307.2Exact match	1N35    lambda3 elongation complex with four phosphodiester bond formed    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.5 
+
+	13	1N35, 1UON
+# 144	NR_4.0_02048.1Exact match	1NTB    2.9 A crystal structure of Streptomycin RNA-aptamer complex    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.9 
+
+	40	1NTB, 1NTA
+# 145	NR_4.0_73035.2Exact match	1NUV    The Leadzyme Ribozyme Bound to Mg(H2O)6(II) and Sr(II) at 1.8 A resolution    X-RAY DIFFRACTION    Chain(s): C,D,E,F; model(s): 1	1.8 
+
+	96	1NUV, 1NUJ
+# 146	NR_4.0_35276.1Exact match	1Q2R    Chemical trapping and crystal structure of a catalytic tRNA guanine transglycosylase covalent intermediate    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.9 
+
+	38	1Q2R, 1Q2S
+# 147	NR_4.0_58942.1Exact match	1S77    T7 RNAP product pyrophosphate elongation complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.7 
+
+	9	1S77, 1S76
+# 148	NR_4.0_13708.1Exact match	1SA9    Crystal Structure of the RNA octamer GGCGAGCC    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.9 
+
+	40	1SA9, 1YFV
+# 149	NR_4.0_32534.1Exact match	1UTF    THE STRUCTURE OF THE TRP RNA-BINDING ATTENUATION PROTEIN (TRAP) BOUND TO A RNA MOLECULE CONTAINING UAGAU REPEATS (PART I)    X-RAY DIFFRACTION    Chain(s): 0; model(s): 1	1.9 
+
+	25	1UTF, 1UTV
+# 150	NR_4.0_02683.1Exact match	1WMQ    Structure of the HutP antitermination complex bound to a single stranded region of hut mRNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.6 
+
+	14	1WMQ, 1WRQ
+# 151	NR_4.0_95538.1Exact matchTetrahymena thermophila	1X8W    Structure of the Tetrahymena Ribozyme: Base Triple Sandwich and Metal Ion at the Active Site    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.8 
+
+	242	1X8W, 1GRZ
+# 152	NR_4.0_60283.1Exact match	1ZEV    Crystal Structure of a Pathogenic RNA: CUG Repeats    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	36	1ZEV, 3GM7
+# 153	NR_4.0_14913.1Exact match	1ZH5    Structural basis for recognition of UUUOH 3'-terminii of nascent RNA pol III transcripts by La autoantigen    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	1.9 
+
+	18	1ZH5, 1YTY
+# 154	NR_4.0_92283.1Exact match	259D    RNA HYDRATION: A DETAILED LOOK    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.5 
+
+	16	259D, 1RXB
+# 155	NR_4.0_49167.1Exact match	280D    THE STRUCTURE OF AN RNA DODECAMER SHOWS HOW TANDEM U-U BASE PAIRS INCREASE THE RANGE OF STABLE RNA STRUCTURES AND THE DIVERSITY OF RECOGNITION SITES    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.4 
+
+	48	280D, 205D
+# 156	NR_4.0_06681.1Exact matchBos taurus	2AKE    Structure of human tryptophanyl-tRNA synthetase in complex with tRNA(Trp)    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.1 
+
+	72	2AKE, 2DR2
+# 157	NR_4.0_55098.1Exact match	2ANN    Crystal structure (I) of Nova-1 KH1/KH2 domain tandem with 25 nt RNA hairpin    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	23	2ANN, 2ANR
+# 158	NR_4.0_92621.1Exact match	2AZ2    Flock House virus B2-dsRNA Complex (P4122)    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.6 
+
+	30	2AZ2, 2AZ0
+# 159	NR_4.0_63094.1Exact match	2BQ5    MS2 (N87AE89K MUTANT) - RNA HAIRPIN COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.9 
+
+	36	2BQ5, 1ZDK
+# 160	NR_4.0_12122.1Exact match	2CSX    Crystal structure of Aquifex aeolicus methionyl-tRNA synthetase complexed with tRNA(Met)    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.7 
+
+	75	2CSX, 2CT8
+# 161	NR_4.0_02251.2Exact match	2EZ6    Crystal structure of Aquifex aeolicus RNase III (D44N) complexed with product of double-stranded RNA processing    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.1 
+
+	56	2EZ6, 2NUF
+# 162	NR_4.0_12429.1Exact match	2FZ2    Structure of Turnip Yellow Mosaic Virus at 100 K    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.9 
+
+	3	2FZ2, 2XPJ
+# 163	NR_4.0_50238.1Exact match	2GDI    Crystal structure of thiamine pyrophosphate-specific riboswitch in complex with thiamine pyrophosphate    X-RAY DIFFRACTION    Chain(s): X,Y; model(s): 1	2.1 
+
+	156	2GDI, 4NYA
+# 164	NR_4.0_27351.1Exact match	2GXB    Crystal Structure of The Za Domain bound to Z-RNA    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.3 
+
+	12	2GXB, 1T4X
+# 165	NR_4.0_55462.1Exact match	2HW8    Structure of ribosomal protein L1-mRNA complex at 2.1 resolution.    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.1 
+
+	36	2HW8, 1ZHO
+# 166	NR_4.0_78002.1Exact match	2IZM    MS2-RNA HAIRPIN (C-10) COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.7 
+
+	26	2IZM, 1ZDH
+# 167	NR_4.0_70920.1Exact match	2JLU    DENGUE VIRUS 4 NS3 HELICASE IN COMPLEX WITH SSRNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.0 
+
+	10	2JLU, 2JLV
+# 168	NR_4.0_65046.1Exact match	2JLX    DENGUE VIRUS 4 NS3 HELICASE IN COMPLEX WITH SSRNA AND ADP-VANADATE    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.2 
+
+	14	2JLX, 2JLY
+# 169	NR_4.0_82638.1Exact match	2O3X    Crystal Structure of the Prokaryotic Ribosomal Decoding Site Complexed with Paromamine Derivative NB30    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.9 
+
+	42	2O3X, 2F4S
+# 170	NR_4.0_75040.1Exact match	2PN4    Crystal Structure of Hepatitis C Virus IRES Subdomain IIa    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.3 
+
+	84	2PN4, 2PN3
+# 171	NR_4.0_18126.1Exact match	2Q1O    Crystal Structure Analysis of the RNA Dodecamer CGC-NF2-AAUUGGCG, with an Incorporated 2,4-Difluorotoluyl Residue (NF2)    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.1 
+
+	44	2Q1O, 2G92
+# 172	NR_4.0_42711.1Exact matchBacillus subtilis	2QBZ    Structure of the M-Box Riboswitch Aptamer Domain    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.6 
+
+	153	2QBZ, 3PDR
+# 173	NR_4.0_82926.1Exact match	2QUW    Hammerhead Ribozyme G12A mutant after cleavage    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.2 
+
+	67	2QUW, 2QUS
+# 174	NR_4.0_42197.1Exact match	2ZUF    Crystal structure of Pyrococcus horikoshii arginyl-tRNA synthetase complexed with tRNA(Arg)    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	75	2ZUF, 2ZUE
+# 175	NR_4.0_60745.1Exact matchEscherichia coli	364D    3.0 A STRUCTURE OF FRAGMENT I FROM E. COLI 5S RRNA    X-RAY DIFFRACTION    Chain(s): A,B,C; model(s): 1	3.0 
+
+	59	364D, 357D
+# 176	NR_4.0_61569.1Exact match	3ADD    Crystal structure of O-phosphoseryl-tRNA kinase complexed with selenocysteine tRNA and AMPPNP (crystal type 3)    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.4 
+
+	176	3ADD, 3ADB
+# 177	NR_4.0_53783.1Exact match	3AL0    Crystal structure of the glutamine transamidosome from Thermotoga maritima in the glutamylation state.    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.4 
+
+	74	3AL0, 3AKZ
+# 178	NR_4.0_40842.1Exact match	3AMU    Crystal structure of the TiaS-tRNA(Ile2)-AMPCPP-agmatine complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.1 
+
+	78	3AMU, 3AMT
+# 179	NR_4.0_99660.1Exact match	3CGP    X-ray structure of a pseudouridine-containing yeast spliceosomal U2 snRNA-intron branch site duplex bound to iodide ions    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	24	3CGP, 3CGQ
+# 180	NR_4.0_89582.1Exact match	3CUN    Aminoacyl-tRNA synthetase ribozyme    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.0 
+
+	91	3CUN, 3CUL
+# 181	NR_4.0_73862.1Exact match	3CZW    X-ray structures of the (GUGGUCUGAUGAGGCC) RNA duplex    X-RAY DIFFRACTION    Chain(s): X; model(s): 1,2	1.4 
+
+	28	3CZW, 3D0M
+# 182	NR_4.0_67537.1Exact match	3FHT    Crystal structure of human Dbp5 in complex with AMPPNP and RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.2 
+
+	12	3FHT, 3G0H
+# 183	NR_4.0_84922.1Exact match	3FTF    Crystal structure of A. aeolicus KsgA in complex with RNA and SAH    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.8 
+
+	44	3FTF, 3FTE
+# 184	NR_4.0_34519.1Exact match	3HO1    Crystal structure of T. thermophilus Argonaute N546 mutant protein complexed with DNA guide strand and 12-nt RNA target strand    X-RAY DIFFRACTION    Chain(s): Y; model(s): 1	2.6 
+
+	11	3HO1, 3HVR
+# 185	NR_4.0_74417.1Exact match	3JXR    X-Ray structure of r[CGCG(5-fluoro)CG]2    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.3 
+
+	10	3JXR, 3JXQ
+# 186	NR_4.0_61033.1Exact match	3K49    Puf3 RNA binding domain bound to Cox17 RNA 3' UTR recognition sequence site B    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.5 
+
+	30	3K49, 3K4E
+# 187	NR_4.0_37799.1Exact match	3K5Y    Crystal structure of FBF-2/gld-1 FBEa complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	9	3K5Y, 3QGB
+# 188	NR_4.0_94894.1Exact match	3KNC    Crystal structure of the CeNA-RNA hybrid octamer ce(GCGTAGCG):r(CGCUACGC)    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.5 
+
+	8	3KNC, 1EJZ
+# 189	NR_4.0_26858.1Exact match	3ND3    Uhelix 16-mer dsRNA    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	1.4 
+
+	16	3ND3, 3ND4
+# 190	NR_4.0_70618.1Exact match	3NPN    Structure of the s-adenosylhomocysteine riboswitch at 3.0A    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.8 
+
+	50	3NPN, 3NPQ
+# 191	NR_4.0_65862.1Exact matchPyrococcus furiosus	3NVI    Structure of N-terminal truncated Nop56/58 bound with L7Ae and box C/D RNA    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.7 
+
+	48	3NVI, 3NMU
+# 192	NR_4.0_02604.1Exact match	3OIN    Crystal structure of Saccharomyces Cerevisiae Nep1/Emg1 bound to S-adenosylhomocysteine and 1 molecule of cognate RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.9 
+
+	14	3OIN, 3OIJ
+# 193	NR_4.0_36241.1Exact match	3OL8    Poliovirus polymerase elongation complex with CTP-Mn    X-RAY DIFFRACTION    Chain(s): J,K,L,N,O,P; model(s): 1	2.8 
+
+	138	3OL8, 4K4X
+# 194	NR_4.0_92776.1Exact match	3PEY    S. cerevisiae Dbp5 bound to RNA and ADP BeF3    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.4 
+
+	5	3PEY, 3PEW
+# 195	NR_4.0_67105.1Exact match	3Q0Q    Crystal structure of the PUMILIO-homology domain from Human PUMILIO2 in complex with p38alpha NREa    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	8	3Q0Q, 3Q0L
+# 196	NR_4.0_73580.1Exact match	3Q0R    Crystal structure of the PUMILIO-homology domain from Human PUMILIO2 in complex with p38alpha NREb    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	8	3Q0R, 3Q0M
+# 197	NR_4.0_34262.1Exact match	3Q0S    Crystal structure of the PUMILIO-homology domain from Human PUMILIO2 in complex with erk2 NRE    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	8	3Q0S, 3Q0N
+# 198	NR_4.0_15314.1Exact match	3QGC    Crystal structure of FBF-2 R288Y mutant in complex with gld-1 FBEa A7U mutant    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.9 
+
+	9	3QGC, 3QG9
+# 199	NR_4.0_07756.1Exact match	3S17    RNA Polymerase II Initiation Complex with a 9-nt RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.2 
+
+	9	3S17, 2E2J
+# 200	NR_4.0_32420.1Exact match	3SQW    Structure of Mss116p (NTE deletion) bound to ssRNA and AMP-PNP    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.9 
+
+	6	3SQW, 3SQX
+# 201	NR_4.0_89360.1Exact match	3SYW    Crystal Structure of the Triplet Repeat in Myotonic Dystrophy Reveals Heterogeneous 1x1 Nucleotide UU Internal Loop Conformations    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	38	3SYW, 4J50
+# 202	NR_4.0_63526.1Exact match	3TS0    Mouse Lin28A in complex with let-7f-1 microRNA pre-element    X-RAY DIFFRACTION    Chain(s): U; model(s): 1	2.8 
+
+	44	3TS0, 3TRZ
+# 203	NR_4.0_40839.1Exact matchThermus thermophilus	3TUP    Crystal structure of human mitochondrial PheRS complexed with tRNAPhe in the active open state    X-RAY DIFFRACTION    Chain(s): T; model(s): 1	3.1 
+
+	74	3TUP, 3B0V
+# 204	NR_4.0_11774.1Exact match	3VNU    Complex structure of viral RNA polymerase I    X-RAY DIFFRACTION    Chain(s): G,T; model(s): 1	3.2 
+
+	12	3VNU, 4FWT
+# 205	NR_4.0_55364.1Exact match	3WQY    Crystal structure of Archaeoglobus fulgidus alanyl-tRNA synthetase in complex with wild-type tRNA(Ala) having G3.U70    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.3 
+
+	75	3WQY, 3WQZ
+# 206	NR_4.0_55921.1Exact match	421D    5'-D(*TP*TP*CP*TP*TP*(BRO)CP*TP*TP*C)-3', 5'-R(*GP*AP*AP*GP*AP*AP*GP*AP*A)-3'    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.8 
+
+	9	421D, 2GUN
+# 207	NR_4.0_10742.1Exact match	4A3D    RNA POLYMERASE II INITIAL TRANSCRIBING COMPLEX WITH A 6NT DNA-RNA HYBRID    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.4 
+
+	6	4A3D, 4A3F
+# 208	NR_4.0_51213.1Exact match	4D25    Crystal structure of the Bombyx mori Vasa helicase (E339Q) in complex with RNA and AMPPNP    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	1.9 
+
+	6	4D25, 4D26
+# 209	NR_4.0_12131.1Exact match	4E48    Structure of 20mer double-helical RNA composed of CUG/CUG-repeats    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.5 
+
+	60	4E48, 4JNX
+# 210	NR_4.0_31033.1Exact matchSPODOPTERA FRUGIPERDA	4FTS    Crystal structure of the N363T mutant of the Flock House virus capsid    X-RAY DIFFRACTION    Chain(s): R; model(s): 1,6	3.2 
+
+	15	4FTS, 4FTE
+# 211	NR_4.0_92590.1Exact match	4GCW    Crystal structure of RNase Z in complex with precursor tRNA(Thr)    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.0 
+
+	53	4GCW, 2FK6
+# 212	NR_4.0_50786.1Exact match	4GHA    Crystal structure of Marburg virus VP35 RNA binding domain bound to 12-bp dsRNA    X-RAY DIFFRACTION    Chain(s): I,J; model(s): 1	2.5 
+
+	24	4GHA, 4LG2
+# 213	NR_4.0_85587.1Exact match	4GZY    Crystal structures of bacterial RNA Polymerase paused elongation complexes    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.5 
+
+	9	4GZY, 4GZZ
+# 214	NR_4.0_57075.1Exact match	4H6F    Crystal Structure of Rift Valley Fever Virus Nucleocapsid Protein Hexamer Bound to Single-stranded RNA. This entry contains three out of six hexamers bound to RNA.    X-RAY DIFFRACTION    Chain(s): a; model(s): 1	3.4 
+
+	108	4H6F, 4H6G
+# 215	NR_4.0_32063.1Exact match	4H8K    Crystal structure of LC11-RNase H1 in complex with RNA/DNA hybrid    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.3 
+
+	14	4H8K, 2QKK
+# 216	NR_4.0_96384.1Exact match	4HT9    Crystal structure of E coli Hfq bound to two RNAs    X-RAY DIFFRACTION    Chain(s): D,E; model(s): 1	1.8 
+
+	9	4HT9, 4HT8
+# 217	NR_4.0_21521.1Exact match	4JK0    Crystal structure of T89Q-mutant of RNA silencing suppressor p19 with 2nt-5'-overhanging double-helical RNA 21mer pUUUG(CUG)5CU    X-RAY DIFFRACTION    Chain(s): B; model(s): 1,2	2.3 
+
+	42	4JK0, 4JGN
+# 218	NR_4.0_71052.1Exact match	4KR2    Glycyl-tRNA synthetase in complex with tRNA-Gly    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.3 
+
+	68	4KR2, 4KR3
+# 219	NR_4.0_18302.1Exact match	4KR7    Crystal structure of a 4-thiouridine synthetase - RNA complex with bound ATP    X-RAY DIFFRACTION    Chain(s): M,X; model(s): 1	3.4 
+
+	78	4KR7, 4KR9
+# 220	NR_4.0_30165.1Exact match	4L81    Structure of the SAM-I/IV riboswitch (env87(deltaU92, deltaG93))    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.0 
+
+	96	4L81, 4OQU
+# 221	NR_4.0_65221.1Exact match	4LX6    X-ray crystal structure of the M6C' riboswitch aptamer bound to 2-aminopyrimido[4,5-d]pyrimidin-4(3H)-one (PPAO)    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.2 
+
+	71	4LX6, 4LX5
+# 222	NR_4.0_69134.1Exact match	4M30    Crystal structure of RNASE III complexed with double-stranded RNA AND AMP (TYPE II CLEAVAGE)    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.5 
+
+	56	4M30, 4M2Z
+# 223	NR_4.0_59795.1Exact match	4M59    Crystal structure of the pentatricopeptide repeat protein PPR10 in complex with an 18-nt psaJ RNA element    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.5 
+
+	31	4M59, 4OE1
+# 224	NR_4.0_58825.1Exact matchHomo sapiens	4OLA    Crystal Structure of Human Argonaute2    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	8	4OLA, 4OLB
+# 225	NR_4.0_82020.1Exact match	4P9R    Speciation of a group I intron into a lariat capping ribozyme (Heavy atom derivative)    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.7 
+
+	189	4P9R, 4P95
+# 226	NR_4.0_38666.1Exact match	4PCJ    Modifications to toxic CUG RNAs induce structural stability and rescue mis-splicing in Myotonic Dystrophy    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.9 
+
+	34	4PCJ, 4FNJ
+# 227	NR_4.0_33843.1Exact match	4PY5    Thermovibrio ammonificans RNase H3 in complex with 19-mer RNA/DNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.1 
+
+	19	4PY5, 2QKB
+# 228	NR_4.0_65393.1Exact match	4QK8    Thermoanaerobacter pseudethanolicus c-di-AMP riboswitch    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.1 
+
+	120	4QK8, 4QKA
+# 229	NR_4.0_56760.1Exact matchThermoanaerobacter tengcongensis	4QLM    ydao riboswitch binding to c-di-AMP    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.7 
+
+	108	4QLM, 4QLN
+# 230	NR_4.0_05522.1New id, no parents	4RGE    Crystal structure of the in-line aligned env22 twister ribozyme    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.9 
+
+	164	4RGE, 4RGF
+# 231	NR_4.0_02530.1Exact match	4TS2    Crystal structure of the Spinach RNA aptamer in complex with DFHBI, magnesium ions    X-RAY DIFFRACTION    Chain(s): X,Y; model(s): 1	2.9 
+
+	85	4TS2, 4TS0
+# 232	NR_4.0_48524.1Exact match	4TZX    Vibrio Vulnificus Adenine Riboswitch variant, grown in Mg2+    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.0 
+
+	71	4TZX, 4TZY
+# 233	NR_4.0_23558.1Exact match	4UN5    Crystal structure of Cas9 bound to PAM-containing DNA target containing mismatches at positions 1-3    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.4 
+
+	81	4UN5, 4UN4
+# 234	NR_4.0_75502.1Exact matchSUS SCROFA	4V19    Structure of the large subunit of the mammalian mitoribosome, part 1 of 2    ELECTRON MICROSCOPY    Chain(s): A,C,Z; model(s): 1	3.4 
+
+	1521	4V19, 4CE4
+# 235	NR_4.0_82106.1Exact matchSus scrofa	4W23    Structure of the 80S mammalian ribosome bound to eEF2 (this entry contains the small ribosomal subunit)    ELECTRON MICROSCOPY    Chain(s): 2; model(s): 1		1721	4W23, 4W28
+# 236	NR_4.0_82705.1Exact matchBacillus subtilis	4W92    Crystal structure of Bacillus subtilis cyclic-di-AMP riboswitch ydaO    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.2 
+
+	95	4W92, 4W90
+# 237	NR_4.0_48896.1Exact match	4WFL    Structure of the complete bacterial SRP Alu domain    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.5 
+
+	105	4WFL, 4WFM
+# 238	NR_4.0_25990.1Exact match	165D    THE STRUCTURE OF A MISPAIRED RNA DOUBLE HELIX AT 1.6 ANGSTROMS RESOLUTION AND IMPLICATIONS FOR THE PREDICTION OF RNA SECONDARY STRUCTURE    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	16	165D
+# 239	NR_4.0_52733.1Exact matchHomo sapiens	1A9N    CRYSTAL STRUCTURE OF THE SPLICEOSOMAL U2B''-U2A' PROTEIN COMPLEX BOUND TO A FRAGMENT OF U2 SMALL NUCLEAR RNA    X-RAY DIFFRACTION    Chain(s): Q; model(s): 1	2.4 
+
+	48	1A9N
+# 240	NR_4.0_69249.1Exact match	1AV6    VACCINIA METHYLTRANSFERASE VP39 COMPLEXED WITH M7G CAPPED RNA HEXAMER AND S-ADENOSYLHOMOCYSTEINE    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.8 
+
+	6	1AV6
+# 241	NR_4.0_09406.1Exact matchEscherichia coli	1B23    E. coli cysteinyl-tRNA and T. aquaticus elongation factor EF-TU:GTP ternary complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.6 
+
+	66	1B23
+# 242	NR_4.0_56279.1Exact match	1B2M    THREE-DIMENSIONAL STRUCTURE OF RIBONULCEASE T1 COMPLEXED WITH AN ISOSTERIC PHOSPHONATE ANALOGUE OF GPU: ALTERNATE SUBSTRATE BINDING MODES AND CATALYSIS.    X-RAY DIFFRACTION    Chain(s): C,D,E; model(s): 1	2.0 
+
+	3	1B2M
+# 243	NR_4.0_09336.1Exact match	1B7F    SXL-LETHAL PROTEIN/RNA COMPLEX    X-RAY DIFFRACTION    Chain(s): P,Q; model(s): 1	2.6 
+
+	24	1B7F
+# 244	NR_4.0_42811.1Exact match	1BMV    PROTEIN-RNA INTERACTIONS IN AN ICOSAHEDRAL VIRUS AT 3.0 ANGSTROMS RESOLUTION    X-RAY DIFFRACTION    Chain(s): M; model(s): 1	3.0 
+
+	11	1BMV
+# 245	NR_4.0_08958.1Exact match	1BR3    CRYSTAL STRUCTURE OF AN 82-NUCLEOTIDE RNA-DNA COMPLEX FORMED BY THE 10-23 DNA ENZYME    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.0 
+
+	13	1BR3
+# 246	NR_4.0_69756.1Exact match	1CSL    CRYSTAL STRUCTURE OF THE RRE HIGH AFFINITY SITE    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	28	1CSL
+# 247	NR_4.0_37338.1Exact match	1CVJ    X-RAY CRYSTAL STRUCTURE OF THE POLY(A)-BINDING PROTEIN IN COMPLEX WITH POLYADENYLATE RNA    X-RAY DIFFRACTION    Chain(s): M; model(s): 1	2.6 
+
+	67	1CVJ
+# 248	NR_4.0_85748.1Exact match	1CWP    STRUCTURES OF THE NATIVE AND SWOLLEN FORMS OF COWPEA CHLOROTIC MOTTLE VIRUS DETERMINED BY X-RAY CRYSTALLOGRAPHY AND CRYO-ELECTRON MICROSCOPY    X-RAY DIFFRACTION    Chain(s): D,E,F; model(s): 1	3.2 
+
+	10	1CWP
+# 249	NR_4.0_93666.1Exact match	1D4R    29-mer fragment of human srp rna helix 6    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.0 
+
+	54	1D4R
+# 250	NR_4.0_82997.1Exact match	1DDL    DESMODIUM YELLOW MOTTLE TYMOVIRUS    X-RAY DIFFRACTION    Chain(s): D,E; model(s): 1	2.7 
+
+	9	1DDL
+# 251	NR_4.0_74517.1Exact match	1DFU    CRYSTAL STRUCTURE OF E.COLI RIBOSOMAL PROTEIN L25 COMPLEXED WITH A 5S RRNA FRAGMENT AT 1.8 A RESOLUTION    X-RAY DIFFRACTION    Chain(s): M,N; model(s): 1	1.8 
+
+	38	1DFU
+# 252	NR_4.0_70729.1Exact match	1DUH    CRYSTAL STRUCTURE OF THE CONSERVED DOMAIN IV OF E. COLI 4.5S RNA    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.7 
+
+	88	1DUH
+# 253	NR_4.0_90079.1Exact match	1DUQ    CRYSTAL STRUCTURE OF THE REV BINDING ELEMENT OF HIV-1    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.1 
+
+	104	1DUQ
+# 254	NR_4.0_75379.1Exact match	1E7K    CRYSTAL STRUCTURE OF THE SPLICEOSOMAL 15.5KD PROTEIN BOUND TO A U4 SNRNA FRAGMENT    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.9 
+
+	34	1E7K
+# 255	NR_4.0_53944.1Exact match	1E8O    CORE OF THE ALU DOMAIN OF THE MAMMALIAN SRP    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.2 
+
+	49	1E8O
+# 256	NR_4.0_52914.1Exact match	1EC6    CRYSTAL STRUCTURE OF NOVA-2 KH3 K-HOMOLOGY RNA-BINDING DOMAIN BOUND TO 20-MER RNA HAIRPIN    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.4 
+
+	40	1EC6
+# 257	NR_4.0_35196.1Exact match	1EGK    CRYSTAL STRUCTURE OF A NUCLEIC ACID FOUR-WAY JUNCTION    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.1 
+
+	40	1EGK
+# 258	NR_4.0_51877.1Exact match	1F1T    CRYSTAL STRUCTURE OF THE MALACHITE GREEN APTAMER COMPLEXED WITH TETRAMETHYL-ROSAMINE    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.8 
+
+	33	1F1T
+# 259	NR_4.0_05908.1Exact match	1F27    CRYSTAL STRUCTURE OF A BIOTIN-BINDING RNA PSEUDOKNOT    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.3 
+
+	30	1F27
+# 260	NR_4.0_21957.1Exact matchPariacato virus	1F8V    THE STRUCTURE OF PARIACOTO VIRUS REVEALS A DODECAHEDRAL CAGE OF DUPLEX RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1,6	3.0 
+
+	25	1F8V
+# 261	NR_4.0_30015.1Exact match	1FEU    CRYSTAL STRUCTURE OF RIBOSOMAL PROTEIN TL5, ONE OF THE CTC FAMILY PROTEINS, COMPLEXED WITH A FRAGMENT OF 5S RRNA.    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.3 
+
+	80	1FEU
+# 262	NR_4.0_73660.1Exact matchBos taurus	1FIR    CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTION PRIMER TRNA(LYS3)    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.3 
+
+	61	1FIR
+# 263	NR_4.0_83174.1Exact match	1G1X    STRUCTURE OF RIBOSOMAL PROTEINS S15, S6, S18, AND 16S RIBOSOMAL RNA    X-RAY DIFFRACTION    Chain(s): D,E; model(s): 1	2.6 
+
+	84	1G1X
+# 264	NR_4.0_21412.1Exact match	1G2E    CRYSTAL STRUCTURE OF HUD AND AU-RICH ELEMENT OF THE TUMOR NECROSIS FACTOR ALPHA RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	9	1G2E
+# 265	NR_4.0_87307.1Exact match	1G2J    RNA OCTAMER R(CCCP*GGGG) CONTAINING PHENYL RIBONUCLEOTIDE    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.0 
+
+	14	1G2J
+# 266	NR_4.0_36625.1Exact match	1GTN    STRUCTURE OF THE TRP RNA-BINDING ATTENUATION PROTEIN (TRAP) BOUND TO AN RNA MOLECULE CONTAINING 11 GAGCC REPEATS    X-RAY DIFFRACTION    Chain(s): W; model(s): 1	2.5 
+
+	44	1GTN
+# 267	NR_4.0_73659.1Exact match	1H3E    Tyrosyl-tRNA synthetase from Thermus thermophilus complexed with wild-type tRNAtyr(GUA) and with ATP and tyrosinol    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.9 
+
+	77	1H3E
+# 268	NR_4.0_22966.1Exact match	1HMH    THREE-DIMENSIONAL STRUCTURE OF A HAMMERHEAD RIBOZYME    X-RAY DIFFRACTION    Chain(s): A,C; model(s): 1	2.6 
+
+	102	1HMH
+# 269	NR_4.0_76275.1Exact match	1HYS    CRYSTAL STRUCTURE OF HIV-1 REVERSE TRANSCRIPTASE IN COMPLEX WITH A POLYPURINE TRACT RNA:DNA    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.0 
+
+	23	1HYS
+# 270	NR_4.0_52031.1Exact match	1I5L    CRYSTAL STRUCTURE OF AN SM-LIKE PROTEIN (AF-SM1) FROM ARCHAEOGLOBUS FULGIDUS COMPLEXED WITH SHORT POLY-U RNA    X-RAY DIFFRACTION    Chain(s): U; model(s): 1	2.8 
+
+	6	1I5L
+# 271	NR_4.0_67013.1Exact match	1I6H    RNA POLYMERASE II ELONGATION COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.3 
+
+	9	1I6H
+# 272	NR_4.0_21101.1Exact match	1I6U    RNA-PROTEIN INTERACTIONS: THE CRYSTAL STRUCTURE OF RIBOSOMAL PROTEIN S8/RRNA COMPLEX FROM METHANOCOCCUS JANNASCHII    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.6 
+
+	74	1I6U
+# 273	NR_4.0_55157.1Exact match	1I9X    CRYSTAL STRUCTURE OF BPS-U2 SNRNA DUPLEX    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.2 
+
+	26	1I9X
+# 274	NR_4.0_54015.1Exact match	1J1U    Crystal structure of archaeal tyrosyl-tRNA synthetase complexed with tRNA(Tyr) and L-tyrosine    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	74	1J1U
+# 275	NR_4.0_16901.1Exact match	1J2B    Crystal Structure Of Archaeosine tRNA-Guanine Transglycosylase Complexed With lambda-form tRNA(Val)    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	3.3 
+
+	148	1J2B
+# 276	NR_4.0_26363.1Exact match	1J6S    Crystal Structure of an RNA Tetraplex (UGAGGU)4 with A-tetrads, G-tetrads, U-tetrads and G-U octads    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2,3,4	1.4 
+
+	20	1J6S
+# 277	NR_4.0_18402.1Exact match	1J9H    Crystal Structure of an RNA Duplex with Uridine Bulges    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.4 
+
+	32	1J9H
+# 278	NR_4.0_36402.1Exact match	1JBS    Crystal structure of ribotoxin restrictocin and a 29-mer SRD RNA analog    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.0 
+
+	34	1JBS
+# 279	NR_4.0_23554.1Exact match	1JZV    Crystal structure of a bulged RNA from the SL2 stem-loop of the HIV-1 psi-RNA    X-RAY DIFFRACTION    Chain(s): A,B,C,D; model(s): 1	1.7 
+
+	30	1JZV
+# 280	NR_4.0_15800.1Exact match	1KFO    CRYSTAL STRUCTURE OF AN RNA HELIX RECOGNIZED BY A ZINC-FINGER PROTEIN: AN 18 BASE PAIR DUPLEX AT 1.6 RESOLUTION    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	1.6 
+
+	36	1KFO
+# 281	NR_4.0_34633.1Exact match	1KH6    Crystal Structure of an RNA Tertiary Domain Essential to HCV IRES-mediated Translation Initiation.    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.9 
+
+	42	1KH6
+# 282	NR_4.0_99271.1Exact match	1KNZ    Recognition of the rotavirus mRNA 3' consensus by an asymmetric NSP3 homodimer    X-RAY DIFFRACTION    Chain(s): W; model(s): 1	2.5 
+
+	20	1KNZ
+# 283	NR_4.0_72617.1Exact match	1KOG    Crystal structure of E. coli threonyl-tRNA synthetase interacting with the essential domain of its mRNA operator    X-RAY DIFFRACTION    Chain(s): J; model(s): 1	3.5 
+
+	296	1KOG
+# 284	NR_4.0_89630.1Exact match	1KQ2    Crystal Structure of an Hfq-RNA Complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.7 
+
+	7	1KQ2
+# 285	NR_4.0_89713.1Exact match	1KXK    Crystal Structure of a RNA Molecule Containing Domain 5 and 6 of the Yeast ai5g Group II Self-splicing Intron    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.0 
+
+	70	1KXK
+# 286	NR_4.0_68991.1Exact match	1L3Z    Crystal Structure Analysis of an RNA Heptamer    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.0 
+
+	14	1L3Z
+# 287	NR_4.0_12454.1Exact match	1LAJ    The Structure of Tomato Aspermy Virus by X-Ray Crystallography    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.4 
+
+	3	1LAJ
+# 288	NR_4.0_75939.1Exact match	1LNT    Crystal Structure of the Highly Conserved RNA Internal Loop of SRP    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.7 
+
+	22	1LNT
+# 289	NR_4.0_36031.1Exact match	1M8V    Structure of Pyrococcus abyssii Sm Protein in Complex with a Uridine Heptamer    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	2.6 
+
+	55	1M8V
+# 290	NR_4.0_48561.1Exact match	1MDG    An Alternating Antiparallel Octaplex in an RNA Crystal Structure    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2,3,4	1.5 
+
+	20	1MDG
+# 291	NR_4.0_65411.1Exact match	1MHK    Crystal Structure Analysis of a 26mer RNA molecule, representing a new RNA motif, the hook-turn    X-RAY DIFFRACTION    Chain(s): L,S; model(s): 1	2.5 
+
+	26	1MHK
+# 292	NR_4.0_76083.1Exact matchEscherichia coli	1MJI    DETAILED ANALYSIS OF RNA-PROTEIN INTERACTIONS WITHIN THE BACTERIAL RIBOSOMAL PROTEIN L5/5S RRNA COMPLEX    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.5 
+
+	68	1MJI
+# 293	NR_4.0_61564.1Exact match	1MSW    Structural basis for the transition from initiation to elongation transcription in T7 RNA polymerase    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.1 
+
+	10	1MSW
+# 294	NR_4.0_94139.1Exact match	1MZP    Structure of the L1 protuberance in the ribosome    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.7 
+
+	55	1MZP
+# 295	NR_4.0_04241.1Exact match	1N1H    Initiation complex of polymerase lambda3 from reovirus    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.8 
+
+	4	1N1H
+# 296	NR_4.0_64636.1Exact match	1N38    reovirus polymerase lambda3 elongation complex with one phosphodiester bond formed    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.8 
+
+	7	1N38
+# 297	NR_4.0_65202.1Exact match	1NB7    HC-J4 RNA polymerase complexed with short RNA template strand    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.9 
+
+	8	1NB7
+# 298	NR_4.0_67359.1Exact matchBacillus subtilis	1NBS    Crystal structure of the specificity domain of Ribonuclease P RNA    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	3.2 
+
+	270	1NBS
+# 299	NR_4.0_92841.1Exact match	1OOA    CRYSTAL STRUCTURE OF NF-kB(p50)2 COMPLEXED TO A HIGH-AFFINITY RNA APTAMER    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.5 
+
+	58	1OOA
+# 300	NR_4.0_67717.1Exact match	1OSU    STRUCTURE OF THE RNA HEXAMER, R(UUCGCG), WITH A 5'-UU-OVERHANG EXHIBITING HOOGSTEEN-LIKE TRANS U-U BASE PAIRS    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2,3	1.4 
+
+	18	1OSU
+# 301	NR_4.0_11098.1Exact match	1P6V    Crystal structure of the tRNA domain of transfer-messenger RNA in complex with SmpB    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.2 
+
+	69	1P6V
+# 302	NR_4.0_12239.1Exact match	1P79    Crystal structure of a bulged RNA tetraplex: implications for a novel binding site in RNA tetraplex    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,4	1.1 
+
+	20	1P79
+# 303	NR_4.0_62224.1Exact match	1PGL    BEAN POD MOTTLE VIRUS (BPMV), MIDDLE COMPONENT    X-RAY DIFFRACTION    Chain(s): 3; model(s): 1	2.8 
+
+	6	1PGL
+# 304	NR_4.0_35387.1Exact match	1PVO    X-ray crystal structure of Rho transcription termination factor in complex with ssRNA substrate and ANPPNP    X-RAY DIFFRACTION    Chain(s): G,H,J,K,L; model(s): 1	3.0 
+
+	10	1PVO
+# 305	NR_4.0_55109.1Exact match	1QBP    CRYSTAL STRUCTURE OF A BROMINATED RNA HELIX WITH FOUR MISMATCHED BASE PAIRS    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.1 
+
+	72	1QBP
+# 306	NR_4.0_48801.1Exact match	1QC0    CRYSTAL STRUCTURE OF A 19 BASE PAIR COPY CONTROL RELATED RNA DUPLEX    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	1.6 
+
+	57	1QC0
+# 307	NR_4.0_86343.1Exact match	1QCU    CRYSTAL STRUCTURE OF AN 18 BASE PAIR COPY CONTROL RELATED RNA DUPLEX    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.2 
+
+	44	1QCU
+# 308	NR_4.0_51873.1Exact matchEscherichia coli	1QF6    STRUCTURE OF E. COLI THREONYL-TRNA SYNTHETASE COMPLEXED WITH ITS COGNATE TRNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.9 
+
+	69	1QF6
+# 309	NR_4.0_83624.1Exact match	1QLN    STRUCTURE OF A TRANSCRIBING T7 RNA POLYMERASE INITIATION COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.4 
+
+	2	1QLN
+# 310	NR_4.0_17574.1Exact match	1R3E    Crystal Structure of tRNA Pseudouridine Synthase TruB and Its RNA Complex: RNA-protein Recognition Through a Combination of Rigid Docking and Induced Fit    X-RAY DIFFRACTION    Chain(s): D,E; model(s): 1	2.1 
+
+	50	1R3E
+# 311	NR_4.0_18731.1Exact match	1R9F    Crystal structure of p19 complexed with 19-bp small interfering RNA    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	1.9 
+
+	38	1R9F
+# 312	NR_4.0_08178.1Exact match	1RLG    Molecular basis of Box C/D RNA-protein interaction: co-crystal structure of the Archaeal sRNP intiation complex    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.7 
+
+	44	1RLG
+# 313	NR_4.0_58211.1Exact matchRibgrass mosaic virus	1RMV    RIBGRASS MOSAIC VIRUS, FIBER DIFFRACTION    FIBER DIFFRACTION    Chain(s): B; model(s): 1	2.9 
+
+	3	1RMV
+# 314	NR_4.0_34776.1Exact match	1RNA    CRYSTALLOGRAPHIC STRUCTURE OF AN RNA HELIX: [U(U-A)6A]2    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.3 
+
+	28	1RNA
+# 315	NR_4.0_57338.1Exact match	1RPU    Crystal Structure of CIRV p19 bound to siRNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.5 
+
+	42	1RPU
+# 316	NR_4.0_59546.1Exact match	1RXA    CRYSTAL STRUCTURE OF R(CCCCGGGG) IN TWO DISTINCT LATTICES    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.9 
+
+	16	1RXA
+# 317	NR_4.0_06871.1Exact match	1S03    The Structure of a Ribosomal Protein S8/spc Operon mRNA Complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.7 
+
+	94	1S03
+# 318	NR_4.0_02301.1Exact match	1SAQ    Crystal Structure of the RNA octamer GIC(GA)GCC    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.7 
+
+	14	1SAQ
+# 319	NR_4.0_88903.1Exact match	1SDR    CRYSTAL STRUCTURE OF AN RNA DODECAMER CONTAINING THE ESCHERICHIA COLI SHINE-DALGARNO SEQUENCE    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.6 
+
+	48	1SDR
+# 320	NR_4.0_96407.1Exact match	1SDS    Structure of protein L7Ae bound to a K-turn derived from an archaeal box H/ACA sRNA    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	1.8 
+
+	45	1SDS
+# 321	NR_4.0_71431.1Exact matchThermus thermophilus	1SER    THE 2.9 ANGSTROMS CRYSTAL STRUCTURE OF T. THERMOPHILUS SERYL-TRNA SYNTHETASE COMPLEXED WITH TRNA SER    X-RAY DIFFRACTION    Chain(s): T; model(s): 1	2.9 
+
+	61	1SER
+# 322	NR_4.0_77315.1Exact match	1SI3    Crystal structure of the PAZ domain of human eIF2c1 in complex with a 9-mer siRNA-like duplex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1,2	2.6 
+
+	18	1SI3
+# 323	NR_4.0_22128.1Exact match	1T0D    Crystal Structure of 2-aminopurine labelled bacterial decoding site RNA    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.2 
+
+	64	1T0D
+# 324	NR_4.0_93544.1Exact match	1T0E    Crystal Structure of 2-aminopurine labelled bacterial decoding site RNA    X-RAY DIFFRACTION    Chain(s): A,C; model(s): 1	1.7 
+
+	35	1T0E
+# 325	NR_4.0_23257.1Exact match	1T0K    Joint X-ray and NMR Refinement of Yeast L30e-mRNA complex    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	3.2 
+
+	27	1T0K
+# 326	NR_4.0_54441.1Exact match	1TFW    How CCA is added to the 3' end of immature tRNA without the use of an oligonucleotide template    X-RAY DIFFRACTION    Chain(s): E,H; model(s): 1	2.2 
+
+	51	1TFW
+# 327	NR_4.0_49146.1Exact match	1TFY    How CCA is added to the 3' end of immature tRNA without the use of an oligonucleotide template    X-RAY DIFFRACTION    Chain(s): F,I; model(s): 1	3.2 
+
+	73	1TFY
+# 328	NR_4.0_55160.1Exact matchEscherichia coli	1U0B    Crystal structure of cysteinyl-tRNA synthetase binary complex with tRNACys    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.3 
+
+	74	1U0B
+# 329	NR_4.0_18538.1Exact match	1U1Y    Crystal structure of a complex between WT bacteriophage MS2 coat protein and an F5 aptamer RNA stemloop with 2aminopurine substituted at the-10 position    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.9 
+
+	31	1U1Y
+# 330	NR_4.0_77548.1Exact match	1U63    THE STRUCTURE OF A RIBOSOMAL PROTEIN L1-mRNA COMPLEX    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.4 
+
+	98	1U63
+# 331	NR_4.0_86147.1Exact match	1U9S    Crystal structure of the specificity domain of Ribonuclease P of the A-type    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.9 
+
+	155	1U9S
+# 332	NR_4.0_38702.1Exact matchXENOPUS LAEVIS	1UN6    THE CRYSTAL STRUCTURE OF A ZINC FINGER - RNA COMPLEX REVEALS TWO MODES OF MOLECULAR RECOGNITION    X-RAY DIFFRACTION    Chain(s): F; model(s): 1	3.1 
+
+	122	1UN6
+# 333	NR_4.0_38207.1Exact match	1URN    U1A MUTANT/RNA COMPLEX + GLYCEROL    X-RAY DIFFRACTION    Chain(s): Q; model(s): 1	1.9 
+
+	55	1URN
+# 334	NR_4.0_77918.1Exact match	1UTD    The structure of the trp RNA-binding attenuation protein (TRAP) bound to a 63-nucleotide RNA molecule containing GAGUUU repeats    X-RAY DIFFRACTION    Chain(s): 8; model(s): 1	2.1 
+
+	35	1UTD
+# 335	NR_4.0_59058.1Exact match	1UVI    THE STRUCTURAL BASIS FOR RNA SPECIFICITY AND CA2 INHIBITION OF AN RNA-DEPENDENT RNA POLYMERASE PHI6P2 WITH 6NT RNA    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.2 
+
+	12	1UVI
+# 336	NR_4.0_57157.1Exact match	1UVJ    THE STRUCTURAL BASIS FOR RNA SPECIFICITY AND CA2 INHIBITION OF AN RNA-DEPENDENT RNA POLYMERASE PHI6P2 WITH 7NT RNA    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	1.9 
+
+	12	1UVJ
+# 337	NR_4.0_29124.1Exact match	1UVK    The structural basis for RNA specificity and Ca2+ inhibition of an RNA-dependent RNA polymerase phi6p2 dead-end complex    X-RAY DIFFRACTION    Chain(s): B,D,F; model(s): 1	2.5 
+
+	3	1UVK
+# 338	NR_4.0_01751.1Exact match	1UVL    The structural basis for RNA specificity and Ca2+ inhibition of an RNA-dependent RNA polymerase phi6p2 with 5nt rna conformation B    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	15	1UVL
+# 339	NR_4.0_83785.1Exact match	1UVM    THE STRUCTURAL BASIS FOR RNA SPECIFICITY AND CA2 INHIBITION OF AN RNA-DEPENDENT RNA POLYMERASE PHI6P2 WITH 5NT RNA CONFORMATION A    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.0 
+
+	15	1UVM
+# 340	NR_4.0_55241.1Exact match	1UVN    THE STRUCTURAL BASIS FOR RNA SPECIFICITY AND CA2 INHIBITION OF AN RNA-DEPENDENT RNA POLYMERASE PHI6P2 CA2+ INHIBITION COMPLEX    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.0 
+
+	12	1UVN
+# 341	NR_4.0_54146.1Exact match	1VFG    Crystal structure of tRNA nucleotidyltransferase complexed with a primer tRNA and an incoming ATP analog    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.8 
+
+	31	1VFG
+# 342	NR_4.0_58272.1Exact matchTobacco mild green mosaic virus (TMGMV)	1VTM    STRUCTURE OF THE U2 STRAIN OF TOBACCO MOSAIC VIRUS REFINED AT 3.5 ANGSTROMS RESOLUTION USING X-RAY FIBER DIFFRACTION    FIBER DIFFRACTION    Chain(s): R; model(s): 1	3.5 
+
+	3	1VTM
+# 343	NR_4.0_47498.1Exact matchSaccharomyces cerevisiae	1VW3    Structure of the yeast mitochondrial large ribosomal subunit    ELECTRON MICROSCOPY    Chain(s): A; model(s): 1	3.2 
+
+	2712	1VW3
+# 344	NR_4.0_81441.1Exact matchSaccharomyces cerevisiae	1VW4    Structure of the yeast mitochondrial large ribosomal subunit    ELECTRON MICROSCOPY    Chain(s): e; model(s): 1	3.2 
+
+	20	1VW4
+# 345	NR_4.0_86881.1Exact matchPlasmodium falciparum	1VX6    Cryo-EM structure of the Plasmodium falciparum 80S ribosome bound to the anti-protozoan drug emetine, large subunit (RNA only)    ELECTRON MICROSCOPY    Chain(s): A,B,C; model(s): 1		3460	1VX6
+# 346	NR_4.0_33780.1Exact matchEscherichia coli	1VY8    Crystal structure of the E. coli CRISPR RNA-guided surveillance complex, Cascade    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	3.2 
+
+	58	1VY8
+# 347	NR_4.0_68500.1Exact matchEscherichia coli	1VY9    Crystal structure of the E. coli CRISPR RNA-guided surveillance complex, Cascade    X-RAY DIFFRACTION    Chain(s): L; model(s): 1	3.2 
+
+	60	1VY9
+# 348	NR_4.0_78012.1Exact match	1WNE    Foot and Mouth Disease Virus RNA-dependent RNA polymerase in complex with a template-primer RNA    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	3.0 
+
+	13	1WNE
+# 349	NR_4.0_89974.1Exact match	1WPU    Crystal Structure of the HutP antitermination complex bound to a single stranded region of hut mRNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.5 
+
+	14	1WPU
+# 350	NR_4.0_38420.1Exact match	1WZ2    The crystal structure of Leucyl-tRNA synthetase and tRNA(leucine) complex    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	3.2 
+
+	176	1WZ2
+# 351	NR_4.0_28103.1Exact match	1XJR    The Structure of a Rigorously Conserved RNA Element Within the SARS Virus Genome    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.7 
+
+	46	1XJR
+# 352	NR_4.0_96866.1Exact match	1XOK    crystal structure of alfalfa mosaic virus RNA 3'UTR in complex with coat protein N terminal peptide    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	3.0 
+
+	36	1XOK
+# 353	NR_4.0_08274.1Exact match	1XPO    Structural mechanism of inhibition of the Rho transcription termination factor by the antibiotic bicyclomycin    X-RAY DIFFRACTION    Chain(s): G,H,J,K,L,M; model(s): 1	3.2 
+
+	12	1XPO
+# 354	NR_4.0_96102.1Exact match	1XPR    Structural mechanism of inhibition of the Rho transcription termination factor by the antibiotic 5a-formylbicyclomycin (FB)    X-RAY DIFFRACTION    Chain(s): G,H,J,K,L,M; model(s): 1	3.2 
+
+	12	1XPR
+# 355	NR_4.0_41380.1Exact match	1XPU    Structural mechanism of inhibition of the Rho transcription termination factor by the antibiotic 5a-(3-formylphenylsulfanyl)-dihydrobicyclomycin (FPDB)    X-RAY DIFFRACTION    Chain(s): G,H,J,K,L,M; model(s): 1	3.1 
+
+	12	1XPU
+# 356	NR_4.0_96941.1Exact matchStaphylococcus phage Twort	1Y0Q    Crystal structure of an active group I ribozyme-product complex    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	3.6 
+
+	233	1Y0Q
+# 357	NR_4.0_90868.1Exact matchVibrio vulnificus	1Y26    A-riboswitch-adenine complex    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.1 
+
+	71	1Y26
+# 358	NR_4.0_90169.1Exact matchSaccharomyces cerevisiae	1YFG    YEAST INITIATOR TRNA    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.0 
+
+	64	1YFG
+# 359	NR_4.0_74969.1Exact match	1YTU    Structural basis for 5'-end-specific recognition of the guide RNA strand by the A. fulgidus PIWI protein    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.5 
+
+	9	1YTU
+# 360	NR_4.0_23901.1Exact match	1YVP    Ro autoantigen complexed with RNAs    X-RAY DIFFRACTION    Chain(s): C,D,G; model(s): 1	2.2 
+
+	21	1YVP
+# 361	NR_4.0_86983.1Exact match	1YYW    Crystal structure of RNase III from Aquifex aeolicus complexed with double stranded RNA at 2.8-Angstrom Resolution    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.8 
+
+	96	1YYW
+# 362	NR_4.0_43478.1Exact match	1YZ9    Crystal structure of RNase III mutant E110Q from Aquifex aeolicus complexed with double stranded RNA at 2.1-Angstrom Resolution    X-RAY DIFFRACTION    Chain(s): C,D,E,F; model(s): 1	2.1 
+
+	44	1YZ9
+# 363	NR_4.0_45786.1Exact match	1ZBH    3'-end specific recognition of histone mRNA stem-loop by 3'-exonuclease    X-RAY DIFFRACTION    Chain(s): F; model(s): 1	3.0 
+
+	32	1ZBH
+# 364	NR_4.0_21447.1Exact match	1ZBI    Bacillus halodurans RNase H catalytic domain mutant D132N in complex with 12-mer RNA/DNA hybrid    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.9 
+
+	12	1ZBI
+# 365	NR_4.0_28514.1Exact match	1ZBL    Bacillus halodurans RNase H catalytic domain mutant D192N in complex with 12-mer RNA/DNA hybrid    X-RAY DIFFRACTION    Chain(s): C; model(s): 1,2	2.2 
+
+	24	1ZBL
+# 366	NR_4.0_79726.1Exact match	1ZDJ    STRUCTURE OF BACTERIOPHAGE COAT PROTEIN-LOOP RNA COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.9 
+
+	16	1ZDJ
+# 367	NR_4.0_60620.1Exact match	255D    CRYSTAL STRUCTURE OF AN RNA DOUBLE HELIX INCORPORATING A TRACK OF NON-WATSON-CRICK BASE PAIRS    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.0 
+
+	24	255D
+# 368	NR_4.0_16544.1Exact match	283D    A CURVED RNA HELIX INCORPORATING AN INTERNAL LOOP WITH G-A AND A-A NON-WATSON-CRICK BASE PAIRING    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.3 
+
+	24	283D
+# 369	NR_4.0_49495.1Exact match	2A0P    Crystal structure of RNA oligomer containing 4'-thioribose    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.0 
+
+	14	2A0P
+# 370	NR_4.0_23424.1Exact match	2A1R    Crystal structure of PARN nuclease domain    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.6 
+
+	6	2A1R
+# 371	NR_4.0_53175.1Exact match	2A43    Crystal Structure of a Luteoviral RNA Pseudoknot and Model for a Minimal Ribosomal Frameshifting Motif    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.3 
+
+	26	2A43
+# 372	NR_4.0_43810.1Exact match	2A64    Crystal Structure of Bacterial Ribonuclease P RNA    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.3 
+
+	298	2A64
+# 373	NR_4.0_25537.1Exact match	2A8V    RHO TRANSCRIPTION TERMINATION FACTOR/RNA COMPLEX    X-RAY DIFFRACTION    Chain(s): D,E; model(s): 1	2.4 
+
+	9	2A8V
+# 374	NR_4.0_58332.1Exact match	2AO5    Crystal structure of an RNA duplex r(GGCGBrUGCGCU)2 with terminal and internal tandem G-U base pairs    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.1 
+
+	36	2AO5
+# 375	NR_4.0_23501.1Exact match	2ASB    Structure of a Mycobacterium tuberculosis NusA-RNA complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.5 
+
+	11	2ASB
+# 376	NR_4.0_74110.1Exact match	2ATW    Structure of a Mycobacterium tuberculosis NusA-RNA complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	24	2ATW
+# 377	NR_4.0_92971.1Exact match	2AWE    Base-Tetrad Swapping Results in Dimerization of RNA Quadruplexes: Implications for Formation of I-Motif RNA Octaplex    X-RAY DIFFRACTION    Chain(s): A,B,C,D; model(s): 1	2.1 
+
+	39	2AWE
+# 378	NR_4.0_69460.1Exact match	2AZX    Charged and uncharged tRNAs adopt distinct conformations when complexed with human tryptophanyl-tRNA synthetase    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.8 
+
+	144	2AZX
+# 379	NR_4.0_77635.1Exact match	2B2D    RNA stemloop operator from bacteriophage QBETA complexed with an N87S,E89K mutant MS2 capsid    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.9 
+
+	12	2B2D
+# 380	NR_4.0_32214.1Exact match	2B3J    Crystal Structure of Staphylococcus aureus tRNA Adenosine Deaminase, TadA, in Complex with RNA    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.0 
+
+	28	2B3J
+# 381	NR_4.0_09919.1Exact match	2B63    Complete RNA Polymerase II-RNA inhibitor complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.8 
+
+	27	2B63
+# 382	NR_4.0_65681.1Exact match	2BBV    THE REFINED THREE-DIMENSIONAL STRUCTURE OF AN INSECT VIRUS AT 2.8 ANGSTROMS RESOLUTION    X-RAY DIFFRACTION    Chain(s): N; model(s): 1,6	2.8 
+
+	10	2BBV
+# 383	NR_4.0_74146.1Exact match	2BGG    THE STRUCTURE OF A PIWI PROTEIN FROM ARCHAEOGLOBUS FULGIDUS COMPLEXED WITH A 16NT SIRNA DUPLEX.    X-RAY DIFFRACTION    Chain(s): P,Q; model(s): 1	2.2 
+
+	29	2BGG
+# 384	NR_4.0_41576.1Exact match	2BH2    CRYSTAL STRUCTURE OF E. COLI 5-METHYLURIDINE METHYLTRANSFERASE RUMA IN COMPLEX WITH RIBOSOMAL RNA SUBSTRATE AND S-ADENOSYLHOMOCYSTEINE.    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.2 
+
+	58	2BH2
+# 385	NR_4.0_62565.1Exact match	2BX2    CATALYTIC DOMAIN OF E. COLI RNASE E    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.9 
+
+	14	2BX2
+# 386	NR_4.0_94150.1Exact match	2C0B    CATALYTIC DOMAIN OF E. COLI RNASE E IN COMPLEX WITH 13-MER RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.2 
+
+	10	2C0B
+# 387	NR_4.0_82821.1Exact match	2C4R    CATALYTIC DOMAIN OF E. COLI RNASE E    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.6 
+
+	9	2C4R
+# 388	NR_4.0_46119.1Exact match	2C50    MS2-RNA HAIRPIN (A -5) COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.7 
+
+	27	2C50
+# 389	NR_4.0_48812.1Exact match	2CZJ    Crystal structure of the tRNA domain of tmRNA from Thermus thermophilus HB8    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.0 
+
+	240	2CZJ
+# 390	NR_4.0_46169.1Exact match	2D2L    Crystal Structure of a minimal, all-RNA hairpin ribozyme with a propyl linker (C3) at position U39    X-RAY DIFFRACTION    Chain(s): A,B,C,D; model(s): 1	2.5 
+
+	59	2D2L
+# 391	NR_4.0_72844.1Exact match	2D6F    Crystal structure of Glu-tRNA(Gln) amidotransferase in the complex with tRNA(Gln)    X-RAY DIFFRACTION    Chain(s): F; model(s): 1	3.2 
+
+	146	2D6F
+# 392	NR_4.0_48301.1Exact match	2DB3    Structural basis for RNA unwinding by the DEAD-box protein Drosophila Vasa    X-RAY DIFFRACTION    Chain(s): G; model(s): 1	2.2 
+
+	24	2DB3
+# 393	NR_4.0_15089.1Exact match	2DLC    Crystal structure of the ternary complex of yeast tyrosyl-tRNA synthetase    X-RAY DIFFRACTION    Chain(s): Y; model(s): 1	2.4 
+
+	57	2DLC
+# 394	NR_4.0_20810.1Exact match	2DU6    Crystal structure of Archaeoglobus fulgidus O-phosphoseryl-tRNA synthetase E418N/E420N mutant complexed with tRNAAmber and O-phosphoserine ('amber complex')    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	3.3 
+
+	71	2DU6
+# 395	NR_4.0_38097.1Exact match	2E9R    Foot-and-mouth disease virus RNA-dependent RNA polymerase in complex with a template-primer RNA and with ribavirin    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.8 
+
+	15	2E9R
+# 396	NR_4.0_97344.1Exact match	2E9T    Foot-and-mouth disease virus RNA-polymerase RNA dependent in complex with a template-primer RNA and 5F-UTP    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.6 
+
+	28	2E9T
+# 397	NR_4.0_26559.1Exact match	2E9Z    Foot-and-mouth disease virus RNA-polymerase in complex with a template- primer RNA, ATP and UTP    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	3.0 
+
+	16	2E9Z
+# 398	NR_4.0_43021.1Exact match	2EC0    RNA-dependent RNA polymerase of foot-and-mouth disease virus in complex with a template-primer RNA and ATP    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.8 
+
+	30	2EC0
+# 399	NR_4.0_89878.1Exact match	2F8K    Sequence specific recognition of RNA hairpins by the SAM domain of Vts1    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	15	2F8K
+# 400	NR_4.0_14526.1Exact match	2F8S    Crystal structure of Aa-Ago with externally-bound siRNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	3.0 
+
+	44	2F8S
+# 401	NR_4.0_32244.1Exact match	2F8T    Crystal structure of Aa-Ago with externally-bound siRNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	3.1 
+
+	50	2F8T
+# 402	NR_4.0_70253.1Exact match	2G3S    RNA structure containing GU base pairs    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.5 
+
+	80	2G3S
+# 403	NR_4.0_65791.1Exact match	2G4B    Structure of U2AF65 variant with polyuridine tract    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.5 
+
+	7	2G4B
+# 404	NR_4.0_43323.1Exact match	2G91    Crystal Structure Analysis of the an RNA nonamer r(GGUGCGC)d(BrC)r(C)    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.5 
+
+	15	2G91
+# 405	NR_4.0_00297.1Exact match	2GJE    Structure of a guideRNA-binding protein complex bound to a gRNA    X-RAY DIFFRACTION    Chain(s): R,S; model(s): 1	3.4 
+
+	18	2GJE
+# 406	NR_4.0_23960.1Exact match	2GJW    RNA Recognition and Cleavage by an Splicing Endonuclease    X-RAY DIFFRACTION    Chain(s): E,F,H; model(s): 1	2.9 
+
+	71	2GJW
+# 407	NR_4.0_53245.1Exact match	2GRB    Crystal Structure of an RNA Quadruplex Containing Inosine-tetrad    X-RAY DIFFRACTION    Chain(s): E,F,G,H; model(s): 1	1.4 
+
+	32	2GRB
+# 408	NR_4.0_62250.1Exact match	2GTT    Crystal structure of the rabies virus nucleoprotein-RNA complex    X-RAY DIFFRACTION    Chain(s): W; model(s): 1	3.5 
+
+	198	2GTT
+# 409	NR_4.0_94777.1Exact match	2HT1    The closed ring structure of the Rho transcription termination factor in complex with nucleic acid in the motor domains    X-RAY DIFFRACTION    Chain(s): J,K,M; model(s): 1	3.5 
+
+	9	2HT1
+# 410	NR_4.0_24770.1Exact match	2HVY    Crystal structure of an H/ACA box RNP from Pyrococcus furiosus    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.3 
+
+	57	2HVY
+# 411	NR_4.0_09744.1Exact match	2I82    Crystal structure of pseudouridine synthase RluA: indirect sequence readout through protein-induced RNA structure    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.1 
+
+	79	2I82
+# 412	NR_4.0_36678.1Exact match	2I91    60kDa Ro autoantigen in complex with a fragment of misfolded RNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.7 
+
+	22	2I91
+# 413	NR_4.0_36480.1Exact match	2IL9    Crystal Structure of Plautia Stali Intestine Virus Intergenic Region Internal Ribosome Entry Site Ribosomal Binding Domain RNA at 3.1 Angstroms    X-RAY DIFFRACTION    Chain(s): A,M; model(s): 1	3.1 
+
+	267	2IL9
+# 414	NR_4.0_94238.1Exact match	2IX1    RNASE II D209N MUTANT    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.7 
+
+	13	2IX1
+# 415	NR_4.0_07549.1Exact match	2IZ9    MS2-RNA HAIRPIN (4ONE-5) COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.9 
+
+	28	2IZ9
+# 416	NR_4.0_80544.1Exact match	2IZN    MS2-RNA HAIRPIN (G-10) COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.6 
+
+	26	2IZN
+# 417	NR_4.0_38193.1Exact match	2JEA    STRUCTURE OF A 9-SUBUNIT ARCHAEAL EXOSOME BOUND TO RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.3 
+
+	5	2JEA
+# 418	NR_4.0_30721.1Exact match	2JLT    CRYSTAL STRUCTURE OF AN RNA KISSING COMPLEX    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.9 
+
+	32	2JLT
+# 419	NR_4.0_45999.1Exact match	2JLW    DENGUE VIRUS 4 NS3 HELICASE IN COMPLEX WITH SSRNA2    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.6 
+
+	12	2JLW
+# 420	NR_4.0_08896.1Exact match	2JLZ    DENGUE VIRUS 4 NS3 HELICASE IN COMPLEX WITH SSRNA AND ADP    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.2 
+
+	12	2JLZ
+# 421	NR_4.0_37451.1Exact match	2NOK    Crystal Structure of an RNA domain from Hepatitis C virus.    X-RAY DIFFRACTION    Chain(s): A,B,C,D; model(s): 1	3.0 
+
+	88	2NOK
+# 422	NR_4.0_17198.1Exact match	2NR0    Crystal structure of pseudoudirinde synthase TruA in complex with leucyl tRNA    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.9 
+
+	272	2NR0
+# 423	NR_4.0_20505.1Exact match	2NRE    Crystal structure of pseudoudirinde synthase TruA in complex with leucyl tRNA    X-RAY DIFFRACTION    Chain(s): F; model(s): 1	4.0 
+
+	56	2NRE
+# 424	NR_4.0_26548.1Exact match	2NUE    Crystal structure of RNase III from Aquifex aeolicus complexed with ds-RNA at 2.9-Angstrom Resolution    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.9 
+
+	46	2NUE
+# 425	NR_4.0_95294.1Exact match	2NUG    Crystal structure of RNase III from Aquifex aeolicus complexed with ds-RNA at 1.7-Angstrom Resolution    X-RAY DIFFRACTION    Chain(s): C,D,E,F; model(s): 1	1.7 
+
+	44	2NUG
+# 426	NR_4.0_05220.1Exact match	2O3V    Crystal Structure of the Homo sapiens Cytoplasmic Ribosomal Decoding Site complexed with paromamine derivative NB33    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.8 
+
+	43	2O3V
+# 427	NR_4.0_87924.1Exact match	2OIU    L1 Ribozyme Ligase circular adduct    X-RAY DIFFRACTION    Chain(s): P,Q; model(s): 1	2.6 
+
+	142	2OIU
+# 428	NR_4.0_46099.1Exact match	2OZB    Structure of a human Prp31-15.5K-U4 snRNA complex    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.6 
+
+	33	2OZB
+# 429	NR_4.0_07374.1Exact match	2PJP    Structure of the mRNA-binding domain of elongation factor SelB from E.coli in complex with SECIS RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	23	2PJP
+# 430	NR_4.0_53015.1Exact match	2PO1    Crystal structure of the P. abyssi exosome RNase PH ring complexed with a single stranded 10-mer poly(A) RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.9 
+
+	7	2PO1
+# 431	NR_4.0_33063.1Exact match	2PY9    Protein-RNA Interaction involving KH1 domain from Human Poly(C)-Binding Protein-2    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.6 
+
+	24	2PY9
+# 432	NR_4.0_76582.1Exact match	2Q1R    Crystal Structure Analysis of the RNA Dodecamer CGCGAAUUAGCG, with a G-A mismatch.    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	1.1 
+
+	24	2Q1R
+# 433	NR_4.0_77669.1Exact match	2Q66    Structure of Yeast Poly(A) Polymerase with ATP and oligo(A)    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	1.8 
+
+	5	2Q66
+# 434	NR_4.0_42330.1Exact match	2QEK    HIV-1 subtype F DIS RNA extended duplex form    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.8 
+
+	46	2QEK
+# 435	NR_4.0_58899.1Exact match	2QK9    Human RNase H catalytic domain mutant D210N in complex with 18-mer RNA/DNA hybrid    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.6 
+
+	18	2QK9
+# 436	NR_4.0_25481.1Exact match	2QQP    Crystal Structure of Authentic Providence Virus    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.8 
+
+	4	2QQP
+# 437	NR_4.0_63108.1Exact match	2QUX    PP7 coat protein dimer in complex with RNA hairpin    X-RAY DIFFRACTION    Chain(s): F; model(s): 1	2.4 
+
+	150	2QUX
+# 438	NR_4.0_18585.1Exact match	2QWY    SAM-II riboswitch bound to S-adenosylmethionine    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.8 
+
+	156	2QWY
+# 439	NR_4.0_86869.1Exact match	2R22    Structure of the native RNA tridecamer r(GCGUUUGAAACGC) at 1.5 A (NatMn)    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.4 
+
+	26	2R22
+# 440	NR_4.0_05486.1Exact match	2R7S    Crystal Structure of Rotavirus SA11 VP1 / RNA (UGUGCC) complex    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	3.2 
+
+	6	2R7S
+# 441	NR_4.0_86259.1Exact match	2R7T    Crystal Structure of Rotavirus SA11 VP1/RNA (UGUGAACC) Complex    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	3.0 
+
+	7	2R7T
+# 442	NR_4.0_24857.1Exact match	2R7U    Crystal Structure of Rotavirus SA11 VP1/RNA (AAAAGCC) Complex    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	3.1 
+
+	5	2R7U
+# 443	NR_4.0_28811.1Exact match	2R7V    Crystal Structure of Rotavirus SA11 VP1/RNA (GGCUUU) Complex    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.8 
+
+	5	2R7V
+# 444	NR_4.0_94644.1Exact match	2R92    Elongation complex of RNA polymerase II with artificial RdRP scaffold    X-RAY DIFFRACTION    Chain(s): P,T; model(s): 1	3.8 
+
+	19	2R92
+# 445	NR_4.0_47609.1Exact match	2R93    Elongation complex of RNA polymerase II with a hepatitis delta virus-derived RNA stem loop    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	4.0 
+
+	14	2R93
+# 446	NR_4.0_73759.1Exact match	2RFK    Substrate RNA Positioning in the Archaeal H/ACA Ribonucleoprotein Complex    X-RAY DIFFRACTION    Chain(s): D,E,F; model(s): 1	2.9 
+
+	61	2RFK
+# 447	NR_4.0_38077.1Exact match	2V6W    TRNASER ACCEPTOR STEM: CONFORMATION AND HYDRATION OF A MICROHELIX IN A CRYSTAL STRUCTURE AT 1.8 ANGSTROM RESOLUTION    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.8 
+
+	14	2V6W
+# 448	NR_4.0_17130.1Exact match	2V7R    CRYSTAL STRUCTURE OF A HUMAN TRNAGLY MICROHELIX AT 1.2 ANGSTROM RESOLUTION    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.2 
+
+	14	2V7R
+# 449	NR_4.0_39310.1Exact match	2VAL    CRYSTAL STRUCTURE OF AN ESCHERICHIA COLI TRNAGLY MICROHELIX AT 2.0 ANGSTROM RESOLUTION    X-RAY DIFFRACTION    Chain(s): A,C; model(s): 1	2.0 
+
+	28	2VAL
+# 450	NR_4.0_34634.1Exact matchSACCHAROMYCES CEREVISIAE	2VNU    CRYSTAL STRUCTURE OF SC RRP44    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	9	2VNU
+# 451	NR_4.0_38009.1Exact match	2VOD    CRYSTAL STRUCTURE OF N-TERMINAL DOMAINS OF HUMAN LA PROTEIN COMPLEXED WITH RNA OLIGOMER AUAUUUU    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.1 
+
+	14	2VOD
+# 452	NR_4.0_25175.1Exact match	2VON    CRYSTAL STRUCTURE OF N-TERMINAL DOMAINS OF HUMAN LA PROTEIN COMPLEXED WITH RNA OLIGOMER AUAAUUU    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.1 
+
+	14	2VON
+# 453	NR_4.0_17380.1Exact match	2VOO    CRYSTAL STRUCTURE OF N-TERMINAL DOMAINS OF HUMAN LA PROTEIN COMPLEXED WITH RNA OLIGOMER UUUUUUUU    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.8 
+
+	6	2VOO
+# 454	NR_4.0_28718.1Exact match	2VOP    CRYSTAL STRUCTURE OF N-TERMINAL DOMAINS OF HUMAN LA PROTEIN COMPLEXED WITH RNA OLIGOMER AUUUU    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.8 
+
+	5	2VOP
+# 455	NR_4.0_66249.1Exact matchMETHANOCALDOCOCCUS JANNASCHII	2VPL    THE STRUCTURE OF THE COMPLEX BETWEEN THE FIRST DOMAIN OF L1 PROTEIN FROM THERMUS THERMOPHILUS AND MRNA FROM METHANOCOCCUS JANNASCHII    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	94	2VPL
+# 456	NR_4.0_46241.1Exact match	2VRT    CRYSTAL STRUCTURE OF E. COLI RNASE E POSSESSING M1 RNA FRAGMENTS - CATALYTIC DOMAIN    X-RAY DIFFRACTION    Chain(s): E,F,G,H; model(s): 1	3.5 
+
+	10	2VRT
+# 457	NR_4.0_39967.1Exact match	2VUQ    Crystal structure of a human tRNAGly acceptor stem microhelix (derived from the gene sequence DG9990) at 1.18 Angstroem resolution    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.2 
+
+	14	2VUQ
+# 458	NR_4.0_45325.1Exact match	2W2H    STRUCTURAL BASIS OF TRANSCRIPTION ACTIVATION BY THE CYCLIN T1-TAT-TAR RNA COMPLEX FROM EIAV    X-RAY DIFFRACTION    Chain(s): S; model(s): 1	3.3 
+
+	44	2W2H
+# 459	NR_4.0_33093.1Exact match	2W89    CRYSTAL STRUCTURE OF THE E.COLI TRNAARG AMINOACYL STEM ISSOACCEPTOR RR-1660 AT 2.0 ANGSTROEM RESOLUTION    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.0 
+
+	28	2W89
+# 460	NR_4.0_57364.1Exact matchESCHERICHIA COLI	2WJ8    Respiratory Syncitial Virus RiboNucleoProtein    X-RAY DIFFRACTION    Chain(s): a; model(s): 1	3.3 
+
+	140	2WJ8
+# 461	NR_4.0_30845.1Exact match	2X1A    STRUCTURE OF RNA15 RRM WITH RNA BOUND (G)    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.1 
+
+	1	2X1A
+# 462	NR_4.0_63408.1Exact match	2X1F    STRUCTURE OF RNA15 RRM WITH BOUND RNA (GU)    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.6 
+
+	2	2X1F
+# 463	NR_4.0_87469.1Exact match	2XB2    CRYSTAL STRUCTURE OF THE CORE MAGO-Y14-EIF4AIII-BARENTSZ-UPF3B ASSEMBLY SHOWS HOW THE EJC IS BRIDGED TO THE NMD MACHINERY    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.4 
+
+	15	2XB2
+# 464	NR_4.0_51916.1Exact match	2XGJ    STRUCTURE OF MTR4, A DEXH HELICASE INVOLVED IN NUCLEAR RNA PROCESSING AND SURVEILLANCE    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.9 
+
+	10	2XGJ
+# 465	NR_4.0_65660.1Exact match	2XLI    CRYSTAL STRUCTURE OF THE CSY4-CRRNA COMPLEX, MONOCLINIC FORM    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	13	2XLI
+# 466	NR_4.0_40459.1Exact match	2XNR    STRUCTURAL INSIGHTS INTO CIS ELEMENT RECOGNITION OF NON-POLYADENYLATED RNAS BY THE NAB3-RRM    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.6 
+
+	3	2XNR
+# 467	NR_4.0_08886.1Exact match	2XS2    CRYSTAL STRUCTURE OF THE RRM DOMAIN OF MOUSE DELETED IN AZOOSPERMIA-LIKE IN COMPLEX WITH RNA, UUGUUCUU    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.4 
+
+	6	2XS2
+# 468	NR_4.0_97911.1Exact match	2XS5    CRYSTAL STRUCTURE OF THE RRM DOMAIN OF MOUSE DELETED IN AZOOSPERMIA-LIKE IN COMPLEX WITH MVH RNA, UGUUC    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.6 
+
+	9	2XS5
+# 469	NR_4.0_94464.1Exact match	2XS7    CRYSTAL STRUCTURE OF THE RRM DOMAIN OF MOUSE DELETED IN AZOOSPERMIA-LIKE IN COMPLEX WITH SYCP3 RNA, UUGUUU    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.5 
+
+	4	2XS7
+# 470	NR_4.0_41211.1Exact match	2XSL    The crystal structure of a Thermus thermophilus tRNAGly acceptor stem microhelix at 1.6 Angstroem resolution    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	28	2XSL
+# 471	NR_4.0_98507.1Exact match	2XXA    THE CRYSTAL STRUCTURE OF THE SIGNAL RECOGNITION PARTICLE (SRP) IN COMPLEX WITH ITS RECEPTOR(SR)    X-RAY DIFFRACTION    Chain(s): G; model(s): 1	3.9 
+
+	204	2XXA
+# 472	NR_4.0_33211.1Exact match	2XZO    UPF1 HELICASE - RNA COMPLEX    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.4 
+
+	6	2XZO
+# 473	NR_4.0_52552.1Exact match	2Y8W    STRUCTURE OF CRISPR ENDORIBONUCLEASE CSE3 BOUND TO 20 NT RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.8 
+
+	19	2Y8W
+# 474	NR_4.0_88627.1Exact match	2Y8Y    STRUCTURE B OF CRISPR ENDORIBONUCLEASE CSE3 BOUND TO 19 NT RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.4 
+
+	18	2Y8Y
+# 475	NR_4.0_23789.1Exact match	2Y9H    STRUCTURE A OF CRISPR ENDORIBONUCLEASE CSE3 BOUND TO 19 NT RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.5 
+
+	17	2Y9H
+# 476	NR_4.0_15733.1Exact match	2ZI0    Crystal structure of Tav2b/siRNA complex    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.8 
+
+	38	2ZI0
+# 477	NR_4.0_66920.1Exact match	2ZKO    Structural basis for dsRNA recognition by NS1 protein of human influenza virus A    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	1.7 
+
+	42	2ZKO
+# 478	NR_4.0_96517.1Exact match	2ZNI    Crystal structure of Pyrrolysyl-tRNA synthetase-tRNA(Pyl) complex from Desulfitobacterium hafniense    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.1 
+
+	144	2ZNI
+# 479	NR_4.0_17511.1Exact match	2ZY6    Crystal structure of a truncated tRNA, TPHE39A    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.8 
+
+	38	2ZY6
+# 480	NR_4.0_76076.1Exact match	2ZZM    The complex structure of aTrm5 and tRNALeu    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.7 
+
+	84	2ZZM
+# 481	NR_4.0_70388.1Exact match	2ZZN    The complex structure of aTrm5 and tRNACys    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.0 
+
+	142	2ZZN
+# 482	NR_4.0_39916.1Exact match	333D    THE CRYSTAL STRUCTURE OF AN RNA OLIGOMER INCORPORATING TANDEM ADENOSINE-INOSINE MISMATCHES    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.5 
+
+	14	333D
+# 483	NR_4.0_90109.1Exact match	353D    CRYSTAL STRUCTURE OF DOMAIN A OF THERMUS FLAVUS 5S RRNA AND THE CONTRIBUTION OF WATER MOLECULES TO ITS STRUCTURE    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.4 
+
+	24	353D
+# 484	NR_4.0_56140.1Exact matchEscherichia coli	354D    Structure of loop E FROM E. coli 5S RRNA    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.5 
+
+	22	354D
+# 485	NR_4.0_19620.1Exact match	361D    CRYSTAL STRUCTURE OF DOMAIN E OF THERMUS FLAVUS 5S RRNA: A HELICAL RNA-STRUCTURE INCLUDING A TETRALOOP    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	3.0 
+
+	40	361D
+# 486	NR_4.0_72606.1Exact match	377D    5'-R(*CP*GP*UP*AP*CP*DG)-3'    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.8 
+
+	20	377D
+# 487	NR_4.0_26679.1Exact match	387D    RNA Pseudoknot with 3D Domain Swapping    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.1 
+
+	26	387D
+# 488	NR_4.0_39376.1Exact match	397D    A 1.3 A RESOLUTION CRYSTAL STRUCTURE OF THE HIV-1 TRANS-ACTIVATION RESPONSE REGION RNA STEM REVEALS A METAL ION-DEPENDENT BULGE CONFORMATION    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.3 
+
+	27	397D
+# 489	NR_4.0_18344.1Exact match	398D    3'-DNA-RNA-5' JUNCTION FORMED DURING INITIATION OF MINUS-STRAND SYNTHESIS OF HIV REPLICATION    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.9 
+
+	24	398D
+# 490	NR_4.0_61954.1Exact match	3A2K    Crystal structure of TilS complexed with tRNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.7 
+
+	154	3A2K
+# 491	NR_4.0_31242.1Exact match	3A6P    Crystal structure of Exportin-5:RanGTP:pre-miRNA complex    X-RAY DIFFRACTION    Chain(s): D,E; model(s): 1	2.9 
+
+	92	3A6P
+# 492	NR_4.0_79810.1Exact match	3ADC    Crystal structure of O-phosphoseryl-tRNA kinase complexed with selenocysteine tRNA and AMPPNP (crystal type 2)    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.9 
+
+	180	3ADC
+# 493	NR_4.0_96659.1Exact match	3ADI    Structure of Arabidopsis HYL1 and its molecular implications for miRNA processing    X-RAY DIFFRACTION    Chain(s): D,E; model(s): 1	3.2 
+
+	20	3ADI
+# 494	NR_4.0_02876.1Exact match	3AEV    Crystal structure of a/eIF2alpha-aDim2p-rRNA complex from Pyrococcus horikoshii OT3    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.8 
+
+	11	3AEV
+# 495	NR_4.0_24360.1Exact match	3AGV    Crystal structure of a human IgG-aptamer complex    X-RAY DIFFRACTION    Chain(s): S,U; model(s): 1	2.2 
+
+	25	3AGV
+# 496	NR_4.0_72051.1Exact match	3AHU    Crystal structure of YmaH (Hfq) from Bacillus subtilis in complex with an RNA aptamer.    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.2 
+
+	6	3AHU
+# 497	NR_4.0_16088.1Exact match	3AM1    Crystal structure of O-Phosphoseryl-tRNA kinase complexed with anticodon-stem/loop truncated tRNA(Sec)    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.4 
+
+	81	3AM1
+# 498	NR_4.0_83855.1Exact match	3AVT    Structure of viral RNA polymerase complex 1    X-RAY DIFFRACTION    Chain(s): T; model(s): 1	2.6 
+
+	4	3AVT
+# 499	NR_4.0_51378.1Exact match	3AVU    Structure of viral RNA polymerase complex 2    X-RAY DIFFRACTION    Chain(s): G,T; model(s): 1	2.9 
+
+	16	3AVU
+# 500	NR_4.0_26956.1Exact match	3AVV    Structure of viral RNA polymerase complex 3    X-RAY DIFFRACTION    Chain(s): G,T; model(s): 1	3.1 
+
+	19	3AVV
+# 501	NR_4.0_24871.1Exact match	3AVW    Structure of viral RNA polymerase complex 4    X-RAY DIFFRACTION    Chain(s): G,T; model(s): 1	2.6 
+
+	20	3AVW
+# 502	NR_4.0_43832.1Exact match	3AVX    Structure of viral RNA polymerase complex 5    X-RAY DIFFRACTION    Chain(s): G,T; model(s): 1	2.4 
+
+	22	3AVX
+# 503	NR_4.0_41201.1Exact match	3AVY    Structure of viral RNA polymerase complex 6    X-RAY DIFFRACTION    Chain(s): G,T; model(s): 1	2.6 
+
+	22	3AVY
+# 504	NR_4.0_77590.1Exact matchThermus thermophilus	3B0U    tRNA-dihydrouridine synthase from Thermus thermophilus in complex with tRNA fragment    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.0 
+
+	6	3B0U
+# 505	NR_4.0_07210.1Exact match	3BNL    Crystal structure of the bacterial ribosomal decoding A site in the presence of [Co(NH3)6]Cl3    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.6 
+
+	44	3BNL
+# 506	NR_4.0_21817.1Exact match	3BNT    Crystal Structure of the Homo sapiens Mitochondrial Ribosomal Decoding Site in the Presence of [Co(NH3)6]Cl3 (A1555G mutant, Br-derivative)    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.3 
+
+	42	3BNT
+# 507	NR_4.0_89399.1Exact match	3BOY    Crystal structure of the HutP antitermination complex bound to the HUT mRNA    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	1.7 
+
+	21	3BOY
+# 508	NR_4.0_73228.1Exact match	3BSB    Crystal Structure of Human Pumilio1 in Complex with CyclinB reverse RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.8 
+
+	9	3BSB
+# 509	NR_4.0_27759.1Exact match	3BSN    Norwalk Virus polymerase bound to 5-nitrocytidine triphosphate and primer-template RNA    X-RAY DIFFRACTION    Chain(s): P,T; model(s): 1	1.8 
+
+	16	3BSN
+# 510	NR_4.0_70820.1Exact match	3BSU    Hybrid-binding domain of human RNase H1 in complex with 12-mer RNA/DNA    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.1 
+
+	24	3BSU
+# 511	NR_4.0_77872.1Exact match	3BSX    Crystal Structure of Human Pumilio 1 in complex with Puf5 RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.3 
+
+	19	3BSX
+# 512	NR_4.0_98654.1Exact match	3BT7    Structure of E. coli 5-Methyluridine Methyltransferase TrmA in complex with 19 nucleotide T-arm analogue    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.4 
+
+	36	3BT7
+# 513	NR_4.0_61205.1Exact match	3BX2    Puf4 RNA binding domain bound to HO endonuclease RNA 3' UTR recognition sequence    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.8 
+
+	18	3BX2
+# 514	NR_4.0_49019.1Exact match	3BX3    Puf4 T650C/C724R Mutant bound to Cox17 RNA 3' UTR recognition sequence    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.0 
+
+	16	3BX3
+# 515	NR_4.0_72140.1Exact match	3CGR    X-ray structure containing the pseudouridylated U2 snRNA and intron branch site consensus sequences    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.1 
+
+	24	3CGR
+# 516	NR_4.0_58664.1Exact match	3CGS    X-ray structure containing the pseudouridylated U2 snRNA and mammalian intron branch site consensus sequences    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.7 
+
+	24	3CGS
+# 517	NR_4.0_03853.1Exact match	3CIY    Mouse Toll-like receptor 3 ectodomain complexed with double-stranded RNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	3.4 
+
+	92	3CIY
+# 518	NR_4.0_11816.1Exact match	3CJZ    Effects of N2,N2-dimethylguanosine on RNA structure and stability: crystal structure of an RNA duplex with tandem m22G:A pairs    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.8 
+
+	24	3CJZ
+# 519	NR_4.0_78955.1Exact match	3CZ3    Crystal structure of Tomato Aspermy Virus 2b in complex with siRNA    X-RAY DIFFRACTION    Chain(s): G,H; model(s): 1	3.2 
+
+	76	3CZ3
+# 520	NR_4.0_15826.1Exact match	3D2S    Crystal structure of MBNL1 tandem zinc finger 3 and 4 domain in complex with CGCUGU RNA    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	1.7 
+
+	18	3D2S
+# 521	NR_4.0_97609.1Exact match	3DD2    Crystal structure of an RNA aptamer bound to human thrombin    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.9 
+
+	15	3DD2
+# 522	NR_4.0_67414.1Exact match	3DH3    Crystal Structure of RluF in complex with a 22 nucleotide RNA substrate    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	3.0 
+
+	84	3DH3
+# 523	NR_4.0_02851.1Exact match	3DHS    Mapping metal-binding sites in the catalytic domain of bacterial RNase P RNA    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.6 
+
+	215	3DHS
+# 524	NR_4.0_90881.1Exact match	3E2E    Crystal Structure of an Intermediate Complex of T7 RNAP and 7nt of RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.0 
+
+	7	3E2E
+# 525	NR_4.0_12172.1Exact match	3EGZ    Crystal structure of an in vitro evolved tetracycline aptamer and artificial riboswitch    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.2 
+
+	64	3EGZ
+# 526	NR_4.0_09727.1Exact match	3EQT    Crystal structure of human LGP2 C-terminal domain in complex with dsRNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.0 
+
+	16	3EQT
+# 527	NR_4.0_65555.1Exact match	3ER9    Crystal structure of the heterodimeric vaccinia virus mRNA polyadenylate polymerase complex with UU and 3'-deoxy ATP    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.1 
+
+	2	3ER9
+# 528	NR_4.0_26317.1Exact match	3ERC    Crystal structure of the heterodimeric vaccinia virus mRNA polyadenylate polymerase with three fragments of RNA and 3'-deoxy ATP    X-RAY DIFFRACTION    Chain(s): E,F,G,I; model(s): 1	3.2 
+
+	10	3ERC
+# 529	NR_4.0_94965.1Exact match	3F73    Alignment of guide-target seed duplex within an argonaute silencing complex    X-RAY DIFFRACTION    Chain(s): H; model(s): 1	3.0 
+
+	16	3F73
+# 530	NR_4.0_82196.1Exact match	3FS0    Class II ligase ribozyme product-template duplex, structure 2    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.3 
+
+	21	3FS0
+# 531	NR_4.0_47580.1Exact match	3FTM    Class II ligase ribozyme product-template duplex, structure 1    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.7 
+
+	46	3FTM
+# 532	NR_4.0_42433.1Exact match	3G9Y    Crystal structure of the second zinc finger from ZRANB2/ZNF265 bound to 6 nt ssRNA sequence AGGUAA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.4 
+
+	6	3G9Y
+# 533	NR_4.0_89849.1Exact match	3GIB    Crystal Stucture of the Complex of the E. coli Hfq with Poly(A)    X-RAY DIFFRACTION    Chain(s): H; model(s): 1	2.4 
+
+	9	3GIB
+# 534	NR_4.0_12452.1Exact match	3GLP    1.23 A resolution X-ray structure of (GCUGCUGC)2    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.2 
+
+	40	3GLP
+# 535	NR_4.0_02630.1Exact match	3GPQ    Crystal structure of macro domain of Chikungunya virus in complex with RNA    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.0 
+
+	3	3GPQ
+# 536	NR_4.0_52083.1Exact match	3GTP    Backtracked RNA polymerase II complex with 24mer RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.9 
+
+	13	3GTP
+# 537	NR_4.0_07085.1Exact match	3GVN    The 1.2 Angstroem crystal structure of an E.coli tRNASer acceptor stem microhelix reveals two magnesium binding sites    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.2 
+
+	14	3GVN
+# 538	NR_4.0_94689.1Exact match	3H3V    Yeast RNAP II containing poly(A)-signal sequence in the active site    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	4.0 
+
+	8	3H3V
+# 539	NR_4.0_13323.1Exact match	3HAX    Crystal structure of a substrate-bound Gar1-minus H/ACA RNP from Pyrococcus furiosus    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.1 
+
+	71	3HAX
+# 540	NR_4.0_03298.1Exact match	3HGA    Crystal Structure of 4-Se-Uridine Derivatized RNA    X-RAY DIFFRACTION    Chain(s): X; model(s): 1,2	1.3 
+
+	10	3HGA
+# 541	NR_4.0_47837.1Exact match	3HJF    Crystal structure of T. thermophilus Argonaute E546 mutant protein complexed with DNA guide strand and 15-nt RNA target strand    X-RAY DIFFRACTION    Chain(s): Y; model(s): 1	3.1 
+
+	14	3HJF
+# 542	NR_4.0_69981.1Exact match	3HJY    Structure of a functional ribonucleoprotein pseudouridine synthase bound to a substrate RNA    X-RAY DIFFRACTION    Chain(s): C,D,E; model(s): 1	3.7 
+
+	60	3HJY
+# 543	NR_4.0_89232.1Exact match	3HK2    Crystal structure of T. thermophilus Argonaute N478 mutant protein complexed with DNA guide strand and 19-nt RNA target strand    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.8 
+
+	30	3HK2
+# 544	NR_4.0_09036.1Exact match	3HM9    Crystal structure of T. thermophilus Argonaute complexed with DNA guide strand and 19-nt RNA target strand    X-RAY DIFFRACTION    Chain(s): Y; model(s): 1	3.3 
+
+	13	3HM9
+# 545	NR_4.0_64780.1Exact match	3HSB    Crystal structure of YmaH (Hfq) from Bacillus subtilis in complex with an RNA aptamer    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.2 
+
+	7	3HSB
+# 546	NR_4.0_68139.1Exact match	3HTX    Crystal structure of small RNA methyltransferase HEN1    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	3.1 
+
+	88	3HTX
+# 547	NR_4.0_77061.1Exact match	3HXM    Structure of an argonaute complexed with guide DNA and target RNA duplex containing two mismatches.    X-RAY DIFFRACTION    Chain(s): Y; model(s): 1	3.1 
+
+	9	3HXM
+# 548	NR_4.0_88818.1Exact match	3I5Y    Structure of Mss116p bound to ssRNA containing a single 5-BrU and AMP-PNP    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.5 
+
+	8	3I5Y
+# 549	NR_4.0_80517.1Exact match	3IAB    Crystal structure of RNase P /RNase MRP proteins Pop6, Pop7 in a complex with the P3 domain of RNase MRP RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.7 
+
+	46	3IAB
+# 550	NR_4.0_04221.1Exact match	3IBK    Crystal structure of a telomeric RNA quadruplex    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.2 
+
+	22	3IBK
+# 551	NR_4.0_78928.1Exact match	3ICE    Rho transcription termination factor bound to RNA and ADP-BeF3    X-RAY DIFFRACTION    Chain(s): G; model(s): 1	2.8 
+
+	6	3ICE
+# 552	NR_4.0_47327.1Exact match	3ICQ    Karyopherin nuclear state    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.2 
+
+	122	3ICQ
+# 553	NR_4.0_61910.1Exact match	3IE1    Crystal structure of H380A mutant TTHA0252 from Thermus thermophilus HB8 complexed with RNA    X-RAY DIFFRACTION    Chain(s): E,F,G,H; model(s): 1	2.9 
+
+	14	3IE1
+# 554	NR_4.0_02002.1Exact match	3IEV    Crystal Structure of ERA in Complex with MgGNP and the 3' End of 16S rRNA    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	1.9 
+
+	11	3IEV
+# 555	NR_4.0_46204.1Exact matchBacillus subtilis	3IVN    Structure of the U65C mutant A-riboswitch aptamer from the Bacillus subtilis pbuE operon    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.8 
+
+	138	3IVN
+# 556	NR_4.0_59580.1Exact match	3IWN    Co-crystal structure of a bacterial c-di-GMP riboswitch    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.2 
+
+	93	3IWN
+# 557	NR_4.0_63404.1Exact matchTobacco mosaic virus	3J06    CryoEM Helical Reconstruction of TMV    ELECTRON MICROSCOPY    Chain(s): R; model(s): 1		3	3J06
+# 558	NR_4.0_32828.1Exact matchPlasmodium falciparum	3J7A    Cryo-EM structure of the Plasmodium falciparum 80S ribosome bound to the anti-protozoan drug emetine, small subunit    ELECTRON MICROSCOPY    Chain(s): 7,A; model(s): 1		1682	3J7A
+# 559	NR_4.0_25224.1Exact matchHomo sapiens	3J7Y    Structure of the large ribosomal subunit from human mitochondria    ELECTRON MICROSCOPY    Chain(s): A,B; model(s): 1		1530	3J7Y
+# 560	NR_4.0_90749.1Exact match	3K5Q    Crystal structure of FBF-2/FBE complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.2 
+
+	9	3K5Q
+# 561	NR_4.0_74123.1Exact match	3K5Z    Crystal structure of FBF-2/gld-1 FBEa G4A mutant complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.4 
+
+	9	3K5Z
+# 562	NR_4.0_38701.1Exact match	3K61    Crystal structure of FBF-2/fog-1 FBEa complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.2 
+
+	9	3K61
+# 563	NR_4.0_18342.1Exact match	3K62    Crystal structure of FBF-2/gld-1 FBEb complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.9 
+
+	9	3K62
+# 564	NR_4.0_86697.1Exact match	3K64    Crystal structure of FBF-2/fem-3 PME complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	9	3K64
+# 565	NR_4.0_11340.1Exact matchThermus thermophilus	3KFU    Crystal structure of the transamidosome    X-RAY DIFFRACTION    Chain(s): K; model(s): 1	3.0 
+
+	278	3KFU
+# 566	NR_4.0_44689.1Exact match	3KMQ    G62S mutant of foot-and-mouth disease virus RNA-polymerase in complex with a template- primer RNA, tetragonal structure    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.1 
+
+	10	3KMQ
+# 567	NR_4.0_52218.1Exact match	3KOA    M296I mutant of foot-and-mouth disease virus RNA-polymerase in complex with a template- primer RNA and GTP    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.4 
+
+	9	3KOA
+# 568	NR_4.0_14197.1Exact match	3KS8    Crystal structure of Reston ebolavirus VP35 RNA binding domain in complex with 18bp dsRNA    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.4 
+
+	36	3KS8
+# 569	NR_4.0_17384.1Exact matchSulfolobus solfataricus	3KTW    Crystal structure of the SRP19/S-domain SRP RNA complex of Sulfolobus solfataricus    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.2 
+
+	96	3KTW
+# 570	NR_4.0_62023.1Exact match	3L25    Crystal structure of Zaire Ebola VP35 interferon inhibitory domain bound to 8 bp dsRNA    X-RAY DIFFRACTION    Chain(s): C,F; model(s): 1	2.0 
+
+	16	3L25
+# 571	NR_4.0_69657.1Exact match	3L26    Crystal structure of Zaire Ebola VP35 interferon inhibitory domain bound to 8 bp dsRNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1,2	2.4 
+
+	16	3L26
+# 572	NR_4.0_67313.1Exact match	3LA5    X-ray crystal structure of mc6 RNA Riboswitch bound to azacytosine    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.7 
+
+	71	3LA5
+# 573	NR_4.0_11819.1Exact match	3LOA    Crystal Structure Analysis of the RNA construct with two adjacent ligand binding sites of helix h44 in 16S ribosomal RNA    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.3 
+
+	42	3LOA
+# 574	NR_4.0_50327.1Exact matchSpodoptera frugiperda	3LOB    Crystal Structure of Flock House Virus calcium mutant    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.6 
+
+	7	3LOB
+# 575	NR_4.0_79101.1Exact match	3LRN    Crystal structure of human RIG-I CTD bound to a 14 bp GC 5' ppp dsRNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.6 
+
+	26	3LRN
+# 576	NR_4.0_16392.1Exact match	3LRR    Crystal structure of human RIG-I CTD bound to a 12 bp AU rich 5' ppp dsRNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.2 
+
+	22	3LRR
+# 577	NR_4.0_63499.1Exact match	3M7N    archaeoglobus fulgidus exosome with RNA bound to the active site    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.4 
+
+	14	3M7N
+# 578	NR_4.0_36499.1Exact match	3M85    Archaeoglobus fulgidus exosome y70a with RNA bound to the active site    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	3.0 
+
+	12	3M85
+# 579	NR_4.0_57617.1Exact match	3MDG    Crystal Structure of the 25kDa Subunit of Human Cleavage factor Im in complex with RNA UUGUAU    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.2 
+
+	6	3MDG
+# 580	NR_4.0_01504.1Exact match	3MDI    Crystal Structure of the 25kDa Subunit of Human Cleavage factor Im in complex with RNA UGUAAA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.1 
+
+	6	3MDI
+# 581	NR_4.0_62229.1Exact match	3MEI    Regulatory motif from the thymidylate synthase mRNA    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.0 
+
+	44	3MEI
+# 582	NR_4.0_42489.1Exact match	3MIJ    Crystal structure of a telomeric RNA G-quadruplex complexed with an acridine-based ligand.    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.6 
+
+	24	3MIJ
+# 583	NR_4.0_75282.1Exact match	3MJ0    Crystal Structure of Drosophia Ago-PAZ domain in complex with 3'-end 2'-O-methylated RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	8	3MJ0
+# 584	NR_4.0_80232.1Exact matchEscherichia coli	3MOJ    Structure of the RNA binding domain of the Bacillus subtilis YxiN protein complexed with a fragment of 23S ribosomal RNA    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.9 
+
+	69	3MOJ
+# 585	NR_4.0_11464.1Exact match	3MQK    Cbf5-Nop10-Gar1 complex binding with 17mer RNA containing ACA trinucleotide    X-RAY DIFFRACTION    Chain(s): D,E; model(s): 1	2.8 
+
+	22	3MQK
+# 586	NR_4.0_39302.1Exact match	3NJ6    0.95 A resolution X-ray structure of (GGCAGCAGCC)2    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	1.0 
+
+	20	3NJ6
+# 587	NR_4.0_70826.1Exact match	3NJ7    1.9 A resolution X-ray structure of (GGCAGCAGCC)2    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.9 
+
+	60	3NJ7
+# 588	NR_4.0_20755.1Exact match	3NKB    A 1.9A crystal structure of the HDV ribozyme precleavage suggests both Lewis acid and general acid mechanisms contribute to phosphodiester cleavage    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.9 
+
+	70	3NKB
+# 589	NR_4.0_11613.1Exact match	3NL0    Mutant P44S M296I of Foot-and-mouth disease Virus RNA-dependent RNA polymerase    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.6 
+
+	13	3NL0
+# 590	NR_4.0_08795.1Exact match	3NMA    Mutant P169S of Foot-and-mouth disease Virus RNA dependent RNA-polymerase    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.6 
+
+	5	3NMA
+# 591	NR_4.0_69357.1Exact match	3NMR    Crystal Structure of CUGBP1 RRM1/2-RNA Complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.9 
+
+	5	3NMR
+# 592	NR_4.0_97232.1Exact match	3NNA    Crystal Structure of CUGBP1 RRM1/2-RNA Complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.9 
+
+	5	3NNA
+# 593	NR_4.0_10719.1Exact match	3NNC    Crystal Structure of CUGBP1 RRM1/2-RNA Complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.2 
+
+	6	3NNC
+# 594	NR_4.0_99510.1Exact match	3NNH    Crystal Structure of the CUGBP1 RRM1 with GUUGUUUUGUUU RNA    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.8 
+
+	20	3NNH
+# 595	NR_4.0_20697.1Exact match	3NVK    Structural basis for substrate placement by an archaeal box C/D ribonucleoprotein particle    X-RAY DIFFRACTION    Chain(s): L,S; model(s): 1	3.2 
+
+	54	3NVK
+# 596	NR_4.0_03889.1Exact match	3O8C    Visualizing ATP-dependent RNA Translocation by the NS3 Helicase from HCV    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.0 
+
+	5	3O8C
+# 597	NR_4.0_67512.1Exact match	3O8R    Visualizing ATP-dependent RNA Translocation by the NS3 Helicase from HCV    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.3 
+
+	5	3O8R
+# 598	NR_4.0_05873.1Exact match	3OG8    Crystal structure of human RIG-I CTD bound to a 14-bp blunt-ended dsRNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.4 
+
+	28	3OG8
+# 599	NR_4.0_75317.1Exact match	3OUY    How the CCA-adding Enzyme Selects Adenine Over Cytosine at Position 76 of tRNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.7 
+
+	70	3OUY
+# 600	NR_4.0_20846.1Exact match	3P22    Crystal structure of the ENE, a viral RNA stability element, in complex with A9 RNA    X-RAY DIFFRACTION    Chain(s): E,F,G,H; model(s): 1	2.5 
+
+	190	3P22
+# 601	NR_4.0_98558.1Exact match	3P49    Crystal Structure of a Glycine Riboswitch from Fusobacterium nucleatum    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.6 
+
+	169	3P49
+# 602	NR_4.0_77857.1Exact match	3P4B    Alternatingly modified 2'Fluoro RNA octamer f/rA2U2-P3    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.5 
+
+	24	3P4B
+# 603	NR_4.0_36435.1Exact match	3P4C    Alternatingly modified 2'Fluoro RNA octamer f/rA2U2-R32    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.2 
+
+	8	3P4C
+# 604	NR_4.0_63860.1Exact match	3P4D    Alternatingly modified 2'Fluoro RNA octamer f/rC4G4    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.9 
+
+	8	3P4D
+# 605	NR_4.0_93284.1Exact match	3P59    First Crystal Structure of a RNA Nanosquare    X-RAY DIFFRACTION    Chain(s): A,B,C,D,E,F,G,H; model(s): 1	2.2 
+
+	94	3P59
+# 606	NR_4.0_84592.1Exact match	3P6Y    CF Im25-CF Im68-UGUAA complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.9 
+
+	23	3P6Y
+# 607	NR_4.0_72958.1Exact match	3PDM    Hibiscus Latent Singapore virus    FIBER DIFFRACTION    Chain(s): R; model(s): 1	3.5 
+
+	3	3PDM
+# 608	NR_4.0_91353.1Exact match	3PF4    Crystal structure of Bs-CspB in complex with r(GUCUUUA)    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	1.4 
+
+	5	3PF4
+# 609	NR_4.0_02547.1Exact match	3PF5    Crystal structure of Bs-CspB in complex with rU6    X-RAY DIFFRACTION    Chain(s): R,S; model(s): 1	1.7 
+
+	6	3PF5
+# 610	NR_4.0_05855.1Exact match	3PKM    Crystal structure of Cas6 with its substrate RNA    X-RAY DIFFRACTION    Chain(s): G; model(s): 1	3.1 
+
+	17	3PKM
+# 611	NR_4.0_20654.1Exact match	3PLA    Crystal structure of a catalytically active substrate-bound box C/D RNP from Sulfolobus solfataricus    X-RAY DIFFRACTION    Chain(s): G,H,I,J; model(s): 1	3.2 
+
+	87	3PLA
+# 612	NR_4.0_63392.1Exact match	3PO2    Arrested RNA Polymerase II elongation complex    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.3 
+
+	15	3PO2
+# 613	NR_4.0_83490.1Exact match	3PO3    Arrested RNA Polymerase II reactivation intermediate    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.3 
+
+	5	3PO3
+# 614	NR_4.0_03688.1Exact match	3PTX    Crystal Structure of a vesicular stomatitis virus nucleocapsid-polyA complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.0 
+
+	45	3PTX
+# 615	NR_4.0_08749.1Exact match	3PU0    Crystal Structure of a vesicular stomatitis virus nucleocapsid-polyC complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.1 
+
+	45	3PU0
+# 616	NR_4.0_41073.1Exact match	3PU1    Crystal Structure of a vesicular stomatitis virus nucleocapsid-polyG complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.1 
+
+	45	3PU1
+# 617	NR_4.0_32706.1Exact match	3Q0O    Crystal structure of the PUMILIO-homology domain from Human PUMILIO1 in complex with erk2 NRE    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.8 
+
+	14	3Q0O
+# 618	NR_4.0_14695.1Exact match	3Q0P    Crystal structure of the PUMILIO-homology domain from Human PUMILIO1 in complex with hunchback NRE    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.6 
+
+	16	3Q0P
+# 619	NR_4.0_75576.1Exact match	3Q2T    Crystal Structure of CFIm68 RRM/CFIm25/RNA complex    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.1 
+
+	10	3Q2T
+# 620	NR_4.0_86357.1Exact match	3Q3Z    Structure of a c-di-GMP-II riboswitch from C. acetobutylicum bound to c-di-GMP    X-RAY DIFFRACTION    Chain(s): A,V; model(s): 1	2.5 
+
+	148	3Q3Z
+# 621	NR_4.0_10002.1Exact match	3QJJ    One RAMP protein binding different RNA substrates    X-RAY DIFFRACTION    Chain(s): Q; model(s): 1	2.8 
+
+	24	3QJJ
+# 622	NR_4.0_41833.1Exact match	3QJL    One RAMP protein binding different RNA substrates    X-RAY DIFFRACTION    Chain(s): R,X; model(s): 1	2.7 
+
+	24	3QJL
+# 623	NR_4.0_22074.1Exact match	3QJP    An RAMP protein binding different RNA substrates    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.3 
+
+	8	3QJP
+# 624	NR_4.0_02824.1Exact match	3QRP    Structure of Thermus Thermophilus Cse3 bound to an RNA representing a product mimic complex    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.4 
+
+	14	3QRP
+# 625	NR_4.0_91112.1Exact match	3QRR    Structure of Thermus Thermophilus Cse3 bound to an RNA representing a product complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.1 
+
+	17	3QRR
+# 626	NR_4.0_72048.1Exact match	3QSU    Structure of Staphylococcus aureus Hfq in complex with A7 RNA    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	2.2 
+
+	8	3QSU
+# 627	NR_4.0_87099.1Exact matchEscherichia coli	3QSY    Recognition of the methionylated initiator tRNA by the translation initiation factor 2 in Archaea    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	3.2 
+
+	77	3QSY
+# 628	NR_4.0_71087.1Exact match	3R1C    Crystal structure of GCGGCGGC duplex    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.1 
+
+	288	3R1C
+# 629	NR_4.0_13936.1Exact match	3R1D    Crystal structure of GC(8BrG)GCGGCGGC duplex    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.5 
+
+	50	3R1D
+# 630	NR_4.0_41948.1Exact match	3R1E    Crystal structure of GC(8BrG)GCGGC duplex    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.0 
+
+	14	3R1E
+# 631	NR_4.0_62678.1Exact match	3R2C    Crystal Structure of Antitermination Factors NusB and NusE in complex with BoxA RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	1.9 
+
+	18	3R2C
+# 632	NR_4.0_86093.1Exact match	3R2D    Crystal Structure of Antitermination Factors NusB and NusE in complex with dsRNA    X-RAY DIFFRACTION    Chain(s): R,S; model(s): 1	2.2 
+
+	20	3R2D
+# 633	NR_4.0_85814.1Exact match	3R4F    Prohead RNA    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.5 
+
+	66	3R4F
+# 634	NR_4.0_22457.1Exact match	3R9W    Crystal structure of Era in complex with MgGDPNP and nucleotides 1506-1542 of 16S ribosomal RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.1 
+
+	34	3R9W
+# 635	NR_4.0_28455.1Exact match	3R9X    Crystal structure of Era in complex with MgGDPNP, nucleotides 1506-1542 of 16S ribosomal RNA, and KsgA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.8 
+
+	35	3R9X
+# 636	NR_4.0_96584.1Exact match	3RC8    Human Mitochondrial Helicase Suv3 in Complex with Short RNA Fragment    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.9 
+
+	5	3RC8
+# 637	NR_4.0_00164.1Exact match	3RER    Crystal structure of E. coli Hfq in complex with AU6A RNA and ADP    X-RAY DIFFRACTION    Chain(s): K; model(s): 1	1.7 
+
+	8	3RER
+# 638	NR_4.0_79916.1Exact match	3RKF    Crystal structure of guanine riboswitch C61U/G37A double mutant bound to thio-guanine    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.5 
+
+	268	3RKF
+# 639	NR_4.0_74738.1Exact match	3RTJ    Crystal structure of ricin bound with dinucleotide ApG    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	3.0 
+
+	2	3RTJ
+# 640	NR_4.0_17505.1Exact match	3RW6    Structure of nuclear RNA export factor TAP bound to CTE RNA    X-RAY DIFFRACTION    Chain(s): H; model(s): 1	2.3 
+
+	120	3RW6
+# 641	NR_4.0_49029.1Exact match	3RZO    RNA Polymerase II Initiation Complex with a 4-nt RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.0 
+
+	4	3RZO
+# 642	NR_4.0_70415.1Exact match	3S14    RNA Polymerase II Initiation Complex with a 6-nt RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.9 
+
+	6	3S14
+# 643	NR_4.0_35900.1Exact match	3S15    RNA Polymerase II Initiation Complex with a 7-nt RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.3 
+
+	7	3S15
+# 644	NR_4.0_50414.1Exact match	3S16    RNA Polymerase II Initiation Complex with an 8-nt RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.2 
+
+	8	3S16
+# 645	NR_4.0_13413.1Exact match	3S1M    RNA Polymerase II Initiation Complex with a 5-nt RNA (variant 1)    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.1 
+
+	5	3S1M
+# 646	NR_4.0_53935.1Exact match	3S1N    RNA Polymerase II Initiation Complex with a 5-nt RNA (variant 2)    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.1 
+
+	5	3S1N
+# 647	NR_4.0_25639.1Exact match	3S2D    RNA Polymerase II Initiation Complex with a 5-nt RNA containing a 5Br-U    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.2 
+
+	4	3S2D
+# 648	NR_4.0_19760.1Exact match	3S49    RNA crystal structure with 2-Se-uridine modification    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.3 
+
+	49	3S49
+# 649	NR_4.0_48959.1Exact match	3SIU    Structure of a hPrp31-15.5K-U4atac 5' stem loop complex, monomeric form    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.6 
+
+	56	3SIU
+# 650	NR_4.0_35470.1Exact match	3SIV    Structure of a hPrp31-15.5K-U4atac 5' stem loop complex, dimeric form    X-RAY DIFFRACTION    Chain(s): C,F; model(s): 1	3.3 
+
+	128	3SIV
+# 651	NR_4.0_43663.1Exact match	3SJ2    A Crystal Structure of a Model of the Repeating r(CGG) Transcript Found in Fragile X Syndrome    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.4 
+
+	36	3SJ2
+# 652	NR_4.0_88929.1Exact match	3SN2    Crystal structure analysis of iron regulatory protein 1 in complex with transferrin receptor IRE B RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.0 
+
+	29	3SN2
+# 653	NR_4.0_16980.1Exact match	3SNP    Crystal structure analysis of iron regulatory protein 1 in complex with ferritin H IRE RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.8 
+
+	58	3SNP
+# 654	NR_4.0_87117.1Exact match	3SSF    Crystal structure of RNA:DNA dodecamer corresponding to HIV-1 polypurine tract, at 1.6 A resolution.    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	1.6 
+
+	12	3SSF
+# 655	NR_4.0_16425.1Exact match	3SZX    Crystal Structure of the Triplet Repeat in Myotonic Dystrophy Reveals Heterogeneous 1x1 Nucleotide UU Internal Loop Conformations    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.2 
+
+	38	3SZX
+# 656	NR_4.0_21785.1Exact match	3T3O    Molecular basis for the recognition and cleavage of RNA (CUGG) by the bifunctional 5'-3' exo/endoribonuclease RNase J    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.5 
+
+	1	3T3O
+# 657	NR_4.0_46323.1Exact match	3T4B    Crystal Structure of the HCV IRES pseudoknot domain    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.6 
+
+	82	3T4B
+# 658	NR_4.0_30471.1Exact matchEscherichia coli	3T5N    1.8A crystal structure of Lassa virus nucleoprotein in complex with ssRNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.8 
+
+	6	3T5N
+# 659	NR_4.0_44120.1Exact matchEscherichia coli	3T5Q    3A structure of Lassa virus nucleoprotein in complex with ssRNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.0 
+
+	43	3T5Q
+# 660	NR_4.0_94552.1Exact match	3TD0    Crystal structure of the bacterial A1408G-mutant and the protozoa cytoplasmic ribosomal decoding site    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	42	3TD0
+# 661	NR_4.0_74050.1Exact match	3TD1    Crystal structure of the bacterial A1408G-mutant and the protozoa cytoplasmic ribosomal decoding site in complex with geneticin    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.1 
+
+	43	3TD1
+# 662	NR_4.0_09215.1Exact match	3TMI    Structural Basis for RNA Recognition and Activation of RIG-I    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.9 
+
+	24	3TMI
+# 663	NR_4.0_76155.1Exact match	3TS2    Mouse Lin28A in complex with let-7g microRNA pre-element    X-RAY DIFFRACTION    Chain(s): U,V; model(s): 1	2.0 
+
+	46	3TS2
+# 664	NR_4.0_37206.1Exact match	3TZR    Structure of a Riboswitch-like RNA-ligand complex from the Hepatitis C Virus Internal Ribosome Entry Site    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.2 
+
+	36	3TZR
+# 665	NR_4.0_57998.1Exact match	3U2E    EAL domain from Caulobacter crescentus in complex with 5'-pGpG and Mg++    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.3 
+
+	4	3U2E
+# 666	NR_4.0_21483.1Exact match	3UZT    Structure of the C13.18 RNA Aptamer in Complex with G Protein-Coupled Receptor Kinase 2    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.5 
+
+	6	3UZT
+# 667	NR_4.0_68191.1Exact match	3V6Y    crystal structure of FBF-2 in complex with a mutant gld-1 FBEa13 RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.5 
+
+	10	3V6Y
+# 668	NR_4.0_48757.1Exact match	3V71    Crystal structure of PUF-6 in complex with 5BE13 RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.9 
+
+	7	3V71
+# 669	NR_4.0_74876.1Exact match	3V74    crystal structure of FBF-2 in complex with gld-1 FBEa13 RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	11	3V74
+# 670	NR_4.0_10687.1Exact match	3V7E    Crystal structure of YbxF bound to the SAM-I riboswitch aptamer    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.8 
+
+	249	3V7E
+# 671	NR_4.0_08315.1Exact match	3VJR    Crystal structure of Peptidyl-tRNA hydrolase from Escherichia coli in complex with the CCA-acceptor-T[PSI]C domain of tRNA    X-RAY DIFFRACTION    Chain(s): B,D; model(s): 1	2.4 
+
+	72	3VJR
+# 672	NR_4.0_45799.1Exact match	3VNV    Complex structure of viral RNA polymerase II    X-RAY DIFFRACTION    Chain(s): G,T; model(s): 1	2.6 
+
+	15	3VNV
+# 673	NR_4.0_72818.1Exact match	3W3S    Crystal structure of A. aeolicus tRNASec in complex with M. kandleri SerRS    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.1 
+
+	98	3W3S
+# 674	NR_4.0_44436.1Exact match	3WBM    Crystal Structure of protein-RNA complex    X-RAY DIFFRACTION    Chain(s): X,Y; model(s): 1	2.0 
+
+	50	3WBM
+# 675	NR_4.0_18887.1Exact match	3ZC0    Structure of AfC3PO - duplex RNA complex    X-RAY DIFFRACTION    Chain(s): N,O; model(s): 1,2	3.0 
+
+	26	3ZC0
+# 676	NR_4.0_98540.1Exact matchESCHERICHIA COLI	3ZLA    Crystal structure of the nucleocapsid protein from Bunyamwera virus bound to RNA    X-RAY DIFFRACTION    Chain(s): I; model(s): 1	3.2 
+
+	88	3ZLA
+# 677	NR_4.0_42991.1Exact match	402D    5'-R(*CP*GP*CP*CP*AP*GP*CP*G)-3'    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.3 
+
+	16	402D
+# 678	NR_4.0_47376.1Exact match	405D    STRUCTURE OF A 16-MER RNA DUPLEX R(GCAGACUUAAAUCUGC)2 WITH WOBBLE LIKE A.C MISMATCHES    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.5 
+
+	32	405D
+# 679	NR_4.0_06778.1Exact match	406D    5'-R(*CP*AP*CP*CP*GP*GP*AP*UP*GP*GP*UP*(BRO) UP*CP*GP*GP*UP*G)-3'    X-RAY DIFFRACTION    Chain(s): A,E; model(s): 1	1.8 
+
+	32	406D
+# 680	NR_4.0_50215.1Exact match	409D    CRYSTAL STRUCTURE OF AN RNA R(CCCIUGGG) WITH THREE INDEPENDENT DUPLEXES INCORPORATING TANDEM I.U WOBBLES    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.5 
+
+	42	409D
+# 681	NR_4.0_38700.1Exact match	413D    A'-FORM RNA DOUBLE HELIX IN THE SINGLE CRYSTAL STRUCTURE OF R(UGAGCUUCGGCUC)    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	1.8 
+
+	26	413D
+# 682	NR_4.0_74305.1Exact match	420D    CRYSTAL STRUCTURE OF A 16-MER RNA DUPLEX WITH NON-ADJACENT A(ANTI).G(SYN) MISMATCHES    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.9 
+
+	32	420D
+# 683	NR_4.0_06757.1Exact match	422D    5'-R(*GP*AP*UP*CP*AP*CP*UP*UP*CP*GP*GP*U)-3'    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.6 
+
+	24	422D
+# 684	NR_4.0_75709.1Exact match	429D    CRYSTAL STRUCTURE OF A LEADZYME; METAL BINDING AND IMPLICATIONS FOR CATALYSIS    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.7 
+
+	48	429D
+# 685	NR_4.0_79234.1Exact match	433D    CRYSTAL STRUCTURE OF A 14 BASE PAIR RNA DUPLEX WITH NONSYMMETRICAL TANDEM G.U WOBBLE BASE PAIRS    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.1 
+
+	28	433D
+# 686	NR_4.0_30093.1Exact match	435D    5'-R(*UP*AP*GP*CP*CP*CP*C)-3', 5'-R(*GP*GP*GP*GP*CP*UP*A)-3'    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.4 
+
+	28	435D
+# 687	NR_4.0_31353.1Exact match	438D    STRUCTURE OF AN RNA DUPLEX R(GGGCGCUCC)2 WITH NON-ADJACENT G.U BASE PAIRS    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.5 
+
+	16	438D
+# 688	NR_4.0_92609.1Exact match	439D    5'-R(*CP*UP*GP*GP*GP*CP*GP*G)-3', 5'-R(*CP*CP*GP*CP*CP*UP*GP*G)-3'    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	16	439D
+# 689	NR_4.0_74973.1Exact match	472D    STRUCTURE OF AN OCTAMER RNA WITH TANDEM GG/UU MISPAIRS    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.9 
+
+	16	472D
+# 690	NR_4.0_96000.1Exact match	4A2X    STRUCTURE OF DUCK RIG-I C-TERMINAL DOMAIN (CTD) WITH 14-MER DSRNA    X-RAY DIFFRACTION    Chain(s): N,O; model(s): 1	4.0 
+
+	56	4A2X
+# 691	NR_4.0_30660.1Exact match	4A36    STRUCTURE OF DUCK RIG-I HELICASE DOMAIN BOUND TO 19-MER DSRNA AND ATP TRANSITION STATE ANALOGUE    X-RAY DIFFRACTION    Chain(s): T,U; model(s): 1	3.7 
+
+	74	4A36
+# 692	NR_4.0_19032.1Exact match	4A3G    RNA Polymerase II initial transcribing complex with a 2nt DNA-RNA hybrid    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.5 
+
+	2	4A3G
+# 693	NR_4.0_86664.1Exact match	4A3J    RNA POLYMERASE II INITIAL TRANSCRIBING COMPLEX WITH A 2NT DNA-RNA HYBRID AND SOAKED WITH GMPCPP    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.7 
+
+	2	4A3J
+# 694	NR_4.0_62438.1Exact match	4A3K    RNA POLYMERASE II INITIAL TRANSCRIBING COMPLEX WITH A 7NT DNA-RNA HYBRID    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.5 
+
+	7	4A3K
+# 695	NR_4.0_29933.1Exact match	4A3L    RNA POLYMERASE II INITIAL TRANSCRIBING COMPLEX WITH A 7NT DNA-RNA HYBRID AND SOAKED WITH AMPCPP    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.5 
+
+	7	4A3L
+# 696	NR_4.0_69809.1Exact match	4A93    RNA Polymerase II elongation complex containing a CPD Lesion    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.4 
+
+	9	4A93
+# 697	NR_4.0_70472.1Exact match	4AFY    Crystal structure of the FimX EAL domain in complex with reaction product pGpG    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.0 
+
+	4	4AFY
+# 698	NR_4.0_73009.1Exact match	4AL5    Crystal structure of the Csy4-crRNA product complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	16	4AL5
+# 699	NR_4.0_04424.1Exact match	4ALP    The Lin28b Cold shock domain in complex with hexauridine    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	1.5 
+
+	5	4ALP
+# 700	NR_4.0_41067.1Exact matchESCHERICHIA COLI	4AM3    Crystal structure of C. crescentus PNPase bound to RNA    X-RAY DIFFRACTION    Chain(s): D,E,H,I; model(s): 1	3.0 
+
+	11	4AM3
+# 701	NR_4.0_16579.1Exact match	4ANG    Small RNA phage PRR1 in complex with an RNA operator fragment    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.5 
+
+	24	4ANG
+# 702	NR_4.0_49783.1Exact match	4AOB    SAM-I riboswitch containing the T. solenopsae Kt-23 in complex with S- adenosyl methionine    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.0 
+
+	94	4AOB
+# 703	NR_4.0_42089.1Exact matchBACILLUS THURINGIENSIS	4ATO    New insights into the mechanism of bacterial Type III toxin-antitoxin systems: selective toxin inhibition by a non-coding RNA pseudoknot    X-RAY DIFFRACTION    Chain(s): G; model(s): 1	2.2 
+
+	33	4ATO
+# 704	NR_4.0_65915.1Exact match	4AY2    Capturing 5' tri-phosphorylated RNA duplex by RIG-I    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.8 
+
+	19	4AY2
+# 705	NR_4.0_13551.1Exact match	4B3G    crystal structure of Ighmbp2 helicase in complex with RNA    X-RAY DIFFRACTION    Chain(s): G,H; model(s): 1	2.9 
+
+	17	4B3G
+# 706	NR_4.0_55475.1Exact match	4B3O    Structures of HIV-1 RT and RNA-DNA Complex Reveal a Unique RT Conformation and Substrate Interface    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.3 
+
+	23	4B3O
+# 707	NR_4.0_98349.1Exact match	4B5R    SAM-I riboswitch bearing the H. marismortui K-t-7    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.0 
+
+	94	4B5R
+# 708	NR_4.0_46650.1Exact matchSULFOLOBUS SOLFATARICUS	4BA2    Archaeal exosome (Rrp4-Rrp41(D182A)-Rrp42) bound to inorganic phosphate    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.5 
+
+	4	4BA2
+# 709	NR_4.0_53719.1Exact match	4BBS    Structure of an initially transcribing RNA polymerase II-TFIIB complex    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.6 
+
+	6	4BBS
+# 710	NR_4.0_52309.1Exact match	4BHH    Crystal structure of tetramer of La Crosse virus nucleoprotein in complex with ssRNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.4 
+
+	44	4BHH
+# 711	NR_4.0_31578.1Exact match	4BOC    Structure of mitochondrial RNA polymerase elongation complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.7 
+
+	9	4BOC
+# 712	NR_4.0_77314.1Exact match	4BW0    The molecular recognition of kink turn structure by the L7Ae class of proteins    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.3 
+
+	26	4BW0
+# 713	NR_4.0_26866.1Exact match	4BWM    KlenTaq mutant in complex with a RNA/DNA hybrid    X-RAY DIFFRACTION    Chain(s): G; model(s): 1	1.8 
+
+	14	4BWM
+# 714	NR_4.0_18941.1Exact match	4BXX    Structures of RNA polymerase II complexes with Bye1, a chromatin- binding PHF3 DIDO homologue    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	3.3 
+
+	11	4BXX
+# 715	NR_4.0_56245.1Exact match	4C40    The molecular recognition of kink turn structure by the L7Ae class of proteins    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.2 
+
+	19	4C40
+# 716	NR_4.0_10462.1Exact match	4C4W    Structure of a rare, non-standard sequence k-turn bound by L7Ae protein    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	3.0 
+
+	70	4C4W
+# 717	NR_4.0_11793.1Exact matchESCHERICHIA COLI	4C7O    The structural basis of FtsY recruitment and GTPase activation by SRP RNA    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.6 
+
+	48	4C7O
+# 718	NR_4.0_14574.1Exact match	4C8Y    Cas6 (TTHA0078) substrate mimic complex    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.8 
+
+	12	4C8Y
+# 719	NR_4.0_92733.1Exact match	4C8Z    Cas6 (TTHA0078) product complex    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.5 
+
+	12	4C8Z
+# 720	NR_4.0_45735.1Exact match	4C9D    Cas6 (TTHB231) product complex    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	3.0 
+
+	23	4C9D
+# 721	NR_4.0_38086.1Exact match	4CS1    Crystal structure of a simple duplex kink turn, HmKt-7 with 2 Mg bound.    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	2.0 
+
+	38	4CS1
+# 722	NR_4.0_54694.1Exact match	4CSF    Structural insights into Toscana virus RNA encapsidation    X-RAY DIFFRACTION    Chain(s): w; model(s): 1	2.6 
+
+	27	4CSF
+# 723	NR_4.0_77836.1Exact match	4DB2    Mss116p DEAD-box helicase domain 2 bound to an RNA duplex    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	3.2 
+
+	82	4DB2
+# 724	NR_4.0_67458.1Exact match	4DWA    Crystal structure of an active-site mutant of the glycoprotein Erns from the pestivirus BVDV-1 in complex with a CpUpC trinucleotide    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	3.0 
+
+	3	4DWA
+# 725	NR_4.0_35631.1Exact match	4DZS    Crystal structure of yeast Puf4p RNA binding domain in complex with HO-4BE mutant RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.1 
+
+	18	4DZS
+# 726	NR_4.0_57698.1Exact match	4E58    Crystal structure of GCC(LCG)CCGC duplex containing LNA residue    X-RAY DIFFRACTION    Chain(s): C,D,E; model(s): 1	2.0 
+
+	20	4E58
+# 727	NR_4.0_70264.1Exact match	4E59    Crystal structure of GCCGCCGC duplex    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.5 
+
+	14	4E59
+# 728	NR_4.0_08708.1Exact match	4E5C    Crystal Structure of 19mer double-helical RNA containing CUG/CGG-repeats    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.7 
+
+	38	4E5C
+# 729	NR_4.0_98670.1Exact match	4E6B    Crystal Structure of statistically disordered 19mer duplex p(CGG)3C(CUG)3    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	1.5 
+
+	16	4E6B
+# 730	NR_4.0_62260.1Exact match	4E78    Crystal structure of a product state assembly of HCV NS5B genotype 2a JFH-1 isolate with beta hairpin loop deletion bound to primer-template RNA with 3'-dG    X-RAY DIFFRACTION    Chain(s): P,T; model(s): 1	2.9 
+
+	7	4E78
+# 731	NR_4.0_06739.1Exact match	4EJT    Staphylococcus epidermidis TcaR in complex with RNA    X-RAY DIFFRACTION    Chain(s): G; model(s): 1	3.0 
+
+	2	4EJT
+# 732	NR_4.0_15948.1Exact match	4ERD    Crystal structure of the C-terminal domain of Tetrahymena telomerase protein p65 in complex with stem IV of telomerase RNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.6 
+
+	44	4ERD
+# 733	NR_4.0_03027.1Exact match	4EYA    Crystal Structure of a Plectonemic RNA Supercoil    X-RAY DIFFRACTION    Chain(s): l,m,n,o,p,q,r; model(s): 1	3.2 
+
+	240	4EYA
+# 734	NR_4.0_44198.1Exact match	4F02    Crystal structure of the PABP-binding site of eIF4G in complex with RRM1-2 of PABP and poly(A)    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	18	4F02
+# 735	NR_4.0_28118.1Exact matchVanderwaltozyma polyspora	4F1N    Crystal structure of Kluyveromyces polysporus Argonaute with a guide RNA    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.2 
+
+	16	4F1N
+# 736	NR_4.0_02353.1Exact match	4F3T    Human Argonaute-2 - miR-20a complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.3 
+
+	14	4F3T
+# 737	NR_4.0_01123.1Exact match	4FRG    Crystal structure of the cobalamin riboswitch aptamer domain    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.0 
+
+	84	4FRG
+# 738	NR_4.0_41236.1Exact match	4FRN    Crystal structure of the cobalamin riboswitch regulatory element    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.4 
+
+	204	4FRN
+# 739	NR_4.0_22060.1Exact matchSpodoptera frugiperda	4FSJ    Crystal structure of the virus like particle of Flock House virus    X-RAY DIFFRACTION    Chain(s): R; model(s): 1,6	3.5 
+
+	14	4FSJ
+# 740	NR_4.0_66769.1Exact matchFlock house virus	4FTB    Crystal structure of the authentic Flock House virus particle    X-RAY DIFFRACTION    Chain(s): R; model(s): 1,6	2.7 
+
+	15	4FTB
+# 741	NR_4.0_66272.1Exact match	4FVU    Structural basis for the dsRNA specificity of the Lassa virus NP exonuclease    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.9 
+
+	16	4FVU
+# 742	NR_4.0_27050.1Exact match	4FXD    Crystal structure of yeast DNA polymerase alpha bound to DNA/RNA    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.0 
+
+	16	4FXD
+# 743	NR_4.0_50562.1Exact match	4G0A    Crystallographic Analysis of Rotavirus NSP2-RNA Complex Reveals Specific Recognition of 5'-GG Sequence for RTPase activity    X-RAY DIFFRACTION    Chain(s): E,F,G,H; model(s): 1	2.1 
+
+	8	4G0A
+# 744	NR_4.0_31650.1Exact match	4G7O    Crystal structure of Thermus thermophilus transcription initiation complex containing 2 nt of RNA    X-RAY DIFFRACTION    Chain(s): I,S; model(s): 1	3.0 
+
+	4	4G7O
+# 745	NR_4.0_86738.1Exact match	4GG4    Crystal structure of the TAL effector dHax3 bound to specific DNA-RNA hybrid    X-RAY DIFFRACTION    Chain(s): H; model(s): 1	2.5 
+
+	16	4GG4
+# 746	NR_4.0_19008.1Exact match	4GHL    Structural Basis for Marburg virus VP35 mediate immune evasion mechanisms    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.0 
+
+	36	4GHL
+# 747	NR_4.0_92368.1Exact match	4GL2    Structural Basis for dsRNA duplex backbone recognition by MDA5    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	3.6 
+
+	48	4GL2
+# 748	NR_4.0_63416.1Exact match	4GMA    Crystal structure of the adenosylcobalamin riboswitch    X-RAY DIFFRACTION    Chain(s): Z; model(s): 1	3.9 
+
+	192	4GMA
+# 749	NR_4.0_62370.1Exact match	4GV9    Lassa nucleoprotein C-terminal domain in complex with triphosphated dsRNA soaking for 5 min    X-RAY DIFFRACTION    Chain(s): E,F; model(s): 1	2.5 
+
+	8	4GV9
+# 750	NR_4.0_51471.1Exact match	4GXY    RNA structure    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.1 
+
+	160	4GXY
+# 751	NR_4.0_77843.1Exact match	4H5O    Crystal Structure of Rift Valley Fever Virus Nucleocapsid Protein Pentamer Bound to Single-stranded RNA    X-RAY DIFFRACTION    Chain(s): K; model(s): 1	3.9 
+
+	70	4H5O
+# 752	NR_4.0_46734.1Exact match	4H5P    Crystal Structure of Rift Valley Fever Virus Nucleocapsid Protein Tetramer Bound to Single-stranded RNA    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.2 
+
+	28	4H5P
+# 753	NR_4.0_85438.1Exact match	4HKQ    XMRV reverse transcriptase in complex with RNA/DNA hybrid    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.0 
+
+	16	4HKQ
+# 754	NR_4.0_78057.1Exact match	4HOR    Crystal Structure of Full-Length Human IFIT5 with 5`-triphosphate Oligocytidine    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	1.9 
+
+	3	4HOR
+# 755	NR_4.0_84450.1Exact match	4HOS    Crystal Structure of Full-Length Human IFIT5 with 5`-triphosphate Oligouridine    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.0 
+
+	2	4HOS
+# 756	NR_4.0_41776.1Exact match	4HOT    Crystal Structure of Full-Length Human IFIT5 with 5`-triphosphate Oligoadenine    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.5 
+
+	3	4HOT
+# 757	NR_4.0_26382.1Exact match	4I67    Crystal structure of the RRM domain of RNA helicase HERA from T. thermophilus in complex with GGGC RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	3	4I67
+# 758	NR_4.0_49556.1Exact match	4IFD    Crystal structure of an 11-subunit eukaryotic exosome complex bound to RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.8 
+
+	20	4IFD
+# 759	NR_4.0_36201.1Exact match	4IG8    Structural basis for cytosolic double-stranded RNA surveillance by human OAS1    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.7 
+
+	36	4IG8
+# 760	NR_4.0_19248.1Exact match	4II9    Crystal structure of Weissella viridescens FemXVv non-ribosomal amino acid transferase in complex with a peptidyl-RNA conjugate    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.7 
+
+	2	4II9
+# 761	NR_4.0_89509.1Exact match	4IJS    Crystal structure of nucleocapsid protein encoded by the prototypic member of orthobunyavirus    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.2 
+
+	37	4IJS
+# 762	NR_4.0_61741.1Exact match	4ILL    Recognition and Cleavage of a non-structured CRISPR RNA by its Processing Endoribonuclease Cas6    X-RAY DIFFRACTION    Chain(s): C,R; model(s): 1	2.5 
+
+	36	4ILL
+# 763	NR_4.0_19682.1Exact match	4ILM    CRISPR RNA Processing endoribonuclease    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.1 
+
+	32	4ILM
+# 764	NR_4.0_33702.1Exact match	4IQS    RNA 8mer duplex modified with 4-Se-Uridine    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.6 
+
+	42	4IQS
+# 765	NR_4.0_32444.1Exact match	4J1G    Leanyer orthobunyavirus nucleoprotein-ssRNA complex    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	2.8 
+
+	44	4J1G
+# 766	NR_4.0_69352.1Exact match	4J39    Crystal structure of p19 in complex with double-helical 19mer RNA p(CAG)3C(CUG)3    X-RAY DIFFRACTION    Chain(s): B; model(s): 1,2	1.7 
+
+	38	4J39
+# 767	NR_4.0_60444.1Exact match	4J5V    Crystal structure of p19 in complex with double-helical RNA 19mer p(CAG)3C(CCG)3    X-RAY DIFFRACTION    Chain(s): B; model(s): 1,2	2.2 
+
+	38	4J5V
+# 768	NR_4.0_07179.1Exact match	4J7L    Crystal structure of mouse DXO in complex with PRODUCT RNA AND two MAGNESIUM ions    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.8 
+
+	5	4J7L
+# 769	NR_4.0_79788.1Exact match	4J7M    Crystal structure of mouse DXO in complex with substrate mimic RNA and calcium ion    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.7 
+
+	2	4J7M
+# 770	NR_4.0_52934.1Exact match	4JAB    U/G Wobble Base Pair in a RNA Duplex    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.2 
+
+	16	4JAB
+# 771	NR_4.0_98776.1Exact match	4JAH    Crystal structure of 2-Selenouridine containing RNA    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.5 
+
+	42	4JAH
+# 772	NR_4.0_57513.1Exact match	4JF2    Structure of a class II preQ1 riboswitch reveals ligand recognition by a new fold    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.3 
+
+	76	4JF2
+# 773	NR_4.0_52288.1Exact match	4JIY    RNA three-way junction stabilized by a supramolecular di-iron(II) cylinder drug    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2,3	1.9 
+
+	18	4JIY
+# 774	NR_4.0_61842.1Exact match	4JNG    Schmallenberg virus nucleoprotein-RNA complex    X-RAY DIFFRACTION    Chain(s): L; model(s): 1	2.1 
+
+	42	4JNG
+# 775	NR_4.0_82815.1Exact match	4JRC    Distal Stem I region from G. kaustophilus glyQS T box RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.7 
+
+	112	4JRC
+# 776	NR_4.0_86408.1Exact match	4JRD    Crystal structure of the parallel double-stranded helix of poly(A) RNA    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.0 
+
+	22	4JRD
+# 777	NR_4.0_08353.1Exact match	4JRT    Crystal structure of an A-form RNA duplex containing three GU base pairs    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.6 
+
+	24	4JRT
+# 778	NR_4.0_69672.1Exact match	4JVH    Structure of the star domain of quaking protein in complex with RNA    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	3.5 
+
+	8	4JVH
+# 779	NR_4.0_05125.1Exact match	4JVY    Structure of the STAR (signal transduction and activation of RNA) domain of GLD-1 bound to RNA    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.9 
+
+	13	4JVY
+# 780	NR_4.0_24984.1Exact match	4JZV    Crystal structure of the Bacillus subtilis pyrophosphohydrolase BsRppH bound to a non-hydrolysable triphosphorylated dinucleotide RNA (pcp-pGpG) - second guanosine residue in guanosine binding pocket    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.2 
+
+	1	4JZV
+# 781	NR_4.0_14701.1Exact match	4K27    Myotonic Dystrophy Type 2 RNA: Structural Studies and Designed Small Molecules that Modulate RNA Function    X-RAY DIFFRACTION    Chain(s): U; model(s): 1	2.4 
+
+	55	4K27
+# 782	NR_4.0_57286.1Exact match	4K31    Crystal structure of apramycin bound to the leishmanial rRNA A-site    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	1.4 
+
+	44	4K31
+# 783	NR_4.0_97534.1Exact match	4K4U    Poliovirus polymerase elongation complex (r5_form)    X-RAY DIFFRACTION    Chain(s): B,C,D; model(s): 1	2.9 
+
+	72	4K4U
+# 784	NR_4.0_95589.1Exact match	4K4V    Poliovirus polymerase elongation complex (r5+1_form)    X-RAY DIFFRACTION    Chain(s): F,G; model(s): 1	2.6 
+
+	44	4K4V
+# 785	NR_4.0_73813.1Exact match	4K4W    Poliovirus polymerase elongation complex (r5+2_form)    X-RAY DIFFRACTION    Chain(s): B,C; model(s): 1	2.7 
+
+	35	4K4W
+# 786	NR_4.0_83448.1Exact match	4K4Y    Coxsackievirus B3 polymerase elongation complex (r2+1_form)    X-RAY DIFFRACTION    Chain(s): J,K,L; model(s): 1	2.7 
+
+	134	4K4Y
+# 787	NR_4.0_10575.1Exact match	4K50    Rhinovirus 16 polymerase elongation complex (r1_form)    X-RAY DIFFRACTION    Chain(s): B,C,F,G; model(s): 1	2.9 
+
+	182	4K50
+# 788	NR_4.0_86167.1Exact match	4KJI    Novel re-arrangement of an RsmA/cSRa family protein to create a structurally distinct new RNA-binding family member    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.2 
+
+	32	4KJI
+# 789	NR_4.0_29710.1Exact match	4KNQ    Crystal structure of 1nt-5'-overhanging double-helical CCG-repetitive RNA 20mer complexed with RSS p19    X-RAY DIFFRACTION    Chain(s): B; model(s): 1,2	1.8 
+
+	40	4KNQ
+# 790	NR_4.0_95642.1Exact match	4KQ0    Crystal structure of double-helical CGG-repetitive RNA 19mer complexed with RSS p19    X-RAY DIFFRACTION    Chain(s): B,E; model(s): 1	2.1 
+
+	38	4KQ0
+# 791	NR_4.0_52550.1Exact match	4KQY    Bacillus subtilis yitJ S box/SAM-I riboswitch    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.0 
+
+	119	4KQY
+# 792	NR_4.0_82715.1Exact match	4KR6    Crystal structure of a 4-thiouridine synthetase - RNA complex    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	2.9 
+
+	78	4KR6
+# 793	NR_4.0_12967.1Exact matchSpodoptera frugiperda	4KRE    Structure of Human Argonaute-1 bound to endogenous Sf9 RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	1.8 
+
+	11	4KRE
+# 794	NR_4.0_26234.1Exact match	4KRF    Structure of Human Argonaute-1 let-7 complex    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.1 
+
+	12	4KRF
+# 795	NR_4.0_02281.1Exact match	4KTG    Crystal structure of double-helical GGC-repetitive RNA 19mer complexed with RSS p19    X-RAY DIFFRACTION    Chain(s): B,E; model(s): 1	1.9 
+
+	38	4KTG
+# 796	NR_4.0_49563.1Exact matchSpodoptera frugiperda	4KXT    Structure of human ARGONAUTE1 in complex with guide RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.3 
+
+	10	4KXT
+# 797	NR_4.0_10939.1Exact match	4KYY    Crystal Structure of RNA 17-mer UUCGGUUUUGAUCCGGA duplex    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.4 
+
+	34	4KYY
+# 798	NR_4.0_20228.1Exact match	4KZ2    Crystal Structure of phi29 pRNA 3WJ Core    X-RAY DIFFRACTION    Chain(s): A,B,C; model(s): 1	3.1 
+
+	54	4KZ2
+# 799	NR_4.0_73623.1Exact match	4L8H    Bacteriophage Qbeta coat protein in complex with RNA operator hairpin    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.4 
+
+	20	4L8H
+# 800	NR_4.0_04857.1Exact match	4LGT    Crystal structure of the catalytic domain of RluB in complex with a 21-nucleotide RNA substrate    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	1.3 
+
+	39	4LGT
+# 801	NR_4.0_79961.1Exact match	4LJ0    Nab2 Zn fingers complexed with polyadenosine    X-RAY DIFFRACTION    Chain(s): C,D,E; model(s): 1	2.2 
+
+	10	4LJ0
+# 802	NR_4.0_73042.1Exact match	4LMZ    Structural insight into RNA recognition by RRM1+2 domain of human ETR-3 protein    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.8 
+
+	5	4LMZ
+# 803	NR_4.0_76272.1Exact match	4LQ3    Crystal structure of human norovirus RNA-dependent RNA-polymerase bound to the inhibitor PPNDS    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.6 
+
+	2	4LQ3
+# 804	NR_4.0_52270.1Exact match	4M4O    Crystal structure of the aptamer minE-lysozyme complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.0 
+
+	59	4M4O
+# 805	NR_4.0_74585.1Exact match	4M6D    Crystal structure of the aptamer minF-lysozyme complex.    X-RAY DIFFRACTION    Chain(s): H; model(s): 1	2.7 
+
+	250	4M6D
+# 806	NR_4.0_51690.1Exact match	4M7A    Crystal structure of Lsm2-8 complex bound to the 3' end sequence of U6 snRNA    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	2.8 
+
+	10	4M7A
+# 807	NR_4.0_84169.1Exact match	4M7D    Crystal structure of Lsm2-8 complex bound to the RNA fragment CGUUU    X-RAY DIFFRACTION    Chain(s): O; model(s): 1	2.6 
+
+	9	4M7D
+# 808	NR_4.0_16401.1Exact match	4MCE    Crystal structure of the Gas5 GRE Mimic    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	2.2 
+
+	60	4MCE
+# 809	NR_4.0_15449.1Exact match	4MCF    Crystal structure of the Gas5 GRE Mimic    X-RAY DIFFRACTION    Chain(s): A,B,C,D; model(s): 1	1.9 
+
+	78	4MCF
+# 810	NR_4.0_04461.1Exact match	4MDX    Crystal structure of Bacillus subtilis MazF in complex with RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.5 
+
+	8	4MDX
+# 811	NR_4.0_44912.1Exact match	4MGM    Crystal structure of the in vitro transcribed G. kaustophilus tRNA-Gly    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.2 
+
+	126	4MGM
+# 812	NR_4.0_82778.1Exact match	4MGN    Co-crystal structure of the G. kaustophilus glyQS T box riboswitch Stem I in complex with tRNA    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	3.2 
+
+	313	4MGN
+# 813	NR_4.0_29413.1Exact match	4MS9    Native RNA-10mer Structure: ccggcgccgg    X-RAY DIFFRACTION    Chain(s): A; model(s): 1,2	1.3 
+
+	20	4MS9
+# 814	NR_4.0_09094.1Exact match	4N0T    Core structure of the U6 small nuclear ribonucleoprotein at 1.7 Angstrom resolution    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.7 
+
+	65	4N0T
+# 815	NR_4.0_66370.1Exact match	4N2Q    Crystal structure of THA8 in complex with Zm4 RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.8 
+
+	3	4N2Q
+# 816	NR_4.0_59470.1Exact match	4N2S    Crystal Structure of THA8 in complex with Zm1a-6 RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	3.0 
+
+	4	4N2S
+# 817	NR_4.0_85908.1Exact match	4N48    Cap-specific mRNA (nucleoside-2'-O-)-methyltransferase 1 Protein in complex with capped RNA fragment    X-RAY DIFFRACTION    Chain(s): G; model(s): 1	2.7 
+
+	7	4N48
+# 818	NR_4.0_96749.1Exact match	4NGF    Structure of human Dicer Platform-PAZ-Connector Helix cassette in complex with 17-mer siRNA having 5'-p and UU-3' ends (3.1 Angstrom resolution)    X-RAY DIFFRACTION    Chain(s): G,H; model(s): 1	3.1 
+
+	68	4NGF
+# 819	NR_4.0_43254.1Exact match	4NHA    Structure of human Dicer Platform-PAZ-Connector Helix cassette in complex with 16-mer siRNA having 5'-p and UU-3' ends (3.4 Angstrom resolution)    X-RAY DIFFRACTION    Chain(s): B; model(s): 1,2	3.4 
+
+	32	4NHA
+# 820	NR_4.0_14108.1Exact match	4NKU    Structure of Cid1 in complex with its short product ApU    X-RAY DIFFRACTION    Chain(s): D,H; model(s): 1	1.9 
+
+	4	4NKU
+# 821	NR_4.0_83805.1Exact match	4NL3    Crystal Structure of Listeria monocytogenes Hfq in complex with U6 RNA    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.1 
+
+	12	4NL3
+# 822	NR_4.0_84818.1Exact match	4O26    Crystal structure of the TRBD domain of TERT and the CR4/5 of TR    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.0 
+
+	47	4O26
+# 823	NR_4.0_72515.1Exact match	4O41    Amide linked RNA    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.2 
+
+	41	4O41
+# 824	NR_4.0_71827.1Exact match	4O8J    Crystal structure of RtcA, the RNA 3'-terminal phosphate cyclase from Pyrococcus horikoshii, in complex with rACAAA3'phosphate and adenine.    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.0 
+
+	10	4O8J
+# 825	NR_4.0_41764.1Exact match	4OAU    Complete human RNase L in complex with biological activators.    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.6 
+
+	3	4OAU
+# 826	NR_4.0_31198.1Exact match	4OAV    Complete human RNase L in complex with 2-5A (5'-ppp heptamer), AMPPCP and RNA substrate.    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.1 
+
+	8	4OAV
+# 827	NR_4.0_42565.1Exact match	4OHZ    Structure of a RNA-processing protein    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.4 
+
+	4	4OHZ
+# 828	NR_4.0_75140.1Exact match	4OJI    Crystal Structure of Twister Ribozyme    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.3 
+
+	51	4OJI
+# 829	NR_4.0_34730.1Exact match	4OL8    Ty3 reverse transcriptase bound to DNA/RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.1 
+
+	34	4OL8
+# 830	NR_4.0_74684.1Exact match	4OO1    Structure of an Rrp6-RNA exosome complex bound to poly(A) RNA    X-RAY DIFFRACTION    Chain(s): S; model(s): 1	3.3 
+
+	5	4OO1
+# 831	NR_4.0_16275.1Exact match	4OO8    Crystal structure of Streptococcus pyogenes Cas9 in complex with guide RNA and target DNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.5 
+
+	194	4OO8
+# 832	NR_4.0_52389.1Exact match	4OOG    Crystal structure of yeast RNase III (Rnt1p) complexed with the product of dsRNA processing    X-RAY DIFFRACTION    Chain(s): D; model(s): 1	2.5 
+
+	34	4OOG
+# 833	NR_4.0_82594.1Exact match	4P5J    Crystal structure of the tRNA-like structure from Turnip Yellow Mosaic Virus (TYMV), a tRNA mimicking RNA    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.0 
+
+	83	4P5J
+# 834	NR_4.0_84738.1Exact match	4P8Z    Speciation of a group I intron into a lariat capping ribozyme    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.9 
+
+	188	4P8Z
+# 835	NR_4.0_01347.1Exact match	4PDB    CRYSTAL STRUCTURE OF BACILLUS ANTHRACIS RIBOSOMAL PROTEIN S8 IN COMPLEX WITH AN RNA APTAMER    X-RAY DIFFRACTION    Chain(s): I; model(s): 1	2.6 
+
+	38	4PDB
+# 836	NR_4.0_40520.1Exact match	4PEH    Dbr1 in complex with synthetic linear RNA    X-RAY DIFFRACTION    Chain(s): V; model(s): 1	2.1 
+
+	12	4PEH
+# 837	NR_4.0_41815.1Exact match	4PEI    Dbr1 in complex with synthetic branched RNA analog    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	2.0 
+
+	9	4PEI
+# 838	NR_4.0_64463.1Exact match	4PLX    Crystal structure of the triple-helical stability element at the 3' end of MALAT1    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	3.1 
+
+	214	4PLX
+# 839	NR_4.0_70292.1Exact match	4PMW    Structure of mouse Dis3L2 in complex with oligoU RNA substrate    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	3.0 
+
+	28	4PMW
+# 840	NR_4.0_98638.1Exact match	4PQV    Crystal structure of an Xrn1-resistant RNA from the 3' untranslated region of a flavivirus (Murray Valley Encephalitis virus)    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.5 
+
+	68	4PQV
+# 841	NR_4.0_98375.1Exact match	4Q0B    Crystal structure of HIV-1 reverse transcriptase in complex with gap-RNA/DNA and Nevirapine    X-RAY DIFFRACTION    Chain(s): e; model(s): 1	3.3 
+
+	37	4Q0B
+# 842	NR_4.0_60416.1Exact match	4Q5S    Thermus thermophilus RNA polymerase initially transcribing complex containing 6-mer RNA    X-RAY DIFFRACTION    Chain(s): I; model(s): 1	3.0 
+
+	5	4Q5S
+# 843	NR_4.0_06292.1Exact match	4QI2    X-ray structure of the ROQ domain from murine Roquin-1 in complex with a 23-mer Tnf-CDE RNA    X-RAY DIFFRACTION    Chain(s): E; model(s): 1	3.0 
+
+	19	4QI2
+# 844	NR_4.0_26092.1Exact match	4QIK    Crystal structure of the ROQ domain of human Roquin in complex with the TNF23 RNA duplex    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	1.9 
+
+	36	4QIK
+# 845	NR_4.0_18005.1Exact match	4QIL    Crystal structure of the ROQ domain of human Roquin in complex with the Hmg19 stem-loop RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	2.9 
+
+	32	4QIL
+# 846	NR_4.0_16193.1Exact match	4QJD    Crystal Structure of Twister with the Nucleotide 5'- to the Cleavage Site Disordered at 3.1 A Resolution    X-RAY DIFFRACTION    Chain(s): A,B,C,D; model(s): 1	3.1 
+
+	284	4QJD
+# 847	NR_4.0_78841.1Exact match	4QJH    Crystal Structure of the Twister Ribozyme with the Nucleotide 5'- to the Cleavage Site Ordered at 4.1 A Resolution    X-RAY DIFFRACTION    Chain(s): C,D; model(s): 1	3.9 
+
+	219	4QJH
+# 848	NR_4.0_36693.1Exact match	4QK9    Thermovirga lienii c-di-AMP riboswitch    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	3.1 
+
+	116	4QK9
+# 849	NR_4.0_88119.1Exact match	4QM6    Structure of bacterial polynucleotide kinase bound to GTP and RNA    X-RAY DIFFRACTION    Chain(s): C; model(s): 1	1.5 
+
+	8	4QM6
+# 850	NR_4.0_56201.1Exact match	4QQB    Structural basis for the assembly of the SXL-UNR translation regulatory complex    X-RAY DIFFRACTION    Chain(s): P; model(s): 1	2.8 
+
+	17	4QQB
+# 851	NR_4.0_21656.1Exact match	4QU6    Crystal structure of a G-rich RNA sequence binding factor 1 (GRSF1) from Homo sapiens at 1.75 A resolution    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.8 
+
+	3	4QU6
+# 852	NR_4.0_42227.1Exact match	4QU7    Crystal structure of a G-rich RNA sequence binding factor 1 (GRSF1) from Homo sapiens at 2.50 A resolution    X-RAY DIFFRACTION    Chain(s): U; model(s): 1	2.5 
+
+	10	4QU7
+# 853	NR_4.0_05311.1Exact matchEscherichia coli	4QYZ    Crystal structure of a CRISPR RNA-guided surveillance complex, Cascade, bound to a ssDNA target    X-RAY DIFFRACTION    Chain(s): L; model(s): 1	3.0 
+
+	55	4QYZ
+# 854	NR_4.0_53078.1Exact matchPylaiella littoralis	4R0D    Crystal structure of a eukaryotic group II intron lariat    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	3.7 
+
+	628	4R0D
+# 855	NR_4.0_13552.1Exact match	4R3I    The crystal structure of an RNA complex    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.8 
+
+	4	4R3I
+# 856	NR_4.0_83403.1Exact match	4RCJ    Crystal structure of YTHDF1 YTH domain in complex with 5mer m6A RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	1.6 
+
+	3	4RCJ
+# 857	NR_4.0_49275.1Exact match	4TU0    CRYSTAL STRUCTURE OF CHIKUNGUNYA VIRUS NSP3 MACRO DOMAIN IN COMPLEX WITH A 2'-5' OLIGOADENYLATE TRIMER    X-RAY DIFFRACTION    Chain(s): F,G; model(s): 1	2.3 
+
+	3	4TU0
+# 858	NR_4.0_53538.1Exact match	4U34    Crystal Structures of RNA Duplexes Containing 2-thio-Uridine    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.4 
+
+	13	4U34
+# 859	NR_4.0_60362.1Exact match	4U35    Crystal Structures of RNA Duplexes Containing 2-thio-Uridine    X-RAY DIFFRACTION    Chain(s): A,B; model(s): 1	1.6 
+
+	13	4U35
+# 860	NR_4.0_92206.1Exact match	4U7U    Crystal structure of RNA-guided immune Cascade complex from E.coli    X-RAY DIFFRACTION    Chain(s): X; model(s): 1	3.0 
+
+	122	4U7U
+# 861	NR_4.0_48956.1Exact match	4U8T    Crystal structure of YTH domain of Zygosaccharomyces rouxii MRB1 protein in complex with N6-Methyladenosine RNA    X-RAY DIFFRACTION    Chain(s): O; model(s): 1	2.7 
+
+	36	4U8T
+# 862	NR_4.0_41213.1Exact match	4UN3    Crystal structure of Cas9 bound to PAM-containing DNA target    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.6 
+
+	81	4UN3
+# 863	NR_4.0_25903.1Exact match	4UYJ    Crystal structure of a Signal Recognition Particle Alu domain in the elongation arrest conformation    X-RAY DIFFRACTION    Chain(s): S; model(s): 1	3.4 
+
+	218	4UYJ
+# 864	NR_4.0_26116.1Exact match	4UYK    Crystal structure of a Signal Recognition Particle Alu domain in the elongation arrest conformation    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	3.2 
+
+	133	4UYK
+# 865	NR_4.0_24182.1Exact match	4W5N    The Crystal Structure of Human Argonaute2 Bound to a Defined Guide RNA    X-RAY DIFFRACTION    Chain(s): B; model(s): 1	2.9 
+
+	17	4W5N
+# 866	NR_4.0_35852.1Exact match	4W5O    The Crystal Structure of Human Argonaute2 Bound to a Guide and Target RNA Containing Seed Pairing from 2-9    X-RAY DIFFRACTION    Chain(s): B,D; model(s): 1	1.8 
+
+	28	4W5O
+# 867	NR_4.0_76323.1Exact match	4W5Q    The Crystal Structure of Human Argonaute2 Bound to a Guide and Target RNA Containing Seed Pairing from 2-8    X-RAY DIFFRACTION    Chain(s): B,D; model(s): 1	3.1 
+
+	27	4W5Q
+# 868	NR_4.0_31245.1Exact match	4W5R    The Crystal Structure of Human Argonaute2 Bound to a Guide and Target RNA Containing Seed Pairing from 2-8 (Long Target)    X-RAY DIFFRACTION    Chain(s): B,D; model(s): 1	2.5 
+
+	19	4W5R
+# 869	NR_4.0_71035.1Exact match	4W5T    The Crystal Structure of Human Argonaute2 Bound to a Guide and Target RNA Containing Seed Pairing from 2-7    X-RAY DIFFRACTION    Chain(s): B,D; model(s): 1	2.5 
+
+	25	4W5T
+# 870	NR_4.0_15180.1Exact match	4WKJ    Crystallographic Structure of a Dodecameric RNA-DNA Hybrid    X-RAY DIFFRACTION    Chain(s): A; model(s): 1	2.8 
+
+	48	4WKJ
+# 871	NR_4.0_38473.1Exact match	4WRT    Crystal structure of Influenza B polymerase with bound vRNA promoter (form FluB2)    X-RAY DIFFRACTION    Chain(s): R,V; model(s): 1	2.7 
+
+	29	4WRT
+# 872	NR_4.0_56017.1Exact match	4WSA    Crystal structure of Influenza B polymerase bound to the vRNA promoter (FluB1 form)    X-RAY DIFFRACTION    Chain(s): R,V; model(s): 1	3.4 
+
+	28	4WSA
+# 873	NR_4.0_22756.1Exact match	4WSB    Bat Influenza A polymerase with bound vRNA promoter    X-RAY DIFFRACTION    Chain(s): R,V; model(s): 1	2.7 
+
+	28	4WSB
+# 874	NR_4.0_23239.1Exact match	5MSF    MS2 PROTEIN CAPSID/RNA COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.8 
+
+	34	5MSF
+# 875	NR_4.0_93634.1Exact match	6MSF    F6 APTAMER MS2 COAT PROTEIN COMPLEX    X-RAY DIFFRACTION    Chain(s): R,S; model(s): 1	2.8 
+
+	24	6MSF
+# 876	NR_4.0_64216.1Exact match	7MSF    MS2 PROTEIN CAPSID/RNA COMPLEX    X-RAY DIFFRACTION    Chain(s): R; model(s): 1	2.8 
+
+	25	7MSF

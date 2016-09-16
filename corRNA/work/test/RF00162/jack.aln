@@ -1,0 +1,1296 @@
+# STOCKHOLM 1.0
+
+#=GS USER>SEED:>RF00162/1-93                  DE [subseq from] 2gis_A mol:na length:94  SAMI riboswitch
+#=GS USER>>CP000382.1/18393211839214/2-87     DE [subseq from] [+0+] CP000382.1/18393211839214 Clostridium novyi NT
+#=GS USER>>AP008955.1/39357823935669/4-90     DE [subseq from] [+0+] AP008955.1/39357823935669 Brevibacillus brevis NBRC 100599 DNA
+#=GS USER>>AESB01000022.1/2813228242/2-87     DE [subseq from] [+2+] AESB01000022.1/2813228242 Clostridium botulinum BKT028387 contig00022
+#=GS USER>>CP002011.1/12257741225876/3-86     DE [subseq from] [+12+] CP002011.1/12257741225876 Clostridium botulinum F str. 230613
+#=GS USER>>CP002901.1/27681852768083/3-91     DE [subseq from] [+0+] CP002901.1/27681852768083 Sulfobacillus acidophilus TPY
+#=GS USER>>AP012029.1/19650961964993/3-85     DE [subseq from] [+0+] AP012029.1/19650961964993 Anaerolinea thermophila TNI1 DNA
+#=GS USER>>AGFS01027305.1/562462/3-86         DE [subseq from] [+1+] AGFS01027305.1/562462 Atta colombica fungus garden Top 2030327136
+#=GS USER>>CP001666.1/35150533514946/3-87     DE [subseq from] [+0+] CP001666.1/35150533514946 Clostridium ljungdahlii DSM 13528
+#=GS USER>>ABDQ01000004.1/101148101041/2-87   DE [subseq from] [+0+] ABDQ01000004.1/101148101041 Clostridium botulinum C str. Eklund gcontig_1106103627422
+#=GS USER>>ABWP01000011.1/2116021274/2-91     DE [subseq from] [+0+] ABWP01000011.1/2116021274 Clostridium hiranonis DSM 13275 C_hiranonis1.0_Cont1.7
+#=GS USER>>CP002017.1/20870082087117/3-91     DE [subseq from] [+0+] CP002017.1/20870082087117 Bacillus tusciae DSM 2912
+#=GS USER>>CP001336.1/14912881491389/3-88     DE [subseq from] [+1+] CP001336.1/14912881491389 Desulfitobacterium hafniense DCB2
+#=GS USER>>CP002360.1/14641921464301/3-90     DE [subseq from] [+0+] CP002360.1/14641921464301 Mahella australiensis 501 BON
+#=GS USER>>AFWX01000002.1/29305572930443/2-88 DE [subseq from] [+0+] AFWX01000002.1/29305572930443 Clostridium sp. DLVIII CDLVIIIscaffold_1_Cont2
+#=GS USER>>CP002660.1/671342671237/3-84       DE [subseq from] [+2+] CP002660.1/671342671237 Clostridium acetobutylicum DSM 1731
+#=GS USER>>ABDT01000053.2/177459177343/3-88   DE [subseq from] [+1+] ABDT01000053.2/177459177343 Clostridium butyricum 5521 gcontig_1106103650292
+#=GS USER>>AP008955.1/39359543935848/3-85     DE [subseq from] [+0+] AP008955.1/39359543935848 Brevibacillus brevis NBRC 100599 DNA
+#=GS USER>>AGTN01018007.1/407508/3-83         DE [subseq from] [+1+] AGTN01018007.1/407508 Bioreactor metagenome PBDCA2_FTFP25183_b1
+#=GS USER>>CP001056.1/29319462931840/3-85     DE [subseq from] [+0+] CP001056.1/29319462931840 Clostridium botulinum B str. Eklund 17B
+#=GS USER>>ABFD02000008.1/488145488251/3-86   DE [subseq from] [+25+] ABFD02000008.1/488145488251 Clostridium difficile QCD66c26 contig00008_2
+#=GS USER>>AFGF01000173.1/1673116630/3-88     DE [subseq from] [+0+] AFGF01000173.1/1673116630 Acetonema longum DSM 6540 Contig00183
+#=GS USER>>AAWL01000007.1/44004499/3-87       DE [subseq from] [+0+] AAWL01000007.1/44004499 Thermosinus carboydivorans Nor1 ctg46
+#=GS USER>>ADVM01000039.1/2654526647/3-85     DE [subseq from] [+25+] ADVM01000039.1/2654526647 Clostridium difficile NAP07 contig00044
+#=GS USER>>CP002171.1/733120733012/3-89       DE [subseq from] [+0+] CP002171.1/733120733012 Thermoanaerobacterium thermosaccharolyticum DSM 571
+#=GS USER>>CP001348.1/101863101963/3-78       DE [subseq from] [+0+] CP001348.1/101863101963 Clostridium cellulolyticum H10
+#=GS USER>>AFGF01000085.1/4042940530/3-88     DE [subseq from] [+0+] AFGF01000085.1/4042940530 Acetonema longum DSM 6540 Contig00085
+#=GS USER>>CP001022.1/23093682309263/3-86     DE [subseq from] [+0+] CP001022.1/23093682309263 Eiguobacterium sibiricum 25515
+#=GS USER>>CP001983.1/36525883652482/3-87     DE [subseq from] [+1+] CP001983.1/36525883652482 Bacillus megaterium QM B1551
+#=GS USER>>AE008691.1/17503691750270/3-81     DE [subseq from] [+0+] AE008691.1/17503691750270 Thermoanaerobacter tengcongensis MB4
+#=GS USER>>FP929056.1/23664102366507/3-81     DE [subseq from] [+0+] FP929056.1/23664102366507 Synergistetes sp. SGP1 draft genome.
+#=GS USER>>CP001034.1/28892512889136/3-87     DE [subseq from] [+0+] CP001034.1/28892512889136 Natranaerobius thermophilus JW/NMWNLF
+#=GS USER>>CP001056.1/749334749442/3-70       DE [subseq from] [+0+] CP001056.1/749334749442 Clostridium botulinum B str. Eklund 17B
+#=GS USER>>CP002780.1/15693621569471/3-88     DE [subseq from] [+0+] CP002780.1/15693621569471 Desulfotomaculum ruminis DSM 2154
+#=GS USER>>CP000612.1/24180522417945/3-86     DE [subseq from] [+0+] CP000612.1/24180522417945 Desulfotomaculum reducens MI1
+#=GS USER>>AEVP01000018.1/2209322200/4-86     DE [subseq from] [+1+] AEVP01000018.1/2209322200 Desulfotomaculum nigrificans DSM 574 ctg00018
+#=GS USER>>AGFT01129093.1/159263/3-90         DE [subseq from] [+0+] AGFT01129093.1/159263 Atta colombica fungus garden Bottom 2030638965
+#=GS USER>>AP008955.1/29570322957136/3-85     DE [subseq from] [+0+] AP008955.1/29570322957136 Brevibacillus brevis NBRC 100599 DNA
+#=GS USER>>AFGF01000054.1/3571635610/3-91     DE [subseq from] [+0+] AFGF01000054.1/3571635610 Acetonema longum DSM 6540 Contig00054
+#=GS USER>>AAWL01000007.1/5163751739/3-87     DE [subseq from] [+0+] AAWL01000007.1/5163751739 Thermosinus carboydivorans Nor1 ctg46
+#=GS USER>>CP001982.1/36549213654815/3-75     DE [subseq from] [+1+] CP001982.1/36549213654815 Bacillus megaterium DSM319
+#=GS USER>>FN668375.1/12357991235905/3-87     DE [subseq from] [+25+] FN668375.1/12357991235905 Clostridium difficile M68
+#=GS USER>>ACXX02000006.1/9777297873/3-78     DE [subseq from] [+0+] ACXX02000006.1/9777297873 Clostridium papyrosolvens DSM 2782 ctg60
+#=GS USER>>ABSQ01002824.1/631738/3-87         DE [subseq from] [+1+] ABSQ01002824.1/631738 Freshwater sediment metagenome lwMethenol_C2824
+#=GS USER>>ACWC01000018.1/2941529524/3-90     DE [subseq from] [+2+] ACWC01000018.1/2941529524 Bacillus sp. BT1B_CT2 cont1.18
+#=GS USER>>AFGF01000053.1/7080470700/3-90     DE [subseq from] [+0+] AFGF01000053.1/7080470700 Acetonema longum DSM 6540 Contig00053
+#=GS USER>>CP001997.1/142954143060/3-70       DE [subseq from] [+0+] CP001997.1/142954143060 Aminobacterium colombiense DSM 12261
+#=GS USER>>ADJN01000063.1/7734477246/3-88     DE [subseq from] [+0+] ADJN01000063.1/7734477246 Peptostreptococcus anaerobius 653L contig00040
+#=GS USER>>AGTN01151477.1/13431/3-83          DE [subseq from] [+0+] AGTN01151477.1/13431 Bioreactor metagenome PBDCA2_FISTTAT01A0HXO
+#=GS USER>>ABDT01000037.2/92519359/3-72       DE [subseq from] [+1+] ABDT01000037.2/92519359 Clostridium butyricum 5521 gcontig_1106103650318
+#=GS USER>>ACMW01000098.1/91058996/3-86       DE [subseq from] [+4+] ACMW01000098.1/91058996 Bacillus mycoides Rock317 contig00036
+#=GS USER>>AGAC01000116.1/1485014956/3-87     DE [subseq from] [+25+] AGAC01000116.1/1485014956 Clostridium difficile 701002010 C_difficile7010020101.0_Cont821.4
+#=GS USER>>AFWX01000001.1/24756372475742/3-83 DE [subseq from] [+0+] AFWX01000001.1/24756372475742 Clostridium sp. DLVIII CDLVIIIscaffold_1_Cont1
+#=GS USER>>CP002032.1/15801361580032/3-82     DE [subseq from] [+8+] CP002032.1/15801361580032 Thermoanaerobacter mathranii subsp. mathranii str. A3
+#=GS USER>>AFGF01000053.1/7589775791/3-91     DE [subseq from] [+0+] AFGF01000053.1/7589775791 Acetonema longum DSM 6540 Contig00053
+#=GS USER>>AGTN01114580.1/292395/3-81         DE [subseq from] [+0+] AGTN01114580.1/292395 Bioreactor metagenome PBDCA2_FISTTAT01AJ4OM
+#=GS USER>>BA000028.3/24373072437208/3-80     DE [subseq from] [+0+] BA000028.3/24373072437208 Oceanobacillus iheyensis HTE831 DNA
+#=GS USER>>AFWX01000002.1/10774821077376/3-82 DE [subseq from] [+0+] AFWX01000002.1/10774821077376 Clostridium sp. DLVIII CDLVIIIscaffold_1_Cont2
+#=GS USER>>CP002273.1/28270612826966/4-81     DE [subseq from] [+0+] CP002273.1/28270612826966 Eubacterium limosum KIST612
+#=GS USER>>CP000382.1/316300316411/3-87       DE [subseq from] [+0+] CP000382.1/316300316411 Clostridium novyi NT
+#=GS USER>>AGBY01000034.1/6886968971/3-84     DE [subseq from] [+2+] AGBY01000034.1/6886968971 Bacillus pumilus S1 contig000035
+#=GS USER>>AGTN01517426.1/233343/3-70         DE [subseq from] [+0+] AGTN01517426.1/233343 Bioreactor metagenome PBDCA2_FISTTAT01AO1RI
+#=GS USER>>ACJX02000007.1/318260318153/3-89   DE [subseq from] [+0+] ACJX02000007.1/318260318153 Anaerobaculum hydrogeniformans ATCC BAA1850 A_SpOS11.0.1_Cont0.4
+#=GS USER>>CP001666.1/26955722695679/3-85     DE [subseq from] [+0+] CP001666.1/26955722695679 Clostridium ljungdahlii DSM 13528
+#=GS USER>>AFIJ01000003.1/74337338/4-69       DE [subseq from] [+1+] AFIJ01000003.1/74337338 Megasphaera sp. TPII 1996 contig00021
+#=GS USER>>ACDK01000006.1/2055720663/2-74     DE [subseq from] [+0+] ACDK01000006.1/2055720663 Clostridium sp. 7_2_43FAA cont1.6
+#=GS USER>>CP001936.1/16141111614008/3-82     DE [subseq from] [+0+] CP001936.1/16141111614008 Thermoanaerobacter italicus Ab9
+#=GS USER>>CP003096.1/178381178481/3-70       DE [subseq from] [+0+] CP003096.1/178381178481 Thermovirga lienii DSM 17291
+#=GS USER>>AEYS01000045.1/67736663/3-88       DE [subseq from] [+9+] AEYS01000045.1/67736663 Thermoanaerobacter ethanolicus JW 200 ctg991
+#=GS USER>>CP000721.1/16472241647332/3-70     DE [subseq from] [+0+] CP000721.1/16472241647332 Clostridium beijerinckii NCIMB 8052
+#=GS USER>>AGTN01183280.1/324428/3-84         DE [subseq from] [+0+] AGTN01183280.1/324428 Bioreactor metagenome PBDCA2_FISTTAT01C0MNP
+#=GS USER>>CP000930.2/17346101734715/3-83     DE [subseq from] [+0+] CP000930.2/17346101734715 Heliobacterium modesticaldum Ice1
+#=GS USER>>ABRX01000002.1/301195301087/3-88   DE [subseq from] [+2+] ABRX01000002.1/301195301087 Bacillus pumilus ATCC 7061 BAT.Contig113
+#=GS USER>>CP002171.1/744938745040/3-74       DE [subseq from] [+1+] CP002171.1/744938745040 Thermoanaerobacterium thermosaccharolyticum DSM 571
+#=GS USER>>ACLT01000101.1/7631576208/3-85     DE [subseq from] [+84+] ACLT01000101.1/7631576208 Bacillus cereus ATCC 10876 contig00556
+#=GS USER>>AGJB01000007.1/185735185839/3-83   DE [subseq from] [+0+] AGJB01000007.1/185735185839 Desulfitobacterium metallireducens DSM 15288 ctg107
+#=GS USER>>AFTG01000003.1/72217126/4-78       DE [subseq from] [+0+] AFTG01000003.1/72217126 Megasphaera sp. TPII 135E contig00021
+#=GS USER>>ACXJ01011585.1/288395/3-85         DE [subseq from] [+0+] ACXJ01011585.1/288395 Mine drainage metagenome Contig13651
+#=GS USER>>CP002171.1/5658356686/3-83         DE [subseq from] [+0+] CP002171.1/5658356686 Thermoanaerobacterium thermosaccharolyticum DSM 571
+#=GS USER>>AE008691.1/20766822076573/3-88     DE [subseq from] [+0+] AE008691.1/20766822076573 Thermoanaerobacter tengcongensis MB4
+#=GS USER>>AE015927.1/12262001226097/3-85     DE [subseq from] [+0+] AE015927.1/12262001226097 Clostridium tetani E88
+#=GS USER>>AAXG02000006.1/101826101729/3-83   DE [subseq from] [+0+] AAXG02000006.1/101826101729 Bacteroides capillosus ATCC 29799 B_capillosus2.0.1_Cont34
+#=GS USER>>CP002906.1/37994733799579/3-88     DE [subseq from] [+9+] CP002906.1/37994733799579 Bacillus subtilis subsp. subtilis RONN1
+#=GS USER>>AFRV01000004.1/301449301550/3-83   DE [subseq from] [+0+] AFRV01000004.1/301449301550 Brevibacillus laterosporus LMG 15441 BRLAcontig4c
+#=GS USER>>CP002183.1/38057633805869/3-86     DE [subseq from] [+2+] CP002183.1/38057633805869 Bacillus subtilis subsp. spizizenii str. W23
+#=GS USER>>AGTN01311074.1/275185/2-76         DE [subseq from] [+0+] AGTN01311074.1/275185 Bioreactor metagenome PBDCA2_GBB5CE401A3Q7M
+#=GS USER>>CP002017.1/617734617838/3-82       DE [subseq from] [+0+] CP002017.1/617734617838 Bacillus tusciae DSM 2912
+#=GS USER>>AFHT01000087.1/4930249190/3-85     DE [subseq from] [+0+] AFHT01000087.1/4930249190 Desmospora sp. 8437 contig00087
+#=GS USER>>AP009049.1/30357283035614/3-88     DE [subseq from] [+1+] AP009049.1/30357283035614 Clostridium kluyveri NBRC 12016 DNA
+#=GS USER>>CP002304.1/10936431093746/3-74     DE [subseq from] [+0+] CP002304.1/10936431093746 Halanaerobium hydrogeniformans
+#=GS USER>>CP001983.1/48038534803746/3-84     DE [subseq from] [+2+] CP001983.1/48038534803746 Bacillus megaterium QM B1551
+#=GS USER>>ABDQ01000001.1/432295432183/3-87   DE [subseq from] [+0+] ABDQ01000001.1/432295432183 Clostridium botulinum C str. Eklund gcontig_1106103629374
+#=GS USER>>CP002105.1/12295361229651/3-86     DE [subseq from] [+0+] CP002105.1/12295361229651 Acetohalobium arabaticum DSM 5501
+#=GS USER>>CP002118.1/29906642990554/3-69     DE [subseq from] [+2+] CP002118.1/29906642990554 Clostridium acetobutylicum EA 2018
+#=GS USER>>ACPC01000020.1/112303112192/3-87   DE [subseq from] [+0+] ACPC01000020.1/112303112192 Bacillus sp. m313 Contig74
+#=GS USER>>CP000860.1/973047972931/3-87       DE [subseq from] [+0+] CP000860.1/973047972931 Candidatus Desulforudis audaviator MP104C
+#=GS USER>>AFHT01000081.1/5505154940/4-71     DE [subseq from] [+0+] AFHT01000081.1/5505154940 Desmospora sp. 8437 contig00081
+#=GS USER>>CP002028.1/23103872310276/3-84     DE [subseq from] [+0+] CP002028.1/23103872310276 Thermincola sp. JR
+#=GS USER>>AEDD01000008.1/2971529827/3-89     DE [subseq from] [+0+] AEDD01000008.1/2971529827 Paenibacillus curdlanolyticus YK9 ctg103
+#=GS USER>>ACPC01000012.1/106106106211/3-71   DE [subseq from] [+0+] ACPC01000012.1/106106106211 Bacillus sp. m313 Contig72
+#=GS USER>>CP002028.1/12445711244678/3-71     DE [subseq from] [+0+] CP002028.1/12445711244678 Thermincola sp. JR
+#=GS USER>>AECS01000010.1/60526145/2-74       DE [subseq from] [+0+] AECS01000010.1/60526145 Megasphaera micronuciformis F0359 M_micronuciformisF03591.0_Cont14.1
+#=GS USER>>ACLV01000064.1/2057520466/3-86     DE [subseq from] [+1+] ACLV01000064.1/2057520466 Bacillus cereus 172560W contig00031
+#=GS USER>>ACSC01000002.1/845411845514/3-67   DE [subseq from] [+1+] ACSC01000002.1/845411845514 Clostridium botulinum E1 str. 'BoNT E Beluga' CLO.Contig141
+#=GS USER>>AEVN01000024.1/48724772/3-78       DE [subseq from] [+0+] AEVN01000024.1/48724772 Phascolarctobacterium sp. YIT 12067 P_spYIT120671.0_Cont50.1
+#=GS USER>>AP009484.1/6387863783/2-78         DE [subseq from] [+0+] AP009484.1/6387863783 Macrococcus caseolyticus JCSC5402 DNA
+#=GS USER>>CP001615.1/262165262061/2-70       DE [subseq from] [+0+] CP001615.1/262165262061 Eiguobacterium sp. AT1b
+#=GS USER>>AESB01000069.1/74217309/3-87       DE [subseq from] [+2+] AESB01000069.1/74217309 Clostridium botulinum BKT028387 contig00069
+#=GS USER>>AGTN01580094.1/386281/2-86         DE [subseq from] [+0+] AGTN01580094.1/386281 Bioreactor metagenome PBDCA2_FIDWTPW02RBTHS
+#=GS USER>>AAWL01000026.1/2210922215/3-86     DE [subseq from] [+0+] AAWL01000026.1/2210922215 Thermosinus carboydivorans Nor1 ctg30
+#=GS USER>>AGHO01000537.1/16981803/3-85       DE [subseq from] [+0+] AGHO01000537.1/16981803 Streptococcus sobrinus TCI157 contig00537
+#=GS USER>>AE015927.1/303338303443/3-72       DE [subseq from] [+0+] AE015927.1/303338303443 Clostridium tetani E88
+#=GS USER>>AEQN01000014.1/1771617623/3-70     DE [subseq from] [+0+] AEQN01000014.1/1771617623 Pseudoramibacter alactolyticus ATCC 23263 contig00014
+#=GS USER>>AEDB01000017.1/3897738873/3-85     DE [subseq from] [+0+] AEDB01000017.1/3897738873 Acetivibrio cellulolyticus CD2 ctg00044
+#=GS USER>>ACVI01000037.1/4130441412/3-80     DE [subseq from] [+0+] ACVI01000037.1/4130441412 Clostridium carboidivorans P7 ctg00099
+#=GS USER>>CP002207.1/28015102801404/3-86     DE [subseq from] [+12+] CP002207.1/28015102801404 Bacillus atrophaeus 1942
+#=GS USER>>BAAZ01010499.1/873972/3-68         DE [subseq from] [+0+] BAAZ01010499.1/873972 Human gut metagenome DNA
+#=GS USER>>ABEZ02000019.1/8805387953/2-82     DE [subseq from] [+0+] ABEZ02000019.1/8805387953 Clostridium bartlettii DSM 16795 C_bartlettii2.0.1_Cont617
+#=GS USER>>HE576794.1/991545991452/4-70       DE [subseq from] [+0+] HE576794.1/991545991452 Megasphaera elsdenii strain DSM 20460 draft genome
+#=GS USER>>AGTN01602760.1/73186/3-81          DE [subseq from] [+0+] AGTN01602760.1/73186 Bioreactor metagenome PBDCA2_FIDWTPW02QJ28Z
+#=GS USER>>AFRV01000002.1/171593171485/3-85   DE [subseq from] [+0+] AFRV01000002.1/171593171485 Brevibacillus laterosporus LMG 15441 BRLAcontig2c
+#=GS USER>>CP000568.1/26798222679717/3-84     DE [subseq from] [+3+] CP000568.1/26798222679717 Clostridium thermocellum ATCC 27405
+#=GS USER>>BAAZ01000238.1/17251819/3-82       DE [subseq from] [+0+] BAAZ01000238.1/17251819 Human gut metagenome DNA
+#=GS USER>>ACWC01000016.1/6402763920/3-86     DE [subseq from] [+2+] ACWC01000016.1/6402763920 Bacillus sp. BT1B_CT2 cont1.16
+#=GS USER>>AL009126.3/39991663999272/3-83     DE [subseq from] [+12+] AL009126.3/39991663999272 Bacillus subtilis subsp. subtilis str. 168 complete genome.
+#=GS USER>>CP002118.1/29140962913988/3-83     DE [subseq from] [+2+] CP002118.1/29140962913988 Clostridium acetobutylicum EA 2018
+#=GS USER>>CP001098.1/21065792106474/3-80     DE [subseq from] [+0+] CP001098.1/21065792106474 Halothermothri orenii H 168
+#=GS USER>>BAAW01002289.1/979878/3-76         DE [subseq from] [+0+] BAAW01002289.1/979878 Human gut metagenome DNA
+#=GS USER>>AGJQ01000010.1/109242109355/3-85   DE [subseq from] [+0+] AGJQ01000010.1/109242109355 Desulfotomaculum gibsoniae DSM 7213 ctg391
+#=GS USER>>AGTN01053582.1/136249/3-85         DE [subseq from] [+2+] AGTN01053582.1/136249 Bioreactor metagenome PBDCA2_FIDWTPW02TNK1T
+#=GS USER>>CP000922.1/24452982445193/3-73     DE [subseq from] [+0+] CP000922.1/24452982445193 Anoybacillus flavithermus WK1
+#=GS USER>>ADJR01000013.1/9447394568/3-79     DE [subseq from] [+0+] ADJR01000013.1/9447394568 Lysinibacillus fusiformis ZC1 contig00013
+#=GS USER>>AFHT01000003.1/92589363/3-84       DE [subseq from] [+0+] AFHT01000003.1/92589363 Desmospora sp. 8437 contig00003
+#=GS USER>>AP008230.1/53175695317463/3-83     DE [subseq from] [+1+] AP008230.1/53175695317463 Desulfitobacterium hafniense Y51 DNA
+#=GS USER>>ACVI01000091.1/1275112640/3-84     DE [subseq from] [+1+] ACVI01000091.1/1275112640 Clostridium carboidivorans P7 ctg00207
+#=GS USER>>ACVI01000134.1/32413345/2-81       DE [subseq from] [+1+] ACVI01000134.1/32413345 Clostridium carboidivorans P7 ctg00147
+#=GS USER>>CP002131.1/17974611797347/3-80     DE [subseq from] [+0+] CP002131.1/17974611797347 Thermosediminibacter oceani DSM 16646
+#=GS USER>>CP000817.1/22572752257370/3-78     DE [subseq from] [+0+] CP000817.1/22572752257370 Lysinibacillus sphaericus C341
+#=GS USER>>AAOX01000038.1/1909418987/3-71     DE [subseq from] [+0+] AAOX01000038.1/1909418987 Bacillus sp. NRRL B14911 1099999053108
+#=GS USER>>AGFS01133807.1/375273/3-82         DE [subseq from] [+0+] AGFS01133807.1/375273 Atta colombica fungus garden Top 2030446122
+#=GS USER>>ACWD01000019.1/1564015537/3-83     DE [subseq from] [+0+] ACWD01000019.1/1564015537 Bacillus sp. 2_A_57_CT2 cont1.19
+#=GS USER>>AFWX01000001.1/869018869117/3-70   DE [subseq from] [+0+] AFWX01000001.1/869018869117 Clostridium sp. DLVIII CDLVIIIscaffold_1_Cont1
+#=GS USER>>CP000922.1/19734351973328/3-73     DE [subseq from] [+0+] CP000922.1/19734351973328 Anoybacillus flavithermus WK1
+#=GS USER>>CP000673.1/17123281712433/3-70     DE [subseq from] [+1+] CP000673.1/17123281712433 Clostridium kluyveri DSM 555
+#=GS USER>>AFHT01000091.1/7247672367/3-85     DE [subseq from] [+0+] AFHT01000091.1/7247672367 Desmospora sp. 8437 contig00091
+#=GS USER>>AP012044.1/31825973182503/3-81     DE [subseq from] [+0+] AP012044.1/31825973182503 Oscillibacter valericigenes Sjm1820 DNA
+#=GS USER>>ACMP01000103.1/52125317/3-81       DE [subseq from] [+88+] ACMP01000103.1/52125317 Bacillus cereus AH603 contig00410
+#=GS USER>>AGAV01000018.1/169882169983/3-77   DE [subseq from] [+0+] AGAV01000018.1/169882169983 Lentibacillus sp. Grbi contig018
+#=GS USER>>CP000560.1/31031973103091/3-86     DE [subseq from] [+4+] CP000560.1/31031973103091 Bacillus amyloliquefaciens FZB42
+#=GS USER>>AARM02000202.1/498399/3-82         DE [subseq from] [+1+] AARM02000202.1/498399 Listeria monocytogenes FSL J2003 cont3.202
+#=GS USER>>FP565809.1/17883701788263/3-70     DE [subseq from] [+0+] FP565809.1/17883701788263 Clostridium sticklandii str. DSM 519 chromosome
+#=GS USER>>ACMM01000184.1/49135017/3-72       DE [subseq from] [+0+] ACMM01000184.1/49135017 Bacillus cereus Rock42 contig00298
+#=GS USER>>ABEZ02000016.1/241791241688/3-85   DE [subseq from] [+0+] ABEZ02000016.1/241791241688 Clostridium bartlettii DSM 16795 C_bartlettii2.0.1_Cont609
+#=GS USER>>CP002739.1/764885764785/3-80       DE [subseq from] [+0+] CP002739.1/764885764785 Thermoanaerobacterium ylanolyticum LX11
+#=GS USER>>AP012157.1/11349471135049/3-85     DE [subseq from] [+0+] AP012157.1/11349471135049 Solibacillus silvestris StLB046 DNA
+#=GS USER>>AGTN01602795.1/205303/3-82         DE [subseq from] [+0+] AGTN01602795.1/205303 Bioreactor metagenome PBDCA2_FIDWTPW02QQ1ZA
+#=GS USER>>CP001982.1/12259831226089/3-69     DE [subseq from] [+2+] CP001982.1/12259831226089 Bacillus megaterium DSM319
+#=GS USER>>CP002293.1/29004912900383/3-83     DE [subseq from] [+2+] CP002293.1/29004912900383 Geobacillus sp. Y4.1MC1
+#=GS USER>>ABGD02000008.1/4060140696/3-79     DE [subseq from] [+0+] ABGD02000008.1/4060140696 Anaerotruncus colihominis DSM 17241 A_colihominis0.2.1_Cont126
+#=GS USER>>ADGO01002641.1/175278/3-87         DE [subseq from] [+0+] ADGO01002641.1/175278 Compost metagenome contig02659
+#=GS USER>>ABVH01000005.1/3497434865/3-83     DE [subseq from] [+4+] ABVH01000005.1/3497434865 Geobacillus sp. G11MC16 ctg4
+#=GS USER>>ACML01000139.1/16781574/3-79       DE [subseq from] [+3+] ACML01000139.1/16781574 Bacillus cereus Rock344 contig01953
+#=GS USER>>CP000853.1/597495597392/3-84       DE [subseq from] [+0+] CP000853.1/597495597392 Alkaliphilus oremlandii OhILAs
+#=GS USER>>ABDT01000114.2/6823468332/3-68     DE [subseq from] [+1+] ABDT01000114.2/6823468332 Clostridium butyricum 5521 gcontig_1106103650388
+#=GS USER>>ABFT01000018.1/1675016644/3-74     DE [subseq from] [+0+] ABFT01000018.1/1675016644 Bacillus coahuilensis m44 1955101000018
+#=GS USER>>CP002048.1/760912761020/3-73       DE [subseq from] [+0+] CP002048.1/760912761020 Syntrophothermus lipocalidus DSM 12680
+#=GS USER>>ADGQ01000004.1/6433564434/3-88     DE [subseq from] [+0+] ADGQ01000004.1/6433564434 Peptostreptococcus stomatis DSM 17678 contig00021
+#=GS USER>>CP000557.1/916483916589/3-83       DE [subseq from] [+1+] CP000557.1/916483916589 Geobacillus thermodenitrificans NG802
+#=GS USER>>CP001982.1/47440824743980/2-79     DE [subseq from] [+2+] CP001982.1/47440824743980 Bacillus megaterium DSM319
+#=GS USER>>CP001666.1/732945733052/4-84       DE [subseq from] [+0+] CP001666.1/732945733052 Clostridium ljungdahlii DSM 13528
+#=GS USER>>AESC01000083.1/15241628/2-71       DE [subseq from] [+2+] AESC01000083.1/15241628 Clostridium botulinum V891 contig00083
+#=GS USER>>CP000721.1/516269516366/3-70       DE [subseq from] [+0+] CP000721.1/516269516366 Clostridium beijerinckii NCIMB 8052
+#=GS USER>>CP001638.1/29529682952860/3-72     DE [subseq from] [+2+] CP001638.1/29529682952860 Geobacillus sp. WCH70
+#=GS USER>>AGHO01003820.1/244136/3-85         DE [subseq from] [+0+] AGHO01003820.1/244136 Streptococcus sobrinus TCI157 contig03820
+#=GS USER>>CP000612.1/107660107768/3-82       DE [subseq from] [+0+] CP000612.1/107660107768 Desulfotomaculum reducens MI1
+#=GS USER>>CP000922.1/19756761975775/3-68     DE [subseq from] [+0+] CP000922.1/19756761975775 Anoybacillus flavithermus WK1
+#=GS USER>>CP001982.1/21755002175606/3-86     DE [subseq from] [+3+] CP001982.1/21755002175606 Bacillus megaterium DSM319
+#=GS USER>>ABDQ01000002.1/165669165770/3-72   DE [subseq from] [+1+] ABDQ01000002.1/165669165770 Clostridium botulinum C str. Eklund gcontig_1106103627388
+#=GS USER>>CP002183.1/31551813155075/3-86     DE [subseq from] [+11+] CP002183.1/31551813155075 Bacillus subtilis subsp. spizizenii str. W23
+#=GS USER>>AAOX01000018.1/2928729391/3-84     DE [subseq from] [+0+] AAOX01000018.1/2928729391 Bacillus sp. NRRL B14911 1099999053139
+#=GS USER>>ABTR02000001.1/12017511201854/3-67 DE [subseq from] [+0+] ABTR02000001.1/12017511201854 Dethiosulfovibrio peptidovorans DSM 11002 ctg1
+#=GS USER>>CP002478.1/745720745825/4-71       DE [subseq from] [+1+] CP002478.1/745720745825 Staphylococcus pseudintermedius ED99
+#=GS USER>>CP001022.1/27077522707649/3-83     DE [subseq from] [+0+] CP001022.1/27077522707649 Eiguobacterium sibiricum 25515
+#=GS USER>>CP000764.1/28203652820470/3-82     DE [subseq from] [+0+] CP000764.1/28203652820470 Bacillus cereus subsp. cytotois NVH 39198
+#=GS USER>>CP002627.1/20388162038717/3-73     DE [subseq from] [+4+] CP002627.1/20388162038717 Bacillus amyloliquefaciens TA208
+#=GS USER>>CP001656.1/55195575519455/3-84     DE [subseq from] [+0+] CP001656.1/55195575519455 Paenibacillus sp. JDR2
+#=GS USER>>AGFE01000001.1/8204881942/3-83     DE [subseq from] [+0+] AGFE01000001.1/8204881942 Thermobacillus composti KWC4 ctg167
+#=GS USER>>ACWD01000062.1/1637916276/3-84     DE [subseq from] [+0+] ACWD01000062.1/1637916276 Bacillus sp. 2_A_57_CT2 cont1.62
+#=GS USER>>ADEK01000022.1/212392212502/3-87   DE [subseq from] [+1+] ADEK01000022.1/212392212502 Clostridium carboidivorans P7 CLCAR0052
+#=GS USER>>ACMR01000082.1/1740217507/3-77     DE [subseq from] [+0+] ACMR01000082.1/1740217507 Bacillus cereus AH1271 contig00092
+#=GS USER>>AEES01000045.1/55095403/3-81       DE [subseq from] [+0+] AEES01000045.1/55095403 Eubacterium yurii subsp. margaretiae ATCC 43715 contig00045
+#=GS USER>>AEVP01000016.1/1337613265/3-86     DE [subseq from] [+1+] AEVP01000016.1/1337613265 Desulfotomaculum nigrificans DSM 574 ctg00112
+#=GS USER>>CP000557.1/30519993051890/3-83     DE [subseq from] [+0+] CP000557.1/30519993051890 Geobacillus thermodenitrificans NG802
+#=GS USER>>CP000817.1/966524966419/3-84       DE [subseq from] [+2+] CP000817.1/966524966419 Lysinibacillus sphaericus C341
+#=GS USER>>ACXJ01000316.1/143251/3-87         DE [subseq from] [+0+] ACXJ01000316.1/143251 Mine drainage metagenome Contig458
+#=GS USER>>AEIV01000002.1/642667642564/3-81   DE [subseq from] [+0+] AEIV01000002.1/642667642564 Aminomonas paucivorans DSM 12260 Apau_c2
+#=GS USER>>AP008955.1/22978812297982/3-83     DE [subseq from] [+0+] AP008955.1/22978812297982 Brevibacillus brevis NBRC 100599 DNA
+#=GS USER>>CP002207.1/16568411656750/5-74     DE [subseq from] [+25+] CP002207.1/16568411656750 Bacillus atrophaeus 1942
+#=GS USER>>CP000002.3/17357231735829/3-77     DE [subseq from] [+2+] CP000002.3/17357231735829 Bacillus licheniformis ATCC 14580
+#=GS USER>>CP002171.1/20939802094082/3-80     DE [subseq from] [+0+] CP002171.1/20939802094082 Thermoanaerobacterium thermosaccharolyticum DSM 571
+#=GS USER>>AFWM01000152.1/1775717863/2-68     DE [subseq from] [+1+] AFWM01000152.1/1775717863 Bacillus coagulans XZL4 contig000152
+#=GS USER>>BABF01000308.1/89148823/4-70       DE [subseq from] [+0+] BABF01000308.1/89148823 Human gut metagenome DNA
+#=GS USER>>ACSJ01000001.1/215113215214/3-70   DE [subseq from] [+1+] ACSJ01000001.1/215113215214 Clostridium botulinum D str. 1873 CLG.Contig180
+#=GS USER>>AM295250.1/465274465380/3-86       DE [subseq from] [+0+] AM295250.1/465274465380 Staphylococcus carnosus subsp. carnosus TM300 complete genome
+#=GS USER>>CP001078.1/502175502276/3-70       DE [subseq from] [+2+] CP001078.1/502175502276 Clostridium botulinum E3 str. Alaska E43
+#=GS USER>>CP002050.1/27441232744015/3-83     DE [subseq from] [+3+] CP002050.1/27441232744015 Geobacillus sp. C56T3
+#=GS USER>>CP002118.1/11291711129275/3-79     DE [subseq from] [+2+] CP002118.1/11291711129275 Clostridium acetobutylicum EA 2018
+#=GS USER>>AFCE01000141.1/990710018/3-74      DE [subseq from] [+0+] AFCE01000141.1/990710018 Caldalkalibacillus thermarum TA2.A1 ctg225
+#=GS USER>>CP002017.1/626670626780/3-70       DE [subseq from] [+0+] CP002017.1/626670626780 Bacillus tusciae DSM 2912
+#=GS USER>>ACVI01000030.1/4402144132/3-82     DE [subseq from] [+1+] ACVI01000030.1/4402144132 Clostridium carboidivorans P7 ctg00117
+#=GS USER>>CP002906.1/14043791404479/3-82     DE [subseq from] [+24+] CP002906.1/14043791404479 Bacillus subtilis subsp. subtilis RONN1
+#=GS USER>>CP003056.1/18442321844126/3-69     DE [subseq from] [+0+] CP003056.1/18442321844126 Bacillus coagulans 36D1
+#=GS USER>>AFPZ01000107.1/96079502/3-86       DE [subseq from] [+0+] AFPZ01000107.1/96079502 Sporosarcina newyorkensis 2681 contig00107
+#=GS USER>>ABCF01000025.1/3610436003/3-71     DE [subseq from] [+0+] ABCF01000025.1/3610436003 Bacillus sp. SG1 1101501000572
+#=GS USER>>AE017333.1/14897051489804/3-69     DE [subseq from] [+2+] AE017333.1/14897051489804 Bacillus licheniformis DSM 13
+#=GS USER>>AP006716.1/21001772100072/3-67     DE [subseq from] [+0+] AP006716.1/21001772100072 Staphylococcus haemolyticus JCSC1435 DNA
+#=GS USER>>AAWL01000001.1/327573327687/4-83   DE [subseq from] [+0+] AAWL01000001.1/327573327687 Thermosinus carboydivorans Nor1 ctg55
+#=GS USER>>ACPC01000012.1/127975128088/3-84   DE [subseq from] [+0+] ACPC01000012.1/127975128088 Bacillus sp. m313 Contig72
+#=GS USER>>AFRV01000002.1/7279072680/3-84     DE [subseq from] [+0+] AFRV01000002.1/7279072680 Brevibacillus laterosporus LMG 15441 BRLAcontig2c
+#=GS USER>>ACJM01000007.1/187781187679/3-81   DE [subseq from] [+0+] ACJM01000007.1/187781187679 Dethiobacter alkaliphilus AHT 1 ctg28
+#=GS USER>>AGAV01000005.1/8171181818/3-80     DE [subseq from] [+0+] AGAV01000005.1/8171181818 Lentibacillus sp. Grbi contig005
+#=GS USER>>AP009484.1/256120256222/3-67       DE [subseq from] [+0+] AP009484.1/256120256222 Macrococcus caseolyticus JCSC5402 DNA
+#=GS USER>>ADEK01000040.1/107609107502/3-78   DE [subseq from] [+1+] ADEK01000040.1/107609107502 Clostridium carboidivorans P7 CLCAR0088
+#=GS USER>>CP000232.1/20704622070570/3-69     DE [subseq from] [+0+] CP000232.1/20704622070570 Moorella thermoacetica ATCC 39073
+#=GS USER>>CP000875.1/10610861061193/3-82     DE [subseq from] [+0+] CP000875.1/10610861061193 Herpetosiphon aurantiacus DSM 785
+#=GS USER>>AAOX01000014.1/1206412163/3-81     DE [subseq from] [+0+] AAOX01000014.1/1206412163 Bacillus sp. NRRL B14911 1099999053107
+#=GS USER>>CP000764.1/21733862173282/3-81     DE [subseq from] [+0+] CP000764.1/21733862173282 Bacillus cereus subsp. cytotois NVH 39198
+#=GS USER>>AFVQ01000464.1/197/4-69            DE [subseq from] [+0+] AFVQ01000464.1/197 Sporolactobacillus inulinus CASD contig000464
+#=GS USER>>ACMJ01000052.1/58845783/3-79       DE [subseq from] [+86+] ACMJ01000052.1/58845783 Bacillus cereus Rock329 contig00292
+#=GS USER>>ACDK01000045.1/39223825/3-69       DE [subseq from] [+0+] ACDK01000045.1/39223825 Clostridium sp. 7_2_43FAA cont1.45
+#=GS USER>>CP000612.1/28728942873007/3-86     DE [subseq from] [+0+] CP000612.1/28728942873007 Desulfotomaculum reducens MI1
+#=GS USER>>ACRM01000024.1/178554178450/3-70   DE [subseq from] [+1+] ACRM01000024.1/178554178450 Staphylococcus hominis subsp. hominis C80 cont1.24
+#=GS USER>>CP001878.2/13527491352852/3-75     DE [subseq from] [+0+] CP001878.2/13527491352852 Bacillus pseudofirmus OF4
+#=GS USER>>AGAV01000018.1/311513311411/3-74   DE [subseq from] [+1+] AGAV01000018.1/311513311411 Lentibacillus sp. Grbi contig018
+#=GS USER>>CP000817.1/560536560639/3-85       DE [subseq from] [+1+] CP000817.1/560536560639 Lysinibacillus sphaericus C341
+#=GS USER>>FR870271.1/424921425027/3-71       DE [subseq from] [+2+] FR870271.1/424921425027 Staphylococcus lugdunensis N920143 complete genome
+#=GS USER>>AP008955.1/471834471949/3-68       DE [subseq from] [+0+] AP008955.1/471834471949 Brevibacillus brevis NBRC 100599 DNA
+#=GS USER>>AFVQ01000227.1/1236112477/4-81     DE [subseq from] [+0+] AFVQ01000227.1/1236112477 Sporolactobacillus inulinus CASD contig000227
+#=GS USER>>AAXV01000011.1/3044330546/3-68     DE [subseq from] [+1+] AAXV01000011.1/3044330546 Bacillus sp. B14905 1101159007462
+#=GS USER>>AEPB01000017.1/2659726493/3-86     DE [subseq from] [+0+] AEPB01000017.1/2659726493 Planococcus donghaensis MPA1T2 contig00019
+#=GS USER>>CP002508.1/19569971957102/3-75     DE [subseq from] [+2+] CP002508.1/19569971957102 Bacillus thuringiensis serovar finitimus YBT020
+#=GS USER>>ABFT01000060.1/221461221569/3-87   DE [subseq from] [+0+] ABFT01000060.1/221461221569 Bacillus coahuilensis m44 1955101000060
+#=GS USER>>AFRV01000006.1/307921307822/3-82   DE [subseq from] [+0+] AFRV01000006.1/307921307822 Brevibacillus laterosporus LMG 15441 BRLAcontig6c
+#=GS USER>>ACWD01000008.1/1743317330/3-71     DE [subseq from] [+0+] ACWD01000008.1/1743317330 Bacillus sp. 2_A_57_CT2 cont1.8
+#=GS USER>>CP002160.1/32618853261782/3-83     DE [subseq from] [+1+] CP002160.1/32618853261782 Clostridium cellulovorans 743B
+#=GS USER>>CP000560.1/20017992001707/5-75     DE [subseq from] [+4+] CP000560.1/20017992001707 Bacillus amyloliquefaciens FZB42
+#=GS USER>>BA000004.3/910192910088/3-83       DE [subseq from] [+0+] BA000004.3/910192910088 Bacillus halodurans C125 DNA
+#=GS USER>>CP000904.1/5313253239/3-83         DE [subseq from] [+9+] CP000904.1/5313253239 Bacillus weihenstephanensis KBAB4 plasmid pBWB401
+#=GS USER>>AFRV01000003.1/301893302003/3-75   DE [subseq from] [+0+] AFRV01000003.1/301893302003 Brevibacillus laterosporus LMG 15441 BRLAcontig3c
+#=GS USER>>CP000813.1/13130681313169/3-70     DE [subseq from] [+2+] CP000813.1/13130681313169 Bacillus pumilus SAFR032
+#=GS USER>>BA000028.3/27086452708539/3-83     DE [subseq from] [+0+] BA000028.3/27086452708539 Oceanobacillus iheyensis HTE831 DNA
+#=GS USER>>CP002478.1/19925701992461/3-88     DE [subseq from] [+1+] CP002478.1/19925701992461 Staphylococcus pseudintermedius ED99
+#=GS USER>>CP001176.1/182705182810/3-84       DE [subseq from] [+79+] CP001176.1/182705182810 Bacillus cereus B4264
+#=GS USER>>AAOX01000006.1/9673796624/3-85     DE [subseq from] [+0+] AAOX01000006.1/9673796624 Bacillus sp. NRRL B14911 1099999053146
+#=GS USER>>AAXV01000033.1/36903784/3-71       DE [subseq from] [+0+] AAXV01000033.1/36903784 Bacillus sp. B14905 1101159007446
+#=GS USER>>AP009484.1/577447577549/3-68       DE [subseq from] [+0+] AP009484.1/577447577549 Macrococcus caseolyticus JCSC5402 DNA
+#=GS USER>>AEQA01000008.1/4450344395/3-66     DE [subseq from] [+2+] AEQA01000008.1/4450344395 Staphylococcus lugdunensis M23590 contig00008
+#=GS USER>>ACLY01000020.1/3113031025/2-81     DE [subseq from] [+17+] ACLY01000020.1/3113031025 Bacillus cereus R309803 contig01088
+#=GS USER>>AFRV01000005.1/1053710430/4-83     DE [subseq from] [+0+] AFRV01000005.1/1053710430 Brevibacillus laterosporus LMG 15441 BRLAcontig5c
+#=GS USER>>AEPB01000001.1/120057119948/3-81   DE [subseq from] [+0+] AEPB01000001.1/120057119948 Planococcus donghaensis MPA1T2 contig00001
+#=GS USER>>AFGF01000017.1/7577575670/4-80     DE [subseq from] [+0+] AFGF01000017.1/7577575670 Acetonema longum DSM 6540 Contig00017
+#=GS USER>>AP008934.1/19486471948540/3-86     DE [subseq from] [+0+] AP008934.1/19486471948540 Staphylococcus saprophyticus subsp. saprophyticus ATCC 15305 DNA
+#=GS USER>>CP003056.1/10859011085797/3-79     DE [subseq from] [+2+] CP003056.1/10859011085797 Bacillus coagulans 36D1
+#=GS USER>>CP001615.1/14044521404553/3-78     DE [subseq from] [+0+] CP001615.1/14044521404553 Eiguobacterium sp. AT1b
+#=GS USER>>CP002394.1/36963823696273/3-80     DE [subseq from] [+0+] CP002394.1/36963823696273 Bacillus cellulosilyticus DSM 2522
+#=GS USER>>AP006627.1/951406951512/3-83       DE [subseq from] [+0+] AP006627.1/951406951512 Bacillus clausii KSMK16 DNA
+#=GS USER>>AFCE01000152.1/1685016740/3-68     DE [subseq from] [+0+] AFCE01000152.1/1685016740 Caldalkalibacillus thermarum TA2.A1 ctg235
+#=GS USER>>CP001878.2/14614621461564/3-69     DE [subseq from] [+0+] CP001878.2/14614621461564 Bacillus pseudofirmus OF4
+#=GS USER>>ACLP01000020.1/7176471658/3-64     DE [subseq from] [+1+] ACLP01000020.1/7176471658 Staphylococcus hominis SK119 contig00011
+#=GS USER>>AETN01000422.1/28952790/3-64       DE [subseq from] [+0+] AETN01000422.1/28952790 Staphylococcus simiae CCM 7213 contig00422
+#=GS USER>>AAOX01000014.1/1229112393/3-69     DE [subseq from] [+0+] AAOX01000014.1/1229112393 Bacillus sp. NRRL B14911 1099999053107
+#=GS USER>>CP000448.1/16531651653067/3-67     DE [subseq from] [+0+] CP000448.1/16531651653067 Syntrophomonas wolfei subsp. wolfei str. Goettingen
+#=GS USER>>AM295250.1/22248792224773/3-68     DE [subseq from] [+0+] AM295250.1/22248792224773 Staphylococcus carnosus subsp. carnosus TM300 complete genome
+#=GS USER>>AP008955.1/459256459150/4-84       DE [subseq from] [+0+] AP008955.1/459256459150 Brevibacillus brevis NBRC 100599 DNA
+#=GS USER>>ACML01000054.1/2456124460/3-71     DE [subseq from] [+0+] ACML01000054.1/2456124460 Bacillus cereus Rock344 contig02555
+#=GS USER>>CP000922.1/21388232138924/2-65     DE [subseq from] [+0+] CP000922.1/21388232138924 Anoybacillus flavithermus WK1
+#=GS USER>>AE015929.1/588095588197/3-64       DE [subseq from] [+19+] AE015929.1/588095588197 Staphylococcus epidermidis ATCC 12228
+#=GS USER>>AGAV01000005.1/4941449527/2-85     DE [subseq from] [+0+] AGAV01000005.1/4941449527 Lentibacillus sp. Grbi contig005
+#=GS USER>>AGTN01491618.1/14235/4-79          DE [subseq from] [+0+] AGTN01491618.1/14235 Bioreactor metagenome PBDCA2_FISTTAT01BKCMN
+#=GS USER>>CP002400.1/26713932671496/3-74     DE [subseq from] [+0+] CP002400.1/26713932671496 Ethanoligenens harbinense YTAN3
+#=GS USER>>AAOX01000055.1/439545/3-74         DE [subseq from] [+0+] AAOX01000055.1/439545 Bacillus sp. NRRL B14911 1099999053089
+#=GS USER>>ACLS01000056.1/2348023585/3-74     DE [subseq from] [+11+] ACLS01000056.1/2348023585 Bacillus cereus m1293 contig00969
+#=GS USER>>AFHT01000072.1/1077910668/3-70     DE [subseq from] [+0+] AFHT01000072.1/1077910668 Desmospora sp. 8437 contig00072
+#=GS USER>>CP002927.1/18534881853384/2-77     DE [subseq from] [+4+] CP002927.1/18534881853384 Bacillus amyloliquefaciens XH7
+#=GS USER>>AM295250.1/18243871824290/2-70     DE [subseq from] [+0+] AM295250.1/18243871824290 Staphylococcus carnosus subsp. carnosus TM300 complete genome
+#=GS USER>>AGBY01000087.1/1741817530/3-85     DE [subseq from] [+2+] AGBY01000087.1/1741817530 Bacillus pumilus S1 contig000091
+#=GS USER>>CP000724.1/40045494004448/3-84     DE [subseq from] [+0+] CP000724.1/40045494004448 Alkaliphilus metalliredigens QYMF
+#=GS USER>>CP000764.1/196943197052/3-85       DE [subseq from] [+0+] CP000764.1/196943197052 Bacillus cereus subsp. cytotois NVH 39198
+#=GS USER>>ABIL02000006.1/144101144004/3-83   DE [subseq from] [+0+] ABIL02000006.1/144101144004 Anaerofustis stercorihominis DSM 17244 A_stercorihominis2.0.1_Cont214
+#=GS USER>>ACWD01000020.1/9644696347/3-78     DE [subseq from] [+0+] ACWD01000020.1/9644696347 Bacillus sp. 2_A_57_CT2 cont1.20
+#=GS USER>>CP002582.1/136018135919/2-82       DE [subseq from] [+0+] CP002582.1/136018135919 Clostridium lentocellum DSM 5427
+#=GS USER>>AFRV01000006.1/196322196427/3-82   DE [subseq from] [+0+] AFRV01000006.1/196322196427 Brevibacillus laterosporus LMG 15441 BRLAcontig6c
+#=GS USER>>ACVI01000030.1/3684536950/3-66     DE [subseq from] [+1+] ACVI01000030.1/3684536950 Clostridium carboidivorans P7 ctg00117
+#=GS USER>>CP002160.1/42515504251652/3-85     DE [subseq from] [+1+] CP002160.1/42515504251652 Clostridium cellulovorans 743B
+#=GS USER>>AP006627.1/604071603968/3-70       DE [subseq from] [+0+] AP006627.1/604071603968 Bacillus clausii KSMK16 DNA
+#=GS USER>>ACXJ01007534.1/571674/5-72         DE [subseq from] [+0+] ACXJ01007534.1/571674 Mine drainage metagenome Contig8813
+#=GS USER>>AERA01032858.1/192293/3-73         DE [subseq from] [+0+] AERA01032858.1/192293 Activated sludge metagenome contig34496
+#=GS USER>>ACKP02000011.1/5580255906/3-67     DE [subseq from] [+1+] ACKP02000011.1/5580255906 Selenomonas sputigena ATCC 35185 S_sputigena1.0.1_Cont0.4
+#=GS USER>>FR821777.2/854859854962/3-66       DE [subseq from] [+95+] FR821777.2/854859854962 Staphylococcus aureus subsp. aureus MSHR1132 complete genome sequence
+#=GS USER>>CP002160.1/13062151306317/3-85     DE [subseq from] [+1+] CP002160.1/13062151306317 Clostridium cellulovorans 743B
+#=GS USER>>ABQM01000007.1/610977611082/3-78   DE [subseq from] [+13+] ABQM01000007.1/610977611082 Bacillus subtilis subsp. subtilis str. JH642 JH642_ctg7
+#=GS USER>>ACMR01000147.1/9627896172/3-79     DE [subseq from] [+7+] ACMR01000147.1/9627896172 Bacillus cereus AH1271 contig00414
+#=GS USER>>CP002660.1/19779691978069/3-80     DE [subseq from] [+2+] CP002660.1/19779691978069 Clostridium acetobutylicum DSM 1731
+#=GS USER>>AFVQ01000058.1/85088405/3-69       DE [subseq from] [+0+] AFVQ01000058.1/85088405 Sporolactobacillus inulinus CASD contig000058
+#=GS USER>>AEFY01000007.1/4891949024/3-68     DE [subseq from] [+12+] AEFY01000007.1/4891949024 Bacillus atrophaeus BACI051N contig00009
+#=GS USER>>AGAV01000005.1/5128851383/3-64     DE [subseq from] [+0+] AGAV01000005.1/5128851383 Lentibacillus sp. Grbi contig005
+#=GS USER>>ABCF01000005.1/9696297063/3-79     DE [subseq from] [+0+] ABCF01000005.1/9696297063 Bacillus sp. SG1 1101501000788
+#=GS USER>>AGHO01000382.1/39714084/3-67       DE [subseq from] [+0+] AGHO01000382.1/39714084 Streptococcus sobrinus TCI157 contig00382
+#=GS USER>>ACZM01000015.1/166913166804/4-67   DE [subseq from] [+0+] ACZM01000015.1/166913166804 Selenomonas infeli ATCC 43532 cont1.15
+#=GS USER>>CP001022.1/448917448816/3-71       DE [subseq from] [+0+] CP001022.1/448917448816 Eiguobacterium sibiricum 25515
+#=GS USER>>AFPZ01000099.1/5573155625/3-68     DE [subseq from] [+0+] AFPZ01000099.1/5573155625 Sporosarcina newyorkensis 2681 contig00099
+#=GS USER>>AGTN01382714.1/176/1-60            DE [subseq from] [+0+] AGTN01382714.1/176 Bioreactor metagenome PBDCA2_GBB5CE401C2Y56_left
+#=GS USER>>AACY023339105.1/458562/6-63        DE [subseq from] [+0+] AACY023339105.1/458562 Marine metagenome ctg_1101668146456
+#=GS USER>>AFBB01000002.1/6240162303/2-80     DE [subseq from] [+1+] AFBB01000002.1/6240162303 Dialister micraerophilus DSM 19965 contig00002
+#=GS USER>>ACNA01000078.1/6562665518/3-81     DE [subseq from] [+4+] ACNA01000078.1/6562665518 Bacillus thuringiensis serovar thuringiensis str. T01001 contig00268
+#=GS USER>>ADJR01000053.1/3538535280/3-79     DE [subseq from] [+0+] ADJR01000053.1/3538535280 Lysinibacillus fusiformis ZC1 contig00056
+#=GS USER>>AP009389.1/251789251896/3-73       DE [subseq from] [+0+] AP009389.1/251789251896 Pelotomaculum thermopropionicum SI DNA
+#=GS USER>>ACGB01000003.1/6054160439/6-82     DE [subseq from] [+1+] ACGB01000003.1/6054160439 Acidaminococcus sp. D21 cont1.3
+#=GS USER>>CP000232.1/12049351204832/2-80     DE [subseq from] [+0+] CP000232.1/12049351204832 Moorella thermoacetica ATCC 39073
+#=GS USER>>BA000028.3/32006383200530/3-66     DE [subseq from] [+0+] BA000028.3/32006383200530 Oceanobacillus iheyensis HTE831 DNA
+#=GS USER>>ADJS01002320.1/15801477/4-80       DE [subseq from] [+1+] ADJS01002320.1/15801477 Tncultured Bacteroides sp. TS28_contig171922
+#=GS USER>>ADGO01174798.1/176283/2-83         DE [subseq from] [+0+] ADGO01174798.1/176283 Compost metagenome FHNL2OP04XV52O
+#=GS USER>>CP002901.1/30121303012235/3-68     DE [subseq from] [+0+] CP002901.1/30121303012235 Sulfobacillus acidophilus TPY
+#=GS USER>>BA000028.3/32007643200871/3-80     DE [subseq from] [+0+] BA000028.3/32007643200871 Oceanobacillus iheyensis HTE831 DNA
+#=GS USER>>CP000724.1/968949968838/3-79       DE [subseq from] [+0+] CP000724.1/968949968838 Alkaliphilus metalliredigens QYMF
+#=GS USER>>CP000557.1/14346211434514/2-81     DE [subseq from] [+1+] CP000557.1/14346211434514 Geobacillus thermodenitrificans NG802
+#=GS USER>>CP003056.1/33281323328032/3-67     DE [subseq from] [+2+] CP003056.1/33281323328032 Bacillus coagulans 36D1
+#=GS USER>>CP002293.1/22780512278167/2-81     DE [subseq from] [+1+] CP002293.1/22780512278167 Geobacillus sp. Y4.1MC1
+#=GS USER>>CP001878.2/32695703269458/3-78     DE [subseq from] [+0+] CP001878.2/32695703269458 Bacillus pseudofirmus OF4
+#=GS USER>>AP009049.1/818842818946/3-75       DE [subseq from] [+1+] AP009049.1/818842818946 Clostridium kluyveri NBRC 12016 DNA
+#=GS USER>>CP002304.1/22450502244941/4-64     DE [subseq from] [+0+] CP002304.1/22450502244941 Halanaerobium hydrogeniformans
+#=GS USER>>CP001638.1/470897470787/3-73       DE [subseq from] [+0+] CP001638.1/470897470787 Geobacillus sp. WCH70
+#=GS USER>>ADGP01000019.1/9346393564/4-81     DE [subseq from] [+1+] ADGP01000019.1/9346393564 Megasphaera genomosp. type_1 str. 28L contig00064
+#=GS USER>>AE008691.1/500243500352/3-79       DE [subseq from] [+0+] AE008691.1/500243500352 Thermoanaerobacter tengcongensis MB4
+#=GS USER>>CP000875.1/29974822997580/5-80     DE [subseq from] [+0+] CP000875.1/29974822997580 Herpetosiphon aurantiacus DSM 785
+#=GS USER>>AE015927.1/14567701456662/2-70     DE [subseq from] [+0+] AE015927.1/14567701456662 Clostridium tetani E88
+#=GS USER>>AE017194.1/32991673299061/3-79     DE [subseq from] [+0+] AE017194.1/32991673299061 Bacillus cereus ATCC 10987
+#=GS USER>>HE576794.1/19328961932796/6-66     DE [subseq from] [+1+] HE576794.1/19328961932796 Megasphaera elsdenii strain DSM 20460 draft genome
+#=GS USER>>AP006627.1/17016491701759/3-79     DE [subseq from] [+0+] AP006627.1/17016491701759 Bacillus clausii KSMK16 DNA
+#=GS USER>>ACMT01000060.1/5194751841/3-75     DE [subseq from] [+3+] ACMT01000060.1/5194751841 Bacillus mycoides DSM 2048 contig00075
+#=GS USER>>AGAV01000005.1/290266290166/3-66   DE [subseq from] [+0+] AGAV01000005.1/290266290166 Lentibacillus sp. Grbi contig005
+#=GS USER>>AP006840.1/26887542688649/2-79     DE [subseq from] [+0+] AP006840.1/26887542688649 Symbiobacterium thermophilum IAM 14863 DNA
+#=GS USER>>ABMW01188763.1/911/3-63            DE [subseq from] [+0+] ABMW01188763.1/911 Freshwater metagenome 43525466
+#=GS USER>>BA000028.3/32944723294588/3-81     DE [subseq from] [+0+] BA000028.3/32944723294588 Oceanobacillus iheyensis HTE831 DNA
+#=GS USER>>ACNI01000057.1/71577272/3-75       DE [subseq from] [+23+] ACNI01000057.1/71577272 Bacillus thuringiensis serovar huazhongensis BGSC 4BD1 contig00325
+#=GS USER>>ACMS01000121.1/70257140/3-75       DE [subseq from] [+6+] ACMS01000121.1/70257140 Bacillus cereus AH1272 contig00523
+#=GS USER>>AACY023744984.1/813706/3-66        DE [subseq from] [+0+] AACY023744984.1/813706 Marine metagenome ctg_1101668552335
+#=GS USER>>CP000909.1/40693334069227/3-85     DE [subseq from] [+1+] CP000909.1/40693334069227 Chlorofleus aurantiacus J10fl
+#=GS USER>>ACML01000125.1/29923096/3-63       DE [subseq from] [+0+] ACML01000125.1/29923096 Bacillus cereus Rock344 contig01836
+#=GS USER>>CP002293.1/15460631545954/2-81     DE [subseq from] [+1+] CP002293.1/15460631545954 Geobacillus sp. Y4.1MC1
+#=GS USER>>ABCF01000005.1/9720597306/3-67     DE [subseq from] [+0+] ABCF01000005.1/9720597306 Bacillus sp. SG1 1101501000788
+#=GS USER>>CP002479.1/24101412410035/3-76     DE [subseq from] [+0+] CP002479.1/24101412410035 Geobacter sp. M18
+#=GS USER>>CP001630.1/13493931349277/3-69     DE [subseq from] [+0+] CP001630.1/13493931349277 Actinosynnema mirum DSM 43827
+#=GS USER>>AE017194.1/25363232536438/3-65     DE [subseq from] [+49+] AE017194.1/25363232536438 Bacillus cereus ATCC 10987
+#=GS USER>>CP000817.1/191590191689/3-77       DE [subseq from] [+2+] CP000817.1/191590191689 Lysinibacillus sphaericus C341
+#=GS USER>>AEPB01000058.1/3282232926/3-76     DE [subseq from] [+0+] AEPB01000058.1/3282232926 Planococcus donghaensis MPA1T2 contig00062
+#=GS USER>>CP001810.1/33268653326755/3-62     DE [subseq from] [+0+] CP001810.1/33268653326755 Butyrivibrio proteoclasticus B316 chromosome 1
+#=GS USER>>ACCR02000004.1/51415245/3-77       DE [subseq from] [+0+] ACCR02000004.1/51415245 Listeria grayi DSM 20601 Contig180
+#=GS USER>>CP001056.1/350121350227/4-67       DE [subseq from] [+0+] CP001056.1/350121350227 Clostridium botulinum B str. Eklund 17B
+#=GS USER>>AEWH01000040.1/3967139559/3-77     DE [subseq from] [+0+] AEWH01000040.1/3967139559 Ornithinibacillus sp. TW25 contig00093
+#=GS USER>>CP002171.1/22006002200498/3-78     DE [subseq from] [+0+] CP002171.1/22006002200498 Thermoanaerobacterium thermosaccharolyticum DSM 571
+#=GS USER>>AAOX01000006.1/3068730791/3-78     DE [subseq from] [+0+] AAOX01000006.1/3068730791 Bacillus sp. NRRL B14911 1099999053146
+#=GS USER>>AE016877.1/25879532588068/3-75     DE [subseq from] [+0+] AE016877.1/25879532588068 Bacillus cereus ATCC 14579
+#=GS USER>>CP002739.1/19726821972581/3-78     DE [subseq from] [+0+] CP002739.1/19726821972581 Thermoanaerobacterium ylanolyticum LX11
+#=GS USER>>AEPB01000044.1/7729477398/3-79     DE [subseq from] [+0+] AEPB01000044.1/7729477398 Planococcus donghaensis MPA1T2 contig00046
+#=GS USER>>BAAY01016150.1/495603/3-73         DE [subseq from] [+0+] BAAY01016150.1/495603 Human gut metagenome DNA
+#=GS USER>>AACY022448257.1/716603/4-61        DE [subseq from] [+0+] AACY022448257.1/716603 Marine metagenome 1092963447019
+#=GS USER>>ACXP02000001.1/103481103377/3-77   DE [subseq from] [+9+] ACXP02000001.1/103481103377 Thermoanaerobacter sp. X561 ctg57
+#=GS USER>>CP001089.1/32880783288187/3-77     DE [subseq from] [+0+] CP001089.1/32880783288187 Geobacter lovleyi SZ
+#=GS USER>>ABCF01000001.1/333859333963/4-77   DE [subseq from] [+0+] ABCF01000001.1/333859333963 Bacillus sp. SG1 1101501000768
+#=GS USER>>CP001337.1/43238544323960/2-85     DE [subseq from] [+0+] CP001337.1/43238544323960 Chlorofleus aggregans DSM 9485
+#=GS USER>>AGFS01009296.1/199/2-65            DE [subseq from] [+0+] AGFS01009296.1/199 Atta colombica fungus garden Top 2030492269
+#=GS USER>>CP003017.1/40461294046030/3-61     DE [subseq from] [+1+] CP003017.1/40461294046030 Bacillus megaterium WSH002
+#=GS USER>>CP002031.1/990242990348/3-65       DE [subseq from] [+1+] CP002031.1/990242990348 Geobacter sulfurreducens KN400
+#=GS USER>>FP929048.1/936205936309/3-67       DE [subseq from] [+0+] FP929048.1/936205936309 Megamonas hypermegale ART12/1 draft genome.
+#=GS USER>>ADGO01153309.1/108207/3-66         DE [subseq from] [+0+] ADGO01153309.1/108207 Compost metagenome FHNL2OP04ZJLED
+#=GS USER>>CP001022.1/29771322977031/3-75     DE [subseq from] [+0+] CP001022.1/29771322977031 Eiguobacterium sibiricum 25515
+#=GS USER>>ADIG01001060.1/303369303253/6-70   DE [subseq from] [+0+] ADIG01001060.1/303369303253 Groundwater metagenome 4000601.lucy.pga.C1060
+#=GS USER>>CP001104.1/201173201075/3-57       DE [subseq from] [+1+] CP001104.1/201173201075 Eubacterium eligens ATCC 27750
+#=GS USER>>AGTN01074236.1/17666/3-69          DE [subseq from] [+0+] AGTN01074236.1/17666 Bioreactor metagenome PBDCA2_FISTTAT01BOZ45
+#=GS USER>>AFPZ01000064.1/2130621409/3-80     DE [subseq from] [+0+] AFPZ01000064.1/2130621409 Sporosarcina newyorkensis 2681 contig00064
+#=GS USER>>CP001859.1/13064361306545/6-77     DE [subseq from] [+0+] CP001859.1/13064361306545 Acidaminococcus fermentans DSM 20731
+#=GS USER>>HE576794.1/18795551879458/5-61     DE [subseq from] [+0+] HE576794.1/18795551879458 Megasphaera elsdenii strain DSM 20460 draft genome
+#=GS USER>>ADJS01020635.1/30302919/3-71       DE [subseq from] [+0+] ADJS01020635.1/30302919 Tncultured Ruminococcus sp. TS28_contig195757
+#=GS USER>>AENT01000016.1/1053810440/4-62     DE [subseq from] [+1+] AENT01000016.1/1053810440 Dialister microaerophilus TPII 345E contig00036
+#=GS USER>>CP000249.1/52551715255287/2-67     DE [subseq from] [+0+] CP000249.1/52551715255287 Frankia sp. CcI3
+#=GS USER>>AFTG01000006.1/2307323176/4-59     DE [subseq from] [+0+] AFTG01000006.1/2307323176 Megasphaera sp. TPII 135E contig00017
+#=GS USER>>AFIH01000001.1/17301361730241/3-59 DE [subseq from] [+0+] AFIH01000001.1/17301361730241 Oribacterium sp. oral taon 108 str. F0425 noncontiguous_finished_chromosome
+#=GS USER>>CP001982.1/928417928516/3-65       DE [subseq from] [+0+] CP001982.1/928417928516 Bacillus megaterium DSM319
+#=GS USER>>AEVN01000114.1/28762777/4-60       DE [subseq from] [+0+] AEVN01000114.1/28762777 Phascolarctobacterium sp. YIT 12067 P_spYIT120671.0_Cont344.5
+#=GS USER>>HE576794.1/23937522393654/5-73     DE [subseq from] [+0+] HE576794.1/23937522393654 Megasphaera elsdenii strain DSM 20460 draft genome
+#=GS USER>>ADGO01074097.1/362246/6-63         DE [subseq from] [+0+] ADGO01074097.1/362246 Compost metagenome contig74272
+#=GS USER>>ADLB01000021.1/277705277603/3-60   DE [subseq from] [+0+] ADLB01000021.1/277705277603 Lachnospiraceae bacterium 2_1_46FAA cont1.21
+#=GS USER>>ADJS01004224.1/4182041926/3-67     DE [subseq from] [+0+] ADJS01004224.1/4182041926 Tncultured Clostridium sp. TS28_contig14538
+#=GS USER>>CP000482.1/19698301969935/3-65     DE [subseq from] [+0+] CP000482.1/19698301969935 Pelobacter propionicus DSM 2379
+#=GS USER>>BAAX01012101.1/1093991/3-66        DE [subseq from] [+2+] BAAX01012101.1/1093991 Human gut metagenome DNA
+#=GS USER>>AGTN01008997.1/10881173/3-60       DE [subseq from] [+0+] AGTN01008997.1/10881173 Bioreactor metagenome PBDCA2_contig13488
+#=GS USER>>BAAX01009950.1/12621361/3-71       DE [subseq from] [+1+] BAAX01009950.1/12621361 Human gut metagenome DNA
+#=GS USER>>ADGO01120806.1/389491/2-63         DE [subseq from] [+0+] ADGO01120806.1/389491 Compost metagenome FHNL2OP03Q8T8H
+#=GS USER>>CP001631.1/19354001935293/6-62     DE [subseq from] [+0+] CP001631.1/19354001935293 Acidimicrobium ferrooidans DSM 10331
+#=GS USER>>CP000698.1/45099184509813/3-65     DE [subseq from] [+1+] CP000698.1/45099184509813 Geobacter uraniireducens Rf4
+#=GS USER>>CP001791.1/508413508522/3-64       DE [subseq from] [+0+] CP001791.1/508413508522 Bacillus selenitireducens MLS10
+#=GS USER>>AP006716.1/507636507743/3-63       DE [subseq from] [+0+] AP006716.1/507636507743 Staphylococcus haemolyticus JCSC1435 DNA
+#=GS USER>>CP000148.1/765280765385/3-66       DE [subseq from] [+0+] CP000148.1/765280765385 Geobacter metallireducens GS15
+#=GS USER>>AFVQ01000579.1/190/3-56            DE [subseq from] [+0+] AFVQ01000579.1/190 Sporolactobacillus inulinus CASD contig000579
+#=GS USER>>ACIP02000004.1/237213237114/3-57   DE [subseq from] [+0+] ACIP02000004.1/237213237114 Shuttleworthia satelles DSM 14600 S_satelles1.0.1_Cont1.1
+#=GS USER>>CP001859.1/916065916164/5-65       DE [subseq from] [+0+] CP001859.1/916065916164 Acidaminococcus fermentans DSM 20731
+#=GS USER>>ADJT01012449.1/36393740/4-60       DE [subseq from] [+0+] ADJT01012449.1/36393740 Tncultured Ruminococcus sp. TS29_contig129214
+#=GS USER>>BABG01000932.1/12001089/3-62       DE [subseq from] [+0+] BABG01000932.1/12001089 Human gut metagenome DNA
+#=GS USER>>AEOA01000032.1/98439941/3-51       DE [subseq from] [+0+] AEOA01000032.1/98439941 Eubacterium cellulosolvens 6 ctg00035
+#=GS USER>>CP001078.1/343576343688/5-67       DE [subseq from] [+1+] CP001078.1/343576343688 Clostridium botulinum E3 str. Alaska E43
+#=GS USER>>AGIL01000001.1/259303259418/7-69   DE [subseq from] [+1+] AGIL01000001.1/259303259418 Rhodanobacter sp. 2APBS1 ctg279
+#=GS USER>>ADJS01007502.1/755654/4-65         DE [subseq from] [+0+] ADJS01007502.1/755654 Tncultured Enterobacteriaceae bacterium TS28_contig15931
+#=GS USER>>CT573213.2/73053577305472/2-66     DE [subseq from] [+0+] CT573213.2/73053577305472 Frankia alni str. ACN14A chromosome
+#=GS USER>>ADGO01023591.1/578464/3-72         DE [subseq from] [+0+] ADGO01023591.1/578464 Compost metagenome contig23674
+#=GS USER>>ACTP01000103.1/3663336536/3-57     DE [subseq from] [+0+] ACTP01000103.1/3663336536 Lachnospiraceae bacterium 3_1_57FAA_CT1 cont1.103
+#=GS USER>>ABWO01000038.1/82128308/3-56       DE [subseq from] [+0+] ABWO01000038.1/82128308 Clostridium neile DSM 1787 C_neile1.0_Cont3.1
+#=GS USER>>CP002346.1/17371381737033/4-62     DE [subseq from] [+0+] CP002346.1/17371381737033 Riemerella anatipestifer DSM 15868
+#=GS USER>>CP000386.1/882031881920/3-68       DE [subseq from] [+0+] CP000386.1/882031881920 Rubrobacter ylanophilus DSM 9941
+#=GS USER>>ACXJ01010462.1/44364544/6-62       DE [subseq from] [+0+] ACXJ01010462.1/44364544 Mine drainage metagenome Contig11966
+#=GS USER>>DQ115856.1/304411/6-69             DE [subseq from] [+0+] DQ115856.1/304411 Cyanobacteria phage AS1 contig_49 genomic sequence.
+#=GS USER>>ADJT01012994.1/1273312834/4-62     DE [subseq from] [+2+] ADJT01012994.1/1273312834 Tncultured Ruminococcus sp. TS29_contig139043
+#=GS USER>>ABRT01000018.1/1193711821/4-69     DE [subseq from] [+0+] ABRT01000018.1/1193711821 Brevundimonas sp. BAL3 ctg_1104670152951
+#=GS USER>>CP001878.2/210747210855/3-76       DE [subseq from] [+0+] CP001878.2/210747210855 Bacillus pseudofirmus OF4
+#=GS USER>>ADGO01147031.1/176/2-56            DE [subseq from] [+0+] ADGO01147031.1/176 Compost metagenome FHNL2OP03QTVEV
+#=GS USER>>CP002281.1/604366604465/3-60       DE [subseq from] [+0+] CP002281.1/604366604465 Ilyobacter polytropus DSM 2926
+#=GS USER>>AECS01000038.1/13891287/5-63       DE [subseq from] [+0+] AECS01000038.1/13891287 Megasphaera micronuciformis F0359 M_micronuciformisF03591.0_Cont98.4
+#=GS USER>>CP002349.1/35209913521094/4-69     DE [subseq from] [+0+] CP002349.1/35209913521094 Marivirga tractuosa DSM 4126
+#=GS USER>>ACBZ01000203.1/85288629/3-61       DE [subseq from] [+1+] ACBZ01000203.1/85288629 Blautia hydrogenotrophica DSM 10507 R_hydrogenotrophicus1.0_Cont10.32
+#=GS USER>>AECS01000003.1/124528124632/6-68   DE [subseq from] [+0+] AECS01000003.1/124528124632 Megasphaera micronuciformis F0359 M_micronuciformisF03591.0_Cont7.1
+
+USER>SEED:>RF00162/1-93                          GGCTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCAGAAATGGTGCCAATTCCTGCAGCGGAAACGT.TGAAAGATGAGCC
+#=GR USER>SEED:>RF00162/1-93                  PP 589*****************************************************************************.**********998
+USER>>CP000382.1/18393211839214/2-87             -TCTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCAGACATGGTGCTAAATCCTGCAGT--AAA--C.TGAAAGATGAG--
+#=GR USER>>CP000382.1/18393211839214/2-87     PP .589*****************************************************************986..344..4.78999998875..
+USER>>AP008955.1/39357823935669/4-90             ---TTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCGTGTATGGTGCCAATTCCTGCAGCATTTACGT.TGGGAGATAA---
+#=GR USER>>AP008955.1/39357823935669/4-90     PP ...789**************************************************************************.**99999876...
+USER>>AESB01000022.1/2813228242/2-87             -TCTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACCAGGCATGGTGCTAAATCCTGCAGT----AAGC.TGAAAGATGAG--
+#=GR USER>>AESB01000022.1/2813228242/2-87     PP .589*****************************************************************985....5688.99999999886..
+USER>>CP002011.1/12257741225876/3-86             --CTTATCAAGAGCGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCAGATATGGTGCTAAATCCTGCAGTTAA----C.TGAGAGATGA---
+#=GR USER>>CP002011.1/12257741225876/3-86     PP ..799****************************************************************987533....3.5666666665...
+USER>>CP002901.1/27681852768083/3-91             --CTTATCCAGAGCGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCCGATATGGTGCCAATTCCGGAAACTGAGGTCT.TTCAAGATGAG--
+#=GR USER>>CP002901.1/27681852768083/3-91     PP ..789**********************************************************************99999.99999999986..
+USER>>AP012029.1/19650961964993/3-85             --CTTATCCAGAGAGGTGGAGGGACAGGCCCGATGAAACCCGACAACCAGAAACGGTGCCAATTCCTGCAGGT---TTTT.TGGAAGAT-----
+#=GR USER>>AP012029.1/19650961964993/3-85     PP ..799***************************************************************99743...4456.66666665.....
+USER>>AGFS01027305.1/562462/3-86                 --CTTATCAAGAGAGGTCGAGGGACTGGCCCGATGACACCCGGCAACCGGAAATGGTGCCAAATCCAGCA---GAAATTT.TGA-AGATGA---
+#=GR USER>>AGFS01027305.1/562462/3-86         PP ..799**********************************************************9986665...6788877.775.577776...
+USER>>CP001666.1/35150533514946/3-87             --CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACCAATATTGGTGCTAATTCCTGCAGT----AAGC.TGGAAGATGAG--
+#=GR USER>>CP001666.1/35150533514946/3-87     PP ..799****************************************************************985....4577.88888888775..
+USER>>ABDQ01000004.1/101148101041/2-87           -TCTTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCAGACGAGGTGCTAAATCCTGCAGC----AAGC.TGAAAGATGAG--
+#=GR USER>>ABDQ01000004.1/101148101041/2-87   PP .589******************************************************************98....5688.99999999986..
+USER>>ABWP01000011.1/2116021274/2-91             -TCTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCGGCAACCGGATTAGGTGCTAAATCCTGCAAAGTAATAAT.TGATAGATGAG--
+#=GR USER>>ABWP01000011.1/2116021274/2-91     PP .589****************************************************************************.*******9987..
+USER>>CP002017.1/20870082087117/3-91             --CTTATCCAGAGTGGCGGAGGGACTGGCCCGATGAAGCCCGGCAACCACAATCGGTGCCAATTCCTGCAGTGCGTGAGC.TGAGAGATGAG--
+#=GR USER>>CP002017.1/20870082087117/3-91     PP ..799*******************************************************************99999999.***99999986..
+USER>>CP001336.1/14912881491389/3-88             --CTCATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCGGATATGGTGCTAATTCCAGCAGTT----ATT.TGGAAGATGAGC-
+#=GR USER>>CP001336.1/14912881491389/3-88     PP ..678999**********************************************************9999864....357.888899999876.
+USER>>CP002360.1/14641921464301/3-90             --CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCAACGGTGGTGCCAATTCCTGCAGGCGATGTGC.TGGCAGATAA---
+#=GR USER>>CP002360.1/14641921464301/3-90     PP ..799******************************************************************999999999.9988888766...
+USER>>AFWX01000002.1/29305572930443/2-88         -TCTTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCGAATTTGGTGCTAATTCCAGCAGGAGTA---G.TGAAAGATGAG--
+#=GR USER>>AFWX01000002.1/29305572930443/2-88 PP .589*************************************************************99998765544...5.78899988875..
+USER>>CP002660.1/671342671237/3-84               --CTTATCAAGAGTGGTGGAGGGACTGGCCCTTTGAAACCCGGCAACCAGATTTGGTGCTAAATCCTGCAGA---A---C.TGATAGATGA---
+#=GR USER>>CP002660.1/671342671237/3-84       PP ..799***************************************************************9873...2...3.5556666655...
+USER>>ABDT01000053.2/177459177343/3-88           --CTTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCGATTATGGTGCTAATTCCTGCAGTTT--ATTT.TGGTAGATGA---
+#=GR USER>>ABDT01000053.2/177459177343/3-88   PP ..789****************************************************************98754..4456.6666666665...
+USER>>AP008955.1/39359543935848/3-85             --CTTATCCAGAGAGGTGGAGGGTCTGGCCCGATGAAGCCCGGCAACCGTATATGGTGCCAATTCCTGCGACGTTTC---.CGAAAGAT-----
+#=GR USER>>AP008955.1/39359543935848/3-85     PP ..789**************************************************************9987765443....35666665.....
+USER>>AGTN01018007.1/407508/3-83                 --CTTATCAAGAGAGGTGGAGGGACGGGCCCGATGAAACCCGACAACCAGGAA-GGTGCCAATTCCTGCAGTTG------.TGAAAGATGA---
+#=GR USER>>AGTN01018007.1/407508/3-83         PP ..799********************************************9876.89*************99865.......6777777776...
+USER>>CP001056.1/29319462931840/3-85             --CTTATCAAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCA--ATAGGTGCTAAATCCTGCAGTG--AATGA.TGATAGATA----
+#=GR USER>>CP001056.1/29319462931840/3-85     PP ..799******************************************97..5669***************987..56788.888888775....
+USER>>ABFD02000008.1/488145488251/3-86           --CTTATCAAGAGTGGTGGAGGGACTGGCCCTTTGAAACCCGGCAACCAGA-TTGGTGCTAAATCCTGCA----AAATAT.TGATAGATGAG--
+#=GR USER>>ABFD02000008.1/488145488251/3-86   PP ..899********************************************96.69**************98....789999.99999999987..
+USER>>AFGF01000173.1/1673116630/3-88             --CTTATCTAGAGTGGTCGAGGGACTGGCCCGATGACGCCCGGCAACCGGCAATGGTGCTAATTCCAGCA---GGAATAT.TGGAAGATGAG--
+#=GR USER>>AFGF01000173.1/1673116630/3-88     PP ..789***********************************************************987766...5688899.99999999986..
+USER>>AAWL01000007.1/44004499/3-87               --CTTATCCAGAGAGGTCGAGGGACTGGCCCGATGACACCCGGCAACCAGCAACGGTGCTAATTCCAGCAGGCA----AT.TGGAAGATGAG--
+#=GR USER>>AAWL01000007.1/44004499/3-87       PP ..799*************************************************************99997432....36.77888888775..
+USER>>ADVM01000039.1/2654526647/3-85             --CTTATCCAGAGAGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCAG--ATGGTGCTAAATCCTGC---GG-AAAGC.TGAGAGATGAG--
+#=GR USER>>ADVM01000039.1/2654526647/3-85     PP ..799*******************************************98..59***********9986...44.45688.99999999986..
+USER>>CP002171.1/733120733012/3-89               --CTCATCAAGAGTGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCG--TATGGTGCTAATTCCTGCAACGTTTAGCT.TGGGAGATGAG--
+#=GR USER>>CP002171.1/733120733012/3-89       PP ..6789*****************************************96..579********************999999.99999999986..
+USER>>CP001348.1/101863101963/3-78               --CTTATCAAGAGAGGTGGAGGGAAGGGCCCGATGAAACCCGGCAACCAG--TTGGTGCCAATTCCTGCAGTAG------.TGGAAG-------
+#=GR USER>>CP001348.1/101863101963/3-78       PP ..799*******************************************98..59***************98654.......344444.......
+USER>>AFGF01000085.1/4042940530/3-88             --CTTATCGAGAGTGGTCGAGGGACTGGCCCGATGACGCCCGGCAACCGGCAATGGTGCTAATTCCAGCAGT---TATAT.TGGAAGATGAG--
+#=GR USER>>AFGF01000085.1/4042940530/3-88     PP ..789************************************************************9887765...67779.99999999886..
+USER>>CP001022.1/23093682309263/3-86             --CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCGCATTTGGTGCTAATTCCAGCAGG----ATTG.TGCAAGATGA---
+#=GR USER>>CP001022.1/23093682309263/3-86     PP ..789************************************************************9998863....3344.5667777766...
+USER>>CP001983.1/36525883652482/3-87             --CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCGGCAACCGCCTATGGTGCCAAATCCTTAAGCAGTA---T.TTGAAGATGA---
+#=GR USER>>CP001983.1/36525883652482/3-87     PP ..689***************************************************************99998765...4.5556777776...
+USER>>AE008691.1/17503691750270/3-81             --CTTATCAAGAGAGGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCAG---TGGTGCCAATTCCTGCAGG------TT.TGAAAGATGAG--
+#=GR USER>>AE008691.1/17503691750270/3-81     PP ..799******************98.7899******************87...89*************9974......57.89999999875..
+USER>>FP929056.1/23664102366507/3-81             --CTTATCAAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCTGAA--GGTGCCAATACCAGCAGCGCAGTGGA.T----GA------
+#=GR USER>>FP929056.1/23664102366507/3-81     PP ..79********************************************9986..89***************997754443.3....33......
+USER>>CP001034.1/28892512889136/3-87             --CTTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACCGGCAGAGGTGCCAAATCCTGCAGGTGTAT-TA.TGACAGAT-----
+#=GR USER>>CP001034.1/28892512889136/3-87     PP ..799*****************************************************************9877654.45.56666666.....
+USER>>CP001056.1/749334749442/3-70               --CTTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCA--AATGGTGCTAAATCCTGCAAT--------.-------------
+#=GR USER>>CP001056.1/749334749442/3-70       PP ..799******************************************96..89***************9854......................
+USER>>CP002780.1/15693621569471/3-88             --CTTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACCGGA---GGTGCCAACTCCTGCAGCTGC-GCGG.TGAGAGATGAGT-
+#=GR USER>>CP002780.1/15693621569471/3-88     PP ..799*******************************************997...799**************9986.5788.999999999875.
+USER>>CP000612.1/24180522417945/3-86             --CTTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACCGG---TGGTGCCAACTCCTGCAGCTTTT-AGT.TGAGAGATAA---
+#=GR USER>>CP000612.1/24180522417945/3-86     PP ..799******************************************987...89****************98765.478.8888888766...
+USER>>AEVP01000018.1/2209322200/4-86             ---TTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCGGA---GGTGCCAACTCCTGCGGCA--ATGAT.GGAAAGATGAG--
+#=GR USER>>AEVP01000018.1/2209322200/4-86     PP ...799******************************************997...799*********9987663..33445.67889999876..
+USER>>AGFT01129093.1/159263/3-90                 --CTTATCGAGAGTGGTCGAGGGAATGGCCCGATGACACCCGGCAACCGGCAA-GGTGCTAAATCCAGCAGCGTAGTTGT.TGGAAGATGAG--
+#=GR USER>>AGFT01129093.1/159263/3-90         PP ..799******************************************988765.89************************.********986..
+USER>>AP008955.1/29570322957136/3-85             --CTTATCGAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCTTCTGTGGTGCTAATTCCTGCGGTTAA----T.TGCGAGATG----
+#=GR USER>>AP008955.1/29570322957136/3-85     PP ..789**************************************************************98765432....4.555555555....
+USER>>AFGF01000054.1/3571635610/3-91             --CTTATCCAGAGTGGTCGAGGGACTGGCCCGATGACGCCCGGCAACCGGGTTAGGTGCTAATTCCAGCAGCAGCAGTGT.TGGGAGATGAG--
+#=GR USER>>AFGF01000054.1/3571635610/3-91     PP ..799***************************************************************************.*******9986..
+USER>>AAWL01000007.1/5163751739/3-87             --CTTATCCAGAGTGGTCGAGGGACTGGCCCGATGACGCCCGGCAACCGGTTATGGTGCTAATTCCAGCAG--GAAA--T.TGGAAGATGAG--
+#=GR USER>>AAWL01000007.1/5163751739/3-87     PP ..789*************************************************************99986..4443..7.88889998876..
+USER>>CP001982.1/36549213654815/3-75             --CTTATCAAGAGAGGTGGAGGGACTGGCCCTGTGAAACCCGGCAACCGCCTATGGTGCCAAATCCTTAAGTGTA-----.-------------
+#=GR USER>>CP001982.1/36549213654815/3-75     PP ..689**************************************************************99988754...................
+USER>>FN668375.1/12357991235905/3-87             --CTTATCAAGAGTGGCAGAGGGACTGGCCCTGTGAAGCCCGGCAACCAGATTAGGTGCTAAATCCTGCAGTTT----AT.TGAAAGATGAG--
+#=GR USER>>FN668375.1/12357991235905/3-87     PP ..799*****************************************************************9865....48.99999999986..
+USER>>ACXX02000006.1/9777297873/3-78             --CTTATCAAGAGAGGTGGAGGGAAGGGCCCGATGAAACCCGGCAACCAGTAA-GGTGCCAATTCCTCCGGTTG------.TGGAA--------
+#=GR USER>>ACXX02000006.1/9777297873/3-78     PP ..799*********************************************876.89**********98866543.......33344........
+USER>>ABSQ01002824.1/631738/3-87                 --CTTATCAAGAGCGGTGGAGGGATAGGCCCTATGAAACCCGGCAACCATGTGTGGTGCTAAATCCTACAGT----ATTT.TGAAAGATGAG--
+#=GR USER>>ABSQ01002824.1/631738/3-87         PP ..899****************************************************************985....6789.99999999986..
+USER>>ACWC01000018.1/2941529524/3-90             --CTTATCAAGAGTGGTGGAGGGACTGGCCCTGTGAAACCCGGCAACCGCCTATGGTGCTAAATCCTTAAGCATGTTCGT.TTGAAGATAA---
+#=GR USER>>ACWC01000018.1/2941529524/3-90     PP ..689*******************************************************************99999999.9999999876...
+USER>>AFGF01000053.1/7080470700/3-90             --CTTATCCAGAGTGGTCGAGGGACTGGCCCGATGACGCCCGGCAACCGGGAAAGGTGCTAATTCCAGCAGAG-AAATTC.TGGCAGATGAG--
+#=GR USER>>AFGF01000053.1/7080470700/3-90     PP ..799*****************************************************************986.556667.77788888775..
+USER>>CP001997.1/142954143060/3-70               --CTTATCCTGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCTG--ATGGTGCCAATACCTGCAGT--------.-------------
+#=GR USER>>CP001997.1/142954143060/3-70       PP ..6899******************************************98..59***************985......................
+USER>>ADJN01000063.1/7734477246/3-88             --CTTATCGAGAGTGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCTGTGA-GGTGCTAATTCCAGCAGTAAAA--AG.TGATAGATGAG--
+#=GR USER>>ADJN01000063.1/7734477246/3-88     PP ..789*******************************************99876.89*************9875444..46.88889998876..
+USER>>AGTN01151477.1/13431/3-83                  --CTTATCAAGAGAGGTGGAGGGACGAGCCCGATGAAACCCGGCAACCGG----GGTGCCAATTCCTGCAACTT----AT.TGAGAGATGAG--
+#=GR USER>>AGTN01151477.1/13431/3-83          PP ..799******************************************987....89*************98765....47.88888888875..
+USER>>ABDT01000037.2/92519359/3-72               --CTTATCAAGAGTGGTGGAGGGACTGGCCCTGTGAAACCCGGCAACCA--ATAGGTGCCAAATCCTGCAGTTT------.-------------
+#=GR USER>>ABDT01000037.2/92519359/3-72       PP ..799******************************************97..5669**************98653....................
+USER>>ACMW01000098.1/91058996/3-86               --CTTATCAAGAGAGGTGGAGGGACGAGCCCTATGAAACCCGGCAACC-GTCTTGGTGCCAATTCCTGCAAG-CAAAC--.TGAGAGATGA---
+#=GR USER>>ACMW01000098.1/91058996/3-86       PP ..799****************************************998.6789***************9853.34443...6677777766...
+USER>>AGAC01000116.1/1485014956/3-87             --CTTATCCAGAGTGGTGAAGGGACTGGCCCTATGAAACCCAGCAACCAGA-TTGGTGCTAAATCCTGCAGTTAT----A.TGAAAGATGAGT-
+#=GR USER>>AGAC01000116.1/1485014956/3-87     PP ..7899*******************************************96.69***************997644....4.789999998875.
+USER>>AFWX01000001.1/24756372475742/3-83         --CTTATCAAGAGTGGTGGAGGGACTGGCCCGAAGAAACCCAGCAACCG--AATGGTGCTAAATCCTGCAGGTAAT---A.TGAAAGAT-----
+#=GR USER>>AFWX01000001.1/24756372475742/3-83 PP ..89******************************************995..78****************9854443...3.56666665.....
+USER>>CP002032.1/15801361580032/3-82             --CTTATCAAGAGTGGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGG-TTTGGTGCCAATTCCAGCAGT-------T.TGAAAGATGAG--
+#=GR USER>>CP002032.1/15801361580032/3-82     PP ..799******************98.7899****************9976.579**************9986.......5.67777776654..
+USER>>AFGF01000053.1/7589775791/3-91             --CTTATCCAGAGTGGTCGAGGGACTGGCCCGATGACGCCCGGCAACCGGTTCAGGTGCCAAATCCAGCAGCTTTTGGGT.TGAGAGATGAG--
+#=GR USER>>AFGF01000053.1/7589775791/3-91     PP ..689***************************************************************************.*******9986..
+USER>>AGTN01114580.1/292395/3-81                 --CTTATCAAGAGAGTTGGAGGGACGAGCCCTATGAAACCCGGCAACCGGAA--GGTGCCAATTCCTGCAGGT-----AT.AGAGAGAT-----
+#=GR USER>>AGTN01114580.1/292395/3-81         PP ..799*******************************************9986..89*************9743.....23.34555555.....
+USER>>BA000028.3/24373072437208/3-80             --CTTATCTAGAGCGGTGGAGGGACTGGCCCTTTGAAACCCGGCAACCTTA---GGTGCCAATTCCTGCAGAA-------.TGAAAGATGA---
+#=GR USER>>BA000028.3/24373072437208/3-80     PP ..689******************************************9865...899************9864........4555555555...
+USER>>AFWX01000002.1/10774821077376/3-82         --CTTATCAAGAGTGGTGGAGGGACTGGCCCCGTGAAACCCGGCAACC-GATTAGGTGCCAAATCCTGCAGTAG-----G.TGAAAGAT-----
+#=GR USER>>AFWX01000002.1/10774821077376/3-82 PP ..799****************************************988.678889**************98753.....4.66666665.....
+USER>>CP002273.1/28270612826966/4-81             ---CTATCCAGAGAGGTGGAGGGACAGGCCCGATGAAACCCGGCAACCAGAA--GGTGCCAATACCTGCAG---AAAC--.TGAATGAT-----
+#=GR USER>>CP002273.1/28270612826966/4-81     PP ...689*******************************************986..89***********9986...4443...56666665.....
+USER>>CP000382.1/316300316411/3-87               --CTTATCAAGAGTGGTTGAGGGACTGGCCCTATGAAACCCGGCAACAACTTTCTGTGCTAATTCCAGCAG---GAAATT.TGAAAGATAA---
+#=GR USER>>CP000382.1/316300316411/3-87       PP ..789***********************************************************9987774...566678.9999998865...
+USER>>AGBY01000034.1/6886968971/3-84             --CTTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCTG----GGTGCTACTTCCTGCAATG--ATTCT.TGAAAGATAA---
+#=GR USER>>AGBY01000034.1/6886968971/3-84     PP ..689******************************************987....89*************9876..45678.9999999876...
+USER>>AGTN01517426.1/233343/3-70                 --CTTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAGCCCAGCAACCAGT-ATGGTGCTAAATCCTGCAG---------.-------------
+#=GR USER>>AGTN01517426.1/233343/3-70         PP ..799********************************************96.69**************986.......................
+USER>>ACJX02000007.1/318260318153/3-89           --CTTATCCAGAGCGGCGGAGGGACTGGCCCTGCGAAGCCCGGCAACCTGACCTGGTGCCAAAACCTGCAA--GAAAGGT.TGAATGATGAG--
+#=GR USER>>ACJX02000007.1/318260318153/3-89   PP ..799****************************************************************95..89*****.********986..
+USER>>CP001666.1/26955722695679/3-85             --CTTATCAAGAGTGGCGGAGGGACTGGCCCTATGAAACCCGACAACCA--ATTGGTGTTAATTCCAGCAG---TTATTT.TGAAAGATAA---
+#=GR USER>>CP001666.1/26955722695679/3-85     PP ..789******************************************96..889**********9887775...567889.9999998765...
+USER>>AFIJ01000003.1/74337338/4-69               ---TTATCCAGAGAGGTGGAGGGACTGGCCCGATGAAACCCGGCAACC------GGTGCCAATTCCTGCGGGAGA-----.-------------
+#=GR USER>>AFIJ01000003.1/74337338/4-69       PP ...799**************************************9997......789**********99765443...................
+USER>>ACDK01000006.1/2055720663/2-74             -TCTTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAGCCCAGCAACCA--ATTGGTGCTAAATCCTGCAG--GAAAT--.-------------
+#=GR USER>>ACDK01000006.1/2055720663/2-74     PP .589*******************************************96..889**************996..44443................
+USER>>CP001936.1/16141111614008/3-82             --CTTATCAAGAGTGGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGG-CGTGGTGCCAATTCCAGCAGT-------T.TGAAAGATGAG--
+#=GR USER>>CP001936.1/16141111614008/3-82     PP ..799******************98.7899****************9976.579**************9986.......6.67777777664..
+USER>>CP003096.1/178381178481/3-70               --CTTATCAAGAGAGGCGGAGGGACTGGCCCGATGATGCCCGGCAACCTG--TTGGTGCCAATACCTGCAGT--------.-------------
+#=GR USER>>CP003096.1/178381178481/3-70       PP ..799*******************************************98..59**************9985......................
+USER>>AEYS01000045.1/67736663/3-88               --CTTATCAAGAGTGGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGG-TTTGGTGCCAAATCCTGCAGTAGGGTGTA.TGAGAGATGA---
+#=GR USER>>AEYS01000045.1/67736663/3-88       PP ..799******************98.7899****************9976.579****************9988777777.8888888876...
+USER>>CP000721.1/16472241647332/3-70             --CTTATCAAGAGTGGTGGAGGGACTGGCCCGAAGAAACCCAGCAACCGG--ATGGTGCTAAATCCTGCAGG--------.-------------
+#=GR USER>>CP000721.1/16472241647332/3-70     PP ..799*******************************************98..59***************973......................
+USER>>AGTN01183280.1/324428/3-84                 --CTTATCGAGAGAGGTGGAGGGACGAGCCCGATGAAACCCGGCAACCGG----GGTGCCAATTCCTGCAACC---ATAT.TGAGAGATGAG--
+#=GR USER>>AGTN01183280.1/324428/3-84         PP ..799******************************************987....89*************9885...5668.89999999875..
+USER>>CP000930.2/17346101734715/3-83             --CTTATCAAGAGTGGTGGAGGGAC-GGCCCGATGAAGCCCGGCAACCAGG-GTGGTGCCAATTCCTGCAG--GAA---C.TGAAAGATAA---
+#=GR USER>>CP000930.2/17346101734715/3-83     PP ..799******************98.7899*******************96.69**************986..333...3.6777777655...
+USER>>ABRX01000002.1/301195301087/3-88           --CTTATTAAGAGAGGTGGAGGGACGTGCCCTATGAAACCCGGCAACC-GTCATGGTGCCAATTCACTCAATCGCAAC--.TGAAAGATGAG--
+#=GR USER>>ABRX01000002.1/301195301087/3-88   PP ..789****************************************998.6789************9999888888876...79999999876..
+USER>>CP002171.1/744938745040/3-74               --CTTATCAAGAGTGGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGG-TATGGTGCCAAATCCTGCAGAA-------.TGA----------
+#=GR USER>>CP002171.1/744938745040/3-74       PP ..799******************98.7899****************9976.579**************99753........333..........
+USER>>ACLT01000101.1/7631576208/3-85             --CTTATCAAGAGAGGTGGAGGGACGTGCCCTGTGAAGCCCGGCAACC-GTCTTGGTGCCAATTCCTGCAACGAA----C.TGAGAGATGA---
+#=GR USER>>ACLT01000101.1/7631576208/3-85     PP ..799****************************************998.6789*****************99865....4.6777777776...
+USER>>AGJB01000007.1/185735185839/3-83           --CTTATCAAGAGTGGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGG-TTTGGTGCCAATTCCTGCG---AGAA--C.TGATAGATGA---
+#=GR USER>>AGJB01000007.1/185735185839/3-83   PP ..799******************98.7899****************9976.579************9873...3333..3.6677777766...
+USER>>AFTG01000003.1/72217126/4-78               ---TTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCG--ACGGGTGCTAATTCCTGCGGGAGATTC--.-GA----------
+#=GR USER>>AFTG01000003.1/72217126/4-78       PP ...799****************************************995..6789************98776655443....34..........
+USER>>ACXJ01011585.1/288395/3-85                 --ATTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAGCCCGGCAACCC--AGCGGTGCCAACTCCTGCAGGG----AGT.TGAGAGATAAG--
+#=GR USER>>ACXJ01011585.1/288395/3-85         PP ..589*****************************************985..6789***************965....478.99999998776..
+USER>>CP002171.1/5658356686/3-83                 --CTTATCAAGAGTGGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGG-TTTGGTGCCAAATCCTGCAGAA--A---A.TGAGAGATGA---
+#=GR USER>>CP002171.1/5658356686/3-83         PP ..799******************98.7899****************9976.579**************99742..2...3.5566666655...
+USER>>AE008691.1/20766822076573/3-88             --CTTATCAAGAG-GGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGGA-CGGGTGCCAATTCCTGCAGTGGGGTTAC.TGAGAGATGAG--
+#=GR USER>>AE008691.1/20766822076573/3-88     PP ..799******98.789******98.789*****************99876.6799******************999999.99999999986..
+USER>>AE015927.1/12262001226097/3-85             --CTTATCAAGAGCGGTTGAGGGACTGGCCCTATGAAACCCAGCAACCT--AACGGTGCTAACTCCAGCA---GGAAATT.TGAAAGATAA---
+#=GR USER>>AE015927.1/12262001226097/3-85     PP ..799******************************************96..789********99987776...4566679.9999998865...
+USER>>AAXG02000006.1/101826101729/3-83           --CTTATCAAGAGCGGTGGAGGGAACGGCCCGATGAAACCCGGCAACCTGA-TTGGTGCCAAATCCGGCG------AGAA.TGAAAGATGA---
+#=GR USER>>AAXG02000006.1/101826101729/3-83   PP ..89********************************************986.69*********9987652......2234.6777777776...
+USER>>CP002906.1/37994733799579/3-88             --CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGATACCCGGCAACCGCTTCAGGTGCTAAATCCTTAAGC---ATTGT.TTGCAGATGAG--
+#=GR USER>>CP002906.1/37994733799579/3-88     PP ..689*************************************************************998876...55677.77777777765..
+USER>>AFRV01000004.1/301449301550/3-83           --CTTATCAAGAGCGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCT----TTGTGCTAAATCCAGCAGAGTA--TTT.TGAGAGATA----
+#=GR USER>>AFRV01000004.1/301449301550/3-83   PP ..789*****************************************995....789*************998765..557.777777765....
+USER>>CP002183.1/38057633805869/3-86             --CTTATCAAGAGAGGTGGAGGGACTGGCCCTATGATACCCGGCAACCGCTTCAGGTGCTAAATCCTTTAGCA---TTGC.TTGCAGATG----
+#=GR USER>>CP002183.1/38057633805869/3-86     PP ..689*************************************************************9998873...3444.444555555....
+USER>>AGTN01311074.1/275185/2-76                 -------CCAGAGCGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCGG--ATGGTGCCAATTCCAGCGA-----CTAT.TGAAAGATG----
+#=GR USER>>AGTN01311074.1/275185/2-76         PP .......668999***********************************98..59**********9977653.....4568.999999987....
+USER>>CP002017.1/617734617838/3-82               --CTTATCCAGAGTGGCGGAGGGACGGGCCCGATGATGCCCGGCAACCGGGAACGGTGCCAATTCCTGCGGA---GAC--.CGGAAGA------
+#=GR USER>>CP002017.1/617734617838/3-82       PP ..79**************************************************************987543...332...2344444......
+USER>>AFHT01000087.1/4930249190/3-85             --CTTATCAAGAGAGGCGGAGGGAC-GGCCCGATGAAGCCCGGCAACCT-AGTGGGTGCCAATTCCTGCAGTGCAAT---.TGGCAGATGA---
+#=GR USER>>AFHT01000087.1/4930249190/3-85     PP ..799******************98.7899****************986.567799***************999874....5556666665...
+USER>>AP009049.1/30357283035614/3-88             --CTTATCAAGAGAG-CGGAGGGACTGGCCCTATGAAACCCAACAACCGG--TTGGTGTTAATTCCTGCAGTTAATTTAT.TGAAAGATGAG--
+#=GR USER>>AP009049.1/30357283035614/3-88     PP ..7899*******96.799*****************************98..589********************9****.*******9986..
+USER>>CP002304.1/10936431093746/3-74             --CTTATCAAGAGAGGTGGAGGGACTGGCCCTTTGAAGCCCAGCAACCAG----GGTGCTAATTCCAGCAGGTAAAAT--.-------------
+#=GR USER>>CP002304.1/10936431093746/3-74     PP ..799******************************************987....89************9987665553................
+USER>>CP001983.1/48038534803746/3-84             --CTTATCAAGAGAGGTGGAGGGACGAGCCCTGTGAAACCCGGCAACCG---TGGGTGCCAATTCCTGCAACTA----TG.TGAAAGATGAG--
+#=GR USER>>CP001983.1/48038534803746/3-84     PP ..799*****************************************996...4689*************97743....34.67888888775..
+USER>>ABDQ01000001.1/432295432183/3-87           --CTTATCAAGAGAGGTTGAGGGACTGGCCCTATGAAACCCAGCAACAGCTTTCTGTGCTAATTCCAGCAGGAGA---TT.TGAAAGATAA---
+#=GR USER>>ABDQ01000001.1/432295432183/3-87   PP ..799*****************************************999999999**********9999876555...57.8888888765...
+USER>>CP002105.1/12295361229651/3-86             --CTTATCAAGAGTGGTGGAGGGAC-GGCCCGATGAAGCCCGGCAACCATT-TGGGTGCCAACTCCTGCAATTGCAA--T.TGAAAGATAA---
+#=GR USER>>CP002105.1/12295361229651/3-86     PP ..799******************98.7899******************975.5689**************9999887..7.8999998866...
+USER>>CP002118.1/29906642990554/3-69             --CTTATCAAGAGAG-TGGAGGGAAGGGCCCGTTGAAACCCGGCAACCG--AATGGTGCCAATTCCTGCAGT--------.-------------
+#=GR USER>>CP002118.1/29906642990554/3-69     PP ..799********95.99****************************995..78***************9985......................
+USER>>ACPC01000020.1/112303112192/3-87           --CTTATCGAGAGAGGTGGAGGGACGTGCCCTATGAAACCCGGCAACC-GTCATGGTGCCAATTCACACAAC---AATTC.TGATAGATGAG--
+#=GR USER>>ACPC01000020.1/112303112192/3-87   PP ..789****************************************998.6789***********99888766...56777.88888888875..
+USER>>CP000860.1/973047972931/3-87               --CTTATCGAGAGTGGCGGAGGGACTGGCCCGATGAAGCCCGGCAACCAGGT-GGGTGCTAATTCCTGCGGGATCGATTT.TGGGAGAT-----
+#=GR USER>>CP000860.1/973047972931/3-87       PP ..789********************************************975.689***********9876555555556.66555555.....
+USER>>AFHT01000081.1/5505154940/4-71             ---TTATCCAGAGTGGTGGAGGGACTGGCCCGATGAAACCCGGCAACCCGG--CGGTGCCAAATCCTGCAACC-------.-------------
+#=GR USER>>AFHT01000081.1/5505154940/4-71     PP ...799*****************************************9985..79*************98664.....................
+USER>>CP002028.1/23103872310276/3-84             --CTTATCCAGAGAGGTGGAGGGAC-GGCCCAATGAAACCCGGCAAC-AGCAGCTGTGCCAATTCCTGCAGT-----CAT.TGAGAGATGAG--
+#=GR USER>>CP002028.1/23103872310276/3-84     PP ..799******************98.78999*************985.78888999*************985.....778.99999999876..
+USER>>AEDD01000008.1/2971529827/3-89             --CTTATCAAGAGCGGCGGAGGGACA-GCCCGATGAAGCCCGGCAACCGGTTA-GGTGCTAATTCTTGCGGCAGATAACT.TGGGAGATGAG--
+#=GR USER>>AEDD01000008.1/2971529827/3-89     PP ..799*******************97.6899****************988765.89************************.**999999986..
+USER>>ACPC01000012.1/106106106211/3-71           --CTTATCAAGAGCGGTGGAGGGACA-GCCCGATGAAACCCGGCAACC-GATATGGTGCTAAATCTTGCAGA---A----.-------------
+#=GR USER>>ACPC01000012.1/106106106211/3-71   PP ..799*******************97.6899**************987.899***************99863...3..................
+USER>>CP002028.1/12445711244678/3-71             --CTTATCAAGAGAG-TGGAGGGACTGGCCCAATGAAACCCGGCAACAA--CCTTGTGCCAATTCCTGCAGAGT------.-------------
+#=GR USER>>CP002028.1/12445711244678/3-71     PP ..789********95.99***************************9975..57899*************98664....................
+USER>>AECS01000010.1/60526145/2-74               -GCTTATCCAGAGTGGCGGAGGGACTGGCCCGATGAAACCCGGCAACC------GGTGCTAATTCCTGCGG-----ATTT.CGAGA--------
+#=GR USER>>AECS01000010.1/60526145/2-74       PP .689****************************************9997......789*********98754.....2334.44444........
+USER>>ACLV01000064.1/2057520466/3-86             --CTTATCTAGAGAGGTGGAGGGACGTGCCCTGTGAAACCCAGCAACCAT-TTTGGTGCTAATTCCTGCAACA--AA--C.TGAGAGATGAG--
+#=GR USER>>ACLV01000064.1/2057520466/3-86     PP ..689*******************************************96.579***************9874..33..4.67777777765..
+USER>>ACSC01000002.1/845411845514/3-67           --CTTATCAAGAGTGGTGGAGGGACTGGCCCTATGAAACCCGGCAACCAATA-----GCTAAATCCTGCAGT--------.-------------
+#=GR USER>>ACSC01000002.1/845411845514/3-67   PP ..799******************************************98654.....789999*****9975......................
+USER>>AEVN01000024.1/48724772/3-78               --CTTATCAAGAGTGGCGGAGGGAAAGGCCCGATGATGCCCGGCAACCAGA-ATGGTGCTACATCCTGCAAATGAA----.----AGA------
+#=GR USER>>AEVN01000024.1/48724772/3-78       PP ..799********************************************96.69**************98765544.........444......
+USER>>AP009484.1/6387863783/2-78                 -GCTTATCCAGAGTGGTGGAGGGACTGGCCCTATGAAACCCGGCAACC-------GTGCTAATTCCAGCAGG-----TAT.TGAAAGATAA---
+#=GR USER>>AP009484.1/6387863783/2-78         PP .689****************************************9987.......79*********999874.....357.8888888765...
+USER>>CP001615.1/262165262061/2-70               -GCTTATCAAGAGTGGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCAGCA-GGGTGCTAATTCCAACAGG--------.-------------
+#=GR USER>>CP001615.1/262165262061/2-70       PP .699*******************98.7899*******************975.699*********9888764......................
+USER>>AESB01000069.1/74217309/3-87               --CTTATCAAGAGAGGTTGAGGGACTGGCCCTATGAAACCCAGCAACAGCTTCATGTGCTAATTCCAGCAG---GATGTT.TGAAAGATAA---
+#=GR USER>>AESB01000069.1/74217309/3-87       PP ..789*****************************************9888888899********9987775...566678.8888888765...
+USER>>AGTN01580094.1/386281/2-86                 -TCTTATCAAGAGAG-TGGAGGGACGAGCCCTGTGAAACCCGACAACCGG--TTGGTGCCAATTCCTGCAGC---AATTG.TGAGAGATGAGC-
+#=GR USER>>AGTN01580094.1/386281/2-86         PP .589*********95.99******************************98..59**************9987...56777.899999999876.
+USER>>AAWL01000026.1/2210922215/3-86             --CTTATCAAGAGCGGTGGAGGGACTGGCCCTGTGAAGCCCGGCAACCGGA---GGTGCCAAATCCAGCAGTC--TTCGG.TGGAAGATGAG--
+#=GR USER>>AAWL01000026.1/2210922215/3-86     PP ..799*******************************************997...799************9864..56888.89999998875..
+USER>>AGHO01000537.1/16981803/3-85               --CTTATCAAGAGAGGTGGAGGGATGTGCCCTATGAAACCCGGCAACCG--TGTGGTGCCAATTCACACAACGTTAC---.TGATAGATGA---
+#=GR USER>>AGHO01000537.1/16981803/3-85       PP ..789******************************************96..579************99999887664....5666777766...
+USER>>AE015927.1/303338303443/3-72               --CTTATCGAGAGA-GTGGAGGGAAGGGCCCTATGAAACCCGGCAACCA--ATTGGTGCCAATTCCTGCAGAGTG-----.-------------
+#=GR USER>>AE015927.1/303338303443/3-72       PP ..7899**9**998.599*****************************96..89****************997644...................
+USER>>AEQN01000014.1/1771617623/3-70             --CCTATCCAGAGCGGTGGAGGGAAAGGCCCGATGAAACCCGGCAACCAG--TTGGTGCCAATACCTTCAGA--------.-------------
+#=GR USER>>AEQN01000014.1/1771617623/3-70     PP ..6799******************************************98..59*************99863......................
+USER>>AEDB01000017.1/3897738873/3-85             --CTTATCAAGAGAG-TGGAGGGAAGGGCCCTATGAAACCCGGCAACCGGAA--GGTGCCAATTCCTACAGTTTTTA--T.GGACAGATGA---
+#=GR USER>>AEDB01000017.1/3897738873/3-85     PP ..899********95.99******************************9986..89*************99766554..3.4566666665...
+USER>>ACVI01000037.1/4130441412/3-80             --CTTATCAAGAGT-GTGGAGGGACTGGCCCGATGAAACCCAGCAACCAGCA--GGTGCTAACTCCTGCGGCA------A.TGAGAGATG----
+#=GR USER>>ACVI01000037.1/4130441412/3-80     PP ..799*******97.69********************************986..89**********9987653......3.455566655....
+USER>>CP002207.1/28015102801404/3-86             --CTTATCAAGAGAGGTGGAGGGAAGTGCCCTATGAAGCCCGGCAACCAT-CATGGTGCCAATTCACACAACGA---TTC.TGGAAGATGA---
+#=GR USER>>CP002207.1/28015102801404/3-86     PP ..799*******************************************97.579***********999998873...455.6777777776...
+USER>>BAAZ01010499.1/873972/3-68                 --CTTATCAAGAGAG-TGGAGGGATGGGCCCGATGAAACCCGGCAACCTG----GGTGCCAATTCCTGTAGAG-------.-------------
+#=GR USER>>BAAZ01010499.1/873972/3-68         PP ..799********95.99*****************************987....89************99865.....................
+USER>>ABEZ02000019.1/8805387953/2-82             -TCTTATCAAGAGC-GTGGAGGGACTGGCCCTGTGAAACCCAGCAACCA--AATGGTGCTAAATCCTGCA-----ATTAT.TGAAAGATAA---
+#=GR USER>>ABEZ02000019.1/8805387953/2-82     PP .5899******997.69******************************96..89**************996.....55678.8888887765...
+USER>>HE576794.1/991545991452/4-70               ---TTATCCAGAGTGGTGGAGGGACTGGCCCTATGAAGCCCGGCAACCG--ACGGGTGCCAATTCCTGCGGT--------.-------------
+#=GR USER>>HE576794.1/991545991452/4-70       PP ...799****************************************995..6789************98654......................
+USER>>AGTN01602760.1/73186/3-81                  --CTTATCCGGAGT-GTGGAGGGACTGGCCCTATGAAACCCGGCAACCAG---TGGTGCTAATTCCTGCAGGT-ATCAAC.TGACAG-------
+#=GR USER>>AGTN01602760.1/73186/3-81          PP ..577888888875.69*******************************87...89**************9743.222334.555555.......
+USER>>AFRV01000002.1/171593171485/3-85           --CTTATCCAGAGAG-CGGAGGGACTGGCCCGTTGATGCCCGGCAACCA----CGGTGCTAATTCCTGCAGCAATTT-TG.TGAAAGATGAG--
+#=GR USER>>AFRV01000002.1/171593171485/3-85   PP ..68999*****996.799****************************96....79***************9965444.44.68999999986..
+USER>>CP000568.1/26798222679717/3-84             --CTTATCAAGAGAG-CGGAGGGAAGGGCCCTATGAAACCCGGCAACCGGAA--GGTGCCAATTCCTACAGTGTAAAAG-.-GACAGATG----
+#=GR USER>>CP000568.1/26798222679717/3-84     PP ..799********96.799*****************************9986..89*****************999865...55566665....
+USER>>BAAZ01000238.1/17251819/3-82               --CTTATCGAGAGTGGCGGAGGGACTGGCCCGATGAAGCCCGACAACCTG--TTGGTGCCAATTCCAGCG------ATTA.TGACAGATGA---
+#=GR USER>>BAAZ01000238.1/17251819/3-82       PP ..689*******************************************98..59**********987653......3344.5666666665...
+USER>>ACWC01000016.1/6402763920/3-86             --CTTATCCAGAGAGGTGGAGGGAAGTGCCCTATGAAACCCGGCAACCATCA--GGTGCCAATTCACGCGACGTTA---C.TGAAAGATGAG--
+#=GR USER>>ACWC01000016.1/6402763920/3-86     PP ..799*******************************************8765..89*********99998887655...5.78999999876..
+USER>>AL009126.3/39991663999272/3-83             --CTTATCAAGAGAGGTGGAGGGACTGGCCCTGCGATACCCGGCAACCGC-TTAGGTGCTAAATCCTTTAGCAATGATTT.TGAA---------
+#=GR USER>>AL009126.3/39991663999272/3-83     PP ..689*****************************************9865.56699*************99987777777.7654.........
+USER>>CP002118.1/29140962913988/3-83             --CTTATCAAGAGAG-TGGAGGGACTGGCCCTATGAAACCCAACAACCAG--TTGGTGTTAATTCCTGCAAT--TAATTT.TGAGAGAT-----
+#=GR USER>>CP002118.1/29140962913988/3-83     PP ..899********95.99******************************98..59**************9965..455666.77766665.....
+USER>>CP001098.1/21065792106474/3-80             --CTTATCAAGAG-GGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCT-AATGGGTGCCAATTCCTGCAG---AAA---.TGGAAGATG----
+#=GR USER>>CP001098.1/21065792106474/3-80     PP ..799******98.789******98.789*****************996.677899***********9986...333....344555555....
+USER>>BAAW01002289.1/979878/3-76                 --CTTATCAAGAGAG-TGGAGGGATGGGCCCAGTGAAACCCGGCAACCTGAA--GGTGCCAATTCCTGTAGAG---ATTT.TA-----------
+#=GR USER>>BAAW01002289.1/979878/3-76         PP ..789********95.99******************************9986..89***********998754...4444.44...........
+USER>>AGJQ01000010.1/109242109355/3-85           --CTTATCCGGAGT-GTGGAGGGACTGGCCCTATGAAGCCCGGCAACCAG--TTGGTGCTAATTCCTGCAG--GCAAAGC.TGGCAGATAA---
+#=GR USER>>AGJQ01000010.1/109242109355/3-85   PP ..578888888875.699******************************98..59***************97..5566677.7777776655...
+USER>>AGTN01053582.1/136249/3-85                 --CTTATCCAGAGA-GTGGAGGGACTGGCCCTATGAAACCCGACAACCGG--ATGGTGTCAATTCCTACAATAATTTGAT.TGAAAGAT-----
+#=GR USER>>AGTN01053582.1/136249/3-85         PP ..689999****98.599******************************98..59*************9987766666667.77777766.....
+USER>>CP000922.1/24452982445193/3-73             --CTTATCAAGAGAGGTGGAGGGATGTGCCCGATGAAACCCGGCAACC-GTCGCGGTGCCAATTCACACAACGT------.-------------
+#=GR USER>>CP000922.1/24452982445193/3-73     PP ..799****************************************998.567899*********9888776653....................
+USER>>ADJR01000013.1/9447394568/3-79             --CTTATCAAGAGAGGTGGAGGGACTGGCCCAATGAAGCCCGGCAACCG----AGGTGCCAAATCCAACAGGG----TGT.TGAGAGA------
+#=GR USER>>ADJR01000013.1/9447394568/3-79     PP ..79******************************************985....589*********99998865....466.6666665......
+USER>>AFHT01000003.1/92589363/3-84               --CTTATCCAGAGCGGTTGAGGGACTGGCCCGATGAAACCCGGCAACCC---CCGGTGCCAACTCCTGTCGCATTTG---.CGGAAGATGA---
+#=GR USER>>AFHT01000003.1/92589363/3-84       PP ..789*****************************************986...579************9877643332....3455666665...
+USER>>AP008230.1/53175695317463/3-83             --CTTATCAAGAGTGGTGGAGGGAC-GGCCCGATGAAACCCAGCAACCGGT-TCGGTGCTAATTCCTGCG---AGAA--C.TGATAGATGA---
+#=GR USER>>AP008230.1/53175695317463/3-83     PP ..799******************98.7899****************99775.689***********9873...3333..3.6667777766...
+USER>>ACVI01000091.1/1275112640/3-84             --CTTATCCAGAGT-GTGGAGGGACTGGCCCTGTGAAACCCGACAACCGG--ATGGTGTCAATTCCTGCAGTA-AGTTTT.TGATAGAT-----
+#=GR USER>>ACVI01000091.1/1275112640/3-84     PP ..689999999986.69*******************************98..59***************9863.333445.56666655.....
+USER>>ACVI01000134.1/32413345/2-81               -GTTTATCGAGAGTGGTGGAGGGAC-GGCCCAATGAAACCCGACAACCAGTTA-GGTGTCAATTCCTGCAGT---AA--C.TGAAAGAT-----
+#=GR USER>>ACVI01000134.1/32413345/2-81       PP .5689******************98.78999******************9876.89************9975...22..3.55666655.....
+USER>>CP002131.1/17974611797347/3-80             --CTTATCAAGAG-GGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGT-AGAGGTGCCAATTCCTGCAAACGTTAC--.TGAGA--------
+#=GR USER>>CP002131.1/17974611797347/3-80     PP ..799******98.789******98.789*****************9865.56699************9865555444...34444........
+USER>>CP000817.1/22572752257370/3-78             --CTTATCGAGAGAGGTGGAGGGACTGGCCCAATGAAGCCCGGCAACCGGA---GGTGCCAAATCCAACAGG-----TGT.TGAGAG-------
+#=GR USER>>CP000817.1/22572752257370/3-78     PP ..799*******************************************997...7999*******9988864.....345.555555.......
+USER>>AAOX01000038.1/1909418987/3-71             --CTTATCAAGAGAGGTGGAGGGATGTGCCCGATGAAGCCCGGCAACC-GTTGTGGTGCCAATTCACACAAC--------.-------------
+#=GR USER>>AAOX01000038.1/1909418987/3-71     PP ..689****************************************998.67889*********998777654......................
+USER>>AGFS01133807.1/375273/3-82                 --CTTATCTAGAGAG-TCGAGGGACTGGCCCGATGACACCCAGCAACCCG----GGTGCTAATTCCAGCAG----GATGT.TGAAAGATGAG--
+#=GR USER>>AGFS01133807.1/375273/3-82         PP ..7899******996.7789***************************987....89**********99997....4789*.********986..
+USER>>ACWD01000019.1/1564015537/3-83             --CTTATCAAGAGAGGTGGAGGGAAGTGCCCTATGAAGCCCGGCAACC-GTATTGGTGCCAATTCACTCAAC-----ATC.TGACAGATG----
+#=GR USER>>ACWD01000019.1/1564015537/3-83     PP ..789****************************************998.6789***********98766544.....234.555555555....
+USER>>AFWX01000001.1/869018869117/3-70           --CTTATCAAGAGAG-TGGAGGGAAGGGCCCTATGAAACCCGGCAACCTGTA--GGTGCCAATTCCTGTAGGT-------.-------------
+#=GR USER>>AFWX01000001.1/869018869117/3-70   PP ..789********95.99******************************9986..89***********998754.....................
+USER>>CP000922.1/19734351973328/3-73             --CTTATCAAGAGTGGTGGAGGGACA-GCCCGATGAAGCCCGGCAACC-GATAAGGTGCTAATTCTCGCAGATGA-----.-------------
+#=GR USER>>CP000922.1/19734351973328/3-73     PP ..799*******************97.6899**************987.788889*************9987665...................
+USER>>CP000673.1/17123281712433/3-70             --CTTATCAAGAGC-GTGGAGGGACTGGCCCTATGAAACCCGACAACCA--ATTGGTGTTAATTCCAGCAGTT-------.-------------
+#=GR USER>>CP000673.1/17123281712433/3-70     PP ..7899*****996.69******************************96..889*************999864.....................
+USER>>AFHT01000091.1/7247672367/3-85             --CTTATCAAGAG-GGTGGAGGGAC-GGCCCGATGAAGCCCGGCAACC-GACGCGGTGCCAATTCCTGCA---GACATGA.TGACAGATGAG--
+#=GR USER>>AFHT01000091.1/7247672367/3-85     PP ..799******98.789******98.789****************987.78999*************988...5789999.99999999986..
+USER>>AP012044.1/31825973182503/3-81             --CTTATCAAGAGTGGCGGAGGGAACGGCCCGATGAAACCCGGCAACCTG--TTGGTGCCAAATCCGA---CGGAATCG-.--ACAGATG----
+#=GR USER>>AP012044.1/31825973182503/3-81     PP ..699*******************************************98..59********999754...56666543....4455555....
+USER>>ACMP01000103.1/52125317/3-81               --CTTATCAAGAGCGGTGGAGGGACA-GCCCGACGAAACCCGGCAACC-GATACGGTGCTAATTCTCGCAG--GTTACGT.-GACAG-------
+#=GR USER>>ACMP01000103.1/52125317/3-81       PP ..799*******************97.6899**************987.7999**************9996..4445553..45555.......
+USER>>AGAV01000018.1/169882169983/3-77           --CTTATCGCGAGAGGTGGAGGGAAGTGCCCTATGAAGCCCGGCAACAGGAA-AAGTGCCAATTCCTGCAGGATAACC--.-------------
+#=GR USER>>AGAV01000018.1/169882169983/3-77   PP ..799***************************************99866655.5789************987665554................
+USER>>CP000560.1/31031973103091/3-86             --CTTATCAAGAGAGGTGGAGGGAAGTGCCCTATGAAGCCCGGCAACCATCA--GGTGCCAATTCACTCGACGGT---CC.TGAAAGATGAG--
+#=GR USER>>CP000560.1/31031973103091/3-86     PP ..799*******************************************8765..89*********9999888875...46.78899998875..
+USER>>AARM02000202.1/498399/3-82                 --CTTATCAAGAAAGGTGGAGGGTTTGGCCCGGTGAAACCTGGCAACCGG----GGTGCCAAATCCAGCAG----AACAC.TGACAGATAA---
+#=GR USER>>AARM02000202.1/498399/3-82         PP ..799******************************************987....89*********999987....56777.7777777655...
+USER>>FP565809.1/17883701788263/3-70             --CTTATCCAGAGA-GTGGAGGGACTGGCCCTACGAAACCCGGCAACCAGCA--GGTGCTAATTCCTGAGGTT-------.-------------
+#=GR USER>>FP565809.1/17883701788263/3-70     PP ..78999*****98.599*******************************986..89**********9976654.....................
+USER>>ACMM01000184.1/49135017/3-72               --CTTATCAAGAGCGGTGGAGGGACA-GCCCGACGAAACCCGGCAACC-GATACGGTGCTAATTCTCGCAGATT------.-------------
+#=GR USER>>ACMM01000184.1/49135017/3-72       PP ..799*******************97.6899**************987.7999*************99997543....................
+USER>>ABEZ02000016.1/241791241688/3-85           --CTTATCAAGAGT-GTGGAGGGACTGGCCCTGTGAAACCCAGCAACCA--ATTGGTGCTAAATCCTGCATTTTT---TA.TGAAAGATGAG--
+#=GR USER>>ABEZ02000016.1/241791241688/3-85   PP ..6899*****996.69******************************96..889**************9876443...34.56777777765..
+USER>>CP002739.1/764885764785/3-80               --CTTATCTAGAG-GGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGGA-CGGGTGCCAATTCCTGCAGA-------T.TGAGAGATGA---
+#=GR USER>>CP002739.1/764885764785/3-80       PP ..78999999998.789*****998.789*****************99876.6799*************985.......5.6666666655...
+USER>>AP012157.1/11349471135049/3-85             --CTTATAAAGAGAGGTGGAGGGAAGTGCCCTATGAAGCCCGGCAACCAG--TTGGTGCCAATTCACACAATGTA----C.TGAAAGATGAG--
+#=GR USER>>AP012157.1/11349471135049/3-85     PP ..7899******************************************98..59***********9988876654....5.78888888765..
+USER>>AGTN01602795.1/205303/3-82                 --CTTATCAAGAGAG-TGGAGGAAAAGGCCCTATGAAACCCGGCAACCGG---CGGTGCCAATTCCTGCAGGGGAG----.TGCAAGATGA---
+#=GR USER>>AGTN01602795.1/205303/3-82         PP ..799********95.99*****************************987...699***************99874.....5667777765...
+USER>>CP001982.1/12259831226089/3-69             --CTTATTAAGAGTGGTGGAGGGACA-GCCCGATGAAGCCCGGCAACC-GATAAGGTGCTAATTCTTGCAG---------.-------------
+#=GR USER>>CP001982.1/12259831226089/3-69     PP ..799*******************97.6899**************987.788889*************986.......................
+USER>>CP002293.1/29004912900383/3-83             --CTTATCAAGAGCGGCGGAGGGACA-GCCCAATGAAGCCCGGCAACCGGTAA-GGTGCTAATTCTTGCAG--GAAACGT.-GAGAGAT-----
+#=GR USER>>CP002293.1/29004912900383/3-83     PP ..79********************97.68899***************988765.89*************95..7888875..5555555.....
+USER>>ABGD02000008.1/4060140696/3-79             --CTTATAAAGAGCGGCGGAGGGACTGGCCCTGTGAAGCCCGGCAACCTGA-TTGGTGCCAAATCCAGCGGT---GAC--.-GAGAG-------
+#=GR USER>>ABGD02000008.1/4060140696/3-79     PP ..699*******************************************986.69*********998766544...333....34444.......
+USER>>ADGO01002641.1/175278/3-87                 --CTTATCCAGAGCGGTGGAGGGATCGGCCCTACGAAACCCGGCAACCCCCAGAGGTGCCAAATCCGACAGG----TTGT.TGGAAGATGAG--
+#=GR USER>>ADGO01002641.1/175278/3-87         PP ..799*************************************************************999874....5789.99999999886..
+USER>>ABVH01000005.1/3497434865/3-83             --CTTATCAAGAGAGGTGGAGGGATGTGCCCAATGAAGCCCGGCAACC-GTCGTGGTGCCAATTCACACAACGGC---CC.TGAGAGA------
+#=GR USER>>ABVH01000005.1/3497434865/3-83     PP ..799****************************************998.6789************9999988874...34.5555555......
+USER>>ACML01000139.1/16781574/3-79               --CTTATCAAGAGAG-TAGAGGGACTGGCCCTATGAAACCCGGCAGC-GGAAAT-GTGCCAATTCCAGCAATGAAA----.TGAAAG-------
+#=GR USER>>ACML01000139.1/16781574/3-79       PP ..799********96.789*************************876.556655.79***********99876554.....455555.......
+USER>>CP000853.1/597495597392/3-84               --CTTATCGAGAGC-GTGGAGGGACTGGCCCGTTGAAACCCGGCAACCACCA--GGTGCTAATTCCAGCAAC---ATTTG.TGAGAGATGA---
+#=GR USER>>CP000853.1/597495597392/3-84       PP ..689999999986.69******************************98765..89*********9998876...34445.6777777776...
+USER>>ABDT01000114.2/6823468332/3-68             --CTTATCAAGAGAG-TGGAGGGATGGGCCCAGTGAAACCCGGCAACCTGA---GGTGCCAATTCCTGTAGG--------.-------------
+#=GR USER>>ABDT01000114.2/6823468332/3-68     PP ..789********95.99******************************997...799**********99864......................
+USER>>ABFT01000018.1/1675016644/3-74             --CTTATCAAGAGCGGTGGAGGGACA-GCCCTTTGAAGCCCGGCAACC-GATAAGGTGCTAATTCTTGCAGAGTAT----.-------------
+#=GR USER>>ABFT01000018.1/1675016644/3-74     PP ..799*******************97.578899************987.788889**************9987654..................
+USER>>CP002048.1/760912761020/3-73               --CTTATCGAGAGA-GTGGAGGGACGGGCCCTATGAAACCCGGCAACCGC--GGGGTGCCAATTCCTGCAGTGTGA----.-------------
+#=GR USER>>CP002048.1/760912761020/3-73       PP ..7899*****998.599*****************************964..5699**************988655..................
+USER>>ADGQ01000004.1/6433564434/3-88             --CTTATCGAGAGTGGTGGAGGGACTGGCCCTGTGAAGCCCGGCAACCT-ATTGGGTGCTAAATCCAGCGGT--ATATAA.CGAAAGATGAG--
+#=GR USER>>ADGQ01000004.1/6433564434/3-88     PP ..789*****************************************986.567799********99888765..445556.78999998876..
+USER>>CP000557.1/916483916589/3-83               --CTTATCAAGAGTGGCGGAGGGACA-GCCCGATGAAGCCCGGCAACCGGT-GGGGTGCTAATTCTTGCAG--GAAACGT.-GAGAGAT-----
+#=GR USER>>CP000557.1/916483916589/3-83       PP ..799*******************97.6899***************99775.5799*************95..7888875..5656655.....
+USER>>CP001982.1/47440824743980/2-79             -GCTTATCAAGAGTGGTGGAGGGATTGGC--GCTGAACCCCGGCAACCC---TTGGTGCTAATTCCAGCA------AAGT.TGAAAGATAA---
+#=GR USER>>CP001982.1/47440824743980/2-79     PP .689***********************96..679************996...69***********98775......6789.9999999876...
+USER>>CP001666.1/732945733052/4-84               ---TTATCACGAGAGGTGGAGGGAC-GGCCCAGTGAAACCCAACAACCGG----GGTGCTAATTCCTGCAGT-AAAACGA.TGAAAGATAA---
+#=GR USER>>CP001666.1/732945733052/4-84       PP ...899*****************98.6788999*************9986....89**************97.5789***.*****99866...
+USER>>AESC01000083.1/15241628/2-71               -GCTTATCAAGAGAG-TGGAGGGAA-GGCCCTGTGAAACCCGGCAACCAGTA--GGTGCTAATTCCTGCAGTGTA-----.-------------
+#=GR USER>>AESC01000083.1/15241628/2-71       PP .689*********95.899999985.7889999****************986..89**************98865...................
+USER>>CP000721.1/516269516366/3-70               --CTTATCAAGAGAG-TGGAGGGAAGGGCCCTGTGAAACCCGGCAACCTGTA--GGTGCCAATTCCTGTAGTT-------.-------------
+#=GR USER>>CP000721.1/516269516366/3-70       PP ..789********95.99******************************9986..89***********998864.....................
+USER>>CP001638.1/29529682952860/3-72             --CTTATCAAGAGAGGTGGAGGGATGTGCCCAATGAAGCCCGGCAACC-GTCGTGGTGCCAATTCACACAACG-------.-------------
+#=GR USER>>CP001638.1/29529682952860/3-72     PP ..799****************************************998.67899**********988877665.....................
+USER>>AGHO01003820.1/244136/3-85                 --CTTATATAGAGA-GTGGAGGGACTGGCCCGTCGAAGCCCAGCAACCA--TTTGGTGCTAATTCCAGCAGCT--ACTAT.TGAAAGATAA---
+#=GR USER>>AGHO01003820.1/244136/3-85         PP ..577888888887.599*****************************97..579****************986..55668.9999998866...
+USER>>CP000612.1/107660107768/3-82               --CTTATCCTGAGA-GTGGAGGGACTGGCCCTATGAAACCCAGCAACCA---CGGGTGCTAATTCCTGCAG--GATATTC.TGGCAGAT-----
+#=GR USER>>CP000612.1/107660107768/3-82       PP ..688999999998.599*****************************97...5699*************96..5555556.66666655.....
+USER>>CP000922.1/19756761975775/3-68             --CTTATCAAGAGCGGTGGAGGGACA-GCCCGATGAAGCCCGGCAACCGGA---GGTGCTAATTCTTGCAGG--------.-------------
+#=GR USER>>CP000922.1/19756761975775/3-68     PP ..799*******************97.6899*****************997...7999**********9973......................
+USER>>CP001982.1/21755002175606/3-86             --CTTATCAAGAGAGACGGAGGGACTGGCCCTAGGATGTCCGGCAACTGG---TGGTGCCAAATCCAGCAG--GATGTTT.TGGAAGATGAG--
+#=GR USER>>CP001982.1/21755002175606/3-86     PP ..799*****************************************9876...89*************995..7888889.99999999876..
+USER>>ABDQ01000002.1/165669165770/3-72           --CTTATCAAGAGAG-TGGAGGGAA-GGCCCTGTGAAACCCGGCAACCAG--TTGGTGCTAATTCCTGCAGTATAA----.-------------
+#=GR USER>>ABDQ01000002.1/165669165770/3-72   PP ..799********95.899999985.7889999***************98..59***************9975544..................
+USER>>CP002183.1/31551813155075/3-86             --CTTATCAAGAGAGGTGGAGGGAAGTGCCCTATGAAGCCCGGCAACCAT--CGGGTGCCAATTCACACGACGT---TCC.TGAAAGATGAG--
+#=GR USER>>CP002183.1/31551813155075/3-86     PP ..799******************************************975..579*********9887765554...345.78888888875..
+USER>>AAOX01000018.1/2928729391/3-84             --CTTATCAAGAGCGGCGGAGGGACA-GCCCTATGAAGCCCGGCAACCG--ATTGGTGCTAATTCTTGCAGTTTGAG---.TGATAGATGA---
+#=GR USER>>AAOX01000018.1/2928729391/3-84     PP ..789*******************97.58899**************995..789***************99765543....4555566555...
+USER>>ABTR02000001.1/12017511201854/3-67         --CTTATCGAGAGAGGCGGAGGGACTGGCCCGATGAAGCCCGGCAACCTG--GTGGTGCCAACACCAGC-----------.-------------
+#=GR USER>>ABTR02000001.1/12017511201854/3-67 PP ..79********************************************98..589******99887665.........................
+USER>>CP002478.1/745720745825/4-71               ---TTATCAAGAGTGGTGGAGGGAATGGCCCGGTGAAACCCAGCAACCTCGT-AGGTGCGAATTCCAACAGT--------.-------------
+#=GR USER>>CP002478.1/745720745825/4-71       PP ...799****************************************998765.489*********9888764......................
+USER>>CP001022.1/27077522707649/3-83             --CTTATCCAGAGA-GTGGAGGGACTGGCCCTACGAAACCCGGCAAC-AGA---TGTGCCAATTCCATCAGC----AATT.TGAGAGATGAGT-
+#=GR USER>>CP001022.1/27077522707649/3-83     PP ..68999*****98.599**************************986.443...5799********999997....4568.999999999885.
+USER>>CP000764.1/28203652820470/3-82             --CTTATCAAGAGCGGTGGAGGGACA-GCCCGACGAAGCCCGGCAACC-GATACGGTGCTAATTCTCGCAG--GTTACGT.-GACAGA------
+#=GR USER>>CP000764.1/28203652820470/3-82     PP ..799*******************97.6899**************987.7999**************9996..4445553..455555......
+USER>>CP002627.1/20388162038717/3-73             --CTTATCAAGAGCGGCAGAGGGACA-GCCCGATGAAGCCCGGCAACCG--AGTGGTGCTAATTCTTGCAGAGGAG----.-------------
+#=GR USER>>CP002627.1/20388162038717/3-73     PP ..799*******************97.6899***************995..789****************999874..................
+USER>>CP001656.1/55195575519455/3-84             --CTTATCAAGAGCGGCGGAGGGACA-GCCCGATGAAGCCCGGCAACCGGTA--GGTGCTAATTCTTGC---GGACA-TT.TGAGAGATGAG--
+#=GR USER>>CP001656.1/55195575519455/3-84     PP ..799*******************97.6899*****************9976..89*********9986...44444.57.88889988875..
+USER>>AGFE01000001.1/8204881942/3-83             --CTTATCAAGAGCGGCGGAGGGAC-GGCCCGATGAAGCCCGGCAACCGGT-TCGGTGCTAATTCTTGC---GGAAA--T.CGAGAGATGA---
+#=GR USER>>AGFE01000001.1/8204881942/3-83     PP ..799******************98.7899****************99775.689**********9976...56665..5.6677777766...
+USER>>ACWD01000062.1/1637916276/3-84             --CTTATCCAGAGA-GTGGAGGGACTGGCCCTTTGAAGCCCGGCAGCAGGT--GTGTGCCAATTCCAGCAACG----CAT.TGAAAGATGAG--
+#=GR USER>>ACWD01000062.1/1637916276/3-84     PP ..6899******98.599**************************9875543..3479************9987....569.9******9986..
+USER>>ADEK01000022.1/212392212502/3-87           --CTTATCAATAGAG-TAGAGGGACTGGCCCTATGAAACCCAACAACCGG--TTGGTGTTAATTCCAGCAGTAGATTTTT.TGGAAGATAA---
+#=GR USER>>ADEK01000022.1/212392212502/3-87   PP ..6899999999985.789*****************************98..589********************99999.9999998865...
+USER>>ACMR01000082.1/1740217507/3-77             --CTTATAAAGAGA-GTGGAGGGACTGGCCCTTTGAAACCCAGCAACCT--ATTGGTGCTAAATCCTGTAGTCTAAAAGT.-------------
+#=GR USER>>ACMR01000082.1/1740217507/3-77     PP ..678899999998.599*****************************95..789****************9988887765..............
+USER>>AEES01000045.1/55095403/3-81               --CTTATCAAGAGAG-TGGAGGGAA-GGCCCTGTGAAACCCGGCAACCC--ATTGGTGCCAATTCCTGCA------ATTT.TGACAGATGAG--
+#=GR USER>>AEES01000045.1/55095403/3-81       PP ..689********95.899999985.7889999*************995..789*************986......6778.89999998876..
+USER>>AEVP01000016.1/1337613265/3-86             --CTTATCCAGAGAGCT-GAGGGACTGGCCCTGCGAAGCCCGGCAACCTTAA--GGTGCTAATTCCTGCGG-GATAATTC.TGAAAGATAA---
+#=GR USER>>AEVP01000016.1/1337613265/3-86     PP ..6899*******9877.699***************************8765..89************976.55667788.9999999876...
+USER>>CP000557.1/30519993051890/3-83             --CTTGTCAAGAGAGGTGGAGGGATGTGCCCAATGAAGCCCGGCAACC-GTCGTGGTGCCAATTCACACAACGGC---CC.TGAGAGA------
+#=GR USER>>CP000557.1/30519993051890/3-83     PP ..6899***************************************998.67899***********9999988874...34.5555555......
+USER>>CP000817.1/966524966419/3-84               --CTTATCAAGAGTAGCTGAGGGACTGGCCCTATGAAGCTCGGCAACCT--CTTGGTGCTAAATCCTGCAA--G-AAATT.TGATAGATA----
+#=GR USER>>CP000817.1/966524966419/3-84       PP ..689******************************************97..579*************9985..3.34456.777777765....
+USER>>ACXJ01000316.1/143251/3-87                 --CTTATCCAGAGTGGCGGAGGGACCGGCCCGATGAAGCCCGGCAACCGGG-TCGGTGCCAACTCCGGCAGGC---GCGC.TGAGAGATGAG--
+#=GR USER>>ACXJ01000316.1/143251/3-87         PP ..79******************************************99775.689**********99998754...5788.99999999875..
+USER>>AEIV01000002.1/642667642564/3-81           --CTTATCCAGAGTGGCTGAGGGACTGGCCCGATGAAGCCCGGCAACCTGG--CGGTGCCAACACCTGCGGGAGACCGAT.TGA----------
+#=GR USER>>AEIV01000002.1/642667642564/3-81   PP ..799*******************************************985..79************9987766655455.554..........
+USER>>AP008955.1/22978812297982/3-83             --CTTATCCAGAGAGCA-GAGGGA-TGGCCTGATGAAGCCCGGCAACCGGAA--GGTGCCAATTCCAGCAAC---TACGT.TGAAAGATAA---
+#=GR USER>>AP008955.1/22978812297982/3-83     PP ..78999*****99765.566665.899********************9986..89*********9888876...69***.*****99876...
+USER>>CP002207.1/16568411656750/5-74             ----TATCAAGAGA-GTGGAGGGACTGGCCCCATGAAACCCGGCAACA------TGTGCCAATTCCAGCAACGTA-----.TGAAAG-------
+#=GR USER>>CP002207.1/16568411656750/5-74     PP ....7999****98.599**************************9985......479**********99988765......455555.......
+USER>>CP000002.3/17357231735829/3-77             --CTTATCAAGAGCGGTGGAGGGA-TGGTCCGATGAAACCCGGCAACCTG----GGTGCTACTTCCAGCA------ATGC.TGAGAGAT-----
+#=GR USER>>CP000002.3/17357231735829/3-77     PP ..799****************998.78999*****************987....89*******9998876......4555.66666655.....
+USER>>CP002171.1/20939802094082/3-80             --CTTATCCAGAG-GGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGGA-CGGGTGCCAATTCCTGCGGTT------A.TGAGAGATG----
+#=GR USER>>CP002171.1/20939802094082/3-80     PP ..68999999998.789*****998.789*****************99876.6799**********9986543......3.455555555....
+USER>>AFWM01000152.1/1775717863/2-68             -GCTTATCAAGAGAGG-GGAGGGACTGGCCCGAGGAAACCCAGCAAC-AG-ATTTGTGCTAATTCCAGCAA---------.-------------
+#=GR USER>>AFWM01000152.1/1775717863/2-68     PP .699**********87.789************************997.55.56779**********99874.......................
+USER>>BABF01000308.1/89148823/4-70               ---TTATCAAGAGT-ATGGAGGGACTGGCCCTATGAAATCCGGCAACCA---TTGGTGCTAAATCCTGCGGTGC------.-------------
+#=GR USER>>BABF01000308.1/89148823/4-70       PP ...68999999986.699*****************************96...69**************988764....................
+USER>>ACSJ01000001.1/215113215214/3-70           --CTTATCAAGAGAG-TGGAGGGAA-GGCCCTGTGAAACCCGGCAACCAGTA--GGTGCTAATTCCTGCAGTTT------.-------------
+#=GR USER>>ACSJ01000001.1/215113215214/3-70   PP ..799********95.899999985.7889999****************986..89*************98654....................
+USER>>AM295250.1/465274465380/3-86               --CTTATCAAGAGAGGTGGAGGGAGTGCC-CTGCGAAACCCGGCAACC-GTTTTGGTGCCAATTCACAAAATTGAACC-T.TG-AAGATGA---
+#=GR USER>>AM295250.1/465274465380/3-86       PP ..789*******************99755.55689**********998.6789***********98877777766544.4.44.3456655...
+USER>>CP001078.1/502175502276/3-70               --CTTATCGAGAGA-GTGGAGGGAAGGGCCCTGTGAAACCCGGCAACCTGA---GGTGCCAATTCCTGTAGATG------.-------------
+#=GR USER>>CP001078.1/502175502276/3-70       PP ..789999999998.599******************************997...799**********9998655....................
+USER>>CP002050.1/27441232744015/3-83             --CTTATCAAGAGCGGCGGAGGGACA-GCCCAATGAAGCCCGGCAACCGGT-GGGGTGCTAATTCTTGCAG--GAAACGT.-GAGAGAT-----
+#=GR USER>>CP002050.1/27441232744015/3-83     PP ..79********************97.68899**************99775.5799*************95..7888875..5556655.....
+USER>>CP002118.1/11291711129275/3-79             --CTTATCAAGAGAG-TGGAGGGACCGGCCCTGTGAAGCCCAGCAACCTG----GGTGCTAATTCCTGCAGCT------A.TGAGAGATGA---
+#=GR USER>>CP002118.1/11291711129275/3-79     PP ..799********95.99*****************************987....89*************9975......4.5566666655...
+USER>>AFCE01000141.1/990710018/3-74              --CTTATCCAGAG-GGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCGC-AGAGGTGCCAATTCCTGCGAATGTAA---.-------------
+#=GR USER>>AFCE01000141.1/990710018/3-74      PP ..78999999998.789*****998.789*****************9855.56699***********9865444333.................
+USER>>CP002017.1/626670626780/3-70               --CTTATCGAGAG-GGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCACG-CCGGTGCCAATTCCTGCAGCC-------.-------------
+#=GR USER>>CP002017.1/626670626780/3-70       PP ..68999999987.689*****998.789******************9965.689**************9974.....................
+USER>>ACVI01000030.1/4402144132/3-82             --CTTATCCAGAGA-GTGGAGGGACTGGCCCTGTGAAGCCCAACAACCGG--ATGGTGTTAATTCCTGCAGTATAGTT-C.TGGAAG-------
+#=GR USER>>ACVI01000030.1/4402144132/3-82     PP ..68999*****98.599******************************98..59***************997654433.3.344445.......
+USER>>CP002906.1/14043791404479/3-82             --CTTATCAAGAGCGGCAGAGGGACA-GCCCGATGAAGCCCGGCAACCG--ATAGGTGCTAATTCTTGCAGAG----CGG.TGAGAGATA----
+#=GR USER>>CP002906.1/14043791404479/3-82     PP ..799*******************97.6899***************995..45699*************9854....667.777777665....
+USER>>CP003056.1/18442321844126/3-69             --CTTATCAAGAGAGG-GGAGGGACTGGCCCGAGGAAACCCAGCAAC-AG-ATTTGTGCTAATTCCAGCAAG--------.-------------
+#=GR USER>>CP003056.1/18442321844126/3-69     PP ..799*********87.789************************997.55.56779**********998743......................
+USER>>AFPZ01000107.1/96079502/3-86               --CTTATAAAGAGTGGTGGAGGGAAGTGCCCTATGAAGCCCGGCAACC-GTCATGGTGCCAAGTCACTCAACGAAT---C.TGACAGATGA---
+#=GR USER>>AFPZ01000107.1/96079502/3-86       PP ..7899***************************************998.6789************99999987554...4.6777777776...
+USER>>ABCF01000025.1/3610436003/3-71             --CTTATCAAGAGCGGCGGAGGGAC-GGCCCTATGATGCCCGGCAACCG--ATTGGTGCTAATTCTTGCAGGTT------.-------------
+#=GR USER>>ABCF01000025.1/3610436003/3-71     PP ..789******************98.78999***************995..789***************97443....................
+USER>>AE017333.1/14897051489804/3-69             --CTTATCAAGAGCGGCAGAGGGACA-GCCCGATGAAGCCCGGCAACCG--ATTGGTGCTAATTCTTGCAGG--------.-------------
+#=GR USER>>AE017333.1/14897051489804/3-69     PP ..799*******************97.6899***************995..789**************9973......................
+USER>>AP006716.1/21001772100072/3-67             --CTTATCAAGAGAGGTGGAGGGAGTG-CCCTATGAAGCCCGGCAACC-GTTAGGGTGCCAATTCACAT-----------.-------------
+#=GR USER>>AP006716.1/21001772100072/3-67     PP ..799*******************985.7889**************98.567889********986554.........................
+USER>>AAWL01000001.1/327573327687/4-83           ---TCATCAAGAGCGGCTGAGGGAC-GGCCCGATGACGCCCGGCAACCAGCA--GGTGCCAATTCCTGCAGACG----GA.TGACAGATGA---
+#=GR USER>>AAWL01000001.1/327573327687/4-83   PP ...6799****************98.7899*******************986..89*************98654....45.7788888776...
+USER>>ACPC01000012.1/127975128088/3-84           --CTTATCCAGAGTACT-GAGGGATAGGCCCGATGAAGTCCGGCAACCTTGA--GGTGCTAATTCCTGCAGCGA---AGT.TGAGAGATAA---
+#=GR USER>>ACPC01000012.1/127975128088/3-84   PP ..688999999998765.6999*************************98654..89***************985...478.8888888765...
+USER>>AFRV01000002.1/7279072680/3-84             --CTTATCAAGAGT-GTGGAGGGACTGGCCCGAAGAAACCCGGCAACCCCG--AGGTGCTAAATCCAGCAGACACATAAT.TGGCAGA------
+#=GR USER>>AFRV01000002.1/7279072680/3-84     PP ..799*******97.69*****************************99765..489*********999988665555555.6655555......
+USER>>ACJM01000007.1/187781187679/3-81           --CTTATCGCGAGA-GTGGAGGGACTGGCCCTGTGAAGCCCGGCAACCC----AGGTGCCAATTCCTGCAG---TAACTC.TGGGAGATA----
+#=GR USER>>ACJM01000007.1/187781187679/3-81   PP ..688999999998.599****************************985....589***********9986...467777.777777665....
+USER>>AGAV01000005.1/8171181818/3-80             --CTTATCCAGAGA-GTGGAGGGATTGGCCCGCTGAAGCCCGGCAAC-AG-ATTTGTGCCAATTCCATCATCA-----AT.TGAAAGAT-----
+#=GR USER>>AGAV01000005.1/8171181818/3-80     PP ..68999*****98.599**************************997.55.56779*********99888763.....36.67777766.....
+USER>>AP009484.1/256120256222/3-67               --CTTATCCAGAGAGGTGGAGGGAA-GGCCCTATGAAACCCGGCAGC-----AGTGTGCCAATTCCTGCAACA-------.-------------
+#=GR USER>>AP009484.1/256120256222/3-67       PP ..799****************9985.8999*************9865.....34689***********98762.....................
+USER>>ADEK01000040.1/107609107502/3-78           --CTTATCCAGAGT-GCGGAGGGACTGGCCCTGTGAAGCCCGACAACCAG--ATGGTGTTAATTCCAGCAGAAA------.-GAAAGAT-----
+#=GR USER>>ADEK01000040.1/107609107502/3-78   PP ..689999999997.5799*****************************98..59***********998887543........3444444.....
+USER>>CP000232.1/20704622070570/3-69             --CTTATCGAGAGCGGCGGAGGGAC-GGCCCGATGAAGCCCGGCAACCGG---CGGTGCCAATTCCTGCAGTT-------.-------------
+#=GR USER>>CP000232.1/20704622070570/3-69     PP ..799******************98.7899*****************987...699*************9863.....................
+USER>>CP000875.1/10610861061193/3-82             --CTCATCCAGAGGGGTGGAGGGATCGGCCCTATGAAACCCGGCAACCGCCAGAGGTGCTAAGTCCGACAGTC------A.TGGAAGAT-----
+#=GR USER>>CP000875.1/10610861061193/3-82     PP ..678999********************************************************998887642......2.44445555.....
+USER>>AAOX01000014.1/1206412163/3-81             --CTTATCCAGAGAG-TAGAGGGACTGGCCCTATGACACCCGGCAGCG----GACGTGCCAATTCCAGCAGCAGA----T.TGAAAGATAA---
+#=GR USER>>AAOX01000014.1/1206412163/3-81     PP ..7899******996.789************************98653....34689**************9886....7.8999988865...
+USER>>CP000764.1/21733862173282/3-81             --CTTATCTCGAGA-GTGGAGGGACTGGCCCTATGAAGCCCGGCAGC--GGATTTGTGCCAATTCCAGCAAT----AATA.TGAAAGAT-----
+#=GR USER>>CP000764.1/21733862173282/3-81     PP ..678899999998.599**************************987..6788999*********9998743....3344.56666665.....
+USER>>AFVQ01000464.1/197/4-69                    ---------------GCGGAGGGAC-GGCCCGATGAAACCCGGCAACCA---ATGGTGCCAATTCCTGCAGTCCAAAG--.TGAGAGA------
+#=GR USER>>AFVQ01000464.1/197/4-69            PP ...............6788888887.789*****************995...8*****************99877764...4444444......
+USER>>ACMJ01000052.1/58845783/3-79               --CTTATCACGAGAGT-TGAGGGACTGGCCCTATGACACCCGGCAGC--GGATTTGTGCCAATTCCAGCAA------GTA.TGAAAGAT-----
+#=GR USER>>ACMJ01000052.1/58845783/3-79       PP ..7899*******975.579************************987..6788999*********998863......334.55666655.....
+USER>>ACDK01000045.1/39223825/3-69               --CTTATTAAGAGT-GTGGAGGGACTGGCCCTTTGAAACCCAGCAACCTG--TTGGTGCTAAATCCTACAGT--------.-------------
+#=GR USER>>ACDK01000045.1/39223825/3-69       PP ..688999999986.69*******************************98..59*************99985......................
+USER>>CP000612.1/28728942873007/3-86             --CTTATCCAGAGAGCT-GAGGGACTGGCCCTGAGACGCCCGGCAACCTT--AGGGTGCTAATTCCTGCAGGA-ATAATC.TGAAAGATAA---
+#=GR USER>>CP000612.1/28728942873007/3-86     PP ..6899*******9877.699**************************975..679**************9854.455567.8999998866...
+USER>>ACRM01000024.1/178554178450/3-70           --CTTATCGAGAGAGGTGGAGGGAGTG-CCCTACGAAGCCCGGCAACC-GTTATGGTGCCAATTCACATAAT--------.-------------
+#=GR USER>>ACRM01000024.1/178554178450/3-70   PP ..789*******************985.7889*************998.6789**********997655544......................
+USER>>CP001878.2/13527491352852/3-75             --CTTATCAAGAGCGGCGGAGGGACAG-CCCAGTGAAGCCCGGCAACCGGTGA-GGTGCTAATTCTTGCAGATTATT---.-------------
+#=GR USER>>CP001878.2/13527491352852/3-75     PP ..799*******************975.677789*************988765.89*************98765543.................
+USER>>AGAV01000018.1/311513311411/3-74           --CTTATCCAGAGA-GTGGAGGGACTGGCCCTGTGAAGCCCGGCAAC-AGAT-CTGTGCCAATTCCAGTAACGTCAT---.-------------
+#=GR USER>>AGAV01000018.1/311513311411/3-74   PP ..689999****98.599**************************996.6665.5579*********99998876654.................
+USER>>CP000817.1/560536560639/3-85               --CTTATGAAGAGCGGCGGAGGGAAGTGCCCTATGAAGCCCGGCAACCA--TATGGTGCCAAATCACC----CAAATTTC.TGAAAGATGAG--
+#=GR USER>>CP000817.1/560536560639/3-85       PP ..7899*****************************************97..579********997554....45777888.99999999876..
+USER>>FR870271.1/424921425027/3-71               --CTTATCAAGAGTGGTGGAGGGAGTG-CCCTATGAAGCCCGGCAACC-GTAGTGGTGCCAAGTCACATAATT-------.-------------
+#=GR USER>>FR870271.1/424921425027/3-71       PP ..799*******************985.7889*************998.6789********999876555444.....................
+USER>>AP008955.1/471834471949/3-68               --CTTATCAAGAGAG-CGGAGGGAC-GGCCCTATGAAGCCCGGCAGCCGG--ATGGTGCCAATTCCTACAGT--------.-------------
+#=GR USER>>AP008955.1/471834471949/3-68       PP ..799********96.789999997.78999*****************88..59*************99985......................
+USER>>AFVQ01000227.1/1236112477/4-81             ---CTATCCAGAGTGATGGAGGGA-TGGCCCGATGACATCCGGCAACCTGCA-GGGTGCTAATTCCAGCAATGGT----C.TGAAAGA------
+#=GR USER>>AFVQ01000227.1/1236112477/4-81     PP ...58999*************998.799********************9975.799************9988774....3.5566555......
+USER>>AAXV01000011.1/3044330546/3-68             --CTTATCAAGAGAA-TGGAGGGACTGGCCCGATGAAATCCGGCAGCG--GAA-TGTGCCAAATCCAGCAAC--------.-------------
+#=GR USER>>AAXV01000011.1/3044330546/3-68     PP ..799*******985.89**************************9874..334.4799*******9998765......................
+USER>>AEPB01000017.1/2659726493/3-86             --CTTATTAAGAGCGGTGGAGGGAAGTGCCCTATGAAGCCCGGCAACCGT-TGAGGTGCCAAGTCACTCAACGAAAC---.TGACAGATGA---
+#=GR USER>>AEPB01000017.1/2659726493/3-86     PP ..799*****************************************9865.56699**********99999987663....6777777776...
+USER>>CP002508.1/19569971957102/3-75             --CTTATTAAGAGA-GTGGAGGGACTGGCCCTTCGAAGCCCAGCAACCT--ATTGGTGCTAAATCCTGTAGTCTAAAA--.-------------
+#=GR USER>>CP002508.1/19569971957102/3-75     PP ..689999****98.599*****************************95..789**************9998777665................
+USER>>ABFT01000060.1/221461221569/3-87           --CTTATTACGAGAGGTGGAGGGAAGTGCCCTGCGAAGCCCGGCAACC-GTTCTGGTGCCAATTCACTCAACT---ATAC.TGAAAGATGAG--
+#=GR USER>>ABFT01000060.1/221461221569/3-87   PP ..6899***************************************998.6789************99998875...4556.89999999876..
+USER>>AFRV01000006.1/307921307822/3-82           --CTTATCTAGAGAG-CGGAGGGA-TGGCCCGAAGATGCCCGGCAACCG---AAGGTGCCAATTCCAGCAGCTGT---TT.TGAAAGATAA---
+#=GR USER>>AFRV01000006.1/307921307822/3-82   PP ..7899******996.68888887.799******************995...5599**************99875...58.8999998866...
+USER>>ACWD01000008.1/1743317330/3-71             --CTTATCAAGAGCGGCGGAGGGACA-GCCCTATGAAGCCCGGCAACCG--ATAGGTGCTAAATCTTGCAGTAT------.-------------
+#=GR USER>>ACWD01000008.1/1743317330/3-71     PP ..799*******************97.58899**************995..45699*************98643....................
+USER>>CP002160.1/32618853261782/3-83             --CTTATCAAGAGTG-CGGAGGGA-TGGCCCAAAGATGCCCGGCAACCA--AATGGTGCCAAATCCAGCAGCTGAAG---.TGAGAGATGA---
+#=GR USER>>CP002160.1/32618853261782/3-83     PP ..799******9975.68888887.799*******************96..89********************9986....5566677665...
+USER>>CP000560.1/20017992001707/5-75             ----TATCCAGAGA-GTGGAGGGACTGGCCCTACGAAACCCGGCAACA------TGTGCCAATTCCAGCAACGTA-----.TGAAAGA------
+#=GR USER>>CP000560.1/20017992001707/5-75     PP ....7889999998.599**************************9985......479**********99988765......4555555......
+USER>>BA000004.3/910192910088/3-83               --CTTATCCAGAGT-GTGGAGGGA-TGGCCCTGTGAAGCCCGGCAACCT--CTTGGTGCCAATTCCAGCAGCA---TGAT.TGAAAGATAA---
+#=GR USER>>BA000004.3/910192910088/3-83       PP ..689999999986.689999987.78999999**************97..579***********99999875...4558.8999998866...
+USER>>CP000904.1/5313253239/3-83                 --CTTATCCAGAGA-GTGGAGGGACTGGCCTTATGAAACCCAGCAACAGGG--CTGTGCTAATTCCAGCGGTGATA----.TGATAGATGA---
+#=GR USER>>CP000904.1/5313253239/3-83         PP ..7899******98.599***************************986654..4589********98887765433.....5666666665...
+USER>>AFRV01000003.1/301893302003/3-75           --CTTATCAAGAGTGGCTGAGGGA-TGGCCCGATGACGCCCGGCAACCT-ATCTGGTGCTACCTCCTGCAGATGAGA---.-------------
+#=GR USER>>AFRV01000003.1/301893302003/3-75   PP ..689***************9998.799******************986.7899***************99876654.................
+USER>>CP000813.1/13130681313169/3-70             --CTTATCAAGAGTGGCAGAGGGACA-GCCCAATGAAGCCCGGCAACCG--ATCGGTGCTAATTCTTGCAGAG-------.-------------
+#=GR USER>>CP000813.1/13130681313169/3-70     PP ..799*******************97.68899**************995..6789**************9865.....................
+USER>>BA000028.3/27086452708539/3-83             --CTTATCATGAGAG-CGGAGGGAATGGCCCAACGAAACCCGGCAACAG---GTTGTGCCAATTCCATCAAC---AAATT.TGAAAGATAA---
+#=GR USER>>BA000028.3/27086452708539/3-83     PP ..7899******996.799**************************9855...57899********9888876...55678.8888888755...
+USER>>CP002478.1/19925701992461/3-88             --CTTATCCAGAGTGGCGGAGGGAGTG-CCCTATGAAGCCCGGCAACC-GTTATGGTGCCAATTCACATAACAACGATTC.TTGAAGATGA---
+#=GR USER>>CP002478.1/19925701992461/3-88     PP ..6899******************985.7889*************998.6789***********9877776655445555.5555666665...
+USER>>CP001176.1/182705182810/3-84               --CTTATCCAGAGAG-TAGAGGGACTGGCCCTATGACACCCAGCAACGGGT--GCGTGCTAATTCCAGCAAC----AAGT.TGAAAGATAAG--
+#=GR USER>>CP001176.1/182705182810/3-84       PP ..7899******996.789***************************97664..5689*********999865....7799.9*999998765..
+USER>>AAOX01000006.1/9673796624/3-85             --CTTATCAAGAGAGC-AGAGGGTATGGCCCTGTGAAGCCCAGCAACCTT--TGGGTGCTAATTCCTGCAGCCTTTATGT.-GAAAGATA----
+#=GR USER>>AAOX01000006.1/9673796624/3-85     PP ..789********975.67999999**********************975..5699***************998888774..77777775....
+USER>>AAXV01000033.1/36903784/3-71               --CTTATCAAGATA-GTGGAGGGACTGGCCCAATGAAGCCCGGCAACCGAA----GTGCCACTTCCAACCGTGTAT----.-------------
+#=GR USER>>AAXV01000033.1/36903784/3-71       PP ..789******988.59*****************************99643....789999999998777766543..................
+USER>>AP009484.1/577447577549/3-68               --CTTATCAAGAGAGGTGGAGGGAGTG-CCCTTTGAAGCCCGGCAACCGT-TGAGGTGCCAATTCACATA----------.-------------
+#=GR USER>>AP009484.1/577447577549/3-68       PP ..789*******************986.77889*************9865.55689*******9876554........................
+USER>>AEQA01000008.1/4450344395/3-66             --CTTATCGAGAGAGGTGGAGGGAGTGCC-CTGCGAAGCCCGGCAACC-GTTATGGTGCCAATTCACA------------.-------------
+#=GR USER>>AEQA01000008.1/4450344395/3-66     PP ..789*******************99765.55689**********998.6789**********98654..........................
+USER>>ACLY01000020.1/3113031025/2-81             -TCTTATCAAGAGCGGTGGAGGGAT-AGCCCTACGAAG-CCGGCAACC-GACATGGTGCTAATTCTTACA-----AACGTcTGAAAGAT-----
+#=GR USER>>ACLY01000020.1/3113031025/2-81     PP .589******************995.678888998765.679999987.899*************99886.....44444266777766.....
+USER>>AFRV01000005.1/1053710430/4-83             ---TCATCAAGAGT-GTGGAGGGA-TGGCCCGACGAAGCCCGGCAACCGG--ATGGTGCTAAATCCTGCAGTCCGCAAG-.TGAGAGAT-----
+#=GR USER>>AFRV01000005.1/1053710430/4-83     PP ...67899999986.689999987.799********************98..59***************9865444333..34555555.....
+USER>>AEPB01000001.1/120057119948/3-81           --CTTATTTAGAGCGGTGGAGGGACA-GCCCTATGATAC-CGGCAACCGGC-AGGGTGCTAATTCTTGCAGAG-AAACAA.TGAGA--------
+#=GR USER>>AEPB01000001.1/120057119948/3-81   PP ..789999****************97.578899*99886.69999999775.6799**************975.556666.66554........
+USER>>AFGF01000017.1/7577575670/4-80             ---TCATCAAGAGTGGCTGAGGGAC-GGCCCGATGACGCCCGGCAACCAGCA--GGTGCCAATTCCATCAGGATGACAGA.TGA----------
+#=GR USER>>AFGF01000017.1/7577575670/4-80     PP ...6799****************98.7899*******************986..89**********99987554444444.444..........
+USER>>AP008934.1/19486471948540/3-86             --CTTATCACGAGAGGTGGAGGGAGTG-CCCTTTGAAGCCCGGCAACC-GTTGTGGTGCCAATTCACATAATTCATAGAC.TAGAAGAT-----
+#=GR USER>>AP008934.1/19486471948540/3-86     PP ..789*******************986.77889************998.67889*********99776665555555445.55555555.....
+USER>>CP003056.1/10859011085797/3-79             --CTTATCAAGAGAG-TGGAGGGAAGGGCCCTGTGAAGCCCGGCAGCAGG-GAT-GTGCCAATTCCTGCAGGGT-----G.TGAAAGA------
+#=GR USER>>CP003056.1/10859011085797/3-79     PP ..799********95.99**************************987555.444.79************98653.....2.4555555......
+USER>>CP001615.1/14044521404553/3-78             --CTTATCAAGAGCGACGGAGGGACA-GCCCGATGATGTCCAGCAACC-GAAGAGGTGCTAATTCTTGCAGT---AACGT.-GAG---------
+#=GR USER>>CP001615.1/14044521404553/3-78     PP ..799*******************97.6899**************987.678889************99874...55553..444.........
+USER>>CP002394.1/36963823696273/3-80             --CTTATCCAGAGAG-TGGAGGGCCGG---CGATGAAAC-CGGCAACCAGCGTTGGTGCCAATTCCTACA------AAGC.TGAAAGATGAG--
+#=GR USER>>CP002394.1/36963823696273/3-80     PP ..7899******985.89999887754...799*99886.799***********************9985......5678.89999998875..
+USER>>AP006627.1/951406951512/3-83               --CTTATCAAGAGGA-CTGAGGGATAGGCCCAATGACGTCCAGCAACCT----CGGTGCCAATTCCTGCAGTGG----GC.TGAAAGATAAGC-
+#=GR USER>>AP006627.1/951406951512/3-83       PP ..799*****99865.5579*************************9985....79****************998....68.999999998887.
+USER>>AFCE01000152.1/1685016740/3-68             --CTTATCAAGAG-GGCGGAGGGAC-GGCCCGATGAAGCCCGGCAACC-GCAGCGGTGCCAATTCCTGCGA---------.-------------
+#=GR USER>>AFCE01000152.1/1685016740/3-68     PP ..799******98.67899999997.789****************998.66789*************9843.......................
+USER>>CP001878.2/14614621461564/3-69             --CTTATCAAGAGAA-CGGAGGGAATGGCCCGATGAAGTCCAGCAACCAG---TGGTGCTAATTCCACCAATG-------.-------------
+#=GR USER>>CP001878.2/14614621461564/3-69     PP ..799*******996.799****************************987...89**********98776554.....................
+USER>>ACLP01000020.1/7176471658/3-64             --CTTATCAAGAGTGGTGGAGGGAGTG-CCCTACGAAACCCAGCAACC-GTATTGGTGCTAATTCA--------------.-------------
+#=GR USER>>ACLP01000020.1/7176471658/3-64     PP ..689*******************986.7889*************998.67899*******99974............................
+USER>>AETN01000422.1/28952790/3-64               --CTTATCGAGAGTGGTGGAGGGAGTG-CCCTACGAAACCCGGCAACC-GTTGTGGTGCCAATTCA--------------.-------------
+#=GR USER>>AETN01000422.1/28952790/3-64       PP ..6899******************985.7889*************998.67889********9985............................
+USER>>AAOX01000014.1/1229112393/3-69             --CTTATCCAGAGAG-CAGAGGGACTGGCCCAATGAAGCCCGGCAGCG---GATTGTGCCAATTCCAGCAGTG-------.-------------
+#=GR USER>>AAOX01000014.1/1229112393/3-69     PP ..7899******997.5689************************9874...57899*************9976.....................
+USER>>CP000448.1/16531651653067/3-67             --CTTATCCAGAG-GGTGGAGGGAC-GGCCCGATGAAACCCGGCAACCG----CGGTGCCAAATCCTGCAGGG-------.-------------
+#=GR USER>>CP000448.1/16531651653067/3-67     PP ..78999999998.789*****998.789*****************995....79**************9854.....................
+USER>>AM295250.1/22248792224773/3-68             --CTTATCCAGAGAGGTGGAGGGAA-GGCCCTACGAAACCCGGCAGC-----AGTGTGCCAATTCCTACAGGAG------.-------------
+#=GR USER>>AM295250.1/22248792224773/3-68     PP ..799****************9985.8999*************9865.....34689**********9997533....................
+USER>>AP008955.1/459256459150/4-84               ---TCATCAAGAGC-GTGGAGGGA-AGGCCCTACGAAGCCCGGCAACCAGA--CGGTGCCAATTCCTGCAGTCCA--GTG.TGAGAGATGA---
+#=GR USER>>AP008955.1/459256459150/4-84       PP ...56789999986.689999998.58999******************986..79**************987543..334.5666666665...
+USER>>ACML01000054.1/2456124460/3-71             --CTTATCAAGAG-GGTGGAGGGAC-GGCCCTACGAAACCCGGCAACCC---CTGGTGCTAATTCCTGC---GTAAACG-.-------------
+#=GR USER>>ACML01000054.1/2456124460/3-71     PP ..689******98.789******98.78999***************996...69***********9975...5666654...............
+USER>>CP000922.1/21388232138924/2-65             -TCTTATCGAGAGAGG-GGAGGGACTGGCCCGATGAACCTCAGCAACC-----TGGTGCTAAGTCCAGCAA---------.-------------
+#=GR USER>>CP000922.1/21388232138924/2-65     PP .589*********987.789*************************998.....689********9998863.......................
+USER>>AE015929.1/588095588197/3-64               --CTTATCGAGAGAGGTGGAGGGAGTG-CCCTAAGAAGCCCGGCAACCGT-TAAGGTGCCAATTCA--------------.-------------
+#=GR USER>>AE015929.1/588095588197/3-64       PP ..799*******************986.778899************9865.56699******9985............................
+USER>>AGAV01000005.1/4941449527/2-85             -GCTTATCTAGAGGA-CTAAGGGACAGGCCCGATGACGTCCGGCAACCT----CGGTGCCAATTCCTGCAGTAACAGGTT.TGGGAGATAA---
+#=GR USER>>AGAV01000005.1/4941449527/2-85     PP .68999999999855.45799*************************995....79***************9887777777.7777777765...
+USER>>AGTN01491618.1/14235/4-79                  ---TCATCAAGAGAGGCGGAGGGAC-GGCCCCATGATGCCCGGCAACCACAT---GTGCCAACTCCTGCGG---GA---T.CGGAAGATG----
+#=GR USER>>AGTN01491618.1/14235/4-79          PP ...6799****************98.678889****************8764...789*******998743...33...2.334455555....
+USER>>CP002400.1/26713932671496/3-74             --CTTATCAAGAGAGCTG-AGGGA-AGGCCCTGTGAAGCCCGGCAACCTG----GGTGCCAATTCCTGCGGTGGATGTGC.-------------
+#=GR USER>>CP002400.1/26713932671496/3-74     PP ..699*********9886.55555.48899999**************987....89**************9999876554..............
+USER>>AAOX01000055.1/439545/3-74                 --CTTATCGAGAGT-GTGGAGGGACTGGCCCTGTGATACCCGGCAGCCGC--ACGGTGCTAAATCCAGCAACGCAAT---.-------------
+#=GR USER>>AAOX01000055.1/439545/3-74         PP ..689999999986.69****************************99964..689***************9987653.................
+USER>>ACLS01000056.1/2348023585/3-74             --CTTATTAAGAGA-GTGGAGGGACTGGCCCTTCGAAGCCCAGCAACCTT--TGGGTGCTAAATCCTGTAGTCTAAA---.-------------
+#=GR USER>>ACLS01000056.1/2348023585/3-74     PP ..6889999**998.599*****************************975..5699************999876655.................
+USER>>AFHT01000072.1/1077910668/3-70             --CTTATCAAGAG-GGCGGAGGGACA-GCCCGATGAAGCCCGGCAACCCCTC-AGGTGCCAATTCTTGCAGCC-------.-------------
+#=GR USER>>AFHT01000072.1/1077910668/3-70     PP ..799******98.67999****996.6899***************998765.589*************9973.....................
+USER>>CP002927.1/18534881853384/2-77             -GCTTATCAAGAGCGGCTGAGGGACTGGACCGATGACGCCCGGCAACCTG----GGTGCCGCATCCAGAAATGCACA-GT.TG-----------
+#=GR USER>>CP002927.1/18534881853384/2-77     PP .689*******************************************987....78999988888887766654433.44.44...........
+USER>>AM295250.1/18243871824290/2-70             -GCTTATCAAGAGAGGTGGAGTGAAGGGCACTTTGAAGCCCGGCAACATGA----GTGCCAAATCCCATAGGAT------.-------------
+#=GR USER>>AM295250.1/18243871824290/2-70     PP .799******************************************97776....899****999987766444....................
+USER>>AGBY01000087.1/1741817530/3-85             --CTTATTAAGAGTGGTGGAGGGA-TGGCCCTGTGAAAC-CGGCAACCG----CGGTGCTAATTCCTTAAGAGCTGATGT.TTGAAGATAAG--
+#=GR USER>>AGBY01000087.1/1741817530/3-85     PP ..6899***************998.68899999999886.689999985....79****************999999999.99999998775..
+USER>>CP000724.1/40045494004448/3-84             --CTTATCAAGAGAACT-GAGGGACTGGCCCGATGATGTTCAGCAACCA---CTGGTGCTAAATCCAGCAACA--TAGTT.TGGGAGATGA---
+#=GR USER>>CP000724.1/40045494004448/3-84     PP ..789********9877.699*************************996...69*************999874..44556.7777777776...
+USER>>CP000764.1/196943197052/3-85               --CTTATCCAGAGAG-TAGAGGGACTGGCCCTATGAAACCCAGCAGCGGGT--GCGTGCTAATTCCAGCAAC--AACCAA.TGAAAGATAA---
+#=GR USER>>CP000764.1/196943197052/3-85       PP ..7899******996.789*************************9987664..5689**********99987..567778.8888888765...
+USER>>ABIL02000006.1/144101144004/3-83           --CTTATTTAGAGCGGTGGAGTGAAAGGCACTATGAAACCCGGCAACCGG----GGTGCTAATACCTACGG----ATTTT.CGAATGATGAG--
+#=GR USER>>ABIL02000006.1/144101144004/3-83   PP ..6899999**************************************987....89*********998744....44566.77777777765..
+USER>>ACWD01000020.1/9644696347/3-78             --CTTATCCAGAGAGT-TGAGGGACTGGCCCTATGACACCCGGCAGCG----GACGTGCCAAATCCAGCAACGTA-----.TGAAAGAT-----
+#=GR USER>>ACWD01000020.1/9644696347/3-78     PP ..7899*******975.579***********************98653....346899*********99988765......56666666.....
+USER>>CP002582.1/136018135919/2-82               -GCTTATCACGAGTG-CGGAGGGA-TGGCCCTATGAAGCCCGGCAACCTGAA--GGTGCCAAATCCAACA---GAAAC--.TGGAAGATGAG--
+#=GR USER>>CP002582.1/136018135919/2-82       PP .6899****999975.68888887.799********************9986..89*******9987665...45654...67777887775..
+USER>>AFRV01000006.1/196322196427/3-82           --CTTATCAAGAGAG-CGGAGGGACTGGCCCTTTGATGCCCGGCAGCG---GAGTGTGCCAAATCCAGCAACA-----TG.TGAAAGATGAG--
+#=GR USER>>AFRV01000006.1/196322196427/3-82   PP ..799********96.799*************************9874...345689********99997653.....34.68888888775..
+USER>>ACVI01000030.1/3684536950/3-66             --CTTATCAAGAGAG-TGGAGGGATTGGCCCTTTGAAGCCCGGCAGCG---GATTGTGCCAAATCCAACA----------.-------------
+#=GR USER>>ACVI01000030.1/3684536950/3-66     PP ..799********95.99**************************9874...57889******99987665........................
+USER>>CP002160.1/42515504251652/3-85             --CTTATCAAGAGAACT-GAGGGACTGGCCCTATGACGTTCAGCAACCA--TTTGGTGCTAAATCCAGCATTTAA---AT.TGAGAGATGAG--
+#=GR USER>>CP002160.1/42515504251652/3-85     PP ..899********9877.699**************************97..579***********9998876544...47.88888888875..
+USER>>AP006627.1/604071603968/3-70               --CTTATTAAGAG-GGCAGAGGGACTGGCCCAATGATGCTCAGCAACCC--CATGGTGCTAATTCCAGCAACT-------.-------------
+#=GR USER>>AP006627.1/604071603968/3-70       PP ..68999999998.56789****************************97..579************9998764.....................
+USER>>ACXJ01007534.1/571674/5-72                 ----TATCACGAGCGGCGGAGGGA-TGGCCCGATGAAGCCCGGCAACTCG----GGTGCCACATCCTGCAGCTGAGA---.-------------
+#=GR USER>>ACXJ01007534.1/571674/5-72         PP ....899*************9998.799******************9876....89***************998865.................
+USER>>AERA01032858.1/192293/3-73                 --CTTATCAAGAGAGGC-GAGGGACTGGCCTGTTGACCCTCAGCAACC-----TGGTGCTAAATCCAGCATCCT------.-GAAAG-------
+#=GR USER>>AERA01032858.1/192293/3-73         PP ..799*********997.699************************998.....789**********99987643........33333.......
+USER>>ACKP02000011.1/5580255906/3-67             --CTCATCAAGAGC-GTGGAGGGAC-GGCCCTATGAAACTCGGCAACCGGG--CGGTGCCAATTCCTATAG---------.-------------
+#=GR USER>>ACKP02000011.1/5580255906/3-67     PP ..578999999996.6999***998.78999*****************985..79***********98776.......................
+USER>>FR821777.2/854859854962/3-66               --CTTATCGAGAGTGGTGGAGGGAGTG-CCCTACGAAGCCCGGCAACCGT-TTAGGTGCCAATTCACA------------.-------------
+#=GR USER>>FR821777.2/854859854962/3-66       PP ..6899******************985.7889**************9865.56699******998654..........................
+USER>>CP002160.1/13062151306317/3-85             --CTTATCAAGAGAGC-CGAGGGACTGGCCCTAAGACGTTCAGCAACCA--CTTGGTGCTAAATCCAGCAT---TAAATT.TGAGAGATGAG--
+#=GR USER>>CP002160.1/13062151306317/3-85     PP ..689********976.579***************************97..579*********99877765...577789.99999999986..
+USER>>ABQM01000007.1/610977611082/3-78           --CTTATCAAGAGCGGCTGAGGGA-TGGACCTATGAAGCCCGGCAACCTG----GGTGCTACTTCCAGCAATG-----AC.TGAAAGAT-----
+#=GR USER>>ABQM01000007.1/610977611082/3-78   PP ..799****************998.6888999***************987....89*********99987654.....34.56666665.....
+USER>>ACMR01000147.1/9627896172/3-79             --CTTATCAAGAG-GATGGAGGGAC-GGCCCGATGAAATCCAGCAACAGG----TGTGCTAATTCCAGCAACGTAG----.TGGAAGATG----
+#=GR USER>>ACMR01000147.1/9627896172/3-79     PP ..7999***9997.67999*99997.789***************998554....589***********99888663.....445556665....
+USER>>CP002660.1/19779691978069/3-80             --CTTATCAAGA-AGGTGGAGGGAC-GGCCCTATGAAGCCTGACAACCGG----GGTGTTAATTCCTGCAAA--ACTTAT.TGAAAGAT-----
+#=GR USER>>CP002660.1/19779691978069/3-80     PP ..6899999997.899*******98.78999****************987....89************9843..233446.77777776.....
+USER>>AFVQ01000058.1/85088405/3-69               --CTTATCAAGAGGGG-GGAGGGAC-GGTCCAATGAACCCCGACAACCAGA-TTGGTGTCACATCCAGCAGT--------.-------------
+#=GR USER>>AFVQ01000058.1/85088405/3-69       PP ..799*****998655.78999987.678899*****************96.699**********9999885......................
+USER>>AEFY01000007.1/4891949024/3-68             --CTTATCAAGAGCGGCTGAGGGA-TGGACCTATGAAGCCCGGCAACCTG----GGTGCTACTTCCAGCAATG-------.-------------
+#=GR USER>>AEFY01000007.1/4891949024/3-68     PP ..799****************998.6888999***************987....89*********99987554.....................
+USER>>AGAV01000005.1/5128851383/3-64             --CTTATCCAGAGAG-CGGAGGGACTGGCCCATTGAAACCCAGCAAC-AGA---TGTGCTAATTCCAGA-----------.-------------
+#=GR USER>>AGAV01000005.1/5128851383/3-64     PP ..68999*****996.799************************9986.443...4789999*9998653.........................
+USER>>ABCF01000005.1/9696297063/3-79             --CTTATCAAGAGAG-CAGAGGGACTGGCCCTATGAAGCCCGGCAGCG----GACGTGCCAAATCCAGCAACA-----AC.TGAGAGATG----
+#=GR USER>>ABCF01000005.1/9696297063/3-79     PP ..79*********97.5689***********************98653....346899******999887552.....23.556666665....
+USER>>AGHO01000382.1/39714084/3-67               --CTTATCAAGAGAG-TAGAGGGAATGGCCCAGCGAAACCCAGCAACCTTTA--GGTGCTAATTCCATCA----------.-------------
+#=GR USER>>AGHO01000382.1/39714084/3-67       PP ..7899*******96.789****************************98755..89*******9987665........................
+USER>>ACZM01000015.1/166913166804/4-67           ---TCATCCAGAGC-GTGGAGGGA-AGGCCCGATGAAGCTCGGCAACCAGC--GGGTGCCAATTCCTTTAG---------.-------------
+#=GR USER>>ACZM01000015.1/166913166804/4-67   PP ...67788888876.689999988.589********************986..69***********98875.......................
+USER>>CP001022.1/448917448816/3-71               --CTTATCAAGAGCGACGGAGGGACA-GCCCTACGATGTCCAGCAACCG--AACGGTGCTAATTCTTGCAGATT------.-------------
+#=GR USER>>CP001022.1/448917448816/3-71       PP ..799*******************97.5788999************995..789**************997543....................
+USER>>AFPZ01000099.1/5573155625/3-68             --CTTATCAAGAGAGCT-GAGGGATTGGCCTGATGAAGCTCAGCAACCTC-TGTGGTGCTACCTCCAACA----------.-------------
+#=GR USER>>AFPZ01000099.1/5573155625/3-68     PP ..789*********877.699*************************9975.5789999988877775544........................
+USER>>AGTN01382714.1/176/1-60                    ---------------------GGACTGGCCCGATGAAACCCGGCAACC----CTGGTGCTAATTCCAG---CGGAAT-G-.CGGAAGATGA---
+#=GR USER>>AGTN01382714.1/176/1-60            PP .....................5799*********************98....59*********99765...555543.3..3445555555...
+USER>>AACY023339105.1/458562/6-63                -----ATCAAGAGCGGTGGAGGGATGG---CTTTGAAGCCCGGCAACCAG--TTGGTGCCAATTCCAG------------.-------------
+#=GR USER>>AACY023339105.1/458562/6-63        PP .....799**************99654...356899************98..59**********9864..........................
+USER>>AFBB01000002.1/6240162303/2-80             -GCTCATCAAGAGTG-CAGAGGGAC-GGCCCTATGAAGCTCGGCAACC----ATGGTGCTAATTCCAACAG----AAAGC.TGGCAGATGA---
+#=GR USER>>AFBB01000002.1/6240162303/2-80     PP .688999***99976.567888887.78999****************9....59***********988775....34566.6777777766...
+USER>>ACNA01000078.1/6562665518/3-81             --CTTATCAAGAG-GATGGAGGGAC-GGCCCGATGAAATCCAGCAACAGG----TGTGCTAACTCCAGCGACG----CAG.TGAAAGATGAG--
+#=GR USER>>ACNA01000078.1/6562665518/3-81     PP ..799****9997.67999*99997.789***************998554....5899****99998886655....456.88999998875..
+USER>>ADJR01000053.1/3538535280/3-79             --CTTATCAAGAG-GACGGAGGGA-TGGCCCGATGAAGTCCAGCAACCAG----GGTGCTAATTCCAA---TTGAAAACT.TGA-AGATG----
+#=GR USER>>ADJR01000053.1/3538535280/3-79     PP ..78999999887.4567777776.899*******************987....89*******99753...444555555.554.45555....
+USER>>AP009389.1/251789251896/3-73               --CTTATCGAGAGAGG-GGAGGGAC-GACCCAATGAACCTCGGCAACCTT-CAGGGTGCCAATTTCCGCCGTCGAG----.-------------
+#=GR USER>>AP009389.1/251789251896/3-73       PP ..7999*******987.67888887.78999***************9976.56799*********99987765543..................
+USER>>ACGB01000003.1/6054160439/6-82             -----ATCGAGAGCG-CAGAGGGATTGGCCCTATGAAGCTCGGCAACCC----CGGTGCTAATTCCAACAGC----ATGC.TGGCAGATGAG--
+#=GR USER>>ACGB01000003.1/6054160439/6-82     PP .....6676777654.5789**************************985....79***********999997....5678.88888888887..
+USER>>CP000232.1/12049351204832/2-80             -GCTTATCGCGAGAGGTGGAGGGAG-GCCCCGATGAAAC-CGGCAACCC----CGGTGCCAAGTGCCGCAG--GAAA--T.TGGAAGATAA---
+#=GR USER>>CP000232.1/12049351204832/2-80     PP .79******************9984.77899****9986.688888875....799*******99999986..4443..6.7777777766...
+USER>>BA000028.3/32006383200530/3-66             --CTTATCCTGAGA-GTGGAGGGAATGGCCCAAAGAAGCCCGGCAACAG---GTTGTGCCAAATCCATCA----------.-------------
+#=GR USER>>BA000028.3/32006383200530/3-66     PP ..688999999998.599***************************9855...578999999999986655........................
+USER>>ADJS01002320.1/15801477/4-80               ---TCATCGAGAGC-GCGGAGGGATTGGCCCCATGATGCTCAGCAACC----ATGGTGCTAATTCCATCAGTT----TGC.TGGCAGATG----
+#=GR USER>>ADJS01002320.1/15801477/4-80       PP ...66778888876.5799***************************99....59***********99998753....345.555555555....
+USER>>ADGO01174798.1/176283/2-83                 -GCTTATCCAGAGAGACCGAGGGAC-GGCCCGATGACGTCCGGCAACCTC-GGCGGTGCCAATTCCGGCAC------GAC.TGGAAGATGAG--
+#=GR USER>>ADGO01174798.1/176283/2-83         PP .689*******************98.7899****************9975.46799*********988763......234.66677777765..
+USER>>CP002901.1/30121303012235/3-68             --CTTATGGAGAGTGGCGGAGGGAC-GGCCCGACGATGCCCGGCAACCGGC--GGGTGCCAAATCCTGCAG---------.-------------
+#=GR USER>>CP002901.1/30121303012235/3-68     PP ..7899999**************98.7899******************985..699************997.......................
+USER>>BA000028.3/32007643200871/3-80             --CTTATCGAGAGAGCT-AAGGGACTGGCCTGTTGACGCTCAGCAACCTC-TATGGTGCTACCTCCAGCAA-------TT.TGAAAGATA----
+#=GR USER>>BA000028.3/32007643200871/3-80     PP ..68999******9877.699*************************9975.689*****999998888764.......46.666666665....
+USER>>CP000724.1/968949968838/3-79               --CTTATCAAGAGAG-TGGAGGG-CTGG--CGATGAAAC-CGGCAACCAC-GTTGGTGCTAATTCCAACA------ACAC.TGAAAGATGAG--
+#=GR USER>>CP000724.1/968949968838/3-79       PP ..799*******996.7888776.6776..699*99886.699***9986.579***********98775......6778.89999998875..
+USER>>CP000557.1/14346211434514/2-81             -GCTTATCAAGAGTACT-GAGGGACAGGC--AATGACGTCCGGCAACCTC-GAGGGTGCTAATTCCTGCAGA------AT.TGAAAGATAAG--
+#=GR USER>>CP000557.1/14346211434514/2-81     PP .689********98766.6999****996..699************9976.56799************9874......47.88888887766..
+USER>>CP003056.1/33281323328032/3-67             --CTTATCCAGAGAG-TGGAGGGAAGG---CTTTGAAGCCCGGCAACAGGTGAT-GTGCCAATTCCTGCAGA--------.-------------
+#=GR USER>>CP003056.1/33281323328032/3-67     PP ..7899******985.89999999755...4568999*********98887776.69***********9874......................
+USER>>CP002293.1/22780512278167/2-81             -GCTTATCAAGAGCA-CCGAGGGACAGGC--TATGACGTCCGGCAACCTCAA-AGGTGCCAAATCCTGCAGA------AT.TGAAAGATAAG--
+#=GR USER>>CP002293.1/22780512278167/2-81     PP .6899*****99976.56799*****997..599*************98776.589***********99874......47.88888888766..
+USER>>CP001878.2/32695703269458/3-78             --CTTATCGCGAGAG-TGGAGGG-CTGG--CGATGAAACC-AGCAACCACTATAGGTGCTAATTCCTGCAA------AGC.TGGTAGATG----
+#=GR USER>>CP001878.2/32695703269458/3-78     PP ..6788998888885.7888766.6776..699**99875.689***********************9963......445.555555555....
+USER>>AP009049.1/818842818946/3-75               --CTTATTAAGAGAG-CGGAGGGAAGG---CTATGAAGTCCGGCAACCT---ATGGTGCTAAATCCTGCAGCAT------.-GAAAGATG----
+#=GR USER>>AP009049.1/818842818946/3-75       PP ..789999***9996.68899888654...5799************995...89****************9964........44555544....
+USER>>CP002304.1/22450502244941/4-64             ---TCATCAAGAGT-GCGGAGGGAATGGCT--GTGATGCCCGGCAACCTAAATTGGTGCTAATTCCA-------------.-------------
+#=GR USER>>CP002304.1/22450502244941/4-64     PP ...56899999986.5799********975..689999*************************9974...........................
+USER>>CP001638.1/470897470787/3-73               --CTTATCGAGAGTGAGGGAAGGAATGG--CGATGAACTCCGGCAACCC---TTGGTGCTAATTCCAGCAA------AAT.TGGA---------
+#=GR USER>>CP001638.1/470897470787/3-73       PP ..7999*********************9..59**************996...69***********988752......234.4444.........
+USER>>ADGP01000019.1/9346393564/4-81             ---CCATCGAGAGTGACGGAGGGA-TGGCCCCATGATGTCCAGCAACC----TTGGTGCTAATTCCAACAGT----TCGT.TGGAAGATGG---
+#=GR USER>>ADGP01000019.1/9346393564/4-81     PP ...5689999**********9998.7899999**************98....59************999986....6899.9999999875...
+USER>>AE008691.1/500243500352/3-79               --CTTATCAAGAGAG-TGGAGGGAAG--AGCGATGAAAC-CGGCAACCTGTTA-GGTGCCAATTCTCTCAGAAG------.TGAAAGATGA---
+#=GR USER>>AE008691.1/500243500352/3-79       PP ..799*******995.8999999875..5579***9886.799*****99876.89*********998887543.......5666666665...
+USER>>CP000875.1/29974822997580/5-80             ----CATCGAGAT-GGCAGAGGGAC-GGCCCGACGAAGCCCGGCAACCCCA---GGTGCCAAATCCTGCAGTCG------.TGATAGATGAG--
+#=GR USER>>CP000875.1/29974822997580/5-80     PP ....556666553.56678899987.789*****************99765...899************99765.......56777777776..
+USER>>AE015927.1/14567701456662/2-70             -GCTTATTAAGAGC-GTGGAGGG-CTGGC--TATGAAGCCCGGCAACCA---TGGGTGCTAAATCCTGCGGTGGAGA---.-------------
+#=GR USER>>AE015927.1/14567701456662/2-70     PP .6899*****9997.57888776.77775..69**************97...4689*************99888754.................
+USER>>AE017194.1/32991673299061/3-79             --CTTATTAAGAG-GATGGAGGGAC-GGCCCGATGAAATCCAGCAACAGG----TGTGCTAAGTCCAGCAACGTAG----.TGGAAGATG----
+#=GR USER>>AE017194.1/32991673299061/3-79     PP ..68999999987.67999999997.789***************998554....5899*********999888653.....444555555....
+USER>>HE576794.1/19328961932796/6-66             -----ATCAAGAGAGACGGAGGGAC-GGCCCTGTGATGTCCAGCAACC----TTGGTGCTAATTCCAGCAG---------.-------------
+#=GR USER>>HE576794.1/19328961932796/6-66     PP .....799***************98.67888889***********998....59***********998876.......................
+USER>>AP006627.1/17016491701759/3-79             --CTTATCAAGAGT-GCGGAGGGCCTGAC--AATGAA-GCCGGCAACCAGTTGTGGTGCTACATTCAGCAGA------GC.TGAAAGATA----
+#=GR USER>>AP006627.1/17016491701759/3-79     PP ..799******997.57999*99999975..577765.6789*****************9988888887764......45.666666665....
+USER>>ACMT01000060.1/5194751841/3-75             --CTTATCAAGAG-GATAGAGGGAC-GGCCCGGTGAAATCCAGCAACAGG----TGTGCTAATTCCAGCAACGTAG----.TGGAA--------
+#=GR USER>>ACMT01000060.1/5194751841/3-75     PP ..78999*99997.57889999997.78999*************998554....589***********99887653.....33344........
+USER>>AGAV01000005.1/290266290166/3-66           --CTTATCCAGAGA-GTGGAGGGACTGGCCCTTAGAAGCCCAGCATCG--GTTGTGTGCTAATTCCAGA-----------.-------------
+#=GR USER>>AGAV01000005.1/290266290166/3-66   PP ..689999****98.599*************************98763..3445579999999998764.........................
+USER>>AP006840.1/26887542688649/2-79             -GTTCATCGAGAGTGGCGGAGGGAC-GGCCCCATGATGCCCGGCAACCTC--CCGGTGCCAAATCCA---GCGGACTC--.-GAGAGAT-----
+#=GR USER>>AP006840.1/26887542688649/2-79     PP .67899*****************98.678889***************975..679*******99875...55666543....4445555.....
+USER>>ABMW01188763.1/911/3-63                    --CTTATCAAGAAAG-CAGAGGGTATGG--CGATGAAGCCTGACAACCAGTCTCGGTGCCAATTCC--------------.-------------
+#=GR USER>>ABMW01188763.1/911/3-63            PP ..6899****99876.567888888888..59*******************************997............................
+USER>>BA000028.3/32944723294588/3-81             --CTTATCTAGAG-GATTGAGGGATAGGC--TATGACATCCGGCAGCG-GTTA-TGTGCCAATTCCTGCA-----AATGC.TGAAAGATGAG--
+#=GR USER>>BA000028.3/32944723294588/3-81     PP ..67889999887.557789999*99996..59***********9864.4444.479**********985.....89999.*******9986..
+USER>>ACNI01000057.1/71577272/3-75               --CTTATCCAGAGAG-TGGAGGGACGG---CTAAGAAACCCAGCAACCCC-AATGGTGCTAATTCC-GCAGA------GA.TGAAAGA------
+#=GR USER>>ACNI01000057.1/71577272/3-75       PP ..7999******985.89******976...56889***********9975.689********9986.44443......33.4555555......
+USER>>ACMS01000121.1/70257140/3-75               --CTTATCCAGAGAG-TAGAGGGACGG---CTATGAAACCCAGCAACCCC-TATGGTGCTAATTCC-GCAGAGG------.TGAAAGA------
+#=GR USER>>ACMS01000121.1/70257140/3-75       PP ..7899******996.78899999976...679*************9975.689********9986.5666554.......4555555......
+USER>>AACY023744984.1/813706/3-66                --CTTATCAAGAGTAGCAGAGGGACA-GCCCTATGAAGCTCAGCAACCGGT-ACGGTGCTAATTGGCC------------.-------------
+#=GR USER>>AACY023744984.1/813706/3-66        PP ..799*******************97.58899**************99775.6899***999985443..........................
+USER>>CP000909.1/40693334069227/3-85             --CTCATCGAGAT-GGCTGAGGGAC-GGCCCGATGACGCCCGGCAACCC---CCGGTGCCAAATCCAGCGGATGG-ATAT.CGAAAGATGAG--
+#=GR USER>>CP000909.1/40693334069227/3-85     PP ..67788888875.45567888887.789*****************996...579*********99888776554.4678.99999999986..
+USER>>ACML01000125.1/29923096/3-63               --CTTATCTAGAGAG-TGGAGGGACGG---CTATGAAACCCAGCAACCCT-TACGGTGCTAATTCCG-C-----------.-------------
+#=GR USER>>ACML01000125.1/29923096/3-63       PP ..7899******985.89******976...679*************9976.5789*******99873.3.........................
+USER>>CP002293.1/15460631545954/2-81             -GCTTATCAAGAGTA-CCGAGGGACAGGC--AATGACGTCCGGCAACCTC-AGGGGTGCCAAATCCTGCAGA------AT.TGAAAGATAAG--
+#=GR USER>>CP002293.1/15460631545954/2-81     PP .6899******9976.56799*****996..699************9976.56799************9874......47.88888888766..
+USER>>ABCF01000005.1/9720597306/3-67             --CTTATCGAGAGAG-CAGAGGGACTGGCCCTGTGAAGCCCGGCAGCG----GACGTGCCAAATCCAGCAAC--------.-------------
+#=GR USER>>ABCF01000005.1/9720597306/3-67     PP ..7999******997.5689***********************98653....345899****9999998755......................
+USER>>CP002479.1/24101412410035/3-76             --CTTATCTAGAG-GATCGAGGGAC-GGCCCTATGACGTCCGGCAACCT----CGGTGCCAAATCCTGCGGCG------C.CGAAAGAT-----
+#=GR USER>>CP002479.1/24101412410035/3-76     PP ..79999999997.56889999997.78999***************995....79*************98875......3.45555554.....
+USER>>CP001630.1/13493931349277/3-69             --CTCATCCAGAG-GGCAGAGGGATCGG--CGAAGAAGCCCGGCAACCTGTCACGGTGCCAATTCC----GCGGAA----.-------------
+#=GR USER>>CP001630.1/13493931349277/3-69     PP ..77888888887.56778999999998..599******************************986....455544..................
+USER>>AE017194.1/25363232536438/3-65             --CTTATCCAGAGAG-TGGAGGGACGG---CTATGAAACCCAGCAACCCCAT-AGGTGCTAATTCC-GCAG---------.-------------
+#=GR USER>>AE017194.1/25363232536438/3-65     PP ..7899******985.89******976...679*************998765.589*****99986.4444.......................
+USER>>CP000817.1/191590191689/3-77               --CTTATCAAGAGAGC-AGAGGGAC-GGCCCATTGAAGCTCAGCAACCAG-----GTGCTAAATCCAGAAG------CGT.TCGAAGATGA---
+#=GR USER>>CP000817.1/191590191689/3-77       PP ..799********975.67888887.789999***************985.....89******99876655......567.7777777776...
+USER>>AEPB01000058.1/3282232926/3-76             --CTTATCTAGAG-GACGGAGGGATTGGCCCTGCGAAGTCCAGCAACCAG----GGTGCTAAATCCAATA--------GT.TAAAAGATG----
+#=GR USER>>AEPB01000058.1/3282232926/3-76     PP ..68899999887.5689*****************************987....899****999986555........45.555555555....
+USER>>CP001810.1/33268653326755/3-62             --CTTATTCAGAGTGGTGGAGGTACTAGGA-TATGAAACCCGGCAACCCGT--GGGTGCCAACCT---------------.-------------
+#=GR USER>>CP001810.1/33268653326755/3-62     PP ..689999******************9865.699**************985..589999998544.............................
+USER>>ACCR02000004.1/51415245/3-77               --CTTATCAAGAGC-GTGGAGGGAATGCTACGA----AGCCGGCAACCT--ATTGGTGCTAATTCATGCAA----A--AC.TGGAAGATGA---
+#=GR USER>>ACCR02000004.1/51415245/3-77       PP ..7899*****997.699********9887775....5689*****995..789************99863....2..23.5555666655...
+USER>>CP001056.1/350121350227/4-67               ---TTATTAAGAATGGCGGAGGGACTGGCT--ATGAAGC-CAGCAA-CAGTAAT-GTGCTAAATCCTGCAGG--------.-------------
+#=GR USER>>CP001056.1/350121350227/4-67       PP ...688999******************975..8888766.566776.5777776.69***********9963......................
+USER>>AEWH01000040.1/3967139559/3-77             --CTTATCCAGAGAAC-CGAGGGTCAGGC--TATGAAGTCCGGCAGCGGGTAAT-GTGCCAATTCCTGCAAA-----T-G.TGAAAGA------
+#=GR USER>>AEWH01000040.1/3967139559/3-77     PP ..68999999999875.578999999986..59************999998887.69**********99643.....2.2.4555555......
+USER>>CP002171.1/22006002200498/3-78             --CTTATCAAGAGAG-TGGAGGG---GGAGCTATGAAG-CCGGCAACCTGT-TTGGTGCTAATTCTCGCAGAAG------.TGAAAGATGA---
+#=GR USER>>CP002171.1/22006002200498/3-78     PP ..789*******995.7888877...456678888765.6899****9986.69************99987543.......5677777766...
+USER>>AAOX01000006.1/3068730791/3-78             --CTTATCCAGAGAG-CGGAGGGATTGGC--TATGAAGCCCGGCAG-CAGATGCTGTGCCAAATCCAACA-----AGCGT.-GGAAGAT-----
+#=GR USER>>AAOX01000006.1/3068730791/3-78     PP ..7999******996.799********97..59**********976.69999999********9998764.....22332..3334444.....
+USER>>AE016877.1/25879532588068/3-75             --CTTATCCAGAGAG-TGGAGGGACGG---CTAAAAAACCCAGCAACCCC-AATGGTGCTAATTCC-GCAGAGG------.TGAAAGA------
+#=GR USER>>AE016877.1/25879532588068/3-75     PP ..7999******985.89*****9965...45778999********9975.689********9986.5666544.......4555555......
+USER>>CP002739.1/19726821972581/3-78             --CTTATCAAGAGAG-TGGAGGGAGAG---CTATGAA-GCCGGCAACCTGTTA-GGTGCTAATTCTCGCAGAAG------.TGAAAGATGA---
+#=GR USER>>CP002739.1/19726821972581/3-78     PP ..799*******995.89999999665...5677765.5789******99876.89**********99987543.......5667777665...
+USER>>AEPB01000044.1/7729477398/3-79             --CTTATCAAGAGG-ACCGAGGGGTAGGCCCTATGACGTCCGGCAACCC----CGGTGCCAAGTCCTGCGGTGT----GC.CGGAAGAT-----
+#=GR USER>>AEPB01000044.1/7729477398/3-79     PP ..7999***99984.5678999999*********************985....79************9988663....34.44445554.....
+USER>>BAAY01016150.1/495603/3-73                 --CTTATCAAGAGC-GCGGAGGGACGG---CGATGAAGCCCGGCAACCAG----GGTGCTAAATCCGGCGGCACGAAA--.-----GAT-----
+#=GR USER>>BAAY01016150.1/495603/3-73         PP ..799******997.57999***9976...89****************87....89*********9998887544443........333.....
+USER>>AACY022448257.1/716603/4-61                ---TTATCAAGAAA-GTGGAGGGTAG-G--CTGTGAAACCTGGCAACC----ATGGTGCCAATTCCCCC-----------.-------------
+#=GR USER>>AACY022448257.1/716603/4-61        PP ...68999999866.68889887543.3..34699************9....59*********998654.........................
+USER>>ACXP02000001.1/103481103377/3-77           --CTTATCAAGAGAG-TGGAGGGAAG--AGCGATGAAACC-AGCAACCTG---TGGTGCTAATTCTCTCAGAAG------.TGAAAGATGA---
+#=GR USER>>ACXP02000001.1/103481103377/3-77   PP ..799*******995.8999999875..5579***99976.678999876...89**********998887543.......5666666665...
+USER>>CP001089.1/32880783288187/3-77             --CTTATCAAGAGG-ACCGAGGGAC-GGCCCGGTGACGTCCGGCAACCCG----GGTGCCAATTCCAGCAACCGCAG---.TGACAG-------
+#=GR USER>>CP001089.1/32880783288187/3-77     PP ..6899**999974.4567888887.7899*****************987....89**********99998766543....444444.......
+USER>>ABCF01000001.1/333859333963/4-77           ---TTATCAAGAGTA-CCGAGGGTCAGGC--TATGACGTCCGGCAACCT----CGGTGCTAATTCCTGCAGA------GT.TGAAAGATAA---
+#=GR USER>>ABCF01000001.1/333859333963/4-77   PP ...678999998875.4578999999986..599************995....79*************9985......68.8888888766...
+USER>>CP001337.1/43238544323960/2-85             -GCTCATCGAGAT-GGCTGAGGGAC-GGCCCGATGACGCCCGGCAACCC---CCGGTGCCAAATCCAGCGGATGAAG-AA.CGAAAGATGAG--
+#=GR USER>>CP001337.1/43238544323960/2-85     PP .577888888876.45567888887.789*****************986...579**********999888777653.45.67888888775..
+USER>>AGFS01009296.1/199/2-65                    ----CATCAAGAGT-GTGGAGGGATGG---CAATGAAGCTCGGCAACC------GGTGCCAAATCCTGTAGTGGCTAC--.-------------
+#=GR USER>>AGFS01009296.1/199/2-65            PP ....5789999986.689999998654...579***********9997......789**************9987665................
+USER>>CP003017.1/40461294046030/3-61             --CTTATCAAGAGAG-TGGAGGGAAGG---CTGTGAAACCCGGCAAC--GGATTCGTGCCAACTCCC-------------.-------------
+#=GR USER>>CP003017.1/40461294046030/3-61     PP ..799*******995.89999998754...45699**********98..678999******999875...........................
+USER>>CP002031.1/990242990348/3-65               --CTTATCAAGAGG-ACCGAGGGAC-GGCCCGGTGACGTCCGGCAACCT----CGGTGCCAATTCCTGCGA---------.-------------
+#=GR USER>>CP002031.1/990242990348/3-65       PP ..7999***99984.5567888887.7899****************995....79************9754.......................
+USER>>FP929048.1/936205936309/3-67               --CTCATCAAGAGCACT-GAGGGAC-GGCCCAATGACGTTCGGCAACCAGA--GGGTGCCAAATCCTTTAA---------.-------------
+#=GR USER>>FP929048.1/936205936309/3-67       PP ..577889999988766.5788876.7899******************996..69*********9997654.......................
+USER>>ADGO01153309.1/108207/3-66                 --CTTATTTAGAGAGATGGAGGGACGGCCCTGAGATATCTCAGCAAC-----AGTGTGCTAATTCCAGTAG---------.-------------
+#=GR USER>>ADGO01153309.1/108207/3-66         PP ..6789999*****************999999999999999999986.....456899******9988776.......................
+USER>>CP001022.1/29771322977031/3-75             --CTTATCCAGAGAG-TGGAGGG-CTGGCT--TTGAAGCCCAGCAACAGGCGAT-GTGCTAATTCCTGCGGGTGGATCGA.-------------
+#=GR USER>>CP001022.1/29771322977031/3-75     PP ..68999****9985.7888766.788765..699**********998887776.69***********988766666654..............
+USER>>ADIG01001060.1/303369303253/6-70           -----ATCGAGACCGCT-GAGGGAAGG---CTTTGAAGCCGGGCAACCTGATGTGGTGCCAACTCCTGCGGTAG------.-------------
+#=GR USER>>ADIG01001060.1/303369303253/6-70   PP .....555555554444.455555433...45689999*****************************9987665....................
+USER>>CP001104.1/201173201075/3-57               --CTTATTAAGAGCGGTGGAGATACTAGGA-TATGAAACCCGGCAACCC-----GGTGCCAAC-----------------.-------------
+#=GR USER>>CP001104.1/201173201075/3-57       PP ..6899*******************99865.699************996.....578888764...............................
+USER>>AGTN01074236.1/17666/3-69                  --CTTATCGAGAGT-GCGGAGGGACGG---CTGTGAAACCCGGCAACCTGA--GGGTGCCAAATCCGACGGT--------.CGA----------
+#=GR USER>>AGTN01074236.1/17666/3-69          PP ..689999999986.578999999966...45699*************986..69********998766544.........333..........
+USER>>AFPZ01000064.1/2130621409/3-80             --CTTATCGAGAG-GACGGAGGGA-TGGCCCAAAGAAGTCCAGCAACCAG----GGTGCTAATTCCAA----GGGAACAC.TTGAAGATGA---
+#=GR USER>>AFPZ01000064.1/2130621409/3-80     PP ..67788876665.3456666665.899*******************987....89*******99742....34455555.5556677776...
+USER>>CP001859.1/13064361306545/6-77             -----ATCCAGAGT-ACGGAGGGAC-GGCCCTATGAAGTTCGGCAACCA--AGCGGTGCTAAGTCCATCAGACT------.-GAAAGAT-----
+#=GR USER>>CP001859.1/13064361306545/6-77     PP .....556666654.3578888887.78999****************96..789***********999887543........3444443.....
+USER>>HE576794.1/18795551879458/5-61             ----CATCCAGAGCG-CCGAGGGACTGG--CGATGACGCTCGGCAACCT---ATGGTGCCAATTCCA-------------.-------------
+#=GR USER>>HE576794.1/18795551879458/5-61     PP ....56677777765.56899******9..59**************985...89*********9974...........................
+USER>>ADJS01020635.1/30302919/3-71               --CTTATTCAGAGTGGTGGAGATACTAGGATG-TGAAACCCGGCAACCC-AGAGGGTGCCAGC--CTG-AGCGAAA----.-------------
+#=GR USER>>ADJS01020635.1/30302919/3-71       PP ..789999******************998765.89**********9985.5678999999853..333.4555554..................
+USER>>AENT01000016.1/1053810440/4-62             ---TCATCAAGAGTGCTG-AGGGAT-GG--CTATGAAGCTCGGCAACCATA---GGTGCCAATTCCATC-----------.-------------
+#=GR USER>>AENT01000016.1/1053810440/4-62     PP ...568999999988775.677764.54..569**************9875...899******998543.........................
+USER>>CP000249.1/52551715255287/2-67             -GCTCATCCAGAG-GGCAGAGGGACGGCA---GCGAAGCCCGGCAACCACTCCTGGTGCTAATTCCGGCCT---------.-------------
+#=GR USER>>CP000249.1/52551715255287/2-67     PP .678889988887.567789999987754...456889**************************9988743.......................
+USER>>AFTG01000006.1/2307323176/4-59             ---TCATCAAGAGCG-TTGAGGGATTGG--CGATGAAACTCAGCAACCC-----CGTGCTAATTCCT-------------.-------------
+#=GR USER>>AFTG01000006.1/2307323176/4-59     PP ...568999999986.56799******9..59**************985.....6899999999987...........................
+USER>>AFIH01000001.1/17301361730241/3-59         --CTTATTCAGAGAGGTGGAGCTACTAGG-AGATGAAACCCAGCAACCCA---AGGTGCTAAC-----------------.-------------
+#=GR USER>>AFIH01000001.1/17301361730241/3-59 PP ..689999*****************9885.69**************9964...4677777664...............................
+USER>>CP001982.1/928417928516/3-65               --CTTATCAAGAGAG-TGGAGGGTAG-G--CTTTGAAACCCGGCAAC-GGATTACGTGCTAACTCCCACA----------.-------------
+#=GR USER>>CP001982.1/928417928516/3-65       PP ..799*******995.7888887654.3..45799*********997.567777899***9999987664........................
+USER>>AEVN01000114.1/28762777/4-60               ---TCATCAAGAGTGCT-GAGGGAT-GG--CGATGAAGCTCGGCAACCA---CCGGTGCCAATTCCA-------------.-------------
+#=GR USER>>AEVN01000114.1/28762777/4-60       PP ...67899999998877.5677775.44..79***************97...579********9974...........................
+USER>>HE576794.1/23937522393654/5-73             ----TATCAAGAGCGCTGA-GGG-CGG--GCGATGACGCTCGGCAACCTG----GGTGCCAATTCCTACAGG------CT.TGAAAGA------
+#=GR USER>>HE576794.1/23937522393654/5-73     PP ....789999999887764.443.333..479***************987....89***********99874......35.5555555......
+USER>>ADGO01074097.1/362246/6-63                 -----ATCAAGAGGGGTGGAGGG-CTGGCTGG--GAAGCCCGGCAACCAC--GCGGTGCCAATTCCGG------------.-------------
+#=GR USER>>ADGO01074097.1/362246/6-63         PP .....799************986.77887654..8999*********975..689*********9865..........................
+USER>>ADLB01000021.1/277705277603/3-60           --CTTATTCAGAGTGGTGGAGGTAAAGG--AGATGAAGCCCGGCAACCCC--ACGGTGCCAACC----------------.-------------
+#=GR USER>>ADLB01000021.1/277705277603/3-60   PP ..7899******************9998..59***************975..679999999854..............................
+USER>>ADJS01004224.1/4182041926/3-67             --CTTATTGAGAGCGCTG-AGGGAAGG---CTTTGAAGCCCGGCAACC----ATGGTGCTAAATCCTGCGGTGCG-----.-------------
+#=GR USER>>ADJS01004224.1/4182041926/3-67     PP ..5778888888877665.56666443...456899***********9....59**************9887643...................
+USER>>CP000482.1/19698301969935/3-65             --CTTATCAAGAGG-ACCGAGGGACA-GCCCGGTGACGTCCGGCAACCTG----GGTGCCAATTCTAGCGG---------.-------------
+#=GR USER>>CP000482.1/19698301969935/3-65     PP ..7899***99984.56789999986.688999**************987....89********9877654.......................
+USER>>BAAX01012101.1/1093991/3-66                --CTTATAAAGAGT-GCGGAGGGTCGG---CTGTGAAGCCCGGCAACC----TTGGTGCTAAATCCCGCAGCAT------.-------------
+#=GR USER>>BAAX01012101.1/1093991/3-66        PP ..678899999886.468888887755...456899**********99....59***************99854....................
+USER>>AGTN01008997.1/10881173/3-60               --CTTATCAAGAGCG-CGGAGGG-CAGG--CGATGAAGCCCGGCAACCA----AGGTGCCAAATCCTG------------.-------------
+#=GR USER>>AGTN01008997.1/10881173/3-60       PP ..6899****99975.5677665.4444..79***************96....599********9997..........................
+USER>>BAAX01009950.1/12621361/3-71               --CTTATCAAGAGTG-CGGAGGGCCGG---CTGTGAAGCCCGACAACCA-----GGTGCCAAATCCGGCGGTCGAA----.----AGAT-----
+#=GR USER>>BAAX01009950.1/12621361/3-71       PP ..799******9975.67888776544...346899***********98.....589********99987765554.........4444.....
+USER>>ADGO01120806.1/389491/2-63                 -GCTCATCAAGAGCGCTG-AGGGAAGG---CGATGACGCCCGGCAACCAGCCGCGGTGCCAATGCCT-------------.-------------
+#=GR USER>>ADGO01120806.1/389491/2-63         PP .57899******998875.66666543...79******************************99887...........................
+USER>>CP001631.1/19354001935293/6-62             -----ATCGAGAGC-GTGTAGGGAGGG---CTGTGATACCCGGCAACCAGCGACGGTGCCAATGCC--------------.-------------
+#=GR USER>>CP001631.1/19354001935293/6-62     PP .....566666654.567777776433...4468999*************************9876............................
+USER>>CP000698.1/45099184509813/3-65             --CTTATCAAGAGGAC-TGAGGGAC-GGCCCTGTGACGTCCGGCAACCC----CGGTGCCAAATCCTGCGA---------.-------------
+#=GR USER>>CP000698.1/45099184509813/3-65     PP ..799*****998655.56888887.67888899************985....79***********99754.......................
+USER>>CP001791.1/508413508522/3-64               --CTTATCGTGAGAG-TGGAGGGAAGGCT---GCGAAACCCAGCAACCG---CGGGTGCTAATTCCTGCGG---------.-------------
+#=GR USER>>CP001791.1/508413508522/3-64       PP ..6899999999985.8999999976544...45789*********996...4689***********9854.......................
+USER>>AP006716.1/507636507743/3-63               --CTTATCCAGAGAG-TGAAGGGTTTGGC--AATGAAACTCAGCAAC-AGATAATGTGCTAACTCCA-------------.-------------
+#=GR USER>>AP006716.1/507636507743/3-63       PP ..8999******985.8999***999996..69***********986.788888899***9999874...........................
+USER>>CP000148.1/765280765385/3-66               --CTTATCACGAGG-ACCGAGGGAC-GGCCCTATGACGTCCGGCAACCC-----GGTGCCAAATCCTGCGGCG-------.-------------
+#=GR USER>>CP000148.1/765280765385/3-66       PP ..688899888874.4567888887.78999***************995.....79***********998875.....................
+USER>>AFVQ01000579.1/190/3-56                    --------------GGCGGAGGGACGG-CCCTGAGAAGCCCGACAACCAG----GGTGTTAATTCCAGCAGTA-------.-------------
+#=GR USER>>AFVQ01000579.1/190/3-56            PP ..............6778999999865.555566999**********987....89*********99998752.....................
+USER>>ACIP02000004.1/237213237114/3-57           --CTTATTCAGAGTGGTGGAGATACTAGGACG-TGAAGCCCGGCAACCC-----GGTGCCAAC-----------------.-------------
+#=GR USER>>ACIP02000004.1/237213237114/3-57   PP ..689999******************999887.89***********986.....578888764...............................
+USER>>CP001859.1/916065916164/5-65               ----CATCGAGAGCG-CAGAGGGATTGGC--TATGAAGCTCGGCAACCG-----GGTGCCAATTCCAATGGCA-------.-------------
+#=GR USER>>CP001859.1/916065916164/5-65       PP ....56677777654.56899******97..59*************996.....699*******997655544.....................
+USER>>ADJT01012449.1/36393740/4-60               ---TTATTCAGAGTGGTGGAGATACTAGGA-TATGAAGCCCGGCAACCC---AAGGTGCCAACC----------------.-------------
+#=GR USER>>ADJT01012449.1/36393740/4-60       PP ...789999****************99865.699************996...558899998754..............................
+USER>>BABG01000932.1/12001089/3-62               --CTTATTTAGAGCGGTGGAGATACTAGGATGA-GAAGCCCGGCAACCC-ATTAGGTGCCAACC----------------.-------------
+#=GR USER>>BABG01000932.1/12001089/3-62       PP ..68999*******************9988776.7899********986.45568999999853..............................
+USER>>AEOA01000032.1/98439941/3-51               --CTTATTCAGAGTGGCGGAGGTACTAGGATG-TGAAACCCGGCAACCCG-----GT-----------------------.-------------
+#=GR USER>>AEOA01000032.1/98439941/3-51       PP ..689999******************998765.89***********9864.....44.....................................
+USER>>CP001078.1/343576343688/5-67               ----TATTAAGA-ATGTGGAGGG-CTGGC--TATGAAGCCTGGCAAC-AGCTTATGTGCTAAATCCTGCAGG--------.-------------
+#=GR USER>>CP001078.1/343576343688/5-67       PP ....55666665.5678888776.67775..69***********997.555556689***********9973......................
+USER>>AGIL01000001.1/259303259418/7-69           ------TCGAGACCGCT-GAGGGAAGG---CTTTGAAGCCGGGCAACCTGGCGTGGTGCCAACTCCTGCGGAA-------.-------------
+#=GR USER>>AGIL01000001.1/259303259418/7-69   PP ......55555554444.455555433...45689999****************************9986654.....................
+USER>>ADJS01007502.1/755654/4-65                 ---TCATCAAGAGTGC-CGAGGGAT-GG--CTATGAAGCTCGGCAACCATA---GGTGCCAAATCCAGCGAC--------.-------------
+#=GR USER>>ADJS01007502.1/755654/4-65         PP ...5688999998765.46777775.44..569**************9875...899*******99887655......................
+USER>>CT573213.2/73053577305472/2-66             -GCTCATCCAGAG-GGCAGAGGGAACGGC--AGTGAAGCCCGGCAACCA---CTGGTGCTAATTCC----GCGGAA----.-------------
+#=GR USER>>CT573213.2/73053577305472/2-66     PP .788899999998.456788888888886..579*************96...69********9986....455544..................
+USER>>ADGO01023591.1/578464/3-72                 --CTCATCGAGACCGCTGAGGGGA--GG--CTTTGAAGCCGGGCAACCGTACTCGGTGCCAACTCCTGCGACAGAT----.-------------
+#=GR USER>>ADGO01023591.1/578464/3-72         PP ..6667777777777666555554..33..457999********************************98777665..................
+USER>>ACTP01000103.1/3663336536/3-57             --CTTATTCAGAGTGGTGGAGGTACTAGGATG-CGAAGCCCGGCAACCC-----GGTGCCAAC-----------------.-------------
+#=GR USER>>ACTP01000103.1/3663336536/3-57     PP ..689999******************987665.58999********985.....577777764...............................
+USER>>ABWO01000038.1/82128308/3-56               --CTTATTCAGAGTGGTGGAGGTAAAGGA--TATGAAGCCCGGCAACCC-----GGTGCCAAC-----------------.-------------
+#=GR USER>>ABWO01000038.1/82128308/3-56       PP ..789999****************99986..599************996.....578888774...............................
+USER>>CP002346.1/17371381737033/4-62             ---TTATCAAGAAA-GTGGAGGGATAGAC--TGTGAAACCTGGCAACCC----TGGTGCTAAATTCTAC-----------.-------------
+#=GR USER>>CP002346.1/17371381737033/4-62     PP ...67899999865.6999***9988765..469************985....8999999988877654.........................
+USER>>CP000386.1/882031881920/3-68               --CTCATCGAGAGC-GTGGAGGGAG-GGCCCTGCGAAGCCCGGCAACCGGG--CGGTGCCAATTCCCGCGGG--------.-------------
+#=GR USER>>CP000386.1/882031881920/3-68       PP ..678888888876.6899999985.77888889**************885..79**********9987543......................
+USER>>ACXJ01010462.1/44364544/6-62               -----ATCCAGAGCGT-TGAGGGAGGGC---TTAGACGCCCGGCAACCAGCCATGGTGCCAATGCC--------------.-------------
+#=GR USER>>ACXJ01010462.1/44364544/6-62       PP .....66777777654.45677664443...33467779***********************9876............................
+USER>>DQ115856.1/304411/6-69                     -----ATCGAGACCGCT-GAGGGAAG-GCTT--GGACGCCGGGCAACCAGATA-GGTGCCAATTCCTGCGACAG------.-------------
+#=GR USER>>DQ115856.1/304411/6-69             PP .....555555554444.34444433.3322..355678999*******9876.89***********9876655....................
+USER>>ADJT01012994.1/1273312834/4-62             ---TTATTCAGAGTGGTGGAGATACAAGG-ATATGAAGCCCGGCAACCC--AACGGTGCCAACCT---------------.-------------
+#=GR USER>>ADJT01012994.1/1273312834/4-62     PP ...789999************99998775.4689************995..7899****998543.............................
+USER>>ABRT01000018.1/1193711821/4-69             ---TCATCAAGACCGCT-GAGGGATAGGCT--TTGACGCCGGGCAACCATTTTCGGTGCCAACTCCTCGAGA--------.-------------
+#=GR USER>>ABRT01000018.1/1193711821/4-69     PP ...67889999877655.689999999976..689999**************************99876654......................
+USER>>CP001878.2/210747210855/3-76               --CTTATCAAGAGCACCG-AGGG-CAGG--CTATGACGTCCGGCAACCTC-TTCGGTGCTAAATCCTGCAGAGTGAAAGA.T------------
+#=GR USER>>CP001878.2/210747210855/3-76       PP ..6788999888876554.3333.4455..46899999********9975.5689***************9886665544.4............
+USER>>ADGO01147031.1/176/2-56                    ---------------------------GCCCTATGAAG-CCGGCAACC-GATATGGTGCTAATTCTCACAGAGCAA----.TGAAAGAT-----
+#=GR USER>>ADGO01147031.1/176/2-56            PP ...........................57888898765.679999987.899**************9999977654.....66776666.....
+USER>>CP002281.1/604366604465/3-60               --CTTATCGAGAGT-GTGGAGGG-CTGA--CTGTGAAACCCGGCAACCT---AAGGTGCTAAATTCA-------------.-------------
+#=GR USER>>CP002281.1/604366604465/3-60       PP ..688999988886.57777765.5554..3469*************96...457888888776654...........................
+USER>>AECS01000038.1/13891287/5-63               ----CATCAAGAGTGGCGGAGGGATGGCT---GTGATGCCCAGCAACCT---TTGGTGCTAAGTCCCGA-----------.-------------
+#=GR USER>>AECS01000038.1/13891287/5-63       PP ....589****************976543...5677779******9996...6999*****99998765.........................
+USER>>CP002349.1/35209913521094/4-69             ---TTATATAGATGGGT-GAGAGACAGGC--GTTGACCCTTGGCAACCC----CGGTGCCAATTCCTGCC-CGGAAA---.-------------
+#=GR USER>>CP002349.1/35209913521094/4-69     PP ...55666666665555.68899999985..8899*99********985....79************995.566665.................
+USER>>ACBZ01000203.1/85288629/3-61               --CTTATTCAGAGTGGTGGAGATATAAGGAA-GTGAAACCCGGCAACCC--AAAGGTGCCAACC----------------.-------------
+#=GR USER>>ACBZ01000203.1/85288629/3-61       PP ..789999************99887766544.589************96..5569999999854..............................
+USER>>AECS01000003.1/124528124632/6-68           -----ATCCAGAGCG-CCGAGGGACTGGC--GTTGAAGCTCGGCAACCT---TCGGTGCCAACTCCACCGGCAG------.-------------
+#=GR USER>>AECS01000003.1/124528124632/6-68   PP .....5666666654.45799******95..89**************96...5799******999876666554....................
+#=GC PP_cons                                     567899******9988999***9999999999**************9987777899*********999987666655666.6777777776668
+#=GC RF                                          xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx.xxxxxxxxxxxxx
+//

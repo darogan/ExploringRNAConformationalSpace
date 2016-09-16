@@ -1,0 +1,1260 @@
+>P1;USER>SEED:>RF00008
+sequence = SEED:>RF00008 = 2qus_A mol na length 69  Hammerhead ribozyme
+-----------GGGAGCCCTG----------------TCACCGGATGTGCTT-------------------------TC-CGGTCTGATGAGTCCGTG--------------------------A-G-GACAAAACAGGGCTCCCGAATT----------*
+>P1;USER>SEED:>RF00008
+sequence = SEED:>RF00008 = 2qus_A mol na length 69  Hammerhead ribozyme
+-----------GGGAGCCCTG----------------TCACCGGATGTGCTT-------------------------TC-CGGTCTGATGAGTCCGTG--------------------------A-G-GACAAAACAGGGCTCCCGAATT----------*
+>P1;USER>SEED:>RF00008
+sequence = SEED:>RF00008 = [+0+] 2qus_A mol na length 69  Hammerhead ribozyme
+-----------GGGAGCCCTG----------------TCACCGGATGTGCTT-------------------------TC-CGGTCTGATGAGTCCGTG--------------------------A-G-GACAAAACAGGGCTCCCGAATT----------*
+>P1;ALNS>USER>SEED:>RF00008
+sequence = USER>SEED:>RF00008 = 2qus_A mol na length 69  Hammerhead ribozyme
+----------GGGAGCCC--T----------------GTC-----ACCGGATGTGCTTT------------------CCGG--TCTGATGAGTCCGTG---------------------------AG-GACAAAAC-----AG-----GGCTCCCGAATT*
+>P1;ALNS>USER>>RF00008=11
+sequence = USER>>RF00008=11 = J02386.1/42x95
+-------------TGTCC--G----------------TA-------GTGGATGTGTA-T------------------CCAC--TCTGATGAGTCCAA---------------------------AAG-GACGAAAC-----GG-----ATG---------*
+>P1;ALNS>USER>>RF00008=12
+sequence = USER>>RF00008=12 = J02439.1/42x95
+-------------TGTCC--G----------------TA-------GTGGATGTGTA-T------------------CCAC--TCTGATGAGTCCGA---------------------------AAG-GACGAAAC-----GG-----ATG---------*
+>P1;ALNS>USER>>RF00008=10
+sequence = USER>>RF00008=10 = Y12833.1/339x285
+-------------CCGCT--A----------------TA------TGGGGATGTGTG-T------------------CCCT--ACTGACGAGTTCAA---------------------------AAG-AACGAAAT-----AG-----TTA---------*
+>P1;ALNS>USER>>RF00008=1
+sequence = USER>>RF00008=1 = D00685.1/1x46
+---------------------------------------------GCCAGACGT-GGAC------------------CCGG--CCTGATGAGTCCGAAA---------------------------G-GACGAAAC-----AG-----TA----------*
+>P1;ALNS>USER>>RF00008=8
+sequence = USER>>RF00008=8 = AJ536620.1/1x40
+---------------------------------------------GGGTGGTGTGTG-C------------------CACC--CCTGATGAGTCCGA---------------------------AAG-GACGAA--------------------------*
+>P1;ALNS>USER>>RF00008=9
+sequence = USER>>RF00008=9 = AJ536617.1/1x40
+---------------------------------------------GGGTGGTGTGTA-C------------------CACC--CCTGATGAGTCCGA---------------------------AAG-GACGAA--------------------------*
+>P1;ALNS>USER>>RF00008=13
+sequence = USER>>RF00008=13 = M63666.1/246x192
+-------------CCGGT--G----------------TC------TCAAGGTGCGTA-C------------------CTTG--ACTGATGAGTCCGA---------------------------AAG-GACGAAAC-----AC-----CAG---------*
+>P1;ALNS>USER>>RF00008=14
+sequence = USER>>RF00008=14 = M33000.1/55x110
+-------------ACGCT--G----------------TC------TGTACTTGTATC-A------------------GTAC--ACTGACGAGTCCCT--------------------------AAAG-GACGAAAC-----AG-----CGC---------*
+>P1;ALNS>USER>>RF00008=15
+sequence = USER>>RF00008=15 = M33001.1/56x111
+-------------ACGCT--G----------------TC------TGTACTTATATC-A------------------GTAC--ACTGACGAGTCCCT--------------------------AAAG-GACGAAAC-----AG-----CGC---------*
+>P1;ALNS>USER>>RF00008=77
+sequence = USER>>RF00008=77 = AJ536615.1/1x44
+---------------------------------------------GGGTGGTG-TGTAC------------------CATC--CCTGATGAGTCCAA---------------------------AAG-GACGAAAT-----GG-----------------*
+>P1;ALNS>USER>>RF00008=79
+sequence = USER>>RF00008=79 = AJ536614.1/206x152
+-------------TCACC--G----------------TC------GGAAAGTG-TGCGC------------------TTTC--CCTGATGAGCCCAA---------------------------AAG-GGCGAAAC-----GG-----TAC---------*
+>P1;ALNS>USER>>RF00008=81
+sequence = USER>>RF00008=81 = AJ536620.1/206x152
+-------------CCACC--G----------------TC------GGAAAGTG-TGCGC------------------TTTC--CCTGATGAGCCCAA---------------------------AAG-GGCGAAAC-----GG-----TAC---------*
+>P1;ALNS>USER>>RF00008=80
+sequence = USER>>RF00008=80 = AJ536612.1/206x152
+-------------TCACC--G----------------TC------GGAAAGTG-TGCGC------------------TTTC--CCTGATGAGCCCGA---------------------------AAG-GGCGAAAC-----GG-----TAC---------*
+>P1;ALNS>USER>>RF00008=82
+sequence = USER>>RF00008=82 = AJ536619.1/206x152
+-------------CCACC--G----------------TC------GGAAAGTG-TGTAC------------------TTTC--CCTGATGAGTCCGA---------------------------AAG-GACGAAAC-----GG-----TAC---------*
+>P1;ALNS>USER>>RF00008=2
+sequence = USER>>RF00008=2 = AJ247116.1/133x53
+--------------TCCA--G----------------TC------GAGACCTGAAGTGG------------------GTTT--ACTGATGAGGCTGTGGAGAGAGCGAAA-GCTTTACTCCCACACAAGCCGAAAC-----TG-----GA----------*
+>P1;ALNS>USER>>RF00008=3
+sequence = USER>>RF00008=3 = Y14700.1/133x53
+--------------TCCA--G----------------TC------GAGACCTGAAGTGG------------------GTTT--CCTGATGAGGCTGTGGAGAGAGCGAAA-GCTTTACTCCCACACAAGCCGAAAC-----TG-----GA----------*
+>P1;ALNS>USER>>RF00008=4
+sequence = USER>>RF00008=4 = AJ247123.1/132x52
+--------------TCCA--G----------------TC------GAGACCTGAAGTGG------------------GTTT--CCTGATGAGGCTGTGGAGAGAGCGAAA-GCTTTACTCCCGCACAAGCCGAAAC-----TG-----GA----------*
+>P1;ALNS>USER>>RF00008=5
+sequence = USER>>RF00008=5 = AJ247121.1/133x53
+--------------TCCA--G----------------TC------GAGACCTGAAGTGG------------------GTTT--CCTGACGAGGCTGTGGAGAGAGCTT-TCGCTTTACTCCCGCACAAGCCGAAAC-----TG-----GA----------*
+>P1;ALNS>USER>>RF00008=6
+sequence = USER>>RF00008=6 = AJ247122.1/132x52
+--------------TCCA--G----------------TC------GAGACCTGAAGTGG------------------GTTT--CCTGACGAGGCTGTGGAGAGAGCTA-TTGCTTTACTCCCGCACAAGCCGAAAC-----TG-----GA----------*
+>P1;ALNS>USER>>RF00008=7
+sequence = USER>>RF00008=7 = AJ247113.1/134x53
+--------------TCCA--G----------------TC------GAGACCTGAAGTGG------------------GTTT--CCTGACGAGGCTGTGGAGAGAGCAAATTGCTTTACTCCCGCACAAGCCGAAAC-----TG-----GA----------*
+>P1;ALNS>USER>>RF00008=16
+sequence = USER>>RF00008=16 = AJ550909.1/282x333
+-------------GAAGA--G----------------TC-------GCGCTT------A------------------GCGC--ACTGATGAGTCTCTG-A------------------------ATGAGACGAAAC-----TC-----TTC---------*
+>P1;ALNS>USER>>RF00008=17
+sequence = USER>>RF00008=17 = AJ550907.1/281x333
+-------------AAAGA--G----------------TC-------GCGCTT------A------------------GCGC--ACTGATGAGTCTCTG-A-----------------------GATGAGACGAAAC-----TC-----TTC---------*
+>P1;ALNS>USER>>RF00008=18
+sequence = USER>>RF00008=18 = AJ550908.1/281x334
+-------------GAAGA--G----------------TC------TGCGCTT------A------------------GCGC--ACTCATGAGTCTCTG-A-----------------------GATGAGACGAAAC-----TC-----TTC---------*
+>P1;ALNS>USER>>RF00008=19
+sequence = USER>>RF00008=19 = AJ550910.1/282x336
+-------------GAAGA--G----------------TCC-----TGCGCTT------A------------------GCGC--ACTGACGAGTCTCTG-A-----------------------GATGAGACGAAAC-----TC-----TTC---------*
+>P1;ALNS>USER>>RF00008=20
+sequence = USER>>RF00008=20 = AJ550901.1/282x334
+-------------GAAGA--G----------------TC-------GCGCTA------A------------------GCGC--ACTGATGAGTCTTTG-A-----------------------GATAAGACGAAAC-----TC-----TTC---------*
+>P1;ALNS>USER>>RF00008=21
+sequence = USER>>RF00008=21 = AJ550898.1/282x335
+-------------GAAGA--G----------------TC------TGCGCTA------A------------------GCGC--ACTGATGAGTCTTTG-A-----------------------AATAAGACGAAAC-----TC-----TTC---------*
+>P1;ALNS>USER>>RF00008=78
+sequence = USER>>RF00008=78 = M17439.1/1x48
+--------------ACCG--G----------------ATG-----TGCTTTC--------------------------CGG--TCTGATGAGTCCGT----------------------------GAGGACGAAAC-----AG-----GAC---------*
+>P1;ALNS>USER>>RF00008=22
+sequence = USER>>RF00008=22 = AJ241850.1/282x334
+-------------TAAGA--G----------------TC-------GTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AAAGAGACGAAAC-----TC-----TTT---------*
+>P1;ALNS>USER>>RF00008=35
+sequence = USER>>RF00008=35 = AJ005302.1/281x334
+-------------AAAGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------ATTGAGACGAAAC-----TC-----TTG---------*
+>P1;ALNS>USER>>RF00008=36
+sequence = USER>>RF00008=36 = AJ241823.1/282x335
+-------------AAAGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGATGAGTCTCTA-A-----------------------AATGAGACGAAAC-----TC-----TTT---------*
+>P1;ALNS>USER>>RF00008=41
+sequence = USER>>RF00008=41 = AJ241839.1/282x334
+-------------GATGA--G----------------TC-------GTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----ATA---------*
+>P1;ALNS>USER>>RF00008=42
+sequence = USER>>RF00008=42 = AJ005312.1/282x335
+-------------GATGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGATGAGTCTATG-A-----------------------AATGAGACGAAAC-----TC-----ATA---------*
+>P1;ALNS>USER>>RF00008=43
+sequence = USER>>RF00008=43 = AJ241845.1/282x335
+-------------GATGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----ATG---------*
+>P1;ALNS>USER>>RF00008=44
+sequence = USER>>RF00008=44 = AF170504.1/284x337
+-------------GATAA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TT-----ATC---------*
+>P1;ALNS>USER>>RF00008=45
+sequence = USER>>RF00008=45 = AF170520.1/282x335
+-------------GATAA--G----------------TC------TGTGCTT------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TT-----ATC---------*
+>P1;ALNS>USER>>RF00008=46
+sequence = USER>>RF00008=46 = AF170503.1/280x333
+-------------GAAAG--G----------------TC------TGTGCTT------A------------------GCAC--ACTGACGAGTTCCTG-A-----------------------AATGGAACGAAAC-----CT-----TTT---------*
+>P1;ALNS>USER>>RF00008=23
+sequence = USER>>RF00008=23 = AJ005294.1/282x334
+-------------TAAGA--G----------------TC-------GTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTG---------*
+>P1;ALNS>USER>>RF00008=24
+sequence = USER>>RF00008=24 = AJ005321.1/281x333
+-------------GAAGA--G----------------TC-------GTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTG---------*
+>P1;ALNS>USER>>RF00008=25
+sequence = USER>>RF00008=25 = AJ241830.1/282x334
+-------------AAAGA--G----------------TC-------GTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTG---------*
+>P1;ALNS>USER>>RF00008=27
+sequence = USER>>RF00008=27 = AJ241833.1/282x334
+-------------AAAGA--G----------------TC-------GTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTT---------*
+>P1;ALNS>USER>>RF00008=31
+sequence = USER>>RF00008=31 = AJ005299.1/282x335
+-------------TAAGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGATGAATCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTG---------*
+>P1;ALNS>USER>>RF00008=32
+sequence = USER>>RF00008=32 = AJ005300.1/282x335
+-------------TAAGA--G----------------TC------TGTGGTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTG---------*
+>P1;ALNS>USER>>RF00008=33
+sequence = USER>>RF00008=33 = AJ241847.1/281x334
+-------------GAAGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGATGAGTTTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTG---------*
+>P1;ALNS>USER>>RF00008=34
+sequence = USER>>RF00008=34 = AJ241831.1/281x334
+-------------GAAGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTA---------*
+>P1;ALNS>USER>>RF00008=26
+sequence = USER>>RF00008=26 = AJ005320.1/281x333
+-------------GAAGA--G----------------TC-------GTGCTA------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTT---------*
+>P1;ALNS>USER>>RF00008=28
+sequence = USER>>RF00008=28 = AJ550903.1/281x333
+-------------GAAGA--G----------------TC-------GTGCTT------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTT---------*
+>P1;ALNS>USER>>RF00008=29
+sequence = USER>>RF00008=29 = AF170516.1/283x335
+-------------GAAGA--G----------------TC-------GTGCTT------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTC---------*
+>P1;ALNS>USER>>RF00008=30
+sequence = USER>>RF00008=30 = AJ550906.1/282x334
+-------------GAAGA--G----------------TC-------GTGCTT------A------------------GCAC--ACTGATGAGTCTCTG-A-----------------------GATGAGACGAAAC-----TC-----TTC---------*
+>P1;ALNS>USER>>RF00008=37
+sequence = USER>>RF00008=37 = AJ005322.1/281x334
+-------------GAAGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGACGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTT---------*
+>P1;ALNS>USER>>RF00008=38
+sequence = USER>>RF00008=38 = AJ005314.1/281x334
+-------------AAAGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGACGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTT---------*
+>P1;ALNS>USER>>RF00008=39
+sequence = USER>>RF00008=39 = M83545.1/282x335
+-------------GAAGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGACGAGTCTCTG-A-----------------------GATGAGACGAAAC-----TC-----TTC---------*
+>P1;ALNS>USER>>RF00008=40
+sequence = USER>>RF00008=40 = AJ550911.1/282x335
+-------------GAAGA--G----------------TC------TGTGCTA------A------------------GCAC--ACTGACGAGTCTCTG-A-----------------------AATGAGACGAAAC-----TC-----TTC---------*
+>P1;ALNS>USER>>RF00008=47
+sequence = USER>>RF00008=47 = AF170503.1/55x3
+-------------CATAA--G----------------TC------TGGGCTT------A------------------G-CC--ACTGACGAGTCGCTG-G-----------------------GATACGGCGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=48
+sequence = USER>>RF00008=48 = AJ005305.1/56x3
+-------------CAAAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGACGAGCCGCTG-G-----------------------GATACGGCGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=50
+sequence = USER>>RF00008=50 = AF170523.1/55x3
+-------------CAAAA--G----------------TC------TGGGCTT------A------------------G-CC--ACTGATGAGCCGTTG-A-----------------------GATACGGCGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=49
+sequence = USER>>RF00008=49 = AF170519.1/55x3
+-------------CATAA--G----------------TC------TGGGCTT------A------------------G-CC--ACTGATGAGCCGTTG-A-----------------------GATACGGCGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=52
+sequence = USER>>RF00008=52 = AF170509.1/56x3
+-------------CATAA--G----------------TC------TAGGCTT------A------------------GCCC--ACTGATGAGCCGTTG-A-----------------------GATACGGCGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=51
+sequence = USER>>RF00008=51 = AF339740.1/56x3
+-------------CATAA--G----------------TC------TGGGCTT------A------------------GCCC--ACTGATGAGCCGTTG-A-----------------------GATACGGCGGAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=53
+sequence = USER>>RF00008=53 = AF339739.1/56x3
+-------------CATAA--G----------------TC------TGGGCTT------A------------------GCCC--ACTGATGAGGCGTTG-A-----------------------GATACGGCGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=54
+sequence = USER>>RF00008=54 = AJ005318.1/56x3
+-------------CATAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCGTTG-A-----------------------GATACGGTGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=57
+sequence = USER>>RF00008=57 = AJ005322.1/56x3
+-------------CATAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGACGAGCCGTTG-A-----------------------GATACGGCGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=56
+sequence = USER>>RF00008=56 = AJ241828.1/56x3
+-------------CATAA--G----------------TC------TGGGTTA------A------------------GCCC--ACTGATGAGCCGTTG-A-----------------------GATACGGCGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=61
+sequence = USER>>RF00008=61 = AJ005303.1/56x3
+-------------CAAAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCGTTG-A-----------------------GATACGGCGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=55
+sequence = USER>>RF00008=55 = AJ005319.1/56x3
+-------------CATAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCGTTG-A-----------------------GATACGGCGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=59
+sequence = USER>>RF00008=59 = AJ005298.1/56x3
+-------------CATAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCGTTG-A-----------------------GATACGGCGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=58
+sequence = USER>>RF00008=58 = AJ241831.1/56x3
+-------------CATAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCGTTG-A-----------------------GATACGGCGAAAC-----TT-----CTG---------*
+>P1;ALNS>USER>>RF00008=60
+sequence = USER>>RF00008=60 = AJ241819.1/56x3
+-------------CATAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCGTTG-A-----------------------AATACGGCGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=62
+sequence = USER>>RF00008=62 = AJ550900.1/56x3
+-------------CATAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCTTTG-C-----------------------GACAAGGCGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=63
+sequence = USER>>RF00008=63 = AJ550899.1/56x3
+-------------CATAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCTTTG-C-----------------------GATAAGGCGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=71
+sequence = USER>>RF00008=71 = AJ550912.1/56x3
+-------------CAAAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGTTGCTG-A-----------------------GATGCGACGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=72
+sequence = USER>>RF00008=72 = AJ550911.1/56x3
+-------------CAAAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGTTGCTG-A-----------------------AACGCAACGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=73
+sequence = USER>>RF00008=73 = AJ550907.1/56x3
+-------------CATAA--G----------------TC------TGGGCTT------A------------------GCCT--ACTGATGAGTCGCTG-C-----------------------GATGCGACGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=74
+sequence = USER>>RF00008=74 = AJ550906.1/56x3
+-------------CATAA--G----------------TC------TGGGCTT------A------------------GCCC--ACTGATGAGTCGCTG-C-----------------------GATGCGACGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=75
+sequence = USER>>RF00008=75 = AJ550909.1/56x3
+-------------CATAA--G----------------TC------TGGGCTT------A------------------GCCC--ACTGATGAGTTGCTG-C-----------------------GATGCAACGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=76
+sequence = USER>>RF00008=76 = M83545.1/56x3
+-------------CATAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGTCGCTG-A-----------------------AATGCGACGAAAC-----TT-----ATG---------*
+>P1;ALNS>USER>>RF00008=64
+sequence = USER>>RF00008=64 = AJ241838.1/56x3
+-------------CAAAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCTGCTG-A-----------------------AATGCGGCAAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=65
+sequence = USER>>RF00008=65 = AJ005312.1/56x3
+-------------CAAAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCGCTG-A-----------------------AATGCGGCTAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=70
+sequence = USER>>RF00008=70 = AJ241843.1/56x3
+-------------CATAA--G----------------TC------TGGGCTT------A------------------GCCC--ACTGATGAGCCACTG-A-----------------------AATGCGGCGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=66
+sequence = USER>>RF00008=66 = AF170499.1/56x3
+-------------CAAAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCGCTG-A-----------------------AATGCGGCGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=67
+sequence = USER>>RF00008=67 = AJ005310.1/56x3
+-------------CATAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCGCTG-A-----------------------AATGCGGCGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=68
+sequence = USER>>RF00008=68 = AJ241840.1/56x3
+-------------CAGAA--G----------------TC------TGGGCTA------A------------------GCCC--ACTGATGAGCCGCTG-A-----------------------AATGCGGCGAAAC-----TT-----TTG---------*
+>P1;ALNS>USER>>RF00008=69
+sequence = USER>>RF00008=69 = AJ241841.1/57x3
+-------------CAAAA--G----------------TT------TGGGCTAA-----A------------------GCCC--ACTGATGAGCCGCTG-A-----------------------AATGCGGCGAAAC-----TT-----TTG---------*
+>P1;USER>>DQ680745.1/56-3
+sequence = >DQ680745.1/56-3 = [+132+] DQ680745.1/56-3 Peach latent mosaic viroid variant 261.2, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCAA------------------A-GCCCACTGATGAGCCGTTGAGA-TA-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>ET708845.1/56-3
+sequence = >ET708845.1/56-3 = [+73+] ET708845.1/56-3 Peach latent mosaic viroid clone 223.3, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCGTTGAGA-TA-----------------------CGGCGAAACTTACG-------------------*
+>P1;USER>>DQ839564.1/56-3
+sequence = >DQ839564.1/56-3 = [+38+] DQ839564.1/56-3 Peach latent mosaic viroid clone Eg18, complete genome.
+-------------CAAAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCGTTGAGA-TA-----------------------CGGCGAAACTTTTG-------------------*
+>P1;USER>>DQ680741.1/56-3
+sequence = >DQ680741.1/56-3 = [+0+] DQ680741.1/56-3 Peach latent mosaic viroid variant 298.3, complete genome.
+-------------CATAGGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCGTTGAGA-TA-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>DQ680763.1/55-2
+sequence = >DQ680763.1/55-2 = [+13+] DQ680763.1/55-2 Peach latent mosaic viroid variant 101.3, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCTTTGAGA-CA-----------------------AGGCGAAACTTATG-------------------*
+>P1;USER>>DQ680791.1/56-3
+sequence = >DQ680791.1/56-3 = [+0+] DQ680791.1/56-3 Peach latent mosaic viroid variant 210.1, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCGTTGAAA-CA-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>ET708826.1/56-3
+sequence = >ET708826.1/56-3 = [+2+] ET708826.1/56-3 Peach latent mosaic viroid clone 151.2, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCTTTGAGA-TA-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>DQ222059.1/56-3
+sequence = >DQ222059.1/56-3 = [+4+] DQ222059.1/56-3 Peach latent mosaic viroid PC-P2.44, complete genome.
+-------------CAAAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCTTTGAGA-TA-----------------------AGGCGAAACTTTTG-------------------*
+>P1;USER>>DQ680776.1/56-3
+sequence = >DQ680776.1/56-3 = [+0+] DQ680776.1/56-3 Peach latent mosaic viroid variant 155.3, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCTT------------------A-GCCTACTGACGAGCCGTTGAGA-TA-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>GQ872141.1/56-3
+sequence = >GQ872141.1/56-3 = [+0+] GQ872141.1/56-3 Peach latent mosaic viroid isolate Laura.8, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCTT------------------A-GCCCTCTGATGAGCCGTTGAGA-CA-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>AF170519.1/55-3
+sequence = >AF170519.1/55-3 = [+5+] AF170519.1/55-3 Peach latent mosaic viroid variant #1 from Prunus persica Golden Health cultivar, complete sequence.
+-------------CATAAGTC----------------T--GG-------------GCTT------------------A-GCC-ACTGATGAGCCGTTGAGA-TA-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>GQ872140.1/56-3
+sequence = >GQ872140.1/56-3 = [+0+] GQ872140.1/56-3 Peach latent mosaic viroid isolate Laura.7, complete genome.
+-------------CATAAGCC----------------T--GG-------------GCTT------------------A-GCCCACTGATGAGCCGTTGAGA-CA-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>GQ872136.1/56-3
+sequence = >GQ872136.1/56-3 = [+1+] GQ872136.1/56-3 Peach latent mosaic viroid isolate Laura.3, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCTT------------------A-GCCCACTGATGAGCTTTTGAAA-CA-----------------------AGGCGAAACTTATG-------------------*
+>P1;USER>>DQ222075.1/56-3
+sequence = >DQ222075.1/56-3 = [+37+] DQ222075.1/56-3 Peach latent mosaic viroid isolate PC-P1.142.13, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCGCTGAAA-TG-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>DQ222070.1/56-3
+sequence = >DQ222070.1/56-3 = [+0+] DQ222070.1/56-3 Peach latent mosaic viroid isolate PC-P1.142.01, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCGCTGAAA-TG-----------------------TGGCGAAACTTATG-------------------*
+>P1;USER>>DQ222087.1/56-3
+sequence = >DQ222087.1/56-3 = [+1+] DQ222087.1/56-3 Peach latent mosaic viroid isolate PC-P1.148.18, complete genome.
+-------------CAAAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCGCTGAAA-TG-----------------------CGACGAAACTTTTG-------------------*
+>P1;USER>>AJ005312.1/56-3
+sequence = >AJ005312.1/56-3 = [+0+] AJ005312.1/56-3 Peach latent mosaic viroid, a hammerhead structure RNA, isolate LS35, variant ls16b
+-------------CAAAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCCGCTGAAA-TG-----------------------CGGCTAAACTTTTG-------------------*
+>P1;USER>>JF927892.1/56-3
+sequence = >JF927892.1/56-3 = [+18+] JF927892.1/56-3 Peach latent mosaic viroid isolate V210, complete genome.
+-------------CATAAGTC----------------T--GG-------------GCTT------------------A-GCCCACTGATGAGCCGCTGAGA-TG-----------------------CGGCGAAACTTTTG-------------------*
+>P1;USER>>AJ241843.1/56-3
+sequence = >AJ241843.1/56-3 = [+0+] AJ241843.1/56-3 peach latent mosaic viroid, varient esc10-6b
+-------------CATAAGTC----------------T--GG-------------GCTT------------------A-GCCCACTGATGAGCCACTGAAA-TG-----------------------CGGCGAAACTTTTG-------------------*
+>P1;USER>>DQ680796.1/56-3
+sequence = >DQ680796.1/56-3 = [+0+] DQ680796.1/56-3 Peach latent mosaic viroid variant 94.3, complete genome.
+-------------CATAGGTC----------------T--GG-------------GCTT------------------A-GCCCACTGATGAGCCGCTGAGA-TG-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>DQ222096.1/56-3
+sequence = >DQ222096.1/56-3 = [+0+] DQ222096.1/56-3 Peach latent mosaic viroid isolate PC-P1.148.94, complete genome.
+-------------CAAAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCTGCTGAAA-TG-----------------------CAGCGAAACTTTTG-------------------*
+>P1;USER>>AJ550911.1/56-3
+sequence = >AJ550911.1/56-3 = [+10+] AJ550911.1/56-3 Peach latent mosaic viroid complete genome, isolate PC-C28
+-------------CAAAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGTTGCTGAAA-CG-----------------------CAACGAAACTTTTG-------------------*
+>P1;USER>>AJ241838.1/56-3
+sequence = >AJ241838.1/56-3 = [+0+] AJ241838.1/56-3 peach latent mosaic viroid, varient esc10-1
+-------------CAAAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCTGCTGAAA-TG-----------------------CGGCAAAACTTTTG-------------------*
+>P1;USER>>DQ222095.1/56-3
+sequence = >DQ222095.1/56-3 = [+1+] DQ222095.1/56-3 Peach latent mosaic viroid isolate PC-P1.148.58, complete genome.
+-------------CAAAAGTT----------------T--GG-------------GCTA------------------A-GCCCACTGATGAGCTGCTGAAA-TG-----------------------CAGCGAAACTTTTG-------------------*
+>P1;USER>>AJ005305.1/56-3
+sequence = >AJ005305.1/56-3 = [+0+] AJ005305.1/56-3 Peach latent mosaic viroid, a hammerhead structure RNA, isolate Esc76906, variant esc8
+-------------CAAAAGTC----------------T--GG-------------GCTA------------------A-GCCCACTGACGAGCCGCTGGGA-TA-----------------------CGGCGAAACTTTTG-------------------*
+>P1;USER>>ET708827.1/55-2
+sequence = >ET708827.1/55-2 = [+0+] ET708827.1/55-2 Peach latent mosaic viroid clone 151.3, complete genome.
+-------------CAAAAGTC----------------T--GG-------------GCTT------------------A-GCCCACTGATGAGCCGTTGAAA-TA-----------------------CGGCGAAACTTTTG-------------------*
+>P1;USER>>AJ241841.1/57-3
+sequence = >AJ241841.1/57-3 = [+0+] AJ241841.1/57-3 peach latent mosaic viroid, varient esc10-4
+-------------CAAAAGTT----------------T--GG-------------GCTA------------------AAGCCCACTGATGAGCCGCTGAAA-TG-----------------------CGGCGAAACTTTTG-------------------*
+>P1;USER>>DQ680783.1/56-3
+sequence = >DQ680783.1/56-3 = [+1+] DQ680783.1/56-3 Peach latent mosaic viroid variant 369.4, complete genome.
+-------------AATTAGTC----------------T--GG-------------GC-A------------------AAGCCCACTGATGAGCCGTTGAGA-TA-----------------------CGGCGAAACTAATT-------------------*
+>P1;USER>>DQ680746.1/56-3
+sequence = >DQ680746.1/56-3 = [+0+] DQ680746.1/56-3 Peach latent mosaic viroid variant 261.3, complete genome.
+-------------CATAAGTC----------------T--GG-------------GC-A------------------AAGCCCACTGATGAGCCGTTGAGA-TA-----------------------CGGCGGAACTTATG-------------------*
+>P1;USER>>AF170503.1/55-3
+sequence = >AF170503.1/55-3 = [+0+] AF170503.1/55-3 Peach latent mosaic viroid variant #8 from Prunus persica Hardired cultivar, complete sequence.
+-------------CATAAGTC----------------T--GG-------------GC-T------------------TAGCC-ACTGACGAGTCGCTGGGA-TA-----------------------CGGCGAAACTTATG-------------------*
+>P1;USER>>GQ499305.1/57-4
+sequence = >GQ499305.1/57-4 = [+0+] GQ499305.1/57-4 Peach latent mosaic viroid isolate 1, complete sequence.
+-------------CATAAGTC----------------T--GG-------------GC-T------------------AAGCCCACTGATGAGTCACTGAGA-TG-----------------------TGACGAAACTTATG-------------------*
+>P1;USER>>DQ680803.1/56-3
+sequence = >DQ680803.1/56-3 = [+3+] DQ680803.1/56-3 Peach latent mosaic viroid variant 387.2, complete genome.
+-------------CAAAAGTC----------------T--GG-------------GC-T------------------AAGCCCACTGATGAGTCACTGAAA-TG-----------------------TGACGAAACTTTTG-------------------*
+>P1;USER>>DQ222099.1/57-3
+sequence = >DQ222099.1/57-3 = [+0+] DQ222099.1/57-3 Peach latent mosaic viroid isolate PC-C40.104, complete genome.
+-------------CAAAAGTC----------------T--GG-------------GCCT------------------AAGCCCACTGATGAGTTGCTGAGA-TG-----------------------CAACGAAACTTTTG-------------------*
+>P1;USER>>AJ550909.1/56-3
+sequence = >AJ550909.1/56-3 = [+0+] AJ550909.1/56-3 Peach latent mosaic viroid complete genome, isolate PC-C35
+-------------CATAAGTC----------------T--GG-------------GC-T------------------TAGCCCACTGATGAGTTGCTGCGA-TG-----------------------CAACGAAACTTATG-------------------*
+>P1;USER>>DQ680706.1/56-3
+sequence = >DQ680706.1/56-3 = [+4+] DQ680706.1/56-3 Peach latent mosaic viroid variant 377.3, complete genome.
+-------------CAAAAGTC----------------T--GG-------------GC-T------------------TAGCCCACTGATGAGTCGCTGGGA-TG-----------------------CGACGAAACTTTTG-------------------*
+>P1;USER>>GQ499321.1/57-4
+sequence = >GQ499321.1/57-4 = [+37+] GQ499321.1/57-4 Peach latent mosaic viroid isolate 17, complete sequence.
+-------------CATAAGTC----------------T--GG-------------GC-T------------------AAGCCCACTGATGAGTCGCTGGGA-TG-----------------------CGACGAAACTTATG-------------------*
+>P1;USER>>DQ222074.1/56-3
+sequence = >DQ222074.1/56-3 = [+5+] DQ222074.1/56-3 Peach latent mosaic viroid isolate PC-P1.142.12, complete genome.
+-------------CATAAGTC----------------T--GG-------------GC-T------------------AAGCCCACTGATGAGCCGCTGAGA-TG-----------------------CGACGAAACTTATG-------------------*
+>P1;USER>>AJ005312.1/282-335
+sequence = >AJ005312.1/282-335 = [+0+] AJ005312.1/282-335 Peach latent mosaic viroid, a hammerhead structure RNA, isolate LS35, variant ls16b
+-------------GATGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGATGAGTCTATGAAA-TG-----------------------AGACGAAACTCATA-------------------*
+>P1;USER>>AF170504.1/284-337
+sequence = >AF170504.1/284-337 = [+4+] AF170504.1/284-337 Peach latent mosaic viroid variant #11 from Prunus persica Redhaven cultivar, complete sequence.
+-------------GATAAGTC----------------T--GT-------------GCTA------------------A-GCACACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTTATC-------------------*
+>P1;USER>>AJ241845.1/282-335
+sequence = >AJ241845.1/282-335 = [+17+] AJ241845.1/282-335 peach latent mosaic viroid, varient esc10-13
+-------------GATGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCATG-------------------*
+>P1;USER>>DQ680798.1/273-326
+sequence = >DQ680798.1/273-326 = [+0+] DQ680798.1/273-326 Peach latent mosaic viroid variant 235.2, complete genome.
+-------------TGAGAGTC----------------T--GC-------------GCTA------------------A-GCGCACTGATGAGTCTCTGAGA-TG-----------------------AGACGAAACTCTCG-------------------*
+>P1;USER>>DQ680801.1/282-335
+sequence = >DQ680801.1/282-335 = [+2+] DQ680801.1/282-335 Peach latent mosaic viroid variant 235.4, complete genome.
+-------------TGAGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGATGAGTCTCTGAGA-TG-----------------------AGACGAAACTCTCT-------------------*
+>P1;USER>>AJ005299.1/282-335
+sequence = >AJ005299.1/282-335 = [+0+] AJ005299.1/282-335 Peach latent mosaic viroid, a hammerhead structure RNA, isolate D168, variant gds1
+-------------TAAGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGATGAATCTCTGAAA-TG-----------------------AGACGAAACTCTTG-------------------*
+>P1;USER>>AJ241847.1/281-334
+sequence = >AJ241847.1/281-334 = [+0+] AJ241847.1/281-334 peach latent mosaic viroid, varient ls11-3
+-------------GAAGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGATGAGTTTCTGAAA-TG-----------------------AGACGAAACTCTTG-------------------*
+>P1;USER>>AJ005300.1/282-335
+sequence = >AJ005300.1/282-335 = [+0+] AJ005300.1/282-335 Peach latent mosaic viroid, a hammerhead structure RNA, isolate D168, variant gds3
+-------------TAAGAGTC----------------T--GT-------------GGTA------------------A-GCACACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTG-------------------*
+>P1;USER>>AJ241823.1/282-335
+sequence = >AJ241823.1/282-335 = [+0+] AJ241823.1/282-335 peach latent mosaic viroid, varient gds6-11
+-------------AAAGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGATGAGTCTCT-AAAATG-----------------------AGACGAAACTCTTT-------------------*
+>P1;USER>>AJ241828.1/281-335
+sequence = >AJ241828.1/281-335 = [+1+] AJ241828.1/281-335 peach latent mosaic viroid, varient gds15-4s
+-------------GAAGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGATGAGTCTCTGAAAATG-----------------------AGACGAAACTCTTT-------------------*
+>P1;USER>>AJ005302.1/281-334
+sequence = >AJ005302.1/281-334 = [+0+] AJ005302.1/281-334 Peach latent mosaic viroid, a hammerhead structure RNA, isolate D168, variant gds 13
+-------------AAAGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGATGAGTCTCTGAAT-TG-----------------------AGACGAAACTCTTG-------------------*
+>P1;USER>>EF151295.1/282-335
+sequence = >EF151295.1/282-335 = [+0+] EF151295.1/282-335 Peach latent mosaic viroid isolate PL94, complete genome.
+-------------GAAGAGTC----------------T--GT-------------GCTT------------------A-GTACACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTG-------------------*
+>P1;USER>>DQ680714.1/284-337
+sequence = >DQ680714.1/284-337 = [+38+] DQ680714.1/284-337 Peach latent mosaic viroid variant 124.3, complete genome.
+-------------AAAGAGTC----------------T--GT-------------GCTT------------------A-GCACACTGACGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTT-------------------*
+>P1;USER>>HM185107.1/282-335
+sequence = >HM185107.1/282-335 = [+53+] HM185107.1/282-335 Peach latent mosaic viroid isolate 98.3s2 clonPL01, complete genome.
+-------------AAAGAGTC----------------T--GT-------------GCAT------------------A-GCACACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTT-------------------*
+>P1;USER>>DQ680724.1/283-336
+sequence = >DQ680724.1/283-336 = [+63+] DQ680724.1/283-336 Peach latent mosaic viroid variant 133''.3, complete genome.
+-------------AGAGAGTC----------------T--GT-------------GCTT------------------A-GCACACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCCTC-------------------*
+>P1;USER>>ET708829.1/283-336
+sequence = >ET708829.1/283-336 = [+5+] ET708829.1/283-336 Peach latent mosaic viroid clone 153.2, complete genome.
+-------------GAAGAGTC----------------T--GT-------------GCTT------------------A-GCACACTGATGAGTCTCTGAAG-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>GT825983.1/281-334
+sequence = >GT825983.1/281-334 = [+3+] GT825983.1/281-334 Peach latent mosaic viroid clone PLMVd-2tun, complete genome.
+-------------GAAGAGTC----------------A--GT-------------GCTT------------------A-GCACACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>ET708839.1/283-336
+sequence = >ET708839.1/283-336 = [+23+] ET708839.1/283-336 Peach latent mosaic viroid clone 215.3, complete genome.
+-------------GAAGAGTC----------------T--GC-------------GCTT------------------A-GCGCACTGATGAGTCTCTGAAA-GG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>DQ222072.1/281-334
+sequence = >DQ222072.1/281-334 = [+29+] DQ222072.1/281-334 Peach latent mosaic viroid isolate PC-P1.142.09, complete genome.
+-------------AAAGAGTC----------------T--GC-------------GCTA------------------A-GCGCACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>DQ680770.1/283-336
+sequence = >DQ680770.1/283-336 = [+1+] DQ680770.1/283-336 Peach latent mosaic viroid variant 66.3, complete genome.
+-------------GAGGAGTC----------------T--GC-------------GCTA------------------A-GCGCACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>DQ680720.1/283-336
+sequence = >DQ680720.1/283-336 = [+1+] DQ680720.1/283-336 Peach latent mosaic viroid variant 353.2, complete genome.
+-------------GAAGAGTC----------------T--GC-------------GCTT------------------A-GCGCACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCATT-------------------*
+>P1;USER>>EF151298.1/281-334
+sequence = >EF151298.1/281-334 = [+0+] EF151298.1/281-334 Peach latent mosaic viroid isolate PL133A, complete genome.
+-------------GAAGAGTT----------------T--GT-------------GCTT------------------A-GCACACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTT-------------------*
+>P1;USER>>DQ222094.1/282-335
+sequence = >DQ222094.1/282-335 = [+1+] DQ222094.1/282-335 Peach latent mosaic viroid isolate PC-P1.148.44, complete genome.
+-------------GAAGAGTC----------------T--GC-------------GCTA------------------A-GCGCATTGACGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTT-------------------*
+>P1;USER>>DQ222060.1/281-334
+sequence = >DQ222060.1/281-334 = [+1+] DQ222060.1/281-334 Peach latent mosaic viroid PC-P2.46, complete genome.
+-------------GAAGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGACGAGTCTTTGAGA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>DQ680763.1/282-335
+sequence = >DQ680763.1/282-335 = [+4+] DQ680763.1/282-335 Peach latent mosaic viroid variant 101.3, complete genome.
+-------------GAAGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGACGAGTCTTTGAAA-TA-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>DQ680806.1/284-337
+sequence = >DQ680806.1/284-337 = [+3+] DQ680806.1/284-337 Peach latent mosaic viroid variant 387.1, complete genome.
+-------------GAAGAGTC----------------T--GT-------------GCTA------------------A-GCACACTGACGAGTCCCTGAGA-TG-----------------------GGACGAAACTCTTC-------------------*
+>P1;USER>>DQ680774.1/284-337
+sequence = >DQ680774.1/284-337 = [+0+] DQ680774.1/284-337 Peach latent mosaic viroid variant 369.1, complete genome.
+-------------GAAGAGTC----------------T--GC-------------GCTA------------------A-GCGCACTGACGAGTCCTTGAGA-TA-----------------------GGACGAAACTCTTC-------------------*
+>P1;USER>>AJ241839.1/282-334
+sequence = >AJ241839.1/282-334 = [+0+] AJ241839.1/282-334 peach latent mosaic viroid, varient esc10-2
+-------------GATGAGTC-------------------GT-------------GCTA------------------A-GCACACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCATA-------------------*
+>P1;USER>>DQ680743.1/283-335
+sequence = >DQ680743.1/283-335 = [+0+] DQ680743.1/283-335 Peach latent mosaic viroid variant 298.4, complete genome.
+-------------GAAGAGTC-------------------GT-------------GCTA------------------A-GCACACTGACGAGTCTCCGAAA-TG-----------------------AGACGAAACTCTTT-------------------*
+>P1;USER>>GT825982.1/280-333
+sequence = >GT825982.1/280-333 = [+0+] GT825982.1/280-333 Peach latent mosaic viroid clone PLMVd-1tun, complete genome.
+-------------GAAGAGTC----------------T--AT-------------GCTA------------------A-GCACACTGACGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>EF151294.1/282-335
+sequence = >EF151294.1/282-335 = [+0+] EF151294.1/282-335 Peach latent mosaic viroid isolate PL31A, complete genome.
+-------------GAAGAGTC----------------T--GT-------------GCTT------------------A-GCACACTGACGAGTCCCTGAAA-CG-----------------------AGACGAAACTCTTA-------------------*
+>P1;USER>>DQ680707.1/284-337
+sequence = >DQ680707.1/284-337 = [+5+] DQ680707.1/284-337 Peach latent mosaic viroid variant 377.4, complete genome.
+-------------GAAAGGTC----------------T--GC-------------GCTT------------------A-GCGCACTGATGAGTTCCTGAAA-TG-----------------------GAACGAAACCTTTC-------------------*
+>P1;USER>>GQ499312.1/284-337
+sequence = >GQ499312.1/284-337 = [+1+] GQ499312.1/284-337 Peach latent mosaic viroid isolate 8, complete sequence.
+-------------GAAAGGTC----------------T--GT-------------GCTT------------------A-GCACACTGATGAGTTCCTGCAA-TG-----------------------GAACGAAACCTTTC-------------------*
+>P1;USER>>ET708846.1/282-334
+sequence = >ET708846.1/282-334 = [+6+] ET708846.1/282-334 Peach latent mosaic viroid clone 99.5, complete genome.
+-------------GAAAGGTC-------------------GT-------------GCTT------------------A-GCACACTGATGAGTTCCTGAAA-TG-----------------------GAACGAAACCTTTC-------------------*
+>P1;USER>>GQ499322.1/283-336
+sequence = >GQ499322.1/283-336 = [+22+] GQ499322.1/283-336 Peach latent mosaic viroid isolate 18, complete sequence.
+-------------TAAAGGTC----------------T--GT-------------GCTT------------------A-GCACACTGACGAGTTCCTGAAA-TG-----------------------GAACGAAACCTTTC-------------------*
+>P1;USER>>GQ499321.1/283-335
+sequence = >GQ499321.1/283-335 = [+0+] GQ499321.1/283-335 Peach latent mosaic viroid isolate 17, complete sequence.
+-------------GAAAGGTC-------------------GC-------------GCTA------------------A-GCGCACTGATGAGTTCCTGAAA-TG-----------------------GAACGAAACCTTTG-------------------*
+>P1;USER>>DQ680688.1/282-335
+sequence = >DQ680688.1/282-335 = [+1+] DQ680688.1/282-335 Peach latent mosaic viroid variant 143.1, complete genome.
+-------------GAAAGGTC----------------T--GT-------------GTTA------------------A-GCACACTGATGAGTTCCTGAAA-TG-----------------------GAACGAAACCTTTT-------------------*
+>P1;USER>>DQ680703.1/284-338
+sequence = >DQ680703.1/284-338 = [+0+] DQ680703.1/284-338 Peach latent mosaic viroid variant 210.2, complete genome.
+-------------GAAAGGTC----------------T--GT-------------GCTT------------------A-GCACACTGATGAGTTCCTGAAAATG-----------------------GAACGAAACCTTTG-------------------*
+>P1;USER>>DQ222095.1/282-335
+sequence = >DQ222095.1/282-335 = [+10+] DQ222095.1/282-335 Peach latent mosaic viroid isolate PC-P1.148.58, complete genome.
+-------------GAAGAGTC----------------T--GC-------------GCTA------------------A-GCGCACTGACGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTA-------------------*
+>P1;USER>>DQ222090.1/282-337
+sequence = >DQ222090.1/282-337 = [+0+] DQ222090.1/282-337 Peach latent mosaic viroid isolate PC-P1.148.73, complete genome.
+-------------GAAGAGTC----------------TCTGC-------------GCTA------------------A-GCGCACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>GQ872149.1/282-335
+sequence = >GQ872149.1/282-335 = [+22+] GQ872149.1/282-335 Peach latent mosaic viroid isolate Laura.16, complete genome.
+-------------GGAGAGTC----------------T--GC-------------GCTT------------------A-GCGCACTGATGAGTCTTTGAGA-TA-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>AJ550901.1/282-334
+sequence = >AJ550901.1/282-334 = [+2+] AJ550901.1/282-334 Peach latent mosaic viroid complete genome, isolate PC-C38
+-------------GAAGAGTC-------------------GC-------------GCTA------------------A-GCGCACTGATGAGTCTTTGAGA-TA-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>ET708837.1/283-335
+sequence = >ET708837.1/283-335 = [+0+] ET708837.1/283-335 Peach latent mosaic viroid clone 215.1, complete genome.
+-------------GAAGAGTC-------------------GC-------------GCTT------------------A-GCGTACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>AJ550907.1/281-333
+sequence = >AJ550907.1/281-333 = [+8+] AJ550907.1/281-333 Peach latent mosaic viroid complete genome, isolate PC-C42
+-------------AAAGAGTC-------------------GC-------------GCTT------------------A-GCGCACTGATGAGTCTCTGAGA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>AJ550910.1/282-336
+sequence = >AJ550910.1/282-336 = [+0+] AJ550910.1/282-336 Peach latent mosaic viroid complete genome, isolate PC-C37
+-------------GAAGAGTC-----------------CTGC-------------GCTT------------------A-GCGCACTGACGAGTCTCTGAGA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>AJ550908.1/281-334
+sequence = >AJ550908.1/281-334 = [+0+] AJ550908.1/281-334 Peach latent mosaic viroid complete genome, isolate PC-C30
+-------------GAAGAGTC------------------TGC-------------GCTT------------------A-GCGCACTCATGAGTCTCTGAGA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>ET708828.1/283-335
+sequence = >ET708828.1/283-335 = [+0+] ET708828.1/283-335 Peach latent mosaic viroid clone 153.1, complete genome.
+-------------GAAGAGTC-------------------GT-------------GCTT------------------A-GCACACTGATGAGTCTCTAAAA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>HM185108.1/282-334
+sequence = >HM185108.1/282-334 = [+0+] HM185108.1/282-334 Peach latent mosaic viroid isolate 98.3s1clonPR02, complete genome.
+-------------AAAGAGTC-------------------GT-------------GCAT------------------A-GCACACTGATGAGTCTCTGAAA-TG-----------------------AGACGAAACTCTTT-------------------*
+>P1;USER>>AJ550906.1/282-334
+sequence = >AJ550906.1/282-334 = [+33+] AJ550906.1/282-334 Peach latent mosaic viroid complete genome, isolate PC-C36
+-------------GAAGAGTC-------------------GT-------------GCTT------------------A-GCACACTGATGAGTCTCTGAGA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>DQ839565.1/284-336
+sequence = >DQ839565.1/284-336 = [+9+] DQ839565.1/284-336 Peach latent mosaic viroid clone Eg19, complete genome.
+-------------GAAGAGTC-------------------GT-------------GCTA------------------A-GCACACTGATGAGTCTCTGAGA-TG-----------------------AGACGAAACTCTTC-------------------*
+>P1;USER>>ABLX01073025.1/18-72
+sequence = >ABLX01073025.1/18-72 = [+0+] ABLX01073025.1/18-72 Marine metagenome 33020875, whole genome shotgun sequence.
+-------------CCACCGTC----------------TACAGCTT-------------T------------------AGCTGTACTGATGAGCCTTAT--------------------------CTAAGGCGAAACGGAAT-------------------*
+>P1;USER>>AEVX01011239.1/17322-17397
+sequence = >AEVX01011239.1/17322-17397 = [+0+] AEVX01011239.1/17322-17397 Acromyrmex echinatior contig11239, whole genome shotgun sequence.
+-------------CAGGCGTC----------------TAAAGCAGGACGCT-ACAGCAT------------------CGCTTTACTGATGAGTCTAATAGTGTG--GG---------------ACCGAGACGAAACGCCAA-------------------*
+>P1;USER>>AEVX01014653.1/67501-67425
+sequence = >AEVX01014653.1/67501-67425 = [+0+] AEVX01014653.1/67501-67425 Acromyrmex echinatior contig14653, whole genome shotgun sequence.
+-------------CAGGCGTC----------------TAAGGTAGGTGCCACACTACAT------------------CGTCTTACTGATGAGTCTAATAGTGTG--GA---------------ACCGAGACGAAACGCCCC-------------------*
+>P1;USER>>AEVX01003024.1/5648-5572
+sequence = >AEVX01003024.1/5648-5572 = [+0+] AEVX01003024.1/5648-5572 Acromyrmex echinatior contig3024, whole genome shotgun sequence.
+-------------TAGGCGTC----------------TAAGGCAGGACCCACACTACAT------------------CGTCTTACTGATGAGTCTAGTAGTGTG--GG---------------ATCGGGACGAAACGCCGC-------------------*
+>P1;USER>>AEKZ01001651.1/3092-3166
+sequence = >AEKZ01001651.1/3092-3166 = [+0+] AEKZ01001651.1/3092-3166 Apis florea Contig1651, whole genome shotgun sequence.
+-------------CCAGCGTC----------------TAAGGCAGGGGCCTGTTAGT-A------------------AGCCTTACTGATGAGTCCTA-TGGCAG--GC---------------CCCAGGACGAAACGCTTT-------------------*
+>P1;USER>>AFJA01002040.1/29870-29796
+sequence = >AFJA01002040.1/29870-29796 = [+0+] AFJA01002040.1/29870-29796 Megachile rotundata contig_0070088, whole genome shotgun sequence.
+-------------CCCGCGTC----------------TAAGGCAGGGGCCTGTTAGG-A------------------TGCCTTACTGACGAGTCTAACTAGCAG--GT---------------CCC-GGACGAAACGCGCT-------------------*
+>P1;USER>>AADG06000508.1/14934-15008
+sequence = >AADG06000508.1/14934-15008 = [+0+] AADG06000508.1/14934-15008 Apis mellifera strain DH4 Contig508, whole genome shotgun sequence.
+-------------CCAGCGTC----------------TAAGGCAGGGGCCTGTCGGT-A------------------AGCCTTACTGATGAGTCCTA-TGGCAG--GC---------------CCCAGGACGAAACGCTTT-------------------*
+>P1;USER>>AFJA01006950.1/12750-12677
+sequence = >AFJA01006950.1/12750-12677 = [+0+] AFJA01006950.1/12750-12677 Megachile rotundata contig_0306076, whole genome shotgun sequence.
+-------------CCTGCGTC----------------TAAGGCAAGGGCCTGCTAGA-A------------------CGCCTTACTGATGAGTCT-AGTAGCAG--GT---------------CCC-AGACGAAACGTGTT-------------------*
+>P1;USER>>AFJA01001167.1/3143-3216
+sequence = >AFJA01001167.1/3143-3216 = [+0+] AFJA01001167.1/3143-3216 Megachile rotundata contig_0048088, whole genome shotgun sequence.
+-------------CCTACGTC----------------TAAGGCGAGGACCTGCTAGA-A------------------CGCCTTACTGATGAGTCC-ACTAGCAG--GC---------------CCC-GGACGAAACGTTCT-------------------*
+>P1;USER>>AFJA01000378.1/278551-278624
+sequence = >AFJA01000378.1/278551-278624 = [+0+] AFJA01000378.1/278551-278624 Megachile rotundata contig_0022006, whole genome shotgun sequence.
+-------------CCAGCGTC----------------TAAGGCAAGGACCTGCTAGA-A------------------TGCCTTACTGACGAGTCC-ACTAGCAG--GT---------------CCC-GGACGAAACGCTCT-------------------*
+>P1;USER>>AELG01009913.1/673-747
+sequence = >AELG01009913.1/673-747 = [+4+] AELG01009913.1/673-747 Bombus terrestris Contig9917, whole genome shotgun sequence.
+-------------ATTGTGTC----------------TAAGGCAGGAGCCTGCTAGGTA------------------AACCTTACTGATGAGTCC-ACTAGCAG--GC---------------TCT-GGACGAAACACACT-------------------*
+>P1;USER>>AELG01005801.1/14146-14076
+sequence = >AELG01005801.1/14146-14076 = [+1+] AELG01005801.1/14146-14076 Bombus terrestris Contig5801, whole genome shotgun sequence.
+-------------ACTGTGTC----------------TAAGGCAAGAGCCTGCTAGG----------------------CCTTACTGATGAGTCC-ACTAGCAG--GC---------------TCT-GGACGAAACACTTT-------------------*
+>P1;USER>>AEQM02005578.1/562-488
+sequence = >AEQM02005578.1/562-488 = [+0+] AEQM02005578.1/562-488 Bombus impatiens ctg_0413002, whole genome shotgun sequence.
+-------------TCTACGTC----------------TAAGGTAGAGACTACCGGGTAT------------------AGCCTTACTGACGAGTCC-ACCGGTAG---T---------------CCCGGGACGAAACGCAAA-------------------*
+>P1;USER>>AEQM02003203.1/392003-392077
+sequence = >AEQM02003203.1/392003-392077 = [+0+] AEQM02003203.1/392003-392077 Bombus impatiens ctg_0203023, whole genome shotgun sequence.
+-------------TCTACGTC----------------TAAGGTAGAGACTACCGGGTAT------------------AGCCTTACTGACGAGTCC-ACCTGTAG---T---------------CCCGGGACGAAACGCAAA-------------------*
+>P1;USER>>AEQM02001105.1/4688-4762
+sequence = >AEQM02001105.1/4688-4762 = [+0+] AEQM02001105.1/4688-4762 Bombus impatiens ctg_0083014, whole genome shotgun sequence.
+-------------TCTACGTC----------------TAAGGCAGGGACTACCGGATAT------------------AGCCTTACTGACGAGTCC-ACTGGTAG---T---------------CTCGGGACGAAACGCAAA-------------------*
+>P1;USER>>AEQM02007450.1/996-922
+sequence = >AEQM02007450.1/996-922 = [+0+] AEQM02007450.1/996-922 Bombus impatiens ctg_0618004, whole genome shotgun sequence.
+-------------TCTACGTC----------------TAAGGCAGGGACCACCGGGTAT------------------AGCCTTACTGACGAGTCC-ACTGGTAG---T---------------CCTGGGACGAAACGCAAC-------------------*
+>P1;USER>>AEQM02008319.1/21964-22038
+sequence = >AEQM02008319.1/21964-22038 = [+19+] AEQM02008319.1/21964-22038 Bombus impatiens ctg_0714001, whole genome shotgun sequence.
+-------------TCTACGTC----------------TAAGGCAGGGACTACCGGGCAT------------------AGCCTTACTGACGAGTCC-ACCGGTAG---T---------------TCCGGGACGAAACGCAAC-------------------*
+>P1;USER>>AEQM02003027.1/4120-4194
+sequence = >AEQM02003027.1/4120-4194 = [+0+] AEQM02003027.1/4120-4194 Bombus impatiens ctg_0196003, whole genome shotgun sequence.
+-------------TCTACGTC----------------TAAGGCAGAGACTACCGGGCAT------------------AGCCTTACTGACGAGTCC-ACCGATAG---T---------------CCCGGGACGAAACGCAAC-------------------*
+>P1;USER>>AEQM02004294.1/13360-13434
+sequence = >AEQM02004294.1/13360-13434 = [+0+] AEQM02004294.1/13360-13434 Bombus impatiens ctg_0276006, whole genome shotgun sequence.
+-------------TCTACGTC----------------TAAGGCAGGGGATACCGGGCAT------------------AGCCTTACTGACGAGTCC-ATCGGTAG---T---------------CCCGGGACGAAACGCACG-------------------*
+>P1;USER>>AEQM02008878.1/440-514
+sequence = >AEQM02008878.1/440-514 = [+0+] AEQM02008878.1/440-514 Bombus impatiens ctg_0872006, whole genome shotgun sequence.
+-------------TCTACGTC----------------TAAGGCAGGGCCTACCGGGCAC------------------AGCCTTACTGACGAGTCC-ACCGGTAG---T---------------CCCGGGACGAAACGCAAC-------------------*
+>P1;USER>>AEQM02003276.1/6161-6231
+sequence = >AEQM02003276.1/6161-6231 = [+0+] AEQM02003276.1/6161-6231 Bombus impatiens ctg_0213001, whole genome shotgun sequence.
+-------------TCTACGTC----------------TAAGGCAGGGACGGAC----AT------------------AGCCTTACTGACGAGTCC-ACCGGTAG---T---------------CCCGGGACGAAACGAAAA-------------------*
+>P1;USER>>AEQM02006884.1/198-272
+sequence = >AEQM02006884.1/198-272 = [+0+] AEQM02006884.1/198-272 Bombus impatiens ctg_0540002, whole genome shotgun sequence.
+-------------TCTACGTC----------------TAAGGCAGGGACTACCGAGTAT------------------AGCCTTACTGACGAGTCC-AGCAGTAG---T---------------CCCGGGACGAAACGTACC-------------------*
+>P1;USER>>AADG06003428.1/18474-18399
+sequence = >AADG06003428.1/18474-18399 = [+1+] AADG06003428.1/18474-18399 Apis mellifera strain DH4 Contig3428, whole genome shotgun sequence.
+-------------TTAACGTC----------------TAGGGCAGGGGTTGTCAGTCGT------------------AGCCCTACTGATGAGTCTGGCTGGCAA---T---------------CCCGAGACGAAACGTACG-------------------*
+>P1;USER>>AADG06003428.1/18768-18693
+sequence = >AADG06003428.1/18768-18693 = [+1+] AADG06003428.1/18768-18693 Apis mellifera strain DH4 Contig3428, whole genome shotgun sequence.
+-------------CCAACGTC----------------TAGGGCAGGGTTTGTCAGTCGT------------------AGCCCTACTGATGAGTCTGGCTGACAA---T---------------CCCGAGACGAAACGTGTT-------------------*
+>P1;USER>>AGTN01685281.1/143-199
+sequence = >AGTN01685281.1/143-199 = [+0+] AGTN01685281.1/143-199 Bioreactor metagenome PBDCA2_GBB5CE401BO5Q2_left, whole genome shotgun sequence.
+---------------------------------------------CGGCCGTCTGCGGT------------------TACCGCACTGATGATGGATGCTGAAAT---G---------------C---AACCGAAACGGGAA-------------------*
+>P1;USER>>AGCE01120312.1/6570-6510
+sequence = >AGCE01120312.1/6570-6510 = [+0+] AGCE01120312.1/6570-6510 Saimiri boliviensis boliviensis contig120312, whole genome shotgun sequence.
+---------------------------------------------TGTGAGTCTGTGCC------------------AGGCACTCTGTTGAGT--TCCTGAGATCCGT---------------CCCTGAACGAAACTGACA-------------------*
+>P1;USER>>CABG01000054.1/628065-628007
+sequence = >CABG01000054.1/628065-628007 = [+0+] CABG01000054.1/628065-628007 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0137, strain Puerto Rico
+-------------ATCAAATC-----------------------TGAAGTGCAGGTACA------------------TC--CAACTGATGAGTCCGAAA--------------------------TAGGACGAAACTTGTG-------------------*
+>P1;USER>>HE601627.1/29682777-29682706
+sequence = >HE601627.1/29682777-29682706 = [+0+] HE601627.1/29682777-29682706 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+TATGAGTCCTGGAGTGAACTC-----------------------TGAGGTGCAATCACA------------------TT--CAGCTGAAGAGTCCCAAA--------------------------TAGGACGAAACTTGTG-------------------*
+>P1;USER>>HE601630.1/8725315-8725373
+sequence = >HE601630.1/8725315-8725373 = [+0+] HE601630.1/8725315-8725373 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+-------------AACAAGTC-----------------------TGAAATGCAGGTACA------------------TT--CATCTGACGAGTCCCAAA--------------------------TAGGACGAAACATGCG-------------------*
+>P1;USER>>HE601631.1/20611687-20611629
+sequence = >HE601631.1/20611687-20611629 = [+0+] HE601631.1/20611687-20611629 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+-------------ATCAACTC-----------------------TGAGATGCAGGTACA------------------TT--CAGCTGACGAGTCCCAAA--------------------------TAGGACGAAACTTGGG-------------------*
+>P1;USER>>CABG01000002.1/462343-462285
+sequence = >CABG01000002.1/462343-462285 = [+0+] CABG01000002.1/462343-462285 Schistosoma mansoni, WGS project CABG00000000 data, chromosome 1 unplaced supercontig 0034, strain Puerto Rico
+-------------TGCATCTC-----------------------GGAGTTGATGTTCAC------------------TC--CAGCTGATGAGTCCCAAA--------------------------TAGGACGAAACGTGCG-------------------*
+>P1;USER>>HE601627.1/13820890-13820813
+sequence = >HE601627.1/13820890-13820813 = [+0+] HE601627.1/13820890-13820813 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+-------------TTCGAGTCCTGG----AGTGAGCATCAACTCTGACATGCTAGTACA------------------TC--CGGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGCGCG-------------------*
+>P1;USER>>CABG01000188.1/60875-60956
+sequence = >CABG01000188.1/60875-60956 = [+0+] CABG01000188.1/60875-60956 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0321, strain Puerto Rico
+-------------TTCGAGTCCTGGTTAGAGTGAACATAAACTCCGAGATGCAAGTACA------------------TC--CAGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGCGCG-------------------*
+>P1;USER>>HE601628.1/7143946-7143888
+sequence = >HE601628.1/7143946-7143888 = [+0+] HE601628.1/7143946-7143888 Schistosoma mansoni strain Puerto Rico chromosome 5, complete genome
+-------------AACGAGTC-TGG----------------------GATACAGGTACA------------------TC--CAGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGCGCG-------------------*
+>P1;USER>>CABG01000047.1/203569-203510
+sequence = >CABG01000047.1/203569-203510 = [+0+] CABG01000047.1/203569-203510 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0113, strain Puerto Rico
+-------------ACTGAGTCCTGA----------------------GATGCAGGTACA------------------TC--CAGCTGATGAGTCCCAAA--------------------------TAGGACGAAACGCGCG-------------------*
+>P1;USER>>CABG01000105.1/6809-6867
+sequence = >CABG01000105.1/6809-6867 = [+0+] CABG01000105.1/6809-6867 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0225, strain Puerto Rico
+-------------AACAAGTC-----------------------TGAGATGCAGGTTCA------------------TT--CAGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGTGCG-------------------*
+>P1;USER>>HE601628.1/8069827-8069885
+sequence = >HE601628.1/8069827-8069885 = [+2+] HE601628.1/8069827-8069885 Schistosoma mansoni strain Puerto Rico chromosome 5, complete genome
+-------------AACAAGTC-----------------------TGAGATGCAGGTACA------------------TC--CAGCTGATGAGTCCCAAA--------------------------TAGGACGAAACGTGTG-------------------*
+>P1;USER>>HE601624.1/3560715-3560775
+sequence = >HE601624.1/3560715-3560775 = [+0+] HE601624.1/3560715-3560775 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+-------------ATCAAGTC-----------------------TGAGATGCAGGTACA------------------TC--CAGCTGACGAGTCCCAAAAA------------------------TAGGACGAAACGTGCG-------------------*
+>P1;USER>>HE601631.1/26113316-26113258
+sequence = >HE601631.1/26113316-26113258 = [+1+] HE601631.1/26113316-26113258 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+-------------TGTGCGTATTGC----CT---------------------AGATAAA------------------GCGTTAGCTGACGAGTCCCAGA--------------------------TAGGACGAAACGCGCG-------------------*
+>P1;USER>>HE601625.1/29418279-29418202
+sequence = >HE601625.1/29418279-29418202 = [+0+] HE601625.1/29418279-29418202 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+-------------TTCGAGTCTTGG----AGTGAACATCAACTCTGGGATACAGGTAAA------------------TC--CAGCTGACGAGTCTCAAA--------------------------TAAGACGAAACGCGTG-------------------*
+>P1;USER>>CABG01000043.1/1254038-1253984
+sequence = >CABG01000043.1/1254038-1253984 = [+0+] CABG01000043.1/1254038-1253984 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0062, strain Puerto Rico
+-------------TATGCGTATTG---------------------------CAGGTACA------------------TC--TAGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGCGTG-------------------*
+>P1;USER>>HE601624.1/41701520-41701577
+sequence = >HE601624.1/41701520-41701577 = [+0+] HE601624.1/41701520-41701577 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+-------------CGCGCGT------------------------TTCGACGCAGGTACA------------------TG--CAGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGCGCG-------------------*
+>P1;USER>>HE601626.1/468262-468203
+sequence = >HE601626.1/468262-468203 = [+0+] HE601626.1/468262-468203 Schistosoma mansoni strain Puerto Rico chromosome 3, complete genome
+-------------GTTTCGTCCT----------------------GAGATGCAGGTATA------------------TC--CAGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGCACG-------------------*
+>P1;USER>>HE601629.1/16475038-16475115
+sequence = >HE601629.1/16475038-16475115 = [+0+] HE601629.1/16475038-16475115 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+-------------GATGAGTCCTAG----AGTGAACATCAACTGTGAGATGCAGGTATA------------------TC--TAGCTGATGAGTCCCAAA--------------------------TAGGACGAAACACGCG-------------------*
+>P1;USER>>HE601630.1/4870341-4870264
+sequence = >HE601630.1/4870341-4870264 = [+0+] HE601630.1/4870341-4870264 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+-------------TTCGAGTCCTGA----AGTGAACATCGACTTTGGCATGCAATTATG------------------TT--CGGCTGATGGGTCCCAAA--------------------------TAGGGCGAAACTTGAG-------------------*
+>P1;USER>>HE601628.1/8559227-8559285
+sequence = >HE601628.1/8559227-8559285 = [+0+] HE601628.1/8559227-8559285 Schistosoma mansoni strain Puerto Rico chromosome 5, complete genome
+-------------TTCGAATCCTGG----ATTAAG-------------ATATA------------------------TC--CAGCTGATGAGTCCCAAA--------------------------TAGGACGAAAAGCGGG-------------------*
+>P1;USER>>HE601625.1/31729099-31729163
+sequence = >HE601625.1/31729099-31729163 = [+0+] HE601625.1/31729099-31729163 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+-------------TTCAAGTCCTGG----AATGAG-------------ATGCAGGTTCA------------------TC--TAACTGACGAGTCCCAAA--------------------------TAGGACGAAACTGGAT-------------------*
+>P1;USER>>HE601629.1/18534607-18534548
+sequence = >HE601629.1/18534607-18534548 = [+0+] HE601629.1/18534607-18534548 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+-------------TTCGAGTCCTGG----AGTG------------------CAGATACA------------------TC--CAGCTGACGAGTCCCAAA--------------------------TAGGATGAAACTTCCA-------------------*
+>P1;USER>>HE601629.1/17035532-17035609
+sequence = >HE601629.1/17035532-17035609 = [+0+] HE601629.1/17035532-17035609 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+-------------TTCGAGTCGTGG----AGTGAACATCAACTCTGAGATGCAGGTACA------------------TC--CATCTGACGAGTCCAAAA--------------------------TAGGACGAAACGCGAG-------------------*
+>P1;USER>>CABG01000094.1/343533-343597
+sequence = >CABG01000094.1/343533-343597 = [+0+] CABG01000094.1/343533-343597 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0208, strain Puerto Rico
+-------------TTCGAGTCCTGG----AGTGA-------------GATTCAGGTACA------------------TC--CAGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGTGTG-------------------*
+>P1;USER>>HE601627.1/5024352-5024407
+sequence = >HE601627.1/5024352-5024407 = [+0+] HE601627.1/5024352-5024407 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+-------------ACCGTGTCCCGG----AGCGA----------------------ACA------------------TC--TAGCTGATGAGTCCCAGA--------------------------TAGGACGAAACGTGTG-------------------*
+>P1;USER>>HE601624.1/54420450-54420395
+sequence = >HE601624.1/54420450-54420395 = [+0+] HE601624.1/54420450-54420395 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+-------------TTCGAGTCCCGG----AGTGAACATCCA------------------------------------------GCTGACGAGTCCCAAA--------------------------TAGAACGAAACACGGG-------------------*
+>P1;USER>>HE601630.1/659323-659384
+sequence = >HE601630.1/659323-659384 = [+0+] HE601630.1/659323-659384 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+-------------TTCGAGTCCCAG----AGTGAACATCAA----------------CA------------------TC--CGGCCGACGAGTCCGAAA--------------------------TAGGACGAAACGCGAG-------------------*
+>P1;USER>>CABG01000043.1/809441-809364
+sequence = >CABG01000043.1/809441-809364 = [+0+] CABG01000043.1/809441-809364 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0062, strain Puerto Rico
+-------------TTCGAGTCCTAG----AGTGAACATCAATTCTGATATGCAATTACA------------------TC--CAGCTGACGGGTCCCAAA--------------------------TAGGACGAAACTCGTG-------------------*
+>P1;USER>>HE601631.1/36374295-36374237
+sequence = >HE601631.1/36374295-36374237 = [+0+] HE601631.1/36374295-36374237 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+-------------TTCGAGTCCTAG----AGTGAACATCA-------------------------------------TC--CAGCTGACGAGTCCCAAA--------------------------TAGGACGAAACACGCG-------------------*
+>P1;USER>>HE601630.1/2806341-2806264
+sequence = >HE601630.1/2806341-2806264 = [+0+] HE601630.1/2806341-2806264 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+-------------TTCGAGTCCCAG----AGTGAACATCAACTCTAAGATGCAGATATG------------------TC--CAGCTGACGAGTCCCGAA--------------------------TAGGACGAAACTCGCG-------------------*
+>P1;USER>>CABG01000022.1/1111176-1111099
+sequence = >CABG01000022.1/1111176-1111099 = [+1+] CABG01000022.1/1111176-1111099 Schistosoma mansoni, WGS project CABG00000000 data, chromosome 3 unplaced supercontig 0083, strain Puerto Rico
+-------------TTCGAGTCCCAG----AGTGAACGTCAACTCTGAGATGCAGGTACA------------------TC--CAGCTGACGAGTCCCGAA--------------------------TAGGACGAAACTCGCG-------------------*
+>P1;USER>>HE601631.1/1061500-1061559
+sequence = >HE601631.1/1061500-1061559 = [+0+] HE601631.1/1061500-1061559 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+-------------TTCGAGTTCCAG----AGTGTA------------------GGTACA------------------TC--CGGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGCGCG-------------------*
+>P1;USER>>CABG01000218.1/9143-9069
+sequence = >CABG01000218.1/9143-9069 = [+0+] CABG01000218.1/9143-9069 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0357, strain Puerto Rico
+-------------TTCGAGTCCCAG----AGTGGACATCAACTCTGAGATGACGA---G------------------TC--TGGCTGACGAGTCCCGAA--------------------------CAGGACGAAACGCGCG-------------------*
+>P1;USER>>HE601625.1/11328243-11328320
+sequence = >HE601625.1/11328243-11328320 = [+0+] HE601625.1/11328243-11328320 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+-------------TTCGAGTCCTAG----AGTGAGCATCAACTCTGAGATGCAGGTACA------------------TC--TAGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGCGCG-------------------*
+>P1;USER>>HE601627.1/19521801-19521878
+sequence = >HE601627.1/19521801-19521878 = [+0+] HE601627.1/19521801-19521878 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+-------------TTCGAGTCCTAG----AGTGAACATCAACTCTGAGATGCAGGTACA------------------TC--TAGCTGATGAGTCCCGAA--------------------------TAGGACGAAACGCGCA-------------------*
+>P1;USER>>CABG01000003.1/1364784-1364861
+sequence = >CABG01000003.1/1364784-1364861 = [+0+] CABG01000003.1/1364784-1364861 Schistosoma mansoni, WGS project CABG00000000 data, chromosome 1 unplaced supercontig 0071, strain Puerto Rico
+-------------TTCGAGTCCCAG----AGTGAACATCAACTCTGAGATACAGGAACA------------------TC--TAGCTGACGAGTCCCGAA--------------------------TAGGACGAAACGCGAG-------------------*
+>P1;USER>>HE601624.1/9473174-9473251
+sequence = >HE601624.1/9473174-9473251 = [+0+] HE601624.1/9473174-9473251 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+-------------TTTGAGTCCCAG----AGTGAACATCAACTCTGAGATGAAGGTACA------------------TC--TGGCTGACGAGTCCCAAA--------------------------TAGGACGAAACGCGCG-------------------*
+>P1;USER>>HE601629.1/1075793-1075868
+sequence = >HE601629.1/1075793-1075868 = [+0+] HE601629.1/1075793-1075868 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+-------------TTCGAGTCCTGG----AGTGAACATCAGCTC--AGACGCTGGTACA------------------TC--TAGCTGAAGAGTCCCAAA--------------------------TAGGACGAAACGCGCG-------------------*
+>P1;USER>>FN669541.1/124-58
+sequence = >FN669541.1/124-58 = [+0+] FN669541.1/124-58 Chrysanthemum chlorotic mottle viroid complete genome, isolate Yellow Star, genomic RNA
+----------------GAGACCTGA----AGTGGGTTTCCTGACGAGGCTGTGGAGAGA------------------GCTTTCGCT--TTACTCCCGCA--------------------------CAAGCCGA---------------------------*
+>P1;USER>>AACY020000300.1/1983-1926
+sequence = >AACY020000300.1/1983-1926 = [+0+] AACY020000300.1/1983-1926 Marine metagenome 1096624979632, whole genome shotgun sequence.
+-------------GCATGGTC---------------------TGGCGCTAACG-----C------------------TGCGTCACTGATGAGCCCATA-G-------------------------CAGGGCGAAACCAACG-------------------*
+>P1;USER>>ABMF01215137.1/1-56
+sequence = >ABMF01215137.1/1-56 = [+0+] ABMF01215137.1/1-56 Saltern metagenome 42381927, whole genome shotgun sequence.
+---------------CGAGTC---------------------TGCGGC-ACGG-----C------------------AGCCGCACTGATGAGCCCTGACG-------------------------CCGGGCGAAACTCACT-------------------*
+>P1;USER>>BADR02003106.1/96971-97024
+sequence = >BADR02003106.1/96971-97024 = [+0+] BADR02003106.1/96971-97024 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_3106.
+-------------AACTGATC-------------------------GGGGACT-----G------------------TACCTGTCTGATGAGCCCC-AAA-------------------------AAGGGCGAAATCGGTC-------------------*
+>P1;USER>>BADR02000534.1/430281-430229
+sequence = >BADR02000534.1/430281-430229 = [+0+] BADR02000534.1/430281-430229 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_534.
+-------------TTCCGGTC-------------------------AATGACT-----T------------------CGCGCTC-TGATGAGCCCC-AAG-------------------------AAGGGCGAAACCGGTC-------------------*
+>P1;USER>>BADR02001261.1/11492-11439
+sequence = >BADR02001261.1/11492-11439 = [+2+] BADR02001261.1/11492-11439 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_1261.
+-------------CTGCGGTC-------------------------GAGGACT-----G------------------CGCCTACCTGATGAGCCCC-AAG-------------------------AAGGGCGAAACCGGTC-------------------*
+>P1;USER>>AAMC01028242.1/63241-63293
+sequence = >AAMC01028242.1/63241-63293 = [+0+] AAMC01028242.1/63241-63293 Xenopus (Silurana) tropicalis XENTRscaffold_76_Cont28242, whole genome shotgun sequence.
+-------------TACAGGTG---------------------T------AGTT-----G------------------TACTACACTGATGAGCCCCCAAG-------------------------AAGGGCGAAACCGGTC-------------------*
+>P1;USER>>AAMC01046682.1/71280-71223
+sequence = >AAMC01046682.1/71280-71223 = [+0+] AAMC01046682.1/71280-71223 Xenopus (Silurana) tropicalis XENTRscaffold_152_Cont46682, whole genome shotgun sequence.
+-------------CTCCTGTT---------------------TGAAGAAAACT-----G------------------CACTACACTGATGAGCCCC-AAG-------------------------AAGGGCGAAACCGGTC-------------------*
+>P1;USER>>ABNS01042565.1/85-29
+sequence = >ABNS01042565.1/85-29 = [+0+] ABNS01042565.1/85-29 Coral metagenome 39968719, whole genome shotgun sequence.
+-------------GAGCTTTC---------------------TCTGGTTGTT------T------------------CGCCGTACTGATGAGCCCC-CAA-------------------------AAGGGCGAAACAGCTG-------------------*
+>P1;USER>>HE601625.1/23886776-23886833
+sequence = >HE601625.1/23886776-23886833 = [+0+] HE601625.1/23886776-23886833 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+-------------AGTCAGTC---------------------ACTAGTGGATG------------------------CGCACTGCTGATGAGTCCTACAA-------------------------TAGGACGAAACTGTCG-------------------*
+>P1;USER>>CABG01000072.1/54904-54965
+sequence = >CABG01000072.1/54904-54965 = [+0+] CABG01000072.1/54904-54965 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0172, strain Puerto Rico
+-------------CAGCGGTC-----------------------TAGTGGTTAAGCGCT------------------CGCACTGCTGATGAGTCCCACAA-------------------------TAGGACGAAACGGCCG-------------------*
+>P1;USER>>ABCN01007282.1/11874-11933
+sequence = >ABCN01007282.1/11874-11933 = [+1+] ABCN01007282.1/11874-11933 Chlamydomonas reinhardtii strain CC-503 cw92 mt+ CHLREscaffold_77_Cont7282, whole genome shotgun sequence.
+---------------CGCGTG---------------------TCTCG--TTCCACGCTA------------------AAGCCACCTGATGAGGCCCTGGC-------------------------AAGGCCGAAACGCGTC-------------------*
+>P1;USER>>ET122193.1/66642-66581
+sequence = >ET122193.1/66642-66581 = [+0+] ET122193.1/66642-66581 Myxine glutinosa clone BAC 90C8, complete sequence.
+---------------CACGTG---------------------TAGACGATTTGGCAGTA------------------GGTCGTCCTGACGAGCCCATAAC-------------------------TAGGGCGAAACCCGGA-------------------*
+>P1;USER>>CABF01001172.1/615-681
+sequence = >CABF01001172.1/615-681 = [+0+] CABF01001172.1/615-681 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C001171
+-----ATTCAGTCATCAACAT---------------------TAAAATGCAGAA----A------------------TATCCTTCTGATGAGTCCCAAA--------------------------TAAGACGAAACTGAGG-------------------*
+>P1;USER>>CABF01059116.1/3994-4055
+sequence = >CABF01059116.1/3994-4055 = [+0+] CABF01059116.1/3994-4055 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C059120
+-------TAAGAATCGAAACG---------------------TA---TTTAGAC----A------------------CATCCATCTGATGAGTCTTAGA--------------------------TAAGACGAAATTCGTC-------------------*
+>P1;USER>>ADFJ01004186.1/4081-4141
+sequence = >ADFJ01004186.1/4081-4141 = [+0+] ADFJ01004186.1/4081-4141 Selaginella moellendorffii SELMOscaffold_202_Cont4186, whole genome shotgun sequence.
+---------------AACCGG---------------------TAGACACTAGACGACTA------------------CACCCGGCTGATGAGTCCCAAA--------------------------AAGGACGAAACCGGTC-------------------*
+>P1;USER>>BADR02000935.1/57977-57924
+sequence = >BADR02000935.1/57977-57924 = [+0+] BADR02000935.1/57977-57924 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_935.
+-----------------GGTG---------------------AGTCCAT-AGCAGTGCT------------------CTGCT----GATGAGCTCTAATA-------------------------AGAG-CGAAACTCGAG-------------------*
+>P1;USER>>AEVX01007644.1/5408-5340
+sequence = >AEVX01007644.1/5408-5340 = [+0+] AEVX01007644.1/5408-5340 Acromyrmex echinatior contig7644, whole genome shotgun sequence.
+------AATCAGTACTAATTG---------------------TTTGCAT-TGCACTGAT------------------GAGCTCGAGGATGAGCTGCAAAT-------------------------AGAG-CGAAACTAATA-------------------*
+>P1;USER>>CABF01035406.1/921-989
+sequence = >CABF01035406.1/921-989 = [+0+] CABF01035406.1/921-989 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C035371
+-------TTCAAGTCCCGGTG---------------------TGAACATAAACACTGGG------------------ATGCTGGCTGATGAGTCCCGGAT-------------------------AG-GACTAAACTTACG-------------------*
+>P1;USER>>CABF01026894.1/1704-1646
+sequence = >CABF01026894.1/1704-1646 = [+0+] CABF01026894.1/1704-1646 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C026866
+-------------TATATGTA---------------------TGAAATTGAA---TGTA------------------TTACA--CTGAAGAGTCTCAAAT-------------------------AATGACGAAACTTTTG-------------------*
+>P1;USER>>FJ647336.1/143-60
+sequence = >FJ647336.1/143-60 = [+4+] FJ647336.1/143-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 46, partial sequence.
+------------------------------------TTCCAGTCGAGACCT-GAAGT--------------------GGGTTTCCTGATGAGGCTGTGGAGAGAGCAAAAAGCTTTACTCCCGCACAAGCCGAAACTGGAA-------------------*
+>P1;USER>>FJ647349.1/135-60
+sequence = >FJ647349.1/135-60 = [+0+] FJ647349.1/135-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 59, partial sequence.
+------------------------------------TTCCAGT-------T-GAAGT--------------------GGGTTTCCTGATGAGGCTGTGGAGAGAGCGAAA-GCTTTACTCCCGCACAAGCCGAAACTGGAA-------------------*
+>P1;USER>>FN646404.1/133-51
+sequence = >FN646404.1/133-51 = [+0+] FN646404.1/133-51 Chrysanthemum chlorotic mottle viroid complete genome, genomic RNA, isolate Palampur
+------------------------------------TTCCAGTCGAGACCT-GAAGT--------------------GGGTTTCCTGACGAGGCTGTGGAGAGAGAGAAAT-CTCTACTCCCGCACAAGCCGAAACTGGAA-------------------*
+>P1;USER>>FJ647322.1/142-60
+sequence = >FJ647322.1/142-60 = [+0+] FJ647322.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 32, partial sequence.
+------------------------------------TTCCAGTCGAGACCT-GAAGT--------------------GGGTTTCCTGATGAGGCTGTGGAGAGAGCGTAT-GCTTAACTCCCGCACAAGCCGAAACTGGAA-------------------*
+>P1;USER>>FJ647437.1/134-52
+sequence = >FJ647437.1/134-52 = [+332+] FJ647437.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 22, complete genome.
+------------------------------------TTCCAGTCGAGACCT-GAAGT--------------------GGGTTTCCTGAAGAGGCTGTGGAGAGAGCATAA-GCTTTACTCCCGCACAAGCCGAAACTGGAA-------------------*
+>P1;USER>>DQ402041.1/134-52
+sequence = >DQ402041.1/134-52 = [+9+] DQ402041.1/134-52 Chrysanthemum chlorotic mottle viroid RNA, complete genome.
+------------------------------------TTCCAGTCGAGACCT-GAAGT--------------------GGGTTTCCTGACGAGGCTGTGGAGAGATCTTTC-GATTTACTCCCGCACAAGCCGAAACTGGAA-------------------*
+>P1;USER>>FJ647458.1/134-52
+sequence = >FJ647458.1/134-52 = [+4+] FJ647458.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 43, complete genome.
+------------------------------------TTCCATTCGAGACCT-AAAGT--------------------GGGTTTCCTGATGAGGCTGTGGAGAGAGCGTTA-GCTTTACTCCCGCACAAGCCGAAACTGGAA-------------------*
+>P1;USER>>CAAP03006083.1/173201-173257
+sequence = >CAAP03006083.1/173201-173257 = [+2+] CAAP03006083.1/173201-173257 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_7114
+------------------------------------AGCTAGTCGAGAGTT-GGAGT--------------------CGTTCCCTTGATGAGTCCGTGG--------------------------CAG-ACGAAACCAGTC-------------------*
+>P1;USER>>FN594968.1/1063714-1063771
+sequence = >FN594968.1/1063714-1063771 = [+2+] FN594968.1/1063714-1063771 Vitis vinifera cv. PN40024, annotated scaffold_72.assembly12x
+------------------------------------AACTAGTTGAGAGTT-GGAGT--------------------CATTTCCTTGATGAGTCCATGG--------------------------CAGGACAAAACCAGTC-------------------*
+>P1;USER>>CAAP03006699.1/10142-10085
+sequence = >CAAP03006699.1/10142-10085 = [+1+] CAAP03006699.1/10142-10085 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_2654
+------------------------------------AATTGGTCGAGGGTT-GGAGT--------------------CGTTCCCCTGCTGAGTCCATGG--------------------------CAGGACAAAACTAGTT-------------------*
+>P1;USER>>FN596746.1/2500110-2500167
+sequence = >FN596746.1/2500110-2500167 = [+2+] FN596746.1/2500110-2500167 Vitis vinifera cv. PN40024, annotated scaffold_60.assembly12x
+------------------------------------AATTGGTCAGGAGTT-GAAGT--------------------CGTTCCCTTAATGAGTCCATGG--------------------------TAGGACAAAACCAGTT-------------------*
+>P1;USER>>FN595513.1/4432612-4432555
+sequence = >FN595513.1/4432612-4432555 = [+1+] FN595513.1/4432612-4432555 Vitis vinifera cv. PN40024, annotated scaffold_18.assembly12x
+------------------------------------AACTGGTCAAGAACT-AGAGT--------------------TGTTCCCCTGATGAGTCCAGGG--------------------------TAGGACGAAACCAATC-------------------*
+>P1;USER>>AM479558.1/17932-17875
+sequence = >AM479558.1/17932-17875 = [+0+] AM479558.1/17932-17875 Vitis vinifera, whole genome shotgun sequence, contig VV78X134167.3, clone ENTAV 115
+------------------------------------AACTGGTCGAGAGYT-GGAGC--------------------CATTCCCYTAATGAGTCCATGG--------------------------TAGGACGAAACTAATC-------------------*
+>P1;USER>>FN596011.1/272970-273027
+sequence = >FN596011.1/272970-273027 = [+1+] FN596011.1/272970-273027 Vitis vinifera cv. PN40024, annotated scaffold_99.assembly12x
+------------------------------------AACTGGTCGAGAGCT-GAACC--------------------CATTCCCCTAATGAGTCCATGG--------------------------TAGGACGAAACTAATC-------------------*
+>P1;USER>>FN595513.1/703028-703085
+sequence = >FN595513.1/703028-703085 = [+1+] FN595513.1/703028-703085 Vitis vinifera cv. PN40024, annotated scaffold_18.assembly12x
+------------------------------------AACTGCTCGGGAGCT-GGAGT--------------------TGTTCCCATGATGAGTCCTTGG--------------------------TAGGACGAAATCAGTG-------------------*
+>P1;USER>>AM462041.2/573-630
+sequence = >AM462041.2/573-630 = [+0+] AM462041.2/573-630 Vitis vinifera contig VV78X035811.2, whole genome shotgun sequence.
+------------------------------------AACTGATCGGGAGCT-GGAGT--------------------TGTTCCCATGATGAGTCCATGG--------------------------TAGGACGAAATCAATG-------------------*
+>P1;USER>>FN595513.1/550378-550435
+sequence = >FN595513.1/550378-550435 = [+1+] FN595513.1/550378-550435 Vitis vinifera cv. PN40024, annotated scaffold_18.assembly12x
+------------------------------------AACTGATCGGGAGCT-AGAGT--------------------TGTTCTCATGATGAGTCCATGG--------------------------TAGGACGAAATCAATC-------------------*
+>P1;USER>>FN596494.1/6497250-6497193
+sequence = >FN596494.1/6497250-6497193 = [+1+] FN596494.1/6497250-6497193 Vitis vinifera cv. PN40024, annotated scaffold_2.assembly12x
+------------------------------------AACTGGTTGGGAGTT-GGAGT--------------------TGTGTCTCTAATGAGTCCATGG--------------------------CAGGATGAAACCAGTC-------------------*
+>P1;USER>>FN595751.1/863886-863943
+sequence = >FN595751.1/863886-863943 = [+2+] FN595751.1/863886-863943 Vitis vinifera cv. PN40024, annotated scaffold_90.assembly12x
+------------------------------------AACTGGTTGGGAGCT-GGAGC--------------------TGTTCCCCTGATGAGTCCATGG--------------------------CAGAACGAAACCAGTC-------------------*
+>P1;USER>>FN595998.1/2113778-2113835
+sequence = >FN595998.1/2113778-2113835 = [+2+] FN595998.1/2113778-2113835 Vitis vinifera cv. PN40024, annotated scaffold_19.assembly12x
+------------------------------------AACTGGTCGGGAGTT-GGAGT--------------------TGTTCCCCTAATGAGTCCATGG--------------------------CAGGACGAAACCAGTC-------------------*
+>P1;USER>>FN595509.1/2211659-2211602
+sequence = >FN595509.1/2211659-2211602 = [+2+] FN595509.1/2211659-2211602 Vitis vinifera cv. PN40024, annotated scaffold_64.assembly12x
+------------------------------------AACTGGTCGGGAGTT-GGAGC--------------------CGTTCCCCTGATGAGTCCATGG--------------------------CAGGACGAAACCAGTC-------------------*
+>P1;USER>>FN595763.1/416062-416119
+sequence = >FN595763.1/416062-416119 = [+2+] FN595763.1/416062-416119 Vitis vinifera cv. PN40024, annotated scaffold_43.assembly12x
+------------------------------------AATTGGTTGGGAATT-GGAGT--------------------CGTTCCCCTGATGAGCCCATGG--------------------------CAGGACGAAACGAGTC-------------------*
+>P1;USER>>FN595504.1/6227090-6227147
+sequence = >FN595504.1/6227090-6227147 = [+2+] FN595504.1/6227090-6227147 Vitis vinifera cv. PN40024, annotated scaffold_9.assembly12x
+------------------------------------AATTGGTTAGGAGCT-GAAGT--------------------TGTTCCCCTAATGAGTCCATGG--------------------------TAGGACGAAACCAGTC-------------------*
+>P1;USER>>AM472511.1/20242-20299
+sequence = >AM472511.1/20242-20299 = [+2+] AM472511.1/20242-20299 Vitis vinifera, whole genome shotgun sequence, contig VV78X232107.9, clone ENTAV 115
+------------------------------------AACTAGTTGGGAGCT-AGAGC--------------------CATTCCCCTTATGAGTCCATGG--------------------------CAAGACGAAACCAGTC-------------------*
+>P1;USER>>AM448280.1/7188-7245
+sequence = >AM448280.1/7188-7245 = [+2+] AM448280.1/7188-7245 Vitis vinifera, whole genome shotgun sequence, contig VV78X190114.6, clone ENTAV 115
+------------------------------------AATTGGTTGGGAACT-GGAAC--------------------CATTCCCCTTATGAGTCCATGG--------------------------TAGGACGAAACTAGTC-------------------*
+>P1;USER>>FN596502.1/7702704-7702647
+sequence = >FN596502.1/7702704-7702647 = [+1+] FN596502.1/7702704-7702647 Vitis vinifera cv. PN40024, annotated scaffold_5.assembly12x
+------------------------------------AATTGATCGAGAGCT-AGAGT--------------------CGTTCCCCTGATGAGTCCATGG--------------------------CAGGACAAAACCAATC-------------------*
+>P1;USER>>AM465121.2/2389-2332
+sequence = >AM465121.2/2389-2332 = [+0+] AM465121.2/2389-2332 Vitis vinifera contig VV78X240564.3, whole genome shotgun sequence.
+------------------------------------AATTGGTCAGGAGCT-GGAGT--------------------CGTTCCCCTAATGAGTCCATGG--------------------------CAAGACAAAACCAATC-------------------*
+>P1;USER>>AM431318.2/12750-12694
+sequence = >AM431318.2/12750-12694 = [+2+] AM431318.2/12750-12694 Vitis vinifera contig VV78X241236.14, whole genome shotgun sequence.
+------------------------------------AACTGGTTGGGAGCT-GGAGT--------------------CGTTCCC-TGATGAGTCCATGA--------------------------CAGGACGAAACCAATC-------------------*
+>P1;USER>>AM488647.1/14919-14862
+sequence = >AM488647.1/14919-14862 = [+2+] AM488647.1/14919-14862 Vitis vinifera, whole genome shotgun sequence, contig VV78X161201.14, clone ENTAV 115
+------------------------------------AATTGGTCGGGAGCT-AGTGT--------------------CATTCCCCTGATGAGTCCATGG--------------------------CAGGACGAAACCAATC-------------------*
+>P1;USER>>FN594951.1/4534943-4534886
+sequence = >FN594951.1/4534943-4534886 = [+2+] FN594951.1/4534943-4534886 Vitis vinifera cv. PN40024, annotated scaffold_4.assembly12x
+------------------------------------AATTGGTCGGGAGCT-GAAGT--------------------CGTTCCCTTGATGAGTCCATGG--------------------------CAGGACGAAACCAATC-------------------*
+>P1;USER>>FN596011.1/273843-273900
+sequence = >FN596011.1/273843-273900 = [+1+] FN596011.1/273843-273900 Vitis vinifera cv. PN40024, annotated scaffold_99.assembly12x
+------------------------------------AACTGGTCAGGAGCT-AGAGT--------------------CGTTCCCCTAATGAGTCCATGG--------------------------CAGAACGAAACTAGTT-------------------*
+>P1;USER>>AM479558.1/17057-17000
+sequence = >AM479558.1/17057-17000 = [+0+] AM479558.1/17057-17000 Vitis vinifera, whole genome shotgun sequence, contig VV78X134167.3, clone ENTAV 115
+------------------------------------MACTGGTCRGGAGCT-GGAST--------------------CGTTCCCCTAATGAGTCCATGG--------------------------CAGAACGAAACTAGTY-------------------*
+>P1;USER>>AM482949.2/8876-8933
+sequence = >AM482949.2/8876-8933 = [+2+] AM482949.2/8876-8933 Vitis vinifera contig VV78X218385.12, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGAGCT-GGAGT--------------------CCTTCCCCTGATGAGTCCATGA--------------------------CATGACGAAACTAGTC-------------------*
+>P1;USER>>FN595995.1/797300-797243
+sequence = >FN595995.1/797300-797243 = [+2+] FN595995.1/797300-797243 Vitis vinifera cv. PN40024, annotated scaffold_56.assembly12x
+------------------------------------AATTGGTCAGGAGCT-GGAGT--------------------CGTTCCCATGATGAGTCTATGA--------------------------CAAGACGAAACCAATT-------------------*
+>P1;USER>>AM482949.2/9730-9787
+sequence = >AM482949.2/9730-9787 = [+2+] AM482949.2/9730-9787 Vitis vinifera contig VV78X218385.12, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGAGCT-GGAGT--------------------CGTTCCCCTGATGAGTTTATGG--------------------------CAAGACGAAACCAATC-------------------*
+>P1;USER>>AACY020758631.1/863-807
+sequence = >AACY020758631.1/863-807 = [+0+] AACY020758631.1/863-807 Marine metagenome 1095899022103, whole genome shotgun sequence.
+------------------------------------ATTTGCTCTAGGCTT-TA-GC------------------------CTACTGATGAGTCTTTGAAAAT----------------------TAAGACGAAAGCAGAA-------------------*
+>P1;USER>>AACY022484984.1/628-685
+sequence = >AACY022484984.1/628-685 = [+0+] AACY022484984.1/628-685 Marine metagenome 1093017958413, whole genome shotgun sequence.
+------------------------------------TTCTGCTCTAGGCGT-TATGC------------------------CTACTGATGAGTCTTTGTAAAT----------------------TAAGACGAAAGCAGAA-------------------*
+>P1;USER>>AGTN01301619.1/367-419
+sequence = >AGTN01301619.1/367-419 = [+0+] AGTN01301619.1/367-419 Bioreactor metagenome PBDCA2_FISTTAT01CH8W9, whole genome shotgun sequence.
+--------------------------------------CAGCTTCTGGGTT-TAA-C------------------------CTGCTGATGAGTCTGTG--AAC----------------------TCAGACGAAAAAGCTT-------------------*
+>P1;USER>>AP009384.1/4100083-4100026
+sequence = >AP009384.1/4100083-4100026 = [+0+] AP009384.1/4100083-4100026 Azorhizobium caulinodans ORS 571 DNA, complete genome.
+------------------------------------CCCGCGTCTGGACCT-GATGC--------------------CGGTCCACTGATGAGCCCATGG--------------------------CAGGGCGAAACGCGAG-------------------*
+>P1;USER>>AACY023806030.1/893-836
+sequence = >AACY023806030.1/893-836 = [+0+] AACY023806030.1/893-836 Marine metagenome ctg_1101668613381, whole genome shotgun sequence.
+------------------------------------CAGGGGTCTGCACCT-GATGC--------------------CGGTGCACTGATGAGCCCACGG--------------------------CAGGGCGAAACCCATT-------------------*
+>P1;USER>>AFSA01088690.1/1353-1410
+sequence = >AFSA01088690.1/1353-1410 = [+0+] AFSA01088690.1/1353-1410 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AATTGGTCGGGGGCA-AGTGT--------------------CGCTTCCCTGATGAGCCCATGG--------------------------CAGGGCGAACCCAATT-------------------*
+>P1;USER>>AFSA01098528.1/1069-1126
+sequence = >AFSA01098528.1/1069-1126 = [+0+] AFSA01098528.1/1069-1126 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AATTGGTCGGGGGCT-AGTGT--------------------CGCTTCCCTGATGAGCCCATGG--------------------------CATGGCGAAACCATTT-------------------*
+>P1;USER>>AFSA01154721.1/458-401
+sequence = >AFSA01154721.1/458-401 = [+0+] AFSA01154721.1/458-401 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AATTGGTCGGGGGCT-AGTGT--------------------CGCTTTCCTGATGAGCCCATGG--------------------------CAGGGAGAAACCAATT-------------------*
+>P1;USER>>FJ147819.1/735-792
+sequence = >FJ147819.1/735-792 = [+0+] FJ147819.1/735-792 Daucus carota subsp. sativus clone BAC C237H08 genomic sequence.
+------------------------------------GACTGGTCGGGGGCT-GGAGC--------------------CGCTCCCCTGATGAGCCCAAGG--------------------------CAGGGCGAAACTAGTC-------------------*
+>P1;USER>>AFSA01042060.1/361-304
+sequence = >AFSA01042060.1/361-304 = [+0+] AFSA01042060.1/361-304 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGCT-AGTGT--------------------CGCTTCCGTGATGAGCCCATAA--------------------------CAGGGAGAAACCAGTA-------------------*
+>P1;USER>>AFSA01270167.1/986-930
+sequence = >AFSA01270167.1/986-930 = [+0+] AFSA01270167.1/986-930 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGG-CT-AGTGC--------------------CGCTTCCCTGATGAGCCCATGG--------------------------CAGGGCGAAACCGGTT-------------------*
+>P1;USER>>AFSA01088690.1/2001-2058
+sequence = >AFSA01088690.1/2001-2058 = [+0+] AFSA01088690.1/2001-2058 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTAGTCGGGGGCT-AGTGT--------------------CGCTTCCCTGATGAGCCCATTG--------------------------CAGGGTGAAACCAGTT-------------------*
+>P1;USER>>AFSA01018053.1/5008-5065
+sequence = >AFSA01018053.1/5008-5065 = [+0+] AFSA01018053.1/5008-5065 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGCT-GGTGT--------------------CACTTCCCTGATGAGCCCATGG--------------------------CAGGCCGAAACCAGTT-------------------*
+>P1;USER>>AFSA01160420.1/919-976
+sequence = >AFSA01160420.1/919-976 = [+0+] AFSA01160420.1/919-976 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGCT-AGTGT--------------------CGCTTCACTGATGAGCCCATGG--------------------------CATGGCGAAACCAGGT-------------------*
+>P1;USER>>AFSA01116803.1/2114-2170
+sequence = >AFSA01116803.1/2114-2170 = [+0+] AFSA01116803.1/2114-2170 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGAGGGCT-AGTGC--------------------CGCTTCCCTGATGAGCCCATGA--------------------------CA-GGCGAAACCAGTT-------------------*
+>P1;USER>>AFSA01088690.1/2650-2707
+sequence = >AFSA01088690.1/2650-2707 = [+0+] AFSA01088690.1/2650-2707 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGAGGGCT-AGTGC--------------------CGCTTCCCTGATGGGCCCATGG--------------------------CAGGGCGAAACCAGTT-------------------*
+>P1;USER>>AFSA01160420.1/278-335
+sequence = >AFSA01160420.1/278-335 = [+0+] AFSA01160420.1/278-335 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGCT-AGTGA--------------------CGCTTCCCTGATGAGCCCATGG--------------------------CAGGGCGAAACTAGTT-------------------*
+>P1;USER>>AFSA01160420.1/1566-1623
+sequence = >AFSA01160420.1/1566-1623 = [+0+] AFSA01160420.1/1566-1623 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGCT-AGTGC--------------------TGCTTCCCTGATGAGCCCATGG--------------------------CAGGGCAAAACCAGTT-------------------*
+>P1;USER>>AFSA01282566.1/596-539
+sequence = >AFSA01282566.1/596-539 = [+0+] AFSA01282566.1/596-539 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGTT-AGTGC--------------------TGCTTCCCTGATGAGCCTATGG--------------------------CAGGGCGAAACCAGTT-------------------*
+>P1;USER>>BABX01020569.1/2202-2146
+sequence = >BABX01020569.1/2202-2146 = [+0+] BABX01020569.1/2202-2146 Jatropha curcas DNA, contig: JcCA0283691.
+------------------------------------AACTGGTTGAGAGTT-GG-GC--------------------CGCTCTCCTGATGAACCCATGG--------------------------CAGGGTGAAACCAGTG-------------------*
+>P1;USER>>AP011976.1/657-601
+sequence = >AP011976.1/657-601 = [+7+] AP011976.1/657-601 Jatropha curcas DNA, clone: JHL25P11.
+------------------------------------AACTGGTTGAGAGCT-GG-GC--------------------CGCTCTCCTGATGAGCCCATGG--------------------------CAGGGCGAAACTAGTG-------------------*
+>P1;USER>>BABX01122714.1/173-229
+sequence = >BABX01122714.1/173-229 = [+0+] BABX01122714.1/173-229 Jatropha curcas DNA, contig: JcCC0198861.
+------------------------------------AACTGGTCGAGAGTT-GG-GC--------------------CGCTCTCCTGATGAGCCCATGG--------------------------CAGGGCAAAACCAGTT-------------------*
+>P1;USER>>BABX01107099.1/916-860
+sequence = >BABX01107099.1/916-860 = [+0+] BABX01107099.1/916-860 Jatropha curcas DNA, contig: JcCB0818211.
+------------------------------------AACTGGTCGAGAGCT-GG-AC--------------------CGCTCTCCTGATGAGCCCATGG--------------------------CAGGGCGAAACCAGTA-------------------*
+>P1;USER>>BABX01022075.1/1985-1929
+sequence = >BABX01022075.1/1985-1929 = [+0+] BABX01022075.1/1985-1929 Jatropha curcas DNA, contig: JcCA0029711.
+------------------------------------AACTGGTCAAGAGCT-GG-GC--------------------CGCTCTCCTGATGAGCCCATAG--------------------------CAGGGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01020569.1/2921-2865
+sequence = >BABX01020569.1/2921-2865 = [+1+] BABX01020569.1/2921-2865 Jatropha curcas DNA, contig: JcCA0283691.
+------------------------------------AACTGGTCGAGAGCT-GG-GC--------------------TGCTCTCCTGATGAGCCCATGG--------------------------CAGGGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01090305.1/175-231
+sequence = >BABX01090305.1/175-231 = [+19+] BABX01090305.1/175-231 Jatropha curcas DNA, contig: JcCB0563331.
+------------------------------------AACTGGTCGAGAGCT-AG-GC--------------------CGCTCTCCTGATGAGCCCATGG--------------------------CAGGGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01016267.1/2549-2493
+sequence = >BABX01016267.1/2549-2493 = [+0+] BABX01016267.1/2549-2493 Jatropha curcas DNA, contig: JcCA0245101.
+------------------------------------AACTGGTTGAGAGCT-GG-GC--------------------CGCTCTCCTAATGAGCCCATGG--------------------------CAAAGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01017832.1/646-590
+sequence = >BABX01017832.1/646-590 = [+0+] BABX01017832.1/646-590 Jatropha curcas DNA, contig: JcCA0025921.
+------------------------------------AACTGGTTGAAAGCT-GG-GC--------------------CGCTCTCCTGATGAGCTCATGG--------------------------CAGGGCTAAACCAGTG-------------------*
+>P1;USER>>BABX01120428.1/351-295
+sequence = >BABX01120428.1/351-295 = [+0+] BABX01120428.1/351-295 Jatropha curcas DNA, contig: JcSR424065r.
+------------------------------------AACTGATCGGGAGTT-GG-GC--------------------TGCTCCCCTGATGAGCCCATGG--------------------------CAGGGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01097964.1/595-539
+sequence = >BABX01097964.1/595-539 = [+0+] BABX01097964.1/595-539 Jatropha curcas DNA, contig: JcCB0068161.
+------------------------------------AACTGGTCGGGAGCT-GG-GC--------------------TGCTTCCCTTATGAGCCCATGG--------------------------CAGGGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01067683.1/1853-1797
+sequence = >BABX01067683.1/1853-1797 = [+0+] BABX01067683.1/1853-1797 Jatropha curcas DNA, contig: JcCB0225201.
+------------------------------------AATTGGTCGGGAGCT-GG-GC--------------------CGCTCCCCTGATGAGCCCATAG--------------------------CAGGGCAAAATCAGTG-------------------*
+>P1;USER>>BABX01098206.1/893-837
+sequence = >BABX01098206.1/893-837 = [+0+] BABX01098206.1/893-837 Jatropha curcas DNA, contig: JcCB0684591.
+------------------------------------AACTGGTCGGGAGTT-GG-GC--------------------CACTCTCCTGATGAGCCCATGG--------------------------CAGGGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01004857.1/5149-5093
+sequence = >BABX01004857.1/5149-5093 = [+0+] BABX01004857.1/5149-5093 Jatropha curcas DNA, contig: JcCA0143001.
+------------------------------------AACTGGTAGGGAGCT-GG-GC--------------------CTCTCCCCTGATGAGCCCATGG--------------------------CAGGGCGAAACCAGTG-------------------*
+>P1;USER>>AP011967.1/82057-82001
+sequence = >AP011967.1/82057-82001 = [+0+] AP011967.1/82057-82001 Jatropha curcas DNA, clone: JMS09K11.
+------------------------------------AACTGGTCAGGAGCT-GG-GC--------------------CACTCCCCTGATGAGCCCATGG--------------------------TAGGGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01095556.1/1622-1678
+sequence = >BABX01095556.1/1622-1678 = [+1+] BABX01095556.1/1622-1678 Jatropha curcas DNA, contig: JcCB0638141.
+------------------------------------AACTGGTCGGGAGCT-GG-GC--------------------CGCTCCCCTGATGGGGCCATGG--------------------------CAGGGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01086374.1/2296-2352
+sequence = >BABX01086374.1/2296-2352 = [+2+] BABX01086374.1/2296-2352 Jatropha curcas DNA, contig: JcCB0500501.
+------------------------------------AACTGGTCGGGAGCT-GG-GC--------------------CGCTCCCCTGATGAGCCCATGG--------------------------CAAGGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01021896.1/166-110
+sequence = >BABX01021896.1/166-110 = [+0+] BABX01021896.1/166-110 Jatropha curcas DNA, contig: JcCA0029551.
+------------------------------------AATTGGTCGGGAGCT-GG-GC--------------------CGCTCCCCTGATGAGCCCGTGG--------------------------CATGGCGAAACCAGTG-------------------*
+>P1;USER>>BABX01021550.1/3862-3918
+sequence = >BABX01021550.1/3862-3918 = [+1+] BABX01021550.1/3862-3918 Jatropha curcas DNA, contig: JcCA0292461.
+------------------------------------AACTGGTCGGGAGCT-GG-GC--------------------CGCTCCCTTGATGAGCCCATGG--------------------------CAGGGCTAAACCAGTG-------------------*
+>P1;USER>>BABX01080891.1/2524-2580
+sequence = >BABX01080891.1/2524-2580 = [+0+] BABX01080891.1/2524-2580 Jatropha curcas DNA, contig: JcCB0422431.
+------------------------------------AACTGGTCGGGAGCT-GG-GC--------------------CACTCCCCTGATGAGCCCATGG--------------------------CAGGGCTAAACTAGTG-------------------*
+>P1;USER>>ADBK01001763.1/17635-17692
+sequence = >ADBK01001763.1/17635-17692 = [+0+] ADBK01001763.1/17635-17692 Arabidopsis lyrata subsp. lyrata ARALYscaffold_8_Cont1763, whole genome shotgun sequence.
+------------------------------------AACTGGTCGTGATCT-TGAGC--------------------CAATCACCTGATGAGCCCAAGG--------------------------CAGGGCAAAACTAGTT-------------------*
+>P1;USER>>ADBK01000148.1/364984-364927
+sequence = >ADBK01000148.1/364984-364927 = [+0+] ADBK01000148.1/364984-364927 Arabidopsis lyrata subsp. lyrata ARALYscaffold_1_Cont148, whole genome shotgun sequence.
+------------------------------------AACTGGTCGTGATCT-TGAGC--------------------CGATCACCTGATGAGCCCAAGA--------------------------CAGAGCGAAACCAGTT-------------------*
+>P1;USER>>ADBK01000597.1/144825-144882
+sequence = >ADBK01000597.1/144825-144882 = [+0+] ADBK01000597.1/144825-144882 Arabidopsis lyrata subsp. lyrata ARALYscaffold_3_Cont597, whole genome shotgun sequence.
+------------------------------------AACTGGTCATGATCT-AGAGT--------------------CGATCACCTGATGAGCCCAAGA--------------------------CAGGGCGAAACTAGTC-------------------*
+>P1;USER>>ADBK01000956.1/18397-18454
+sequence = >ADBK01000956.1/18397-18454 = [+0+] ADBK01000956.1/18397-18454 Arabidopsis lyrata subsp. lyrata ARALYscaffold_5_Cont956, whole genome shotgun sequence.
+------------------------------------AATTAGTCGTGATCTGAAACT---------------------GATAACCTGATGAGCCCAAGG--------------------------TAGGGCGAAACCAGTT-------------------*
+>P1;USER>>AFNC01020637.1/13013-12955
+sequence = >AFNC01020637.1/13013-12955 = [+2+] AFNC01020637.1/13013-12955 Arabidopsis thaliana ecotype Kro-0, whole genome shotgun sequence.
+------------------------------------AACTGGTCGTGATCTGAAACT--------------------CGATCACCTGATGAGCTCAAGG--------------------------CAGAGCGAAACCAGTC-------------------*
+>P1;USER>>AFSA01391656.1/377-434
+sequence = >AFSA01391656.1/377-434 = [+0+] AFSA01391656.1/377-434 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------GCCTGGTCGGGAGCT-ATTGC--------------------CGCTTCCCTGATGAGCCTATGG--------------------------TAGGGCGAAACCGGTT-------------------*
+>P1;USER>>FN595998.1/2114608-2114667
+sequence = >FN595998.1/2114608-2114667 = [+2+] FN595998.1/2114608-2114667 Vitis vinifera cv. PN40024, annotated scaffold_19.assembly12x
+------------------------------------AACTGGTCAAGAGCTG-GAGT--------------------CATTCCCCTGATGAATCCATGAAT------------------------CAGGATGAAACCAGTT-------------------*
+>P1;USER>>AFSA01104653.1/100-157
+sequence = >AFSA01104653.1/100-157 = [+0+] AFSA01104653.1/100-157 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGCT-AATGC--------------------CACCTCTGTGATGAGCCTTTGG--------------------------CAGGGCGAAACCAGTT-------------------*
+>P1;USER>>AFSA01029476.1/2742-2686
+sequence = >AFSA01029476.1/2742-2686 = [+0+] AFSA01029476.1/2742-2686 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTAGTCGGTGGCT--GTGC--------------------CGCTTCCCTAATGAGCCCATGG--------------------------CAAGGCGAAACCAGTT-------------------*
+>P1;USER>>AFSA01073555.1/2043-1986
+sequence = >AFSA01073555.1/2043-1986 = [+0+] AFSA01073555.1/2043-1986 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTAGTCGGGGGCT-AGTGC--------------------CATTTCCCTAATGAGCCAATGG--------------------------TAGGGCGAAACTAGTT-------------------*
+>P1;USER>>AFSA01160914.1/1796-1739
+sequence = >AFSA01160914.1/1796-1739 = [+0+] AFSA01160914.1/1796-1739 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCAGGGGAT-AGTGT--------------------CGCTTCCCTGATGAGCCTATGG--------------------------CATGGTGAAACCAGTT-------------------*
+>P1;USER>>AFSA01018053.1/5632-5575
+sequence = >AFSA01018053.1/5632-5575 = [+0+] AFSA01018053.1/5632-5575 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGCT-AGTGC--------------------CGCTTCCCTAATGAGCCCATGG--------------------------GAGGTTGAAACCAGTT-------------------*
+>P1;USER>>AFSA01156800.1/474-417
+sequence = >AFSA01156800.1/474-417 = [+0+] AFSA01156800.1/474-417 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGAT-AGTGT--------------------CGCTTCCCTAATGACCCCATGG--------------------------CAGGGCGAAACCAGTT-------------------*
+>P1;USER>>AFSA01156800.1/1122-1065
+sequence = >AFSA01156800.1/1122-1065 = [+0+] AFSA01156800.1/1122-1065 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGAGGGCT-AGTGT--------------------CGCTTTGCTAATGAGCCCATGG--------------------------TAGGGCGAAACCAGTT-------------------*
+>P1;USER>>BABX01093136.1/1532-1588
+sequence = >BABX01093136.1/1532-1588 = [+1+] BABX01093136.1/1532-1588 Jatropha curcas DNA, contig: JcCB0600041.
+------------------------------------AACTAGTTGAGAGCT-GGGC---------------------CGCTCTCTTTATGAGCCCATGG--------------------------TAGGGCGAAACCAGTT-------------------*
+>P1;USER>>BABX01004788.1/3325-3269
+sequence = >BABX01004788.1/3325-3269 = [+0+] BABX01004788.1/3325-3269 Jatropha curcas DNA, contig: JcCA0142391.
+------------------------------------AACTGGTCCGGAGCT-GGGC---------------------CGCTCCCCCGATGAGCCCATGG--------------------------CAAGGCGAAACCAGTA-------------------*
+>P1;USER>>BABX01107099.1/153-97
+sequence = >BABX01107099.1/153-97 = [+0+] BABX01107099.1/153-97 Jatropha curcas DNA, contig: JcCB0818211.
+------------------------------------AACTGGTCGAGAGTT-GGCCT---------------------GCTCTCCTGATGAGCCCATGG--------------------------CAAGGCAAAGCCAGTG-------------------*
+>P1;USER>>ADBK01001767.1/20966-21023
+sequence = >ADBK01001767.1/20966-21023 = [+0+] ADBK01001767.1/20966-21023 Arabidopsis lyrata subsp. lyrata ARALYscaffold_8_Cont1767, whole genome shotgun sequence.
+------------------------------------AACTGGTCGTGATAT-GGAGT--------------------CGATCTCCTGATGAGCCCAGGG--------------------------CATGGCGAAACCAATT-------------------*
+>P1;USER>>M33000.1/55-110
+sequence = >M33000.1/55-110 = [+1+] M33000.1/55-110 Subterranean clover mottle virus satellite RNA.
+------------------------------------ACGCTGTCTGTACTT-GTATC--------------------AGTAC-ACTGACGAGTCCCTA---------------------------AAGGACGAAA-CAGCGC------------------*
+>P1;USER>>AACY023802293.1/343-400
+sequence = >AACY023802293.1/343-400 = [+0+] AACY023802293.1/343-400 Marine metagenome ctg_1101668609644, whole genome shotgun sequence.
+------------------------------------CTGCAGTCTACAACT-GTTGT--------------------GGTTGTACTGACGAGTCCGAGC--------------------------AAGGACGAAA-CTGCAT------------------*
+>P1;USER>>ABLW01115605.1/67-13
+sequence = >ABLW01115605.1/67-13 = [+1+] ABLW01115605.1/67-13 Marine metagenome 32705927, whole genome shotgun sequence.
+------------------------------------CTGCTGTCGCGGGAT-GTGT---------------------ATCCCGCCTGATGAGCTCAA----------------------------AAGAGCGAAA-CAGCAA------------------*
+>P1;USER>>AACY022121822.1/536-590
+sequence = >AACY022121822.1/536-590 = [+0+] AACY022121822.1/536-590 Marine metagenome 1092351329924, whole genome shotgun sequence.
+----------------------------------CACTGCT--CGCGAGCT-GTGT---------------------AGCTCGCCTGATGAGTCCAA----------------------------AAGGACGAAAGCAGTA-------------------*
+>P1;USER>>M63666.1/246-192
+sequence = >M63666.1/246-192 = [+0+] M63666.1/246-192 Cereal yellow dwarf virus-RPA satellite RNA.
+------------------------------------CCGGTGTCTCAAGGT-GCGT---------------------ACCTTGACTGATGAGTCCGA----------------------------AAGGACGAAA-CACCAG------------------*
+>P1;USER>>HQ880433.1/9-64
+sequence = >HQ880433.1/9-64 = [+0+] HQ880433.1/9-64 Tncultured organism clone hhrIII-I1_74_04911s-1 hammerhead ribozyme type III gene, complete sequence.
+------------------------------------TCTCTGTATCGAGAT-GTGTT--------------------ATCTCGACTGATGAGTCCGA----------------------------AAGGACGAAA-CAGAAA------------------*
+>P1;USER>>AACY023823868.1/1019-965
+sequence = >AACY023823868.1/1019-965 = [+0+] AACY023823868.1/1019-965 Marine metagenome ctg_1101668631219, whole genome shotgun sequence.
+------------------------------------TCACTCTCTCGAGAT-GTGC---------------------ATCTCGACTGATGAGTCCAA----------------------------AAGGACGAAA-GAGTAT------------------*
+>P1;USER>>AACY023352119.1/676-730
+sequence = >AACY023352119.1/676-730 = [+0+] AACY023352119.1/676-730 Marine metagenome ctg_1101668159470, whole genome shotgun sequence.
+------------------------------------TCCCTGTCTCGGAAT-GTGTA--------------------TTC-CGACTGATGAGTCCAA----------------------------AAGGACGAAA-CGGAAG------------------*
+>P1;USER>>J02439.1/42-95
+sequence = >J02439.1/42-95 = [+0+] J02439.1/42-95 Velvet tobacco mottle virus Satellite RNA complete sequence.
+------------------------------------TGTCCGTAGT-GGAT-GTGT---------------------ATCCACTCTGATGAGTCCGA----------------------------AAGGACGAAACGGATG-------------------*
+>P1;USER>>J02386.1/42-95
+sequence = >J02386.1/42-95 = [+0+] J02386.1/42-95 Solanum nodiflorum mottle virus satellite RNA.
+------------------------------------TGTCCGTAGT-GGAT-GTGT---------------------ATCCACTCTGATGAGTCCAA----------------------------AAGGACGAAACGGATG-------------------*
+>P1;USER>>ADVT01001934.1/71-17
+sequence = >ADVT01001934.1/71-17 = [+0+] ADVT01001934.1/71-17 Freshwater metagenome November_2006_contig01948, whole genome shotgun sequence.
+------------------------------------AAGTTGTAGTAGGAT-GTGT---------------------GTCCTGCCTGATGAGTCCAA----------------------------AAGGACGAAACAACTT-------------------*
+>P1;USER>>AACY022776529.1/685-631
+sequence = >AACY022776529.1/685-631 = [+0+] AACY022776529.1/685-631 Marine metagenome ctg_1101667183880, whole genome shotgun sequence.
+------------------------------------TGAAAGTCCGAGGAT-GTGT---------------------AACCTCGCTGATGAGTCCAA----------------------------AAGGACGAAACTACTT-------------------*
+>P1;USER>>ABNI01008151.1/45-99
+sequence = >ABNI01008151.1/45-99 = [+0+] ABNI01008151.1/45-99 Freshwater metagenome 40682092, whole genome shotgun sequence.
+------------------------------------AACAAATAATAGAAT-GTGT---------------------ATTCTATCTGATGAGTTCAA----------------------------AAGAACGAAATCTGTT-------------------*
+>P1;USER>>ET547491.1/273-219
+sequence = >ET547491.1/273-219 = [+0+] ET547491.1/273-219 Mulberry small circular viroid-like RNA 1, complete genome.
+------------------------------------AGTTAATCTCCAGAT-GTGT---------------------GTCTGGACTGATGAGTTCGA----------------------------AAGAACGAAATTGACA-------------------*
+>P1;USER>>DQ357625.1/292-238
+sequence = >DQ357625.1/292-238 = [+0+] DQ357625.1/292-238 Cherry small circular viroid-like RNA 1 isolate cscRNA1.114, complete genome.
+-----------------------------------AAGCTA-TATGGGGAT-GTGC---------------------GTCCCTACTGATGAGTTCAA----------------------------AAGAACGAAATAGTTA-------------------*
+>P1;USER>>DQ357618.1/298-244
+sequence = >DQ357618.1/298-244 = [+2+] DQ357618.1/298-244 Cherry small circular viroid-like RNA 1 isolate cscRNA1.78, complete genome.
+-----------------------------------AAGCTA-TATGGGGAT-GTGT---------------------GTCCCTACTGACGAGTTCAA----------------------------AAGAACGAAATAGTCT-------------------*
+>P1;USER>>DQ357615.1/303-249
+sequence = >DQ357615.1/303-249 = [+6+] DQ357615.1/303-249 Cherry small circular viroid-like RNA 1 isolate cscRNA1.84, complete genome.
+-----------------------------------CCGCTA-TATGGGGAT-GTGT---------------------GTCCCTACTGACGAGTTCAA----------------------------AAGAACGAAATAGTGT-------------------*
+>P1;USER>>DQ357628.1/295-241
+sequence = >DQ357628.1/295-241 = [+0+] DQ357628.1/295-241 Cherry small circular viroid-like RNA 1 isolate cscRNA1.150, complete genome.
+-----------------------------------CAGCTA-TATGGAGAT-GCGC---------------------GTCTCTACTGATGAGTTCAA----------------------------AAGAACGAAATAGTCT-------------------*
+>P1;USER>>DQ357627.1/294-240
+sequence = >DQ357627.1/294-240 = [+1+] DQ357627.1/294-240 Cherry small circular viroid-like RNA 1 isolate cscRNA1.100, complete genome.
+-----------------------------------CAGCTA-TATGGAGAT-GCGC---------------------GTCTCTACTGATGAGTTCAA----------------------------AAGAACGAAATAGCTG-------------------*
+>P1;USER>>AACY021025315.1/526-581
+sequence = >AACY021025315.1/526-581 = [+0+] AACY021025315.1/526-581 Marine metagenome 1092351061949, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGATAAT-ATTTT--------------------TTTATCCCTGATGAGTTCA-AA---------------------------AGAACGAAACCAGAA-------------------*
+>P1;USER>>AACY023348898.1/727-673
+sequence = >AACY023348898.1/727-673 = [+0+] AACY023348898.1/727-673 Marine metagenome ctg_1101668156249, whole genome shotgun sequence.
+------------------------------------ATCAGCTCT-ATAAC-TAGAA--------------------GTTATAC-TGACGAGTCCT-AT--------------------------TAGGACGAAAGCTGAT-------------------*
+>P1;USER>>AFSA01177641.1/920-977
+sequence = >AFSA01177641.1/920-977 = [+0+] AFSA01177641.1/920-977 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGCT-AGTGT--------------------CGCTTCCCTGATGATCCCATGG--------------------------CAGGGTAAAA-CTAGTT------------------*
+>P1;USER>>AFSA01170855.1/508-451
+sequence = >AFSA01170855.1/508-451 = [+0+] AFSA01170855.1/508-451 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTAGTTGAGGGAT-AGTGC--------------------CGCTTCCCCGATGAGCCCATGA--------------------------CAGGGCGGAA-CTAGTT------------------*
+>P1;USER>>AFSA01170855.1/1155-1098
+sequence = >AFSA01170855.1/1155-1098 = [+0+] AFSA01170855.1/1155-1098 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------CATTAGTCGGGGGCT-AGTGC--------------------CACTTCCCTGATGAGCTCATGG--------------------------CAGGGAGAAA-CCAATT------------------*
+>P1;USER>>AFSA01119680.1/493-436
+sequence = >AFSA01119680.1/493-436 = [+0+] AFSA01119680.1/493-436 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGCT-AGTGC--------------------AGCTTCCCTAATGAGCCCATGG--------------------------AAGGGCAAAG-CCAGTT------------------*
+>P1;USER>>AFSA01046730.1/721-664
+sequence = >AFSA01046730.1/721-664 = [+0+] AFSA01046730.1/721-664 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTAGTCGGGGACT-AATGT--------------------CGCCTCC-TGATGAGCCCATGA--------------------------TAGGGCAAAAACCAGTT------------------*
+>P1;USER>>FN595498.1/248106-248049
+sequence = >FN595498.1/248106-248049 = [+2+] FN595498.1/248106-248049 Vitis vinifera cv. PN40024, annotated scaffold_177.assembly12x
+------------------------------------AACTGGTCGGGAGCT-AGATT--------------------CGTTCCCTTGATGAGTCCATAG--------------------------CAGGATGAAA-CCAATC------------------*
+>P1;USER>>FN595515.1/240134-240191
+sequence = >FN595515.1/240134-240191 = [+2+] FN595515.1/240134-240191 Vitis vinifera cv. PN40024, annotated scaffold_118.assembly12x
+------------------------------------AATTGGTTGGAATTT-GGAGT--------------------AGTTCCCCTTATGAGTCCATGG--------------------------TAGGATGAAA-CTAGTA------------------*
+>P1;USER>>FN594950.1/7425599-7425654
+sequence = >FN594950.1/7425599-7425654 = [+2+] FN594950.1/7425599-7425654 Vitis vinifera cv. PN40024, annotated scaffold_0.assembly12x
+-------------------------------------ATTAGTTAGGAGCT-AGAAT--------------------TGTTCCTCTGATGAGTCCATGG--------------------------GAGGACGAAA-CCAAT-------------------*
+>P1;USER>>CAAP03007143.1/131633-131576
+sequence = >CAAP03007143.1/131633-131576 = [+2+] CAAP03007143.1/131633-131576 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_448
+------------------------------------AACTAGTCAAGAGGT-GGAGT--------------------CATTTCCCTAATGAGTCCATGG--------------------------TAGGACGAAA-CCAATC------------------*
+>P1;USER>>FN595515.1/240996-241053
+sequence = >FN595515.1/240996-241053 = [+2+] FN595515.1/240996-241053 Vitis vinifera cv. PN40024, annotated scaffold_118.assembly12x
+------------------------------------AACTAGTCAGGATCT-GGAGT--------------------TGTTTCCCTGATGAGTCTATGG--------------------------TAGGACAAAA-CCGATC------------------*
+>P1;USER>>AM459779.1/27612-27669
+sequence = >AM459779.1/27612-27669 = [+0+] AM459779.1/27612-27669 Vitis vinifera contig VV78X042738.17, whole genome shotgun sequence.
+------------------------------------AACTGATCGAGAGCT-AGAGT--------------------TGTTCCCATGATGAGTCCATGG--------------------------TAGGACAAAATCGGTC-------------------*
+>P1;USER>>AFSA01018053.1/4359-4416
+sequence = >AFSA01018053.1/4359-4416 = [+0+] AFSA01018053.1/4359-4416 Lactuca sativa, whole genome shotgun sequence.
+------------------------------------AACTGGTCGGGGGCT-ACTGT--------------------CGCTTCCTTGATGAGCCCATGG--------------------------CAGGCCGAAATTAGTT-------------------*
+>P1;USER>>AACY023784794.1/810-864
+sequence = >AACY023784794.1/810-864 = [+0+] AACY023784794.1/810-864 Marine metagenome ctg_1101668592145, whole genome shotgun sequence.
+------------------------------------CACCCGTCGACAGATGTGTA----------------------TCTGTCCTGATGAG--TCC-----------------------GAAAG---GACGAAACGGTAA-------------------*
+>P1;USER>>AJ536619.1/206-152
+sequence = >AJ536619.1/206-152 = [+2+] AJ536619.1/206-152 Eggplant latent viroid complete genome, isolate 8
+------------------------------------CCACCGTCGGAAAGTGTGTA----------------------CTTTCCCTGATGAG--TCC-----------------------GAAAG---GACGAAACGGTAC-------------------*
+>P1;USER>>AJ536620.1/206-152
+sequence = >AJ536620.1/206-152 = [+5+] AJ536620.1/206-152 Eggplant latent viroid complete genome, isolate 9
+------------------------------------CCACCGTCGGAAAGTGTGCG----------------------CTTTCCCTGATGAG--CCC-----------------------AAAAG---GGCGAAACGGTAC-------------------*
+>P1;USER>>AACY021940384.1/538-592
+sequence = >AACY021940384.1/538-592 = [+0+] AACY021940384.1/538-592 Marine metagenome 1095403265020, whole genome shotgun sequence.
+------------------------------------CAACTGTCATCAAGTGTGTG----------------------CTTGATCTGATGAG--ACC-----------------------AAAAG---GTCGAAACAGTTA-------------------*
+>P1;USER>>AACY022830181.1/456-402
+sequence = >AACY022830181.1/456-402 = [+0+] AACY022830181.1/456-402 Marine metagenome ctg_1101667237532, whole genome shotgun sequence.
+------------------------------------CTACTGTCAGATAGTGTGTG----------------------CTATCTCTGATGAG--TTC-----------------------AAAAG---AACGAAACAGTTA-------------------*
+>P1;USER>>ABMB01014284.1/20-74
+sequence = >ABMB01014284.1/20-74 = [+0+] ABMB01014284.1/20-74 Marine metagenome 2935084, whole genome shotgun sequence.
+------------------------------------CCACCGTCCGCTAGTGTGTG----------------------CTAGCGCTGAAGAG--GCT-----------------------GTTAG---GCCGAAACGGTAA-------------------*
+>P1;USER>>AACY023195290.1/1059-1114
+sequence = >AACY023195290.1/1059-1114 = [+0+] AACY023195290.1/1059-1114 Marine metagenome ctg_1101668002641, whole genome shotgun sequence.
+------------------------------------TTTCTGTCGGAAAATGCATA----------------------TTTTCCCTGATGA-GACCT-----------------------AAAAG---GTCGAAACAGAAA-------------------*
+>P1;USER>>ABML01222367.1/14-71
+sequence = >ABML01222367.1/14-71 = [+0+] ABML01222367.1/14-71 Marine metagenome 3878724, whole genome shotgun sequence.
+------------------------------------ATTCTGTCGGAAAATGTGTA----------------------TTTTCCCTGATGAAGACTC-----------------------AAAAG--AGTCGAAACAGAAA-------------------*
+>P1;USER>>CP000511.1/2184555-2184609
+sequence = >CP000511.1/2184555-2184609 = [+0+] CP000511.1/2184555-2184609 Mycobacterium vanbaalenii PYR-1, complete genome.
+-----------------------------------CCACTCTCCAGGGTTACCCTG----------------------------CTGACGAGCCTGT-----------------------GAAAGTCAGGCGAAAGAGTTG-------------------*
+>P1;USER>>CP002039.1/3593801-3593747
+sequence = >CP002039.1/3593801-3593747 = [+0+] CP002039.1/3593801-3593747 Herbaspirillum seropedicae SmR1, complete genome.
+-----------------------------------CTCCCTTCCAGGGATACCCTG----------------------------CTGACGAGCCTGT-----------------------GAAAGTCAGGCGAAAAGAAAC-------------------*
+>P1;USER>>ADDK02000001.1/1582123-1582069
+sequence = >ADDK02000001.1/1582123-1582069 = [+0+] ADDK02000001.1/1582123-1582069 Dechlorosoma suillum PS ctg78, whole genome shotgun sequence.
+-----------------------------------CTCCCTTCCAGGCATAGCCTG----------------------------CTGATGAGCTTGT-----------------------GCAATCCAAGCGAAAAGGAAA-------------------*
+>P1;USER>>X01984.1/170-107
+sequence = >X01984.1/170-107 = [+1+] X01984.1/170-107 Lucerne transient streak virus satellite RNA (LTSV-A) RNA 2 sequence
+----------------------------------CAGACGTATGAGA--CTGACTGAAACGCC--------------GTCT-CACTGATGAGGCCAT-----------------------GGCAGGC---CGAAACGTCCG-------------------*
+>P1;USER>>D00341.1/169-106
+sequence = >D00341.1/169-106 = [+0+] D00341.1/169-106 Lucerne transient streak virus satellite RNA, complete sequence.
+----------------------------------CAGACGTATGAGAGACTGACTGAAAC--C--------------GTCT-CACTGATGAGGCCAT-----------------------GGTAGGC---CGAAACGTCCA-------------------*
+>P1;USER>>AAWT01061712.1/75822-75766
+sequence = >AAWT01061712.1/75822-75766 = [+0+] AAWT01061712.1/75822-75766 Schmidtea mediterranea strain S2F2 S_mediterranea_3.1_Cont1037.2, whole genome shotgun sequence.
+------------------------------------TCCCTGTCAGCAGATGACAT----------------------TCTGCTCTGATGAGGCCAT-----------------------TGAAGAC---CGAAACGGGGA-------------------*
+>P1;USER>>CABF01025454.1/5253-5183
+sequence = >CABF01025454.1/5253-5183 = [+1+] CABF01025454.1/5253-5183 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C025426
+---------------------------ATTATGTCTGGGAATTAGGATTCTAACTCAA---GT--------------ATCAACACTGATGAGTC--------------------------TTAAATAAGACGAAACATACT-------------------*
+>P1;USER>>ABMF01222492.1/76-21
+sequence = >ABMF01222492.1/76-21 = [+0+] ABMF01222492.1/76-21 Saltern metagenome 42698345, whole genome shotgun sequence.
+------------------------------------------TCGGTGTCTCAGGCAA---CC--------------AGCCTGACTGATGAGCC--------------------------GCGGTATCGGCGAAACACATT-------------------*
+>P1;USER>>ABNK01030792.1/87-4
+sequence = >ABNK01030792.1/87-4 = [+0+] ABNK01030792.1/87-4 Coral metagenome 39613776, whole genome shotgun sequence.
+------------------------------------GGGGTGTCCGGGGCTGATGCT---------------------GCCCCGCTGATGAGTGCATCGCGACCCACGATGCACGATGGCTCAGCAGAGCCGAAACACCAA-------------------*
+>P1;USER>>HE601627.1/11733048-11733105
+sequence = >HE601627.1/11733048-11733105 = [+0+] HE601627.1/11733048-11733105 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+------------------------------------GGTGTGTTGGGTCGTATTTGT---------------------TCACTTCTGACGAGTCC--------------------------CAAAAGGGACGAAACACACG-------------------*
+>P1;USER>>BA000030.3/5230823-5230770
+sequence = >BA000030.3/5230823-5230770 = [+0+] BA000030.3/5230823-5230770 Streptomyces avermitilis MA-4680 DNA, complete genome.
+------------------------------------GCTCCGTAGGG-CTTGGGGCT---------------------CGCACGCTGACGAG-----------------------------CCGTCGGGCAGAAACGGAGG-------------------*
+>P1;USER>>AACY020301409.1/776-832
+sequence = >AACY020301409.1/776-832 = [+0+] AACY020301409.1/776-832 Marine metagenome 1096626378584, whole genome shotgun sequence.
+------------------------------------TGCTAGTCGGCGGCTAT-GCC--------------------AGCCGCCCTGATGA-GCCCC---------------------A--GCAGGG---CGAAACTAGCA-------------------*
+>P1;USER>>AACY021791304.1/129-73
+sequence = >AACY021791304.1/129-73 = [+0+] AACY021791304.1/129-73 Marine metagenome 1093017222198, whole genome shotgun sequence.
+------------------------------------AAAGGGTCGGCGCCTAACGCG--------------------AAGCGCCCTGATGA-GCCT----------------------A--GCAAGG---CGAAACCCTGG-------------------*
+>P1;USER>>AACY021652855.1/163-107
+sequence = >AACY021652855.1/163-107 = [+0+] AACY021652855.1/163-107 Marine metagenome 1092351186502, whole genome shotgun sequence.
+------------------------------------AAAGGGTCGGCGCCTAACGCG--------------------AGGCGCCCTGACGA-GGCC----------------------A--GCAGGC---CGAAACCCTGG-------------------*
+>P1;USER>>AACY022632013.1/418-363
+sequence = >AACY022632013.1/418-363 = [+0+] AACY022632013.1/418-363 Marine metagenome ctg_1101667039364, whole genome shotgun sequence.
+------------------------------------AACGCGTCCGGGGCTGA-CC---------------------TGCCCCGCTGATGA-GGCCC---------------------A--G-AAGGC--CGAAACGTGAG-------------------*
+>P1;USER>>AACY021247023.1/427-370
+sequence = >AACY021247023.1/427-370 = [+0+] AACY021247023.1/427-370 Marine metagenome 1095522105316, whole genome shotgun sequence.
+------------------------------------CTCCCGTCCGGGGCTGG-AC---------------------CGCCCCGCTGATGA-GGCCC---------------------GCGG-AGGGC--CGAAACGGGCC-------------------*
+>P1;USER>>AACY023259265.1/429-488
+sequence = >AACY023259265.1/429-488 = [+0+] AACY023259265.1/429-488 Marine metagenome ctg_1101668066616, whole genome shotgun sequence.
+------------------------------------ATTGCGTCTGGTGCTAATAC---------------------CGCACCACTGATGA-GGCCT---------------------ATGGTAGGGC--CGAAACGCAAA-------------------*
+>P1;USER>>AACY023259265.1/619-677
+sequence = >AACY023259265.1/619-677 = [+0+] AACY023259265.1/619-677 Marine metagenome ctg_1101668066616, whole genome shotgun sequence.
+------------------------------------TCTGCGTCTGGTGCTAATAC---------------------CGCACCACTGATGA-GACCC---------------------ATGG-AGGGT--CGAAACGCAGA-------------------*
+>P1;USER>>HQ880434.1/11-65
+sequence = >HQ880434.1/11-65 = [+0+] HQ880434.1/11-65 Tncultured organism clone hhrIII-G3_26_03977s-1 hammerhead ribozyme type III gene, complete sequence.
+------------------------------------AAACCGTCCATGACGG-C-T---------------------AGTCATGCTGATGA-GCCTT-----------------------GGCAAGG---CGAAACGGTTT-------------------*
+>P1;USER>>AACY021842348.1/566-623
+sequence = >AACY021842348.1/566-623 = [+0+] AACY021842348.1/566-623 Marine metagenome 1093012237061, whole genome shotgun sequence.
+------------------------------------ACGGCGTCCACGGCTA-TGT---------------------AGCCGTGCTGATGA-GTCCT---------------------CAGTCAGGA---CGAAACGCCTA-------------------*
+>P1;USER>>AACY023847113.1/873-813
+sequence = >AACY023847113.1/873-813 = [+1+] AACY023847113.1/873-813 Marine metagenome ctg_1101668654464, whole genome shotgun sequence.
+------------------------------------GACGAGTCTGCCCCTGATGC---------------------CGGGGCACTGACGATGGCTC---------------------ATGGCAGAGC--CGAAACTCGTC-------------------*
+>P1;USER>>AGTN01140051.1/136-194
+sequence = >AGTN01140051.1/136-194 = [+0+] AGTN01140051.1/136-194 Bioreactor metagenome PBDCA2_GBB5CE401BFGDH_left, whole genome shotgun sequence.
+------------------------------------CGCGTGTCTGAGCCTGACGC---------------------TGGCTCACTGATGAAGGCGG---------------------A--GCACCGC--CGAAACACGAC-------------------*
+>P1;USER>>AACY023366856.1/213-156
+sequence = >AACY023366856.1/213-156 = [+0+] AACY023366856.1/213-156 Marine metagenome ctg_1101668174207, whole genome shotgun sequence.
+------------------------------------CCCTTGTCTGTGTCTGATGC---------------------TGACACACTGATGA--GCCG---------------------ATAGCACGGC---GAAACATTTT-------------------*
+>P1;USER>>AAXJ01000388.1/18127-18183
+sequence = >AAXJ01000388.1/18127-18183 = [+5+] AAXJ01000388.1/18127-18183 Perkinsus marinus ATCC 50983 gcontig_1104296192066, whole genome shotgun sequence.
+------------------------------------GGTGTGTCTGGCGCCGTT-------------------------AGCCACTGATGAGTCCCT---------------------GTGGTGGGGA--CGAAACACTAC-------------------*
+>P1;USER>>ABRE01014749.1/1036-977
+sequence = >ABRE01014749.1/1036-977 = [+0+] ABRE01014749.1/1036-977 Moniliophthora perniciosa FA553 Contig15012, whole genome shotgun sequence.
+------------------------------------GAGCAGTTAGGGCAGCGGTT---------------------AAGCCCTCTGACGA-GCCCC---------------------CTCGCAAGGG--CGAAACTGCTA-------------------*
+>P1;USER>>ABMW01161415.1/105-23
+sequence = >ABMW01161415.1/105-23 = [+0+] ABMW01161415.1/105-23 Freshwater metagenome 43239908, whole genome shotgun sequence.
+------------------------------------CGCCAGTCACGGTTGCTCTGGGTGCTCACTCAAGCTCCCAAAAGCCGTCTGACGA-GTCCC---------------------TTGAGAACGGGACGAAACTGGCG-------------------*
+>P1;USER>>FJ647334.1/1-61
+sequence = >FJ647334.1/1-61 = [+2+] FJ647334.1/1-61 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 44, partial sequence.
+------------------------------------AAGAGGTCGGCACCTGATGT---------------------CAGTGTCCTGATGAAGATCC---------------------ATGACAGGAT--CGAAACCTCTT-------------------*
+>P1;USER>>AEQC01000211.1/20120-20179
+sequence = >AEQC01000211.1/20120-20179 = [+1+] AEQC01000211.1/20120-20179 Serpula lacrymans var. lacrymans S7.3 SERLA73scaffold_2_Cont211, whole genome shotgun sequence.
+------------------------------------AGGTGGTTGGGGTAGTGGTT---------------------AAGCCCCCTGATGA-GCCCT---------------------TTTGCAAGGG--CGAAACCACCC-------------------*
+>P1;USER>>ABWF01007153.1/1096-1155
+sequence = >ABWF01007153.1/1096-1155 = [+1+] ABWF01007153.1/1096-1155 Postia placenta Mad-698-R POSPLscaffold_217_Cont7153, whole genome shotgun sequence.
+------------------------------------ATCAGGTTGGGGCAGCGGTT---------------------AAGCCTCCTGATGA-GCCCC---------------------GTCGCGTGGG--CGAAACCTGTC-------------------*
+>P1;USER>>ABWF01001581.1/10618-10677
+sequence = >ABWF01001581.1/10618-10677 = [+0+] ABWF01001581.1/10618-10677 Postia placenta Mad-698-R POSPLscaffold_23_Cont1581, whole genome shotgun sequence.
+------------------------------------GTCAGGTTGGGGCAGCGGTT---------------------AAGCCCCCTGATGA-GCGCC---------------------ATCGCACGGG--CGAAACCTGTC-------------------*

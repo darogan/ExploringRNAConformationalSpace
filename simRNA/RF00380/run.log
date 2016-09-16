@@ -1,0 +1,1912 @@
+
+ SimRNA (c) 2009-2014 Genesilico, ver. 3.20
+
+ program compiled as SimRNA3: 3 atoms per base
+
+.reading parameteres
+class RNAStructure: SimRNA3 flag is set
+
+reading input pdb file: full.pdb
+number of recognized chains: 1
+number of read nucleotides: 161
+number of read atoms: 3431
+chains:
+chain A contains 161 nucleotides
+(in case of error messages nucleotide numbering starts from 1)
+loading histrogram: ./data/dist_PC.data.new_hist   assigned_name: dist_PC.data.new_hist  DONE
+loading histrogram: ./data/dist_CP.data.new_hist   assigned_name: dist_CP.data.new_hist  DONE
+loading histrogram: ./data/angle_PCP.data.new_hist   assigned_name: angle_PCP.data.new_hist  DONE
+loading histrogram: ./data/angle_CPC.data.new_hist   assigned_name: angle_CPC.data.new_hist  DONE
+loading histrogram: ./data/eta_theta.data.new_hist   assigned_name: eta_theta.data.new_hist  DONE
+reading conformers file: ./data/A_conformers
+n_lines: 4766
+   16    15    69    34    27 
+   46    26   156    83    35 
+   93   127  1269    89    50 
+  187   157  1927    88    75 
+   51    22    67    25    32 
+DONE
+reading conformers file: ./data/C_conformers
+n_lines: 5164
+    7     8    61    17     4 
+   14    12   143    49    12 
+   23   140  2110    21    24 
+   88   101  2101    19    36 
+   25    21   108     8    12 
+DONE
+reading conformers file: ./data/G_conformers
+n_lines: 6375
+   11     7    79    21    50 
+   20    17   175    54    39 
+   42   102  2774    90    34 
+   61    94  2314    71   100 
+   20    22   142    15    21 
+DONE
+reading conformers file: ./data/U_conformers
+n_lines: 3617
+    6     6    43    33    24 
+   20    20   131    50    28 
+   30    58  1412    30    24 
+   64    82  1197    31    32 
+   71    36   132    13    44 
+DONE
+loading histrogram: ./data/AA3.hist   assigned_name: AA3.hist  DONE
+loading histrogram: ./data/AC3.hist   assigned_name: AC3.hist  DONE
+loading histrogram: ./data/AG3.hist   assigned_name: AG3.hist  DONE
+loading histrogram: ./data/AU3.hist   assigned_name: AU3.hist  DONE
+loading histrogram: ./data/CA3.hist   assigned_name: CA3.hist  DONE
+loading histrogram: ./data/CC3.hist   assigned_name: CC3.hist  DONE
+loading histrogram: ./data/CG3.hist   assigned_name: CG3.hist  DONE
+loading histrogram: ./data/CU3.hist   assigned_name: CU3.hist  DONE
+loading histrogram: ./data/GA3.hist   assigned_name: GA3.hist  DONE
+loading histrogram: ./data/GC3.hist   assigned_name: GC3.hist  DONE
+loading histrogram: ./data/GG3.hist   assigned_name: GG3.hist  DONE
+loading histrogram: ./data/GU3.hist   assigned_name: GU3.hist  DONE
+loading histrogram: ./data/UA3.hist   assigned_name: UA3.hist  DONE
+loading histrogram: ./data/UC3.hist   assigned_name: UC3.hist  DONE
+loading histrogram: ./data/UG3.hist   assigned_name: UG3.hist  DONE
+loading histrogram: ./data/UU3.hist   assigned_name: UU3.hist  DONE
+loading histrogram: ./data/A-C4_3.hist   assigned_name: A-C4_3.hist  DONE
+loading histrogram: ./data/C-C4_3.hist   assigned_name: C-C4_3.hist  DONE
+loading histrogram: ./data/G-C4_3.hist   assigned_name: G-C4_3.hist  DONE
+loading histrogram: ./data/U-C4_3.hist   assigned_name: U-C4_3.hist  DONE
+loading histrogram: ./data/A-P_3.hist   assigned_name: A-P_3.hist  DONE
+loading histrogram: ./data/C-P_3.hist   assigned_name: C-P_3.hist  DONE
+loading histrogram: ./data/G-P_3.hist   assigned_name: G-P_3.hist  DONE
+loading histrogram: ./data/U-P_3.hist   assigned_name: U-P_3.hist  DONE
+loading histrogram: ./data/A_3_exvol.hist   assigned_name: A_3_exvol.hist  DONE
+scaling: histogram A_3_exvol.hist was multiplied by 0.100000
+loading histrogram: ./data/C_3_exvol.hist   assigned_name: C_3_exvol.hist  DONE
+scaling: histogram C_3_exvol.hist was multiplied by 0.100000
+loading histrogram: ./data/G_3_exvol.hist   assigned_name: G_3_exvol.hist  DONE
+scaling: histogram G_3_exvol.hist was multiplied by 0.100000
+loading histrogram: ./data/U_3_exvol.hist   assigned_name: U_3_exvol.hist  DONE
+scaling: histogram U_3_exvol.hist was multiplied by 0.100000
+DONE
+reading distance restraints...
+distance restraint added:
+chain A atom MB nucl 52 and chain A atom MB nucl 61, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 52 and chain A atom MB nucl 61, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 28 and chain A atom MB nucl 129, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 28 and chain A atom MB nucl 129, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 79 and chain A atom MB nucl 99, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 79 and chain A atom MB nucl 99, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 83 and chain A atom MB nucl 95, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 83 and chain A atom MB nucl 95, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 25 and chain A atom MB nucl 132, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 25 and chain A atom MB nucl 132, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 39 and chain A atom MB nucl 107, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 39 and chain A atom MB nucl 107, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 114 and chain A atom MB nucl 121, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 114 and chain A atom MB nucl 121, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 24 and chain A atom MB nucl 133, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 24 and chain A atom MB nucl 133, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 26 and chain A atom MB nucl 131, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 26 and chain A atom MB nucl 131, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 78 and chain A atom MB nucl 100, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 78 and chain A atom MB nucl 100, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 113 and chain A atom MB nucl 122, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 113 and chain A atom MB nucl 122, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 80 and chain A atom MB nucl 98, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 80 and chain A atom MB nucl 98, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 27 and chain A atom MB nucl 130, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 27 and chain A atom MB nucl 130, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 51 and chain A atom MB nucl 62, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 51 and chain A atom MB nucl 62, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 38 and chain A atom MB nucl 108, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 38 and chain A atom MB nucl 108, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 23 and chain A atom MB nucl 134, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 23 and chain A atom MB nucl 134, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 4 and chain A atom MB nucl 157, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 4 and chain A atom MB nucl 157, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 82 and chain A atom MB nucl 96, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 82 and chain A atom MB nucl 96, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 37 and chain A atom MB nucl 109, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 37 and chain A atom MB nucl 109, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 40 and chain A atom MB nucl 106, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 40 and chain A atom MB nucl 106, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 112 and chain A atom MB nucl 123, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 112 and chain A atom MB nucl 123, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 6 and chain A atom MB nucl 155, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 6 and chain A atom MB nucl 155, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 29 and chain A atom MB nucl 128, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 29 and chain A atom MB nucl 128, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 115 and chain A atom MB nucl 120, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 115 and chain A atom MB nucl 120, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 46 and chain A atom MB nucl 67, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 46 and chain A atom MB nucl 67, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 3 and chain A atom MB nucl 158, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 3 and chain A atom MB nucl 158, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 5 and chain A atom MB nucl 156, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 5 and chain A atom MB nucl 156, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 19 and chain A atom MB nucl 74, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 19 and chain A atom MB nucl 74, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 36 and chain A atom MB nucl 110, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 36 and chain A atom MB nucl 110, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 87 and chain A atom MB nucl 152, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 87 and chain A atom MB nucl 152, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 81 and chain A atom MB nucl 97, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 81 and chain A atom MB nucl 97, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 21 and chain A atom MB nucl 74, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 21 and chain A atom MB nucl 74, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 50 and chain A atom MB nucl 63, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 50 and chain A atom MB nucl 63, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 18 and chain A atom MB nucl 138, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 18 and chain A atom MB nucl 138, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 7 and chain A atom MB nucl 154, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 7 and chain A atom MB nucl 154, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 23 and chain A atom MB nucl 135, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 23 and chain A atom MB nucl 135, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 54 and chain A atom MB nucl 59, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 54 and chain A atom MB nucl 59, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 43 and chain A atom MB nucl 70, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 43 and chain A atom MB nucl 70, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 13 and chain A atom MB nucl 144, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 13 and chain A atom MB nucl 144, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 45 and chain A atom MB nucl 68, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 45 and chain A atom MB nucl 68, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 34 and chain A atom MB nucl 125, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 34 and chain A atom MB nucl 125, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 2 and chain A atom MB nucl 159, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 2 and chain A atom MB nucl 159, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 21 and chain A atom MB nucl 136, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 21 and chain A atom MB nucl 136, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 41 and chain A atom MB nucl 104, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 41 and chain A atom MB nucl 104, unrestricted dist. range: 5.000 10.000, weight 5.000
+distance restraint added:
+chain A atom MB nucl 44 and chain A atom MB nucl 69, unrestricted dist. range: 5.000 10.000, weight 1.000
+distance restraint added:
+chain A atom MB nucl 44 and chain A atom MB nucl 69, unrestricted dist. range: 5.000 10.000, weight 5.000
+DONE
+
+begin: void RNAStructureWithRestraints::initSecondStrcRestraints(const char* path)
+RNAStructureWithRestraints::secondStrcWeight = 1.000000
+chain: 1: _((((((((((...............................(((((.....(((....))).....)))))....................)....................(((....))).........................))....)))))))._
+nucl1: 53, chain1: 0, <--->  nucl2: 58, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 53, chainIndex_2: 0, nuclIndex_2: 58
+nucl1: 52, chain1: 0, <--->  nucl2: 59, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 52, chainIndex_2: 0, nuclIndex_2: 59
+nucl1: 51, chain1: 0, <--->  nucl2: 60, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 51, chainIndex_2: 0, nuclIndex_2: 60
+nucl1: 45, chain1: 0, <--->  nucl2: 66, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 45, chainIndex_2: 0, nuclIndex_2: 66
+nucl1: 44, chain1: 0, <--->  nucl2: 67, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 44, chainIndex_2: 0, nuclIndex_2: 67
+nucl1: 43, chain1: 0, <--->  nucl2: 68, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 43, chainIndex_2: 0, nuclIndex_2: 68
+nucl1: 42, chain1: 0, <--->  nucl2: 69, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 42, chainIndex_2: 0, nuclIndex_2: 69
+nucl1: 41, chain1: 0, <--->  nucl2: 70, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 41, chainIndex_2: 0, nuclIndex_2: 70
+nucl1: 9, chain1: 0, <--->  nucl2: 91, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 9, chainIndex_2: 0, nuclIndex_2: 91
+nucl1: 114, chain1: 0, <--->  nucl2: 119, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 114, chainIndex_2: 0, nuclIndex_2: 119
+nucl1: 113, chain1: 0, <--->  nucl2: 120, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 113, chainIndex_2: 0, nuclIndex_2: 120
+nucl1: 112, chain1: 0, <--->  nucl2: 121, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 112, chainIndex_2: 0, nuclIndex_2: 121
+nucl1: 8, chain1: 0, <--->  nucl2: 147, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 8, chainIndex_2: 0, nuclIndex_2: 147
+nucl1: 7, chain1: 0, <--->  nucl2: 148, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 7, chainIndex_2: 0, nuclIndex_2: 148
+nucl1: 6, chain1: 0, <--->  nucl2: 153, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 6, chainIndex_2: 0, nuclIndex_2: 153
+nucl1: 5, chain1: 0, <--->  nucl2: 154, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 5, chainIndex_2: 0, nuclIndex_2: 154
+nucl1: 4, chain1: 0, <--->  nucl2: 155, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 4, chainIndex_2: 0, nuclIndex_2: 155
+nucl1: 3, chain1: 0, <--->  nucl2: 156, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 3, chainIndex_2: 0, nuclIndex_2: 156
+nucl1: 2, chain1: 0, <--->  nucl2: 157, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 2, chainIndex_2: 0, nuclIndex_2: 157
+nucl1: 1, chain1: 0, <--->  nucl2: 158, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 1, chainIndex_2: 0, nuclIndex_2: 158
+nucl1: 0, chain1: 0, <--->  nucl2: 159, chain2: 0
+secondary structure restraint added:
+chainIndex_1: 0, nuclIndex_1: 0, chainIndex_2: 0, nuclIndex_2: 159
+ end: void RNAStructureWithRestraints::initSecondStrcRestraints(const char* path)
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   1
+second atom: chain: A, nucl: 160
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 2 atom: MB
+second atom: chain: A, nucl: 159 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.617, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 2 atom: MB
+second atom: chain: A, nucl: 159 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.617, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   2
+second atom: chain: A, nucl: 159
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 3 atom: MB
+second atom: chain: A, nucl: 158 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.584, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 3 atom: MB
+second atom: chain: A, nucl: 158 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.584, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   3
+second atom: chain: A, nucl: 158
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 4 atom: MB
+second atom: chain: A, nucl: 157 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.494, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 4 atom: MB
+second atom: chain: A, nucl: 157 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.494, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   4
+second atom: chain: A, nucl: 157
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 5 atom: MB
+second atom: chain: A, nucl: 156 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.414, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 5 atom: MB
+second atom: chain: A, nucl: 156 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.414, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   5
+second atom: chain: A, nucl: 156
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 6 atom: MB
+second atom: chain: A, nucl: 155 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.493, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 6 atom: MB
+second atom: chain: A, nucl: 155 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.493, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   6
+second atom: chain: A, nucl: 155
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 7 atom: MB
+second atom: chain: A, nucl: 154 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.679, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 7 atom: MB
+second atom: chain: A, nucl: 154 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.679, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   7
+second atom: chain: A, nucl: 154
+current score: 0.000
+--------------------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   8
+second atom: chain: A, nucl: 149
+current score: 0.000
+--------------------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   9
+second atom: chain: A, nucl: 148
+current score: 0.000
+--------------------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  10
+second atom: chain: A, nucl:  92
+current score: 0.006
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 13 atom: MB
+second atom: chain: A, nucl: 144 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.573, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 13 atom: MB
+second atom: chain: A, nucl: 144 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.573, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 18 atom: MB
+second atom: chain: A, nucl: 138 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.472, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 18 atom: MB
+second atom: chain: A, nucl: 138 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.472, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 19 atom: MB
+second atom: chain: A, nucl: 74 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 9.195, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 19 atom: MB
+second atom: chain: A, nucl: 74 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 9.195, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 21 atom: MB
+second atom: chain: A, nucl: 74 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 3.721, current score: 1.279
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 21 atom: MB
+second atom: chain: A, nucl: 74 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 3.721, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 21 atom: MB
+second atom: chain: A, nucl: 136 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.603, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 21 atom: MB
+second atom: chain: A, nucl: 136 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.603, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 23 atom: MB
+second atom: chain: A, nucl: 134 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.529, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 23 atom: MB
+second atom: chain: A, nucl: 134 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.529, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 23 atom: MB
+second atom: chain: A, nucl: 135 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 5.110, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 23 atom: MB
+second atom: chain: A, nucl: 135 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 5.110, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 24 atom: MB
+second atom: chain: A, nucl: 133 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.848, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 24 atom: MB
+second atom: chain: A, nucl: 133 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.848, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 25 atom: MB
+second atom: chain: A, nucl: 132 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.845, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 25 atom: MB
+second atom: chain: A, nucl: 132 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.845, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 26 atom: MB
+second atom: chain: A, nucl: 131 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.721, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 26 atom: MB
+second atom: chain: A, nucl: 131 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.721, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 27 atom: MB
+second atom: chain: A, nucl: 130 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.288, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 27 atom: MB
+second atom: chain: A, nucl: 130 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.288, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 28 atom: MB
+second atom: chain: A, nucl: 129 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.563, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 28 atom: MB
+second atom: chain: A, nucl: 129 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.563, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 29 atom: MB
+second atom: chain: A, nucl: 128 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.709, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 29 atom: MB
+second atom: chain: A, nucl: 128 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.709, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 34 atom: MB
+second atom: chain: A, nucl: 125 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 9.242, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 34 atom: MB
+second atom: chain: A, nucl: 125 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 9.242, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 36 atom: MB
+second atom: chain: A, nucl: 110 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.616, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 36 atom: MB
+second atom: chain: A, nucl: 110 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.616, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 37 atom: MB
+second atom: chain: A, nucl: 109 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.928, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 37 atom: MB
+second atom: chain: A, nucl: 109 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.928, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 38 atom: MB
+second atom: chain: A, nucl: 108 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.643, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 38 atom: MB
+second atom: chain: A, nucl: 108 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.643, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 39 atom: MB
+second atom: chain: A, nucl: 107 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.690, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 39 atom: MB
+second atom: chain: A, nucl: 107 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.690, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 40 atom: MB
+second atom: chain: A, nucl: 106 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.738, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 40 atom: MB
+second atom: chain: A, nucl: 106 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.738, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 41 atom: MB
+second atom: chain: A, nucl: 104 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.261, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 41 atom: MB
+second atom: chain: A, nucl: 104 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.261, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  42
+second atom: chain: A, nucl:  71
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 43 atom: MB
+second atom: chain: A, nucl: 70 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.483, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 43 atom: MB
+second atom: chain: A, nucl: 70 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.483, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  43
+second atom: chain: A, nucl:  70
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 44 atom: MB
+second atom: chain: A, nucl: 69 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.484, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 44 atom: MB
+second atom: chain: A, nucl: 69 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.484, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  44
+second atom: chain: A, nucl:  69
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 45 atom: MB
+second atom: chain: A, nucl: 68 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.529, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 45 atom: MB
+second atom: chain: A, nucl: 68 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.529, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  45
+second atom: chain: A, nucl:  68
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 46 atom: MB
+second atom: chain: A, nucl: 67 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.405, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 46 atom: MB
+second atom: chain: A, nucl: 67 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.405, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  46
+second atom: chain: A, nucl:  67
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 50 atom: MB
+second atom: chain: A, nucl: 63 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 8.536, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 50 atom: MB
+second atom: chain: A, nucl: 63 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 8.536, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 51 atom: MB
+second atom: chain: A, nucl: 62 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.928, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 51 atom: MB
+second atom: chain: A, nucl: 62 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.928, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 52 atom: MB
+second atom: chain: A, nucl: 61 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.603, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 52 atom: MB
+second atom: chain: A, nucl: 61 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.603, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  52
+second atom: chain: A, nucl:  61
+current score: 0.000
+--------------------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  53
+second atom: chain: A, nucl:  60
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 54 atom: MB
+second atom: chain: A, nucl: 59 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.611, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 54 atom: MB
+second atom: chain: A, nucl: 59 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.611, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  54
+second atom: chain: A, nucl:  59
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 78 atom: MB
+second atom: chain: A, nucl: 100 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.367, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 78 atom: MB
+second atom: chain: A, nucl: 100 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.367, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 79 atom: MB
+second atom: chain: A, nucl: 99 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.511, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 79 atom: MB
+second atom: chain: A, nucl: 99 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.511, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 80 atom: MB
+second atom: chain: A, nucl: 98 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.410, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 80 atom: MB
+second atom: chain: A, nucl: 98 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.410, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 81 atom: MB
+second atom: chain: A, nucl: 97 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.559, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 81 atom: MB
+second atom: chain: A, nucl: 97 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.559, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 82 atom: MB
+second atom: chain: A, nucl: 96 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.601, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 82 atom: MB
+second atom: chain: A, nucl: 96 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.601, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 83 atom: MB
+second atom: chain: A, nucl: 95 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.666, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 83 atom: MB
+second atom: chain: A, nucl: 95 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.666, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 87 atom: MB
+second atom: chain: A, nucl: 152 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 12.881, current score: 2.881
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 87 atom: MB
+second atom: chain: A, nucl: 152 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 12.881, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 112 atom: MB
+second atom: chain: A, nucl: 123 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.831, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 112 atom: MB
+second atom: chain: A, nucl: 123 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.831, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 113 atom: MB
+second atom: chain: A, nucl: 122 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.747, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 113 atom: MB
+second atom: chain: A, nucl: 122 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.747, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl: 113
+second atom: chain: A, nucl: 122
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 114 atom: MB
+second atom: chain: A, nucl: 121 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.562, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 114 atom: MB
+second atom: chain: A, nucl: 121 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.562, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl: 114
+second atom: chain: A, nucl: 121
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 115 atom: MB
+second atom: chain: A, nucl: 120 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.473, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 115 atom: MB
+second atom: chain: A, nucl: 120 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.473, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl: 115
+second atom: chain: A, nucl: 120
+current score: 0.000
+--------------------------------------
+
+random seed = 1466673803
+number of iterations = 11001
+trajectory write in every 1000 iterations
+initTemp  = 2.000
+finalTemp = 1.000
+tempStep = -9.090083e-05
+DONE
+
+.calculating
+==================================
+Write number: 1
+
+Temperature: 2.000000
+
+Total energy of system -2228.763308
+where:
+	Base-Base interactions energy -1182.398
+	where:  short stacking energy -466.182 
+
+	Base-Backbone interact. energy  -13.756
+
+	Local geometry energy -821.774925
+	where:
+		bonds (distance)  C4'-P  energy: -121.300
+		bonds (distance)  P-C4'  energy: -134.556
+		flat angles   C4'-P-C4'  energy: -121.587
+		flat angles    P-C4'-P   energy:  -90.440
+		tors. eta vs tors. theta energy: -353.893
+	dist. restrs. and SS energy: -210.834
+==================================
+.    1000 current Temp. =  1.909
+==================================
+Write number: 2
+
+Temperature: 1.909190
+
+Total energy of system -1258.641488
+where:
+	Base-Base interactions energy -628.497
+	where:  short stacking energy -259.232 
+
+	Base-Backbone interact. energy    5.321
+
+	Local geometry energy -426.340982
+	where:
+		bonds (distance)  C4'-P  energy:  -40.175
+		bonds (distance)  P-C4'  energy:  -35.172
+		flat angles   C4'-P-C4'  energy:  -65.014
+		flat angles    P-C4'-P   energy:   -9.269
+		tors. eta vs tors. theta energy: -276.711
+	dist. restrs. and SS energy: -209.124
+==================================
+.    2000 current Temp. =  1.818
+==================================
+Write number: 3
+
+Temperature: 1.818289
+
+Total energy of system -1344.582896
+where:
+	Base-Base interactions energy -664.765
+	where:  short stacking energy -291.490 
+
+	Base-Backbone interact. energy    7.269
+
+	Local geometry energy -472.631788
+	where:
+		bonds (distance)  C4'-P  energy:  -23.676
+		bonds (distance)  P-C4'  energy:  -51.490
+		flat angles   C4'-P-C4'  energy:  -69.104
+		flat angles    P-C4'-P   energy:  -31.349
+		tors. eta vs tors. theta energy: -297.014
+	dist. restrs. and SS energy: -214.454
+==================================
+.    3000 current Temp. =  1.727
+==================================
+Write number: 4
+
+Temperature: 1.727388
+
+Total energy of system -1513.368000
+where:
+	Base-Base interactions energy -768.438
+	where:  short stacking energy -328.559 
+
+	Base-Backbone interact. energy    5.780
+
+	Local geometry energy -541.336788
+	where:
+		bonds (distance)  C4'-P  energy:  -51.666
+		bonds (distance)  P-C4'  energy:  -56.564
+		flat angles   C4'-P-C4'  energy:  -64.129
+		flat angles    P-C4'-P   energy:  -25.517
+		tors. eta vs tors. theta energy: -343.460
+	dist. restrs. and SS energy: -209.373
+==================================
+.    4000 current Temp. =  1.636
+==================================
+Write number: 5
+
+Temperature: 1.636488
+
+Total energy of system -1516.154579
+where:
+	Base-Base interactions energy -759.649
+	where:  short stacking energy -299.491 
+
+	Base-Backbone interact. energy    3.493
+
+	Local geometry energy -544.234359
+	where:
+		bonds (distance)  C4'-P  energy:  -54.332
+		bonds (distance)  P-C4'  energy:  -63.080
+		flat angles   C4'-P-C4'  energy:  -78.357
+		flat angles    P-C4'-P   energy:  -22.490
+		tors. eta vs tors. theta energy: -325.975
+	dist. restrs. and SS energy: -215.764
+==================================
+.    5000 current Temp. =  1.546
+==================================
+Write number: 6
+
+Temperature: 1.545587
+
+Total energy of system -1612.753029
+where:
+	Base-Base interactions energy -796.060
+	where:  short stacking energy -335.246 
+
+	Base-Backbone interact. energy   -0.296
+
+	Local geometry energy -598.673334
+	where:
+		bonds (distance)  C4'-P  energy:  -65.600
+		bonds (distance)  P-C4'  energy:  -54.212
+		flat angles   C4'-P-C4'  energy:  -66.743
+		flat angles    P-C4'-P   energy:  -45.936
+		tors. eta vs tors. theta energy: -366.182
+	dist. restrs. and SS energy: -217.724
+==================================
+.    6000 current Temp. =  1.455
+==================================
+Write number: 7
+
+Temperature: 1.454686
+
+Total energy of system -1795.936267
+where:
+	Base-Base interactions energy -926.652
+	where:  short stacking energy -406.327 
+
+	Base-Backbone interact. energy   -1.437
+
+	Local geometry energy -649.164811
+	where:
+		bonds (distance)  C4'-P  energy:  -67.483
+		bonds (distance)  P-C4'  energy:  -56.393
+		flat angles   C4'-P-C4'  energy:  -90.288
+		flat angles    P-C4'-P   energy:  -49.702
+		tors. eta vs tors. theta energy: -385.298
+	dist. restrs. and SS energy: -218.682
+==================================
+.    7000 current Temp. =  1.364
+==================================
+Write number: 8
+
+Temperature: 1.363785
+
+Total energy of system -1755.046324
+where:
+	Base-Base interactions energy -902.987
+	where:  short stacking energy -390.486 
+
+	Base-Backbone interact. energy   -2.454
+
+	Local geometry energy -631.569214
+	where:
+		bonds (distance)  C4'-P  energy:  -54.487
+		bonds (distance)  P-C4'  energy:  -73.324
+		flat angles   C4'-P-C4'  energy:  -89.443
+		flat angles    P-C4'-P   energy:  -45.051
+		tors. eta vs tors. theta energy: -369.265
+	dist. restrs. and SS energy: -218.036
+==================================
+.    8000 current Temp. =  1.273
+==================================
+Write number: 9
+
+Temperature: 1.272884
+
+Total energy of system -1848.710217
+where:
+	Base-Base interactions energy -990.298
+	where:  short stacking energy -391.124 
+
+	Base-Backbone interact. energy   -1.385
+
+	Local geometry energy -639.802573
+	where:
+		bonds (distance)  C4'-P  energy:  -66.925
+		bonds (distance)  P-C4'  energy:  -50.776
+		flat angles   C4'-P-C4'  energy:  -79.491
+		flat angles    P-C4'-P   energy:  -48.919
+		tors. eta vs tors. theta energy: -393.691
+	dist. restrs. and SS energy: -217.224
+==================================
+.    9000 current Temp. =  1.182
+==================================
+Write number: 10
+
+Temperature: 1.181983
+
+Total energy of system -1891.406836
+where:
+	Base-Base interactions energy -1005.886
+	where:  short stacking energy -394.072 
+
+	Base-Backbone interact. energy   -2.993
+
+	Local geometry energy -665.551972
+	where:
+		bonds (distance)  C4'-P  energy:  -67.594
+		bonds (distance)  P-C4'  energy:  -76.556
+		flat angles   C4'-P-C4'  energy:  -73.537
+		flat angles    P-C4'-P   energy:  -50.034
+		tors. eta vs tors. theta energy: -397.830
+	dist. restrs. and SS energy: -216.976
+==================================
+.   10000 current Temp. =  1.091
+==================================
+Write number: 11
+
+Temperature: 1.091083
+
+Total energy of system -2003.893810
+where:
+	Base-Base interactions energy -1081.434
+	where:  short stacking energy -438.328 
+
+	Base-Backbone interact. energy   -1.871
+
+	Local geometry energy -702.281686
+	where:
+		bonds (distance)  C4'-P  energy:  -67.079
+		bonds (distance)  P-C4'  energy:  -64.735
+		flat angles   C4'-P-C4'  energy:  -96.444
+		flat angles    P-C4'-P   energy:  -56.849
+		tors. eta vs tors. theta energy: -417.175
+	dist. restrs. and SS energy: -218.307
+==================================
+.   11000 current Temp. =  1.000
+==================================
+Write number: 12
+
+Temperature: 1.000182
+
+Total energy of system -2078.019868
+where:
+	Base-Base interactions energy -1083.688
+	where:  short stacking energy -459.370 
+
+	Base-Backbone interact. energy   -1.722
+
+	Local geometry energy -777.258309
+	where:
+		bonds (distance)  C4'-P  energy:  -85.784
+		bonds (distance)  P-C4'  energy:  -86.809
+		flat angles   C4'-P-C4'  energy: -114.211
+		flat angles    P-C4'-P   energy:  -70.349
+		tors. eta vs tors. theta energy: -420.106
+	dist. restrs. and SS energy: -215.352
+
+
+.writing output
+
+current chain energy: -2084.558352
+recalc. chain energy: -2084.558352
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   1
+second atom: chain: A, nucl: 160
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 2 atom: MB
+second atom: chain: A, nucl: 159 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.400, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 2 atom: MB
+second atom: chain: A, nucl: 159 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.400, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   2
+second atom: chain: A, nucl: 159
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 3 atom: MB
+second atom: chain: A, nucl: 158 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.568, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 3 atom: MB
+second atom: chain: A, nucl: 158 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.568, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   3
+second atom: chain: A, nucl: 158
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 4 atom: MB
+second atom: chain: A, nucl: 157 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.280, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 4 atom: MB
+second atom: chain: A, nucl: 157 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.280, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   4
+second atom: chain: A, nucl: 157
+current score: 0.118
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 5 atom: MB
+second atom: chain: A, nucl: 156 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.181, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 5 atom: MB
+second atom: chain: A, nucl: 156 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.181, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   5
+second atom: chain: A, nucl: 156
+current score: 0.053
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 6 atom: MB
+second atom: chain: A, nucl: 155 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.326, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 6 atom: MB
+second atom: chain: A, nucl: 155 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.326, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   6
+second atom: chain: A, nucl: 155
+current score: 0.043
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 7 atom: MB
+second atom: chain: A, nucl: 154 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.550, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 7 atom: MB
+second atom: chain: A, nucl: 154 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.550, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   7
+second atom: chain: A, nucl: 154
+current score: 0.000
+--------------------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   8
+second atom: chain: A, nucl: 149
+current score: 0.159
+--------------------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:   9
+second atom: chain: A, nucl: 148
+current score: 0.000
+--------------------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  10
+second atom: chain: A, nucl:  92
+current score: 8.721
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 13 atom: MB
+second atom: chain: A, nucl: 144 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.543, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 13 atom: MB
+second atom: chain: A, nucl: 144 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.543, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 18 atom: MB
+second atom: chain: A, nucl: 138 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.681, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 18 atom: MB
+second atom: chain: A, nucl: 138 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.681, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 19 atom: MB
+second atom: chain: A, nucl: 74 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.236, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 19 atom: MB
+second atom: chain: A, nucl: 74 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.236, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 21 atom: MB
+second atom: chain: A, nucl: 74 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 8.858, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 21 atom: MB
+second atom: chain: A, nucl: 74 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 8.858, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 21 atom: MB
+second atom: chain: A, nucl: 136 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.172, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 21 atom: MB
+second atom: chain: A, nucl: 136 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.172, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 23 atom: MB
+second atom: chain: A, nucl: 134 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.124, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 23 atom: MB
+second atom: chain: A, nucl: 134 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.124, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 23 atom: MB
+second atom: chain: A, nucl: 135 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.297, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 23 atom: MB
+second atom: chain: A, nucl: 135 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.297, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 24 atom: MB
+second atom: chain: A, nucl: 133 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.273, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 24 atom: MB
+second atom: chain: A, nucl: 133 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.273, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 25 atom: MB
+second atom: chain: A, nucl: 132 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.157, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 25 atom: MB
+second atom: chain: A, nucl: 132 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.157, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 26 atom: MB
+second atom: chain: A, nucl: 131 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.410, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 26 atom: MB
+second atom: chain: A, nucl: 131 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.410, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 27 atom: MB
+second atom: chain: A, nucl: 130 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.321, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 27 atom: MB
+second atom: chain: A, nucl: 130 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.321, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 28 atom: MB
+second atom: chain: A, nucl: 129 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.903, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 28 atom: MB
+second atom: chain: A, nucl: 129 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.903, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 29 atom: MB
+second atom: chain: A, nucl: 128 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.283, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 29 atom: MB
+second atom: chain: A, nucl: 128 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.283, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 34 atom: MB
+second atom: chain: A, nucl: 125 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 8.161, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 34 atom: MB
+second atom: chain: A, nucl: 125 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 8.161, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 36 atom: MB
+second atom: chain: A, nucl: 110 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.711, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 36 atom: MB
+second atom: chain: A, nucl: 110 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.711, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 37 atom: MB
+second atom: chain: A, nucl: 109 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.532, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 37 atom: MB
+second atom: chain: A, nucl: 109 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.532, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 38 atom: MB
+second atom: chain: A, nucl: 108 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.292, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 38 atom: MB
+second atom: chain: A, nucl: 108 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.292, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 39 atom: MB
+second atom: chain: A, nucl: 107 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.516, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 39 atom: MB
+second atom: chain: A, nucl: 107 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.516, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 40 atom: MB
+second atom: chain: A, nucl: 106 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.772, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 40 atom: MB
+second atom: chain: A, nucl: 106 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.772, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 41 atom: MB
+second atom: chain: A, nucl: 104 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.821, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 41 atom: MB
+second atom: chain: A, nucl: 104 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.821, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  42
+second atom: chain: A, nucl:  71
+current score: 0.098
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 43 atom: MB
+second atom: chain: A, nucl: 70 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.691, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 43 atom: MB
+second atom: chain: A, nucl: 70 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.691, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  43
+second atom: chain: A, nucl:  70
+current score: 0.032
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 44 atom: MB
+second atom: chain: A, nucl: 69 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.883, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 44 atom: MB
+second atom: chain: A, nucl: 69 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.883, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  44
+second atom: chain: A, nucl:  69
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 45 atom: MB
+second atom: chain: A, nucl: 68 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.090, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 45 atom: MB
+second atom: chain: A, nucl: 68 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.090, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  45
+second atom: chain: A, nucl:  68
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 46 atom: MB
+second atom: chain: A, nucl: 67 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.013, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 46 atom: MB
+second atom: chain: A, nucl: 67 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.013, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  46
+second atom: chain: A, nucl:  67
+current score: 0.048
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 50 atom: MB
+second atom: chain: A, nucl: 63 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.424, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 50 atom: MB
+second atom: chain: A, nucl: 63 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.424, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 51 atom: MB
+second atom: chain: A, nucl: 62 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.448, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 51 atom: MB
+second atom: chain: A, nucl: 62 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.448, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 52 atom: MB
+second atom: chain: A, nucl: 61 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.619, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 52 atom: MB
+second atom: chain: A, nucl: 61 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.619, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  52
+second atom: chain: A, nucl:  61
+current score: 0.000
+--------------------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  53
+second atom: chain: A, nucl:  60
+current score: 0.001
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 54 atom: MB
+second atom: chain: A, nucl: 59 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.487, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 54 atom: MB
+second atom: chain: A, nucl: 59 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.487, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl:  54
+second atom: chain: A, nucl:  59
+current score: 0.233
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 78 atom: MB
+second atom: chain: A, nucl: 100 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.654, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 78 atom: MB
+second atom: chain: A, nucl: 100 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.654, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 79 atom: MB
+second atom: chain: A, nucl: 99 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.957, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 79 atom: MB
+second atom: chain: A, nucl: 99 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.957, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 80 atom: MB
+second atom: chain: A, nucl: 98 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.824, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 80 atom: MB
+second atom: chain: A, nucl: 98 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.824, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 81 atom: MB
+second atom: chain: A, nucl: 97 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.718, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 81 atom: MB
+second atom: chain: A, nucl: 97 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.718, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 82 atom: MB
+second atom: chain: A, nucl: 96 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.665, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 82 atom: MB
+second atom: chain: A, nucl: 96 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.665, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 83 atom: MB
+second atom: chain: A, nucl: 95 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.442, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 83 atom: MB
+second atom: chain: A, nucl: 95 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.442, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 87 atom: MB
+second atom: chain: A, nucl: 152 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 8.493, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 87 atom: MB
+second atom: chain: A, nucl: 152 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 8.493, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 112 atom: MB
+second atom: chain: A, nucl: 123 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 7.206, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 112 atom: MB
+second atom: chain: A, nucl: 123 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 7.206, current score: -5.000
+----------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 113 atom: MB
+second atom: chain: A, nucl: 122 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.193, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 113 atom: MB
+second atom: chain: A, nucl: 122 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.193, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl: 113
+second atom: chain: A, nucl: 122
+current score: 0.052
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 114 atom: MB
+second atom: chain: A, nucl: 121 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.606, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 114 atom: MB
+second atom: chain: A, nucl: 121 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.606, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl: 114
+second atom: chain: A, nucl: 121
+current score: 0.000
+--------------------------------------
+---------DistanceRestraint, restrsMode: SLOPE --------
+first  atom: chain: A, nucl: 115 atom: MB
+second atom: chain: A, nucl: 120 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 1.000
+current distance is: 6.844, current score: 0.000
+----------------------------
+---------DistanceRestraint, restrsMode: WELL --------
+first  atom: chain: A, nucl: 115 atom: MB
+second atom: chain: A, nucl: 120 atom: MB
+desired distance should be from 5.000 to 10.000, weight: 5.000
+current distance is: 6.844, current score: -5.000
+----------------------------
+---------SecondStrcRestraint----------
+first  atom: chain: A, nucl: 115
+second atom: chain: A, nucl: 120
+current score: 0.116
+--------------------------------------
+numberOfNucleotides: 161
+initial temperature kT: 2.000000
+moves confirmed at first:  108227
+moves confirmed later: 117275
+all moves confirmed: 225502
+percent of confirmed moves: 20.498318
+
+ Time of doing 11001 iterations:  37.118 seconds
+

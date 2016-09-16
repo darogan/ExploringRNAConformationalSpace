@@ -1,0 +1,104 @@
+using 66 pairs and 10 models
+
+
+move = 0
+Running with 61 true pairs
+Running with 66 pred pairs
+Running with 66 grem pairs
+Unsmoothed
+ 10.405
+ 10.896
+ 11.009
+Smoothed1x
+  9.769
+ 10.251
+ 10.293
+Smoothed2x
+  9.405
+  9.883
+  9.888
+
+move = 2
+Running with 61 true pairs
+Running with 66 pred pairs
+Running with 66 grem pairs
+Unsmoothed
+ 13.003
+ 12.450
+ 12.174
+Smoothed1x
+ 12.348
+ 11.805
+ 11.461
+Smoothed2x
+ 11.946
+ 11.420
+ 11.039
+
+move = 4
+Running with 61 true pairs
+Running with 66 pred pairs
+Running with 66 grem pairs
+Unsmoothed
+ 15.256
+ 15.200
+ 14.352
+Smoothed1x
+ 14.534
+ 14.495
+ 13.643
+Smoothed2x
+ 14.065
+ 14.049
+ 13.217
+
+move = 6
+Running with 61 true pairs
+Running with 66 pred pairs
+Running with 66 grem pairs
+Unsmoothed
+ 18.031
+ 17.438
+ 16.244
+Smoothed1x
+ 17.350
+ 16.715
+ 15.496
+Smoothed2x
+ 16.902
+ 16.241
+ 15.036
+
+move = 8
+Running with 61 true pairs
+Running with 66 pred pairs
+Running with 66 grem pairs
+Unsmoothed
+ 19.742
+ 19.156
+ 16.784
+Smoothed1x
+ 19.032
+ 18.415
+ 16.017
+Smoothed2x
+ 18.555
+ 17.922
+ 15.542
+
+move = 10
+Running with 61 true pairs
+Running with 66 pred pairs
+Running with 66 grem pairs
+Unsmoothed
+ 22.311
+ 20.670
+ 18.354
+Smoothed1x
+ 21.494
+ 19.883
+ 17.524
+Smoothed2x
+ 20.926
+ 19.351
+ 16.994

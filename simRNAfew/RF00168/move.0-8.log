@@ -1,0 +1,102 @@
+
+move = 0
+Running with 57 true pairs
+Running with 56 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+  9.352
+  8.186
+  8.999
+Smoothed1x
+  8.960
+  7.823
+  8.663
+Smoothed2x
+  8.705
+  7.600
+  8.451
+
+move = 1
+Running with 57 true pairs
+Running with 56 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+ 10.495
+  9.135
+ 10.319
+Smoothed1x
+ 10.068
+  8.784
+  9.941
+Smoothed2x
+  9.781
+  8.570
+  9.688
+
+move = 2
+Running with 57 true pairs
+Running with 56 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+  9.738
+  9.238
+ 10.274
+Smoothed1x
+  9.327
+  8.854
+  9.881
+Smoothed2x
+  9.062
+  8.611
+  9.615
+
+move = 4
+Running with 57 true pairs
+Running with 56 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+ 11.049
+  9.825
+ 11.230
+Smoothed1x
+ 10.633
+  9.417
+ 10.823
+Smoothed2x
+ 10.351
+  9.154
+ 10.540
+
+move = 6
+Running with 57 true pairs
+Running with 56 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+ 11.318
+ 10.363
+ 11.523
+Smoothed1x
+ 10.868
+  9.931
+ 11.091
+Smoothed2x
+ 10.561
+  9.644
+ 10.791
+
+move = 8
+Running with 57 true pairs
+Running with 56 pred pairs
+Running with 26 grem pairs
+Unsmoothed
+ 11.478
+  9.857
+ 11.619
+Smoothed1x
+ 10.997
+  9.387
+ 11.171
+Smoothed2x
+ 10.668
+  9.071
+ 10.854

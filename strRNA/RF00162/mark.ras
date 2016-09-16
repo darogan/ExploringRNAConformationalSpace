@@ -1,0 +1,107 @@
+wireframe off
+backbone 150
+cpk 300
+select 72,79
+hbond 91
+colour hbonds blue 
+select 70,81
+hbond 88
+colour hbonds blue 
+select 71,80
+hbond 85
+colour hbonds blue 
+select 16,39
+hbond 82
+colour hbonds blue 
+select 15,40
+hbond 79
+colour hbonds blue 
+select 17,38
+hbond 73
+colour hbonds blue 
+select 69,82
+hbond 70
+colour hbonds blue 
+select 73,78
+hbond 67
+colour hbonds blue 
+select 42,60
+hbond 64
+colour hbonds blue 
+select 22,30
+hbond 58
+colour hbonds blue 
+select 3,91
+hbond 55
+colour hbonds blue 
+select 4,90
+hbond 49
+colour hbonds blue 
+select 5,89
+hbond 40
+colour hbonds blue 
+select 48,55
+hbond 34
+colour hbonds blue 
+select 43,59
+hbond 31
+colour hbonds blue 
+select 8,86
+hbond 28
+colour hbonds blue 
+select 2,92
+hbond 25
+colour hbonds blue 
+select 1,93
+hbond 19
+colour hbonds blue 
+select 23,29
+hbond 16
+colour hbonds blue 
+select 26,67
+colour red
+hbond 76
+colour hbonds  red 
+select 13,41
+hbond 61
+colour hbonds green
+select 64,85
+colour red
+hbond 52
+colour hbonds red
+select 25,68
+colour red
+hbond 46
+colour hbonds  red 
+select 18,37
+hbond 43
+colour hbonds green
+select 28,65
+colour red
+hbond 37
+colour hbonds  red 
+select 27,66
+colour red
+hbond 22
+colour hbonds  red 
+select 9,63
+colour red
+hbond 13
+colour hbonds  red
+select 71,81
+hbond 10
+colour hbonds green
+select 46,55
+hbond 7
+colour hbonds green
+select 70,80
+hbond 4
+colour hbonds green
+select 69,83
+hbond 1
+colour hbonds green
+select
+select 1
+colour white
+select
+set picking monitor

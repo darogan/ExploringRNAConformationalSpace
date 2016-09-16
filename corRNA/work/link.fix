@@ -1,0 +1,6 @@
+rm home
+rm code
+rm rfam
+ln -s /home/wtaylor/rnacor/corRNA home
+ln -s /home/wtaylor/rnacor/corRNA/code
+ln -s /home/wtaylor/rnacor/corRNA/rfam

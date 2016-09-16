@@ -1,0 +1,15 @@
+select 12,28
+hbond 44
+colour hbonds green
+select 39,65
+hbond 16
+colour hbonds green
+select 10,79
+hbond 12
+colour hbonds green
+select 13,76
+hbond 8
+colour hbonds green
+select 41,62
+hbond 4
+colour hbonds green

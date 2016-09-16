@@ -1,0 +1,3494 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+100000 sequences to be read in length range 50 -> 500
+
+Calculating peptide table based on length 6
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+1646 sequences read into 1646 blocks, (1646 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 20
+Top 3 scores held per sequence
+Sequences in the range 1<Dij<100 scored
+Adjacent sequences scored with bonus of 10
+15840 pairs collected
+15508
+ npairs = 15508
+pre_order  npairs = 15508
+ malloc OK
+reorder  malloc OK done
+preorder  new block mallock OK
+cluster_pairs total list_alloc = 400
+pack_lists 1550/1646 blocks moved
+
+New sequence order is:
+* Block 0 <=== 1	USER>>seq246	   72   [+0+] rfam
+* Block 1 <=== 15	USER>>seq124	   70   [+1+] rfam
+* Block 2 <=== 16	USER>>seq138	   69   [+18+] rfam
+* Block 3 <=== 11	USER>>seq225	   72   [+0+] rfam
+* Block 4 <=== 9	USER>>seq338	   70   [+3+] rfam
+* Block 5 <=== 8	USER>>seq410	   69   [+2+] rfam
+* Block 6 <=== 12	USER>>seq140	   70   [+0+] rfam
+* Block 7 <=== 5	USER>>seq123	   72   [+3+] rfam
+* Block 8 <=== 3	USER>>seq438	   71   [+22+] rfam
+* Block 9 <=== 7	USER>>seq647	   70   [+6+] rfam
+* Block 10 <=== 4	USER>>seq335	   72   [+2+] rfam
+* Block 11 <=== 6	USER>>seq645	   69   [+0+] rfam
+* Block 12 <=== 2	USER>>seq139	   70   [+0+] rfam
+* Block 13 <=== 13	USER>>seq88	   70   [+0+] rfam
+* Block 14 <=== 10	USER>>seq305	   72   [+0+] rfam
+* Block 15 <=== 14	USER>>seq181	   72   [+0+] rfam
+* Block 16 <=== 17	USER>>seq148	   72   [+0+] rfam
+* Block 17 <=== 18	USER>>seq149	   71   [+0+] rfam
+* Block 18 <=== 19	USER>>seq130	   70   [+0+] rfam
+* Block 19 <=== 20	USER>>seq319	   72   [+0+] rfam
+* Block 20 <=== 21	USER>>seq10	   75   [+0+] rfam
+* Block 21 <=== 23	USER>>seq457	   73   [+0+] rfam
+* Block 22 <=== 27	USER>>seq223	   72   [+35+] rfam
+* Block 23 <=== 25	USER>>seq197	   73   [+3+] rfam
+* Block 24 <=== 28	USER>>seq337	   72   [+3+] rfam
+* Block 25 <=== 26	USER>>seq584	   73   [+1+] rfam
+* Block 26 <=== 31	USER>>seq18	   72   [+1+] rfam
+* Block 27 <=== 29	USER>>seq111	   72   [+0+] rfam
+* Block 28 <=== 30	USER>>seq109	   70   [+2+] rfam
+* Block 29 <=== 189	USER>>seq963	   71   [+2+] rfam
+* Block 30 <=== 182	USER>>seq970	   73   [+0+] rfam
+* Block 31 <=== 215	USER>>seq844	   68   [+0+] rfam
+* Block 32 <=== 221	USER>>seq1137	   72   [+0+] rfam
+* Block 33 <=== 216	USER>>seq1011	   72   [+0+] rfam
+* Block 34 <=== 72	USER>>seq857	   70   [+0+] rfam
+* Block 35 <=== 212	USER>>seq816	   73   [+0+] rfam
+* Block 36 <=== 194	USER>>seq1461	   69   [+0+] rfam
+* Block 37 <=== 139	USER>>seq99	   72   [+0+] rfam
+* Block 38 <=== 187	USER>>seq209	   72   [+0+] rfam
+* Block 39 <=== 185	USER>>seq455	   70   [+15+] rfam
+* Block 40 <=== 210	USER>>seq814	   72   [+0+] rfam
+* Block 41 <=== 192	USER>>seq1386	   72   [+0+] rfam
+* Block 42 <=== 184	USER>>seq1046	   69   [+1+] rfam
+* Block 43 <=== 211	USER>>seq875	   68   [+0+] rfam
+* Block 44 <=== 196	USER>>seq1128	   71   [+0+] rfam
+* Block 45 <=== 195	USER>>seq1501	   72   [+0+] rfam
+* Block 46 <=== 193	USER>>seq883	   72   [+1+] rfam
+* Block 47 <=== 104	USER>>seq430	   85   [+1+] rfam
+* Block 48 <=== 188	USER>>seq846	   72   [+0+] rfam
+* Block 49 <=== 92	USER>>seq507	   72   [+0+] rfam
+* Block 50 <=== 103	USER>>seq360	   68   [+0+] rfam
+* Block 51 <=== 105	USER>>seq601	   71   [+0+] rfam
+* Block 52 <=== 95	USER>>seq325	   73   [+0+] rfam
+* Block 53 <=== 93	USER>>seq312	   72   [+0+] rfam
+* Block 54 <=== 94	USER>>seq329	   72   [+0+] rfam
+* Block 55 <=== 98	USER>>seq290	   68   [+0+] rfam
+* Block 56 <=== 96	USER>>seq131	   69   [+0+] rfam
+* Block 57 <=== 108	USER>>seq900	   73   [+1+] rfam
+* Block 58 <=== 106	USER>>seq281	   73   [+0+] rfam
+* Block 59 <=== 202	USER>>seq1003	   72   [+0+] rfam
+* Block 60 <=== 107	USER>>seq127	   72   [+0+] rfam
+* Block 61 <=== 200	USER>>seq1177	   69   [+0+] rfam
+* Block 62 <=== 204	USER>>seq442	   72   [+1+] rfam
+* Block 63 <=== 203	USER>>seq1165	   68   [+0+] rfam
+* Block 64 <=== 201	USER>>seq1009	   72   [+2+] rfam
+* Block 65 <=== 100	USER>>seq424	   69   [+0+] rfam
+* Block 66 <=== 99	USER>>seq426	   72   [+0+] rfam
+* Block 67 <=== 101	USER>>seq511	   68   [+0+] rfam
+* Block 68 <=== 102	USER>>seq512	   72   [+0+] rfam
+* Block 69 <=== 24	USER>>seq348	   72   [+0+] rfam
+* Block 70 <=== 22	USER>>seq314	   73   [+0+] rfam
+* Block 71 <=== 91	USER>>seq460	   72   [+0+] rfam
+* Block 72 <=== 214	USER>>seq948	   70   [+3+] rfam
+* Block 73 <=== 213	USER>>seq999	   73   [+0+] rfam
+* Block 74 <=== 228	USER>>seq851	   85   [+1+] rfam
+* Block 75 <=== 138	USER>SEED:>seq1	   88   [+0+] rfam
+* Block 76 <=== 129	USER>>seq914	   82   [+0+] rfam
+* Block 77 <=== 128	USER>>seq425	   78   [+3+] rfam
+* Block 78 <=== 137	USER>>seq83	   84   [+63+] rfam
+* Block 79 <=== 130	USER>>seq191	   86   [+3+] rfam
+* Block 80 <=== 133	USER>>seq14	   82   [+3+] rfam
+* Block 81 <=== 131	USER>>seq231	   86   [+1+] rfam
+* Block 82 <=== 134	USER>>seq132	   86   [+0+] rfam
+* Block 83 <=== 135	USER>>seq115	   85   [+0+] rfam
+* Block 84 <=== 132	USER>>seq12	   80   [+0+] rfam
+* Block 85 <=== 136	USER>>seq102	   82   [+0+] rfam
+* Block 86 <=== 124	USER>>seq294	   82   [+16+] rfam
+* Block 87 <=== 127	USER>>seq344	   82   [+2+] rfam
+* Block 88 <=== 125	USER>>seq168	   82   [+4+] rfam
+* Block 89 <=== 123	USER>>seq8	   82   [+0+] rfam
+* Block 90 <=== 126	USER>>seq346	   80   [+1+] rfam
+* Block 91 <=== 122	USER>>seq82	   82   [+1+] rfam
+* Block 92 <=== 121	USER>>seq4	   75   [+0+] rfam
+* Block 93 <=== 114	USER>>seq104	   75   [+1+] rfam
+* Block 94 <=== 120	USER>>seq141	   86   [+0+] rfam
+* Block 95 <=== 117	USER>>seq650	   86   [+2+] rfam
+* Block 96 <=== 112	USER>>seq671	   88   [+2+] rfam
+* Block 97 <=== 118	USER>>seq476	   76   [+0+] rfam
+* Block 98 <=== 116	USER>>seq5	   82   [+0+] rfam
+* Block 99 <=== 119	USER>>seq552	   86   [+0+] rfam
+* Block 100 <=== 115	USER>>seq183	   77   [+0+] rfam
+* Block 101 <=== 113	USER>>seq307	   82   [+2+] rfam
+* Block 102 <=== 110	USER>>seq212	   75   [+1+] rfam
+* Block 103 <=== 109	USER>>seq134	   72   [+0+] rfam
+* Block 104 <=== 111	USER>>seq6	   70   [+0+] rfam
+* Block 105 <=== 36	USER>>seq182	   75   [+0+] rfam
+* Block 106 <=== 70	USER>>seq137	   77   [+0+] rfam
+* Block 107 <=== 69	USER>>seq228	   83   [+0+] rfam
+* Block 108 <=== 71	USER>>seq310	   84   [+0+] rfam
+* Block 109 <=== 83	USER>>seq151	   77   [+0+] rfam
+* Block 110 <=== 89	USER>>seq136	   81   [+0+] rfam
+* Block 111 <=== 33	USER>>seq275	   78   [+2+] rfam
+* Block 112 <=== 32	USER>>seq91	   88   [+0+] rfam
+* Block 113 <=== 183	USER>>seq1072	   77   [+0+] rfam
+* Block 114 <=== 180	USER>>seq961	   72   [+1+] rfam
+* Block 115 <=== 181	USER>>seq1106	   79   [+0+] rfam
+* Block 116 <=== 179	USER>>seq965	   71   [+6+] rfam
+* Block 117 <=== 178	USER>>seq1143	   72   [+1+] rfam
+* Block 118 <=== 88	USER>>seq1445	   88   [+1+] rfam
+* Block 119 <=== 86	USER>>seq935	   88   [+0+] rfam
+* Block 120 <=== 90	USER>>seq1090	   83   [+0+] rfam
+* Block 121 <=== 283	USER>>seq286	   71   [+1+] rfam
+* Block 122 <=== 43	USER>>seq445	   72   [+0+] rfam
+* Block 123 <=== 45	USER>>seq188	   72   [+0+] rfam
+* Block 124 <=== 42	USER>>seq7	   72   [+0+] rfam
+* Block 125 <=== 44	USER>>seq176	   72   [+0+] rfam
+* Block 126 <=== 41	USER>>seq331	   70   [+1+] rfam
+* Block 127 <=== 40	USER>>seq98	   74   [+0+] rfam
+* Block 128 <=== 37	USER>>seq184	   73   [+0+] rfam
+* Block 129 <=== 34	USER>>seq218	   74   [+0+] rfam
+* Block 130 <=== 39	USER>>seq185	   74   [+0+] rfam
+* Block 131 <=== 35	USER>>seq186	   74   [+0+] rfam
+* Block 132 <=== 38	USER>>seq475	   74   [+0+] rfam
+* Block 133 <=== 84	USER>>seq598	   84   [+0+] rfam
+* Block 134 <=== 85	USER>>seq1557	   83   [+0+] rfam
+* Block 135 <=== 87	USER>>seq1604	   86   [+0+] rfam
+* Block 136 <=== 64	USER>>seq1075	   85   [+0+] rfam
+* Block 137 <=== 62	USER>>seq850	   84   [+0+] rfam
+* Block 138 <=== 67	USER>>seq1158	   86   [+3+] rfam
+* Block 139 <=== 66	USER>>seq1171	   88   [+0+] rfam
+* Block 140 <=== 63	USER>>seq896	   84   [+2+] rfam
+* Block 141 <=== 65	USER>>seq1166	   88   [+0+] rfam
+* Block 142 <=== 61	USER>>seq996	   82   [+0+] rfam
+* Block 143 <=== 60	USER>>seq301	   77   [+0+] rfam
+* Block 144 <=== 46	USER>>seq510	   76   [+1+] rfam
+* Block 145 <=== 48	USER>>seq820	   78   [+0+] rfam
+* Block 146 <=== 68	USER>>seq878	   72   [+1+] rfam
+* Block 147 <=== 59	USER>>seq328	   80   [+0+] rfam
+* Block 148 <=== 47	USER>>seq1032	   82   [+0+] rfam
+* Block 149 <=== 56	USER>>seq942	   77   [+0+] rfam
+* Block 150 <=== 58	USER>>seq675	   80   [+0+] rfam
+* Block 151 <=== 55	USER>>seq1007	   83   [+0+] rfam
+* Block 152 <=== 57	USER>>seq1103	   83   [+0+] rfam
+* Block 153 <=== 52	USER>>seq651	   83   [+0+] rfam
+* Block 154 <=== 50	USER>>seq204	   76   [+1+] rfam
+* Block 155 <=== 49	USER>>seq666	   73   [+24+] rfam
+* Block 156 <=== 51	USER>>seq551	   72   [+28+] rfam
+* Block 157 <=== 53	USER>>seq233	   77   [+9+] rfam
+* Block 158 <=== 54	USER>>seq330	   79   [+1+] rfam
+* Block 159 <=== 76	USER>>seq311	   85   [+1+] rfam
+* Block 160 <=== 77	USER>>seq1088	   75   [+1+] rfam
+* Block 161 <=== 80	USER>>seq342	   80   [+2+] rfam
+* Block 162 <=== 82	USER>>seq9	   79   [+0+] rfam
+* Block 163 <=== 78	USER>>seq180	   85   [+2+] rfam
+* Block 164 <=== 81	USER>>seq17	   85   [+8+] rfam
+* Block 165 <=== 79	USER>>seq279	   76   [+1+] rfam
+* Block 166 <=== 73	USER>>seq101	   78   [+0+] rfam
+* Block 167 <=== 74	USER>>seq304	   75   [+0+] rfam
+* Block 168 <=== 75	USER>>seq245	   83   [+4+] rfam
+* Block 169 <=== 162	USER>>seq1251	   70   [+0+] rfam
+* Block 170 <=== 171	USER>>seq208	   72   [+13+] rfam
+* Block 171 <=== 173	USER>>seq559	   69   [+0+] rfam
+* Block 172 <=== 174	USER>>seq910	   70   [+0+] rfam
+* Block 173 <=== 175	USER>>seq975	   70   [+6+] rfam
+* Block 174 <=== 176	USER>>seq582	   70   [+0+] rfam
+* Block 175 <=== 177	USER>>seq545	   72   [+1+] rfam
+* Block 176 <=== 172	USER>>seq579	   70   [+120+] rfam
+* Block 177 <=== 154	USER>>seq604	   72   [+0+] rfam
+* Block 178 <=== 153	USER>>seq1421	   72   [+0+] rfam
+* Block 179 <=== 156	USER>>seq299	   70   [+1+] rfam
+* Block 180 <=== 160	USER>>seq972	   72   [+0+] rfam
+* Block 181 <=== 163	USER>>seq1185	   72   [+20+] rfam
+* Block 182 <=== 169	USER>>seq928	   71   [+9+] rfam
+* Block 183 <=== 168	USER>>seq629	   72   [+0+] rfam
+* Block 184 <=== 170	USER>>seq1053	   68   [+0+] rfam
+* Block 185 <=== 165	USER>>seq977	   70   [+0+] rfam
+* Block 186 <=== 164	USER>>seq1207	   72   [+3+] rfam
+* Block 187 <=== 152	USER>>seq1400	   71   [+2+] rfam
+* Block 188 <=== 167	USER>>seq869	   72   [+1+] rfam
+* Block 189 <=== 158	USER>>seq890	   71   [+0+] rfam
+* Block 190 <=== 150	USER>>seq1189	   72   [+0+] rfam
+* Block 191 <=== 166	USER>>seq930	   72   [+6+] rfam
+* Block 192 <=== 151	USER>>seq540	   72   [+0+] rfam
+* Block 193 <=== 157	USER>>seq1044	   72   [+0+] rfam
+* Block 194 <=== 155	USER>>seq845	   72   [+0+] rfam
+* Block 195 <=== 159	USER>>seq618	   72   [+0+] rfam
+* Block 196 <=== 147	USER>>seq1120	   70   [+0+] rfam
+* Block 197 <=== 140	USER>>seq964	   72   [+0+] rfam
+* Block 198 <=== 141	USER>>seq812	   70   [+0+] rfam
+* Block 199 <=== 262	USER>>seq947	   72   [+1+] rfam
+* Block 200 <=== 261	USER>>seq1066	   72   [+0+] rfam
+* Block 201 <=== 259	USER>>seq1020	   72   [+1+] rfam
+* Block 202 <=== 255	USER>>seq943	   70   [+0+] rfam
+* Block 203 <=== 143	USER>>seq804	   72   [+4+] rfam
+* Block 204 <=== 149	USER>>seq528	   70   [+11+] rfam
+* Block 205 <=== 146	USER>>seq958	   69   [+15+] rfam
+* Block 206 <=== 144	USER>>seq915	   70   [+9+] rfam
+* Block 207 <=== 142	USER>>seq918	   71   [+1+] rfam
+* Block 208 <=== 145	USER>>seq660	   68   [+6+] rfam
+* Block 209 <=== 205	USER>>seq437	   72   [+0+] rfam
+* Block 210 <=== 148	USER>>seq572	   72   [+0+] rfam
+* Block 211 <=== 161	USER>>seq801	   70   [+1+] rfam
+* Block 212 <=== 97	USER>>seq483	   70   [+0+] rfam
+* Block 213 <=== 209	USER>>seq1153	   71   [+7+] rfam
+* Block 214 <=== 199	USER>>seq834	   73   [+0+] rfam
+* Block 215 <=== 198	USER>>seq917	   67   [+1+] rfam
+* Block 216 <=== 197	USER>>seq449	   72   [+0+] rfam
+* Block 217 <=== 191	USER>>seq1121	   72   [+1+] rfam
+* Block 218 <=== 190	USER>>seq840	   73   [+0+] rfam
+* Block 219 <=== 236	USER>>seq807	   73   [+0+] rfam
+* Block 220 <=== 238	USER>>seq353	   73   [+2+] rfam
+* Block 221 <=== 245	USER>>seq347	   77   [+0+] rfam
+* Block 222 <=== 240	USER>>seq1159	   75   [+0+] rfam
+* Block 223 <=== 244	USER>>seq955	   76   [+0+] rfam
+* Block 224 <=== 246	USER>>seq600	   78   [+0+] rfam
+* Block 225 <=== 247	USER>>seq192	   76   [+0+] rfam
+* Block 226 <=== 239	USER>>seq848	   73   [+5+] rfam
+* Block 227 <=== 243	USER>>seq187	   77   [+0+] rfam
+* Block 228 <=== 241	USER>>seq954	   73   [+0+] rfam
+* Block 229 <=== 242	USER>>seq522	   72   [+0+] rfam
+* Block 230 <=== 233	USER>>seq1108	   75   [+25+] rfam
+* Block 231 <=== 234	USER>>seq1439	   76   [+3+] rfam
+* Block 232 <=== 237	USER>>seq450	   72   [+0+] rfam
+* Block 233 <=== 235	USER>>seq901	   78   [+0+] rfam
+* Block 234 <=== 231	USER>>seq1248	   72   [+0+] rfam
+* Block 235 <=== 232	USER>>seq1099	   75   [+0+] rfam
+* Block 236 <=== 230	USER>>seq574	   79   [+0+] rfam
+* Block 237 <=== 218	USER>>seq554	   76   [+0+] rfam
+* Block 238 <=== 220	USER>>seq673	   79   [+0+] rfam
+* Block 239 <=== 217	USER>>seq810	   81   [+0+] rfam
+* Block 240 <=== 219	USER>>seq227	   75   [+0+] rfam
+* Block 241 <=== 222	USER>>seq296	   79   [+0+] rfam
+* Block 242 <=== 223	USER>>seq519	   79   [+0+] rfam
+* Block 243 <=== 249	USER>>seq879	   81   [+1+] rfam
+* Block 244 <=== 248	USER>>seq2396	   68   [+0+] rfam
+* Block 245 <=== 251	USER>>seq998	   72   [+0+] rfam
+* Block 246 <=== 258	USER>>seq800	   72   [+5+] rfam
+* Block 247 <=== 256	USER>>seq859	   70   [+1+] rfam
+* Block 248 <=== 263	USER>>seq1094	   72   [+1+] rfam
+* Block 249 <=== 265	USER>>seq946	   70   [+3+] rfam
+* Block 250 <=== 267	USER>>seq1397	   70   [+0+] rfam
+* Block 251 <=== 257	USER>>seq1405	   70   [+0+] rfam
+* Block 252 <=== 268	USER>>seq427	   70   [+0+] rfam
+* Block 253 <=== 229	USER>>seq821	   71   [+4+] rfam
+* Block 254 <=== 186	USER>>seq949	   70   [+0+] rfam
+* Block 255 <=== 250	USER>>seq622	   70   [+0+] rfam
+* Block 256 <=== 227	USER>>seq1392	   87   [+0+] rfam
+* Block 257 <=== 225	USER>>seq709	   76   [+93+] rfam
+* Block 258 <=== 224	USER>>seq936	   80   [+0+] rfam
+* Block 259 <=== 264	USER>>seq563	   68   [+9+] rfam
+* Block 260 <=== 358	USER>>seq1095	   69   [+0+] rfam
+* Block 261 <=== 266	USER>>seq1316	   70   [+2+] rfam
+* Block 262 <=== 252	USER>>seq655	   72   [+0+] rfam
+* Block 263 <=== 377	USER>>seq1613	   70   [+0+] rfam
+* Block 264 <=== 260	USER>>seq541	   68   [+0+] rfam
+* Block 265 <=== 320	USER>>seq1114	   70   [+0+] rfam
+* Block 266 <=== 378	USER>>seq1451	   68   [+0+] rfam
+* Block 267 <=== 379	USER>>seq1489	   70   [+0+] rfam
+* Block 268 <=== 302	USER>>seq1406	   70   [+14+] rfam
+* Block 269 <=== 292	USER>>seq1751	   68   [+0+] rfam
+* Block 270 <=== 253	USER>>seq557	   69   [+0+] rfam
+* Block 271 <=== 314	USER>>seq1420	   70   [+0+] rfam
+* Block 272 <=== 380	USER>>seq888	   70   [+0+] rfam
+* Block 273 <=== 321	USER>>seq1098	   71   [+0+] rfam
+* Block 274 <=== 319	USER>>seq1235	   68   [+0+] rfam
+* Block 275 <=== 315	USER>>seq997	   72   [+1+] rfam
+* Block 276 <=== 288	USER>>seq1671	   70   [+0+] rfam
+* Block 277 <=== 317	USER>>seq962	   70   [+3+] rfam
+* Block 278 <=== 318	USER>>seq951	   70   [+0+] rfam
+* Block 279 <=== 286	USER>>seq653	   70   [+6+] rfam
+* Block 280 <=== 294	USER>>seq887	   72   [+0+] rfam
+* Block 281 <=== 293	USER>>seq1092	   70   [+0+] rfam
+* Block 282 <=== 313	USER>>seq1378	   72   [+4+] rfam
+* Block 283 <=== 304	USER>>seq1621	   70   [+0+] rfam
+* Block 284 <=== 303	USER>>seq1566	   72   [+1+] rfam
+* Block 285 <=== 312	USER>>seq1193	   68   [+6+] rfam
+* Block 286 <=== 311	USER>>seq1462	   70   [+1+] rfam
+* Block 287 <=== 305	USER>>seq1152	   72   [+0+] rfam
+* Block 288 <=== 309	USER>>seq1720	   69   [+0+] rfam
+* Block 289 <=== 310	USER>>seq1419	   72   [+1+] rfam
+* Block 290 <=== 306	USER>>seq1119	   70   [+1+] rfam
+* Block 291 <=== 307	USER>>seq1212	   70   [+9+] rfam
+* Block 292 <=== 308	USER>>seq1129	   68   [+62+] rfam
+* Block 293 <=== 295	USER>>seq1156	   72   [+0+] rfam
+* Block 294 <=== 296	USER>>seq1257	   68   [+5+] rfam
+* Block 295 <=== 297	USER>>seq1381	   68   [+8+] rfam
+* Block 296 <=== 298	USER>>seq1622	   69   [+0+] rfam
+* Block 297 <=== 299	USER>>seq1651	   72   [+0+] rfam
+* Block 298 <=== 300	USER>>seq1726	   72   [+5+] rfam
+* Block 299 <=== 301	USER>>seq1623	   70   [+0+] rfam
+* Block 300 <=== 289	USER>>seq957	   70   [+1+] rfam
+* Block 301 <=== 285	USER>>seq661	   70   [+0+] rfam
+* Block 302 <=== 290	USER>>seq2127	   70   [+0+] rfam
+* Block 303 <=== 291	USER>>seq1013	   70   [+6+] rfam
+* Block 304 <=== 207	USER>>seq464	   70   [+2+] rfam
+* Block 305 <=== 287	USER>>seq1759	   70   [+3+] rfam
+* Block 306 <=== 208	USER>>seq193	   72   [+1+] rfam
+* Block 307 <=== 206	USER>>seq453	   72   [+0+] rfam
+* Block 308 <=== 382	USER>>seq1490	   70   [+0+] rfam
+* Block 309 <--- 226	USER>>seq921	   70   [+3+] rfam
+* Block 310 <=== 429	USER>>seq2440	   70   [+0+] rfam
+* Block 311 <=== 434	USER>>seq1056	   69   [+0+] rfam
+* Block 312 <=== 433	USER>>seq2426	   75   [+0+] rfam
+* Block 313 <=== 420	USER>>seq1025	   72   [+0+] rfam
+* Block 314 <=== 419	USER>>seq1054	   77   [+0+] rfam
+* Block 315 <=== 274	USER>>seq624	   73   [+0+] rfam
+* Block 316 <=== 272	USER>>seq599	   74   [+4+] rfam
+* Block 317 <=== 275	USER>>seq790	   74   [+1+] rfam
+* Block 318 <=== 273	USER>>seq920	   74   [+4+] rfam
+* Block 319 <=== 279	USER>>seq1242	   70   [+0+] rfam
+* Block 320 <=== 281	USER>>seq1124	   70   [+1+] rfam
+* Block 321 <=== 282	USER>>seq1005	   73   [+0+] rfam
+* Block 322 <=== 277	USER>>seq1078	   71   [+7+] rfam
+* Block 323 <=== 276	USER>>seq315	   75   [+1+] rfam
+* Block 324 <=== 278	USER>>seq521	   75   [+0+] rfam
+* Block 325 <=== 280	USER>>seq1167	   74   [+4+] rfam
+* Block 326 <=== 346	USER>>seq1069	   70   [+0+] rfam
+* Block 327 <=== 348	USER>>seq1390	   70   [+0+] rfam
+* Block 328 <=== 351	USER>>seq1157	   68   [+1+] rfam
+* Block 329 <=== 271	USER>>seq913	   72   [+0+] rfam
+* Block 330 <=== 350	USER>>seq1195	   72   [+3+] rfam
+* Block 331 <=== 355	USER>>seq1151	   72   [+0+] rfam
+* Block 332 <=== 349	USER>>seq1101	   69   [+0+] rfam
+* Block 333 <=== 354	USER>>seq1091	   68   [+2+] rfam
+* Block 334 <=== 353	USER>>seq1272	   69   [+0+] rfam
+* Block 335 <=== 357	USER>>seq1238	   71   [+0+] rfam
+* Block 336 <=== 254	USER>>seq636	   70   [+1+] rfam
+* Block 337 <=== 352	USER>>seq1243	   72   [+0+] rfam
+* Block 338 <=== 383	USER>>seq1670	   71   [+0+] rfam
+* Block 339 <=== 381	USER>>seq1725	   71   [+0+] rfam
+* Block 340 <=== 356	USER>>seq959	   72   [+0+] rfam
+* Block 341 <=== 363	USER>>seq1399	   71   [+0+] rfam
+* Block 342 <=== 362	USER>>seq1010	   72   [+0+] rfam
+* Block 343 <=== 366	USER>>seq1076	   70   [+0+] rfam
+* Block 344 <=== 367	USER>>seq1519	   72   [+0+] rfam
+* Block 345 <=== 361	USER>>seq1535	   72   [+0+] rfam
+* Block 346 <=== 360	USER>>seq1234	   71   [+0+] rfam
+* Block 347 <=== 359	USER>>seq1162	   73   [+0+] rfam
+* Block 348 <=== 364	USER>>seq1587	   72   [+0+] rfam
+* Block 349 <=== 365	USER>>seq1321	   72   [+0+] rfam
+* Block 350 <=== 370	USER>>seq1202	   72   [+0+] rfam
+* Block 351 <=== 368	USER>>seq1267	   68   [+0+] rfam
+* Block 352 <=== 371	USER>>seq1198	   70   [+0+] rfam
+* Block 353 <=== 369	USER>>seq1395	   72   [+0+] rfam
+* Block 354 <=== 372	USER>>seq1190	   70   [+1+] rfam
+* Block 355 <=== 373	USER>>seq1673	   69   [+0+] rfam
+* Block 356 <=== 374	USER>>seq1638	   73   [+0+] rfam
+* Block 357 <=== 316	USER>>seq1409	   69   [+0+] rfam
+* Block 358 <=== 375	USER>>seq1311	   67   [+4+] rfam
+* Block 359 <=== 376	USER>>seq593	   71   [+0+] rfam
+* Block 360 <=== 332	USER>>seq459	   73   [+0+] rfam
+* Block 361 <=== 440	USER>>seq2121	   70   [+4+] rfam
+* Block 362 <=== 333	USER>>seq983	   70   [+0+] rfam
+* Block 363 <=== 331	USER>>seq639	   73   [+0+] rfam
+* Block 364 <=== 322	USER>>seq467	   88   [+26+] rfam
+* Block 365 <=== 327	USER>>seq443	   71   [+1+] rfam
+* Block 366 <=== 323	USER>>seq735	   83   [+3+] rfam
+* Block 367 <=== 330	USER>>seq898	   71   [+0+] rfam
+* Block 368 <=== 344	USER>>seq1389	   71   [+0+] rfam
+* Block 369 <=== 335	USER>>seq1244	   70   [+0+] rfam
+* Block 370 <=== 326	USER>>seq573	   69   [+0+] rfam
+* Block 371 <=== 325	USER>>seq871	   71   [+0+] rfam
+* Block 372 <=== 342	USER>>seq1417	   72   [+0+] rfam
+* Block 373 <=== 347	USER>>seq808	   72   [+0+] rfam
+* Block 374 <=== 329	USER>>seq903	   73   [+1+] rfam
+* Block 375 <=== 343	USER>>seq1077	   74   [+0+] rfam
+* Block 376 <=== 334	USER>>seq968	   74   [+0+] rfam
+* Block 377 <=== 339	USER>>seq1086	   72   [+0+] rfam
+* Block 378 <=== 338	USER>>seq1047	   72   [+1+] rfam
+* Block 379 <=== 324	USER>>seq881	   72   [+0+] rfam
+* Block 380 <=== 341	USER>>seq1111	   72   [+0+] rfam
+* Block 381 <=== 345	USER>>seq1130	   72   [+1+] rfam
+* Block 382 <=== 340	USER>>seq1104	   72   [+0+] rfam
+* Block 383 <=== 337	USER>>seq1029	   72   [+0+] rfam
+* Block 384 <=== 328	USER>>seq550	   72   [+0+] rfam
+* Block 385 <=== 270	USER>>seq458	   72   [+0+] rfam
+* Block 386 <=== 269	USER>>seq1126	   73   [+0+] rfam
+* Block 387 <--- 284	USER>>seq953	   75   [+0+] rfam
+* Block 388 <=== 394	USER>>seq1144	   73   [+1+] rfam
+* Block 389 <=== 396	USER>>seq1030	   75   [+2+] rfam
+* Block 390 <=== 397	USER>>seq1887	   79   [+0+] rfam
+* Block 391 <=== 393	USER>>seq1741	   77   [+1+] rfam
+* Block 392 <=== 398	USER>>seq1951	   76   [+1+] rfam
+* Block 393 <=== 399	USER>>seq791	   86   [+0+] rfam
+* Block 394 <=== 401	USER>>seq715	   86   [+0+] rfam
+* Block 395 <=== 392	USER>>seq2188	   73   [+0+] rfam
+* Block 396 <=== 395	USER>>seq1630	   71   [+0+] rfam
+* Block 397 <=== 400	USER>>seq1110	   86   [+1+] rfam
+* Block 398 <=== 402	USER>>seq941	   72   [+11+] rfam
+* Block 399 <=== 409	USER>>seq1146	   78   [+1+] rfam
+* Block 400 <=== 408	USER>>seq1935	   72   [+1+] rfam
+* Block 401 <=== 407	USER>>seq1940	   85   [+0+] rfam
+* Block 402 <=== 410	USER>>seq1938	   79   [+3+] rfam
+* Block 403 <=== 386	USER>>seq2403	   75   [+1+] rfam
+* Block 404 <=== 391	USER>>seq1812	   74   [+154+] rfam
+* Block 405 <=== 390	USER>>seq1641	   75   [+3+] rfam
+* Block 406 <=== 388	USER>>seq2191	   72   [+5+] rfam
+* Block 407 <=== 387	USER>>seq1605	   80   [+0+] rfam
+* Block 408 <=== 389	USER>>seq1889	   75   [+17+] rfam
+* Block 409 <=== 385	USER>>seq1319	   78   [+15+] rfam
+* Block 410 <=== 404	USER>>seq1387	   84   [+0+] rfam
+* Block 411 <=== 405	USER>>seq2226	   78   [+2+] rfam
+* Block 412 <=== 413	USER>>seq2210	   78   [+0+] rfam
+* Block 413 <=== 406	USER>>seq1942	   80   [+4+] rfam
+* Block 414 <=== 403	USER>>seq1715	   71   [+0+] rfam
+* Block 415 <=== 414	USER>>seq2228	   69   [+1+] rfam
+* Block 416 <=== 411	USER>>seq2087	   81   [+0+] rfam
+* Block 417 <=== 412	USER>>seq1031	   81   [+0+] rfam
+* Block 418 <=== 416	USER>>seq1149	   77   [+0+] rfam
+* Block 419 <=== 417	USER>>seq1070	   74   [+1+] rfam
+* Block 420 <=== 422	USER>>seq1055	   69   [+0+] rfam
+* Block 421 <=== 421	USER>>seq1168	   75   [+0+] rfam
+* Block 422 <=== 425	USER>>seq1080	   76   [+1+] rfam
+* Block 423 <=== 424	USER>>seq1125	   75   [+0+] rfam
+* Block 424 <=== 423	USER>>seq1160	   71   [+0+] rfam
+* Block 425 <=== 415	USER>>seq753	   86   [+0+] rfam
+* Block 426 <=== 336	USER>>seq1087	   86   [+0+] rfam
+* Block 427 <=== 465	USER>>seq2971	   68   [+0+] rfam
+* Block 428 <=== 463	USER>>seq3171	   69   [+0+] rfam
+* Block 429 <=== 466	USER>>seq2959	   69   [+1+] rfam
+* Block 430 <=== 464	USER>>seq2847	   74   [+10+] rfam
+* Block 431 <=== 461	USER>>seq2946	   68   [+1+] rfam
+* Block 432 <=== 459	USER>>seq3022	   68   [+5+] rfam
+* Block 433 <=== 457	USER>>seq2174	   72   [+5+] rfam
+* Block 434 <=== 460	USER>>seq2601	   72   [+44+] rfam
+* Block 435 <=== 458	USER>>seq2427	   72   [+0+] rfam
+* Block 436 <=== 456	USER>>seq2966	   72   [+0+] rfam
+* Block 437 <=== 462	USER>>seq2669	   69   [+1+] rfam
+* Block 438 <--- 384	USER>>seq1097	   70   [+0+] rfam
+* Block 439 <=== 480	USER>>seq1503	   71   [+0+] rfam
+* Block 440 <=== 497	USER>>seq1600	   76   [+0+] rfam
+* Block 441 <=== 498	USER>>seq1778	   75   [+1+] rfam
+* Block 442 <=== 500	USER>>seq1678	   73   [+0+] rfam
+* Block 443 <=== 496	USER>>seq1626	   77   [+2+] rfam
+* Block 444 <=== 499	USER>>seq1642	   75   [+1+] rfam
+* Block 445 <=== 484	USER>>seq1266	   72   [+0+] rfam
+* Block 446 <=== 485	USER>>seq1551	   72   [+0+] rfam
+* Block 447 <=== 488	USER>>seq1219	   72   [+35+] rfam
+* Block 448 <=== 491	USER>>seq1499	   72   [+0+] rfam
+* Block 449 <=== 490	USER>>seq1150	   71   [+0+] rfam
+* Block 450 <=== 487	USER>>seq1563	   72   [+15+] rfam
+* Block 451 <=== 486	USER>>seq1262	   72   [+1+] rfam
+* Block 452 <=== 489	USER>>seq1133	   72   [+0+] rfam
+* Block 453 <=== 492	USER>>seq1703	   71   [+1+] rfam
+* Block 454 <=== 493	USER>>seq1692	   70   [+0+] rfam
+* Block 455 <=== 494	USER>>seq1700	   71   [+4+] rfam
+* Block 456 <=== 495	USER>>seq1307	   72   [+4+] rfam
+* Block 457 <=== 501	USER>>seq1163	   73   [+0+] rfam
+* Block 458 <=== 438	USER>>seq2140	   71   [+0+] rfam
+* Block 459 <=== 436	USER>>seq1882	   73   [+0+] rfam
+* Block 460 <=== 437	USER>>seq2989	   73   [+3+] rfam
+* Block 461 <=== 418	USER>>seq1059	   72   [+0+] rfam
+* Block 462 <=== 524	USER>>seq1818	   74   [+0+] rfam
+* Block 463 <=== 526	USER>>seq1502	   74   [+0+] rfam
+* Block 464 <=== 528	USER>>seq1693	   74   [+1+] rfam
+* Block 465 <=== 525	USER>>seq1891	   75   [+2+] rfam
+* Block 466 <=== 527	USER>>seq2367	   77   [+30+] rfam
+* Block 467 <=== 529	USER>>seq1961	   76   [+2+] rfam
+* Block 468 <=== 523	USER>>seq1414	   75   [+0+] rfam
+* Block 469 <=== 445	USER>>seq2147	   72   [+0+] rfam
+* Block 470 <=== 446	USER>>seq2155	   70   [+0+] rfam
+* Block 471 <=== 450	USER>>seq2607	   76   [+0+] rfam
+* Block 472 <=== 442	USER>>seq1482	   71   [+0+] rfam
+* Block 473 <=== 452	USER>>seq2980	   67   [+0+] rfam
+* Block 474 <=== 453	USER>>seq2482	   67   [+0+] rfam
+* Block 475 <=== 454	USER>>seq2488	   71   [+0+] rfam
+* Block 476 <=== 455	USER>>seq1698	   72   [+0+] rfam
+* Block 477 <=== 451	USER>>seq2170	   69   [+1+] rfam
+* Block 478 <=== 449	USER>>seq2884	   70   [+0+] rfam
+* Block 479 <=== 448	USER>>seq2500	   69   [+0+] rfam
+* Block 480 <=== 443	USER>>seq2682	   71   [+0+] rfam
+* Block 481 <=== 447	USER>>seq2779	   67   [+0+] rfam
+* Block 482 <=== 444	USER>>seq2873	   69   [+0+] rfam
+* Block 483 <=== 441	USER>>seq2419	   77   [+0+] rfam
+* Block 484 <=== 479	USER>>seq1465	   70   [+0+] rfam
+* Block 485 <=== 439	USER>>seq2671	   69   [+0+] rfam
+* Block 486 <=== 435	USER>>seq1426	   71   [+0+] rfam
+* Block 487 <=== 467	USER>>seq1546	   71   [+0+] rfam
+* Block 488 <=== 516	USER>>seq1733	   74   [+0+] rfam
+* Block 489 <=== 518	USER>>seq1782	   74   [+2+] rfam
+* Block 490 <=== 520	USER>>seq1484	   70   [+0+] rfam
+* Block 491 <=== 517	USER>>seq1570	   74   [+4+] rfam
+* Block 492 <=== 522	USER>>seq1531	   74   [+0+] rfam
+* Block 493 <=== 521	USER>>seq1271	   74   [+0+] rfam
+* Block 494 <=== 519	USER>>seq1777	   72   [+2+] rfam
+* Block 495 <=== 514	USER>>seq1572	   73   [+0+] rfam
+* Block 496 <=== 515	USER>>seq1318	   72   [+0+] rfam
+* Block 497 <=== 507	USER>>seq1424	   70   [+0+] rfam
+* Block 498 <=== 509	USER>>seq1925	   74   [+2+] rfam
+* Block 499 <=== 506	USER>>seq1770	   71   [+4+] rfam
+* Block 500 <=== 508	USER>>seq1647	   70   [+1+] rfam
+* Block 501 <=== 511	USER>>seq2133	   70   [+1+] rfam
+* Block 502 <=== 510	USER>>seq1762	   71   [+0+] rfam
+* Block 503 <=== 513	USER>>seq1772	   73   [+0+] rfam
+* Block 504 <=== 512	USER>>seq1660	   74   [+0+] rfam
+* Block 505 <=== 432	USER>>seq1320	   72   [+0+] rfam
+* Block 506 <=== 505	USER>>seq1628	   70   [+0+] rfam
+* Block 507 <=== 503	USER>>seq1571	   75   [+0+] rfam
+* Block 508 <=== 504	USER>>seq1933	   73   [+0+] rfam
+* Block 509 <=== 502	USER>>seq1442	   75   [+0+] rfam
+* Block 510 <=== 428	USER>>seq1232	   69   [+0+] rfam
+* Block 511 <=== 431	USER>>seq2439	   75   [+0+] rfam
+* Block 512 <=== 482	USER>>seq2481	   75   [+0+] rfam
+* Block 513 <=== 430	USER>>seq2297	   71   [+0+] rfam
+* Block 514 <=== 481	USER>>seq2330	   72   [+15+] rfam
+* Block 515 <=== 483	USER>>seq1520	   78   [+0+] rfam
+* Block 516 <=== 427	USER>>seq1637	   73   [+1+] rfam
+* Block 517 <=== 574	USER>>seq1481	   75   [+0+] rfam
+* Block 518 <=== 426	USER>>seq1259	   68   [+0+] rfam
+* Block 519 <=== 573	USER>>seq1509	   72   [+0+] rfam
+* Block 520 <=== 575	USER>>seq1073	   71   [+0+] rfam
+* Block 521 <--- 468	USER>>seq1122	   70   [+0+] rfam
+* Block 522 <=== 582	USER>>seq2341	   72   [+0+] rfam
+* Block 523 <=== 584	USER>>seq2453	   68   [+0+] rfam
+* Block 524 <=== 581	USER>>seq1830	   68   [+0+] rfam
+* Block 525 <=== 583	USER>>seq1763	   72   [+0+] rfam
+* Block 526 <=== 571	USER>>seq1648	   75   [+0+] rfam
+* Block 527 <=== 478	USER>>seq1060	   72   [+0+] rfam
+* Block 528 <=== 560	USER>>seq1575	   72   [+0+] rfam
+* Block 529 <=== 470	USER>>seq1558	   79   [+0+] rfam
+* Block 530 <=== 469	USER>>seq1500	   87   [+2+] rfam
+* Block 531 <=== 561	USER>>seq1924	   78   [+0+] rfam
+* Block 532 <=== 471	USER>>seq1521	   75   [+1+] rfam
+* Block 533 <=== 474	USER>>seq1369	   76   [+0+] rfam
+* Block 534 <=== 472	USER>>seq1304	   81   [+0+] rfam
+* Block 535 <=== 473	USER>>seq1523	   72   [+15+] rfam
+* Block 536 <=== 475	USER>>seq1505	   78   [+1+] rfam
+* Block 537 <=== 476	USER>>seq1127	   81   [+0+] rfam
+* Block 538 <=== 477	USER>>seq1052	   85   [+0+] rfam
+* Block 539 <=== 536	USER>>seq1862	   74   [+0+] rfam
+* Block 540 <=== 534	USER>>seq1680	   80   [+4+] rfam
+* Block 541 <=== 537	USER>>seq1742	   84   [+2+] rfam
+* Block 542 <=== 535	USER>>seq1705	   87   [+1+] rfam
+* Block 543 <=== 532	USER>>seq1598	   88   [+0+] rfam
+* Block 544 <=== 530	USER>>seq1629	   88   [+0+] rfam
+* Block 545 <=== 533	USER>>seq1838	   87   [+0+] rfam
+* Block 546 <=== 531	USER>>seq1919	   88   [+0+] rfam
+* Block 547 <=== 559	USER>>seq1696	   73   [+0+] rfam
+* Block 548 <=== 558	USER>>seq1958	   74   [+1+] rfam
+* Block 549 <=== 557	USER>>seq2521	   76   [+1+] rfam
+* Block 550 <=== 540	USER>>seq1711	   78   [+0+] rfam
+* Block 551 <=== 546	USER>>seq1803	   79   [+1+] rfam
+* Block 552 <=== 548	USER>>seq1631	   86   [+3+] rfam
+* Block 553 <=== 550	USER>>seq1559	   88   [+15+] rfam
+* Block 554 <=== 552	USER>>seq1533	   70   [+0+] rfam
+* Block 555 <=== 556	USER>>seq1282	   69   [+76+] rfam
+* Block 556 <=== 553	USER>>seq2258	   87   [+2+] rfam
+* Block 557 <=== 549	USER>>seq1708	   84   [+0+] rfam
+* Block 558 <=== 538	USER>>seq1370	   83   [+0+] rfam
+* Block 559 <=== 551	USER>>seq1425	   73   [+0+] rfam
+* Block 560 <=== 539	USER>>seq1246	   75   [+1+] rfam
+* Block 561 <=== 541	USER>>seq2412	   83   [+0+] rfam
+* Block 562 <=== 542	USER>>seq1871	   73   [+1+] rfam
+* Block 563 <=== 555	USER>>seq2138	   75   [+0+] rfam
+* Block 564 <=== 554	USER>>seq1949	   80   [+4+] rfam
+* Block 565 <=== 544	USER>>seq1913	   78   [+0+] rfam
+* Block 566 <=== 543	USER>>seq1682	   80   [+0+] rfam
+* Block 567 <=== 547	USER>>seq1441	   83   [+0+] rfam
+* Block 568 <=== 545	USER>>seq1371	   77   [+0+] rfam
+* Block 569 <=== 562	USER>>seq1479	   77   [+0+] rfam
+* Block 570 <=== 563	USER>>seq1230	   72   [+0+] rfam
+* Block 571 <=== 572	USER>>seq1374	   72   [+0+] rfam
+* Block 572 <=== 570	USER>>seq1677	   88   [+0+] rfam
+* Block 573 <=== 565	USER>>seq1323	   76   [+0+] rfam
+* Block 574 <=== 567	USER>>seq1169	   75   [+1+] rfam
+* Block 575 <=== 564	USER>>seq1050	   75   [+0+] rfam
+* Block 576 <=== 566	USER>>seq1105	   71   [+0+] rfam
+* Block 577 <=== 568	USER>>seq1384	   71   [+2+] rfam
+* Block 578 <=== 569	USER>>seq1664	   69   [+0+] rfam
+* Block 579 <=== 742	USER>>seq2561	   70   [+0+] rfam
+* Block 580 <=== 743	USER>>seq2203	   70   [+1+] rfam
+* Block 581 <=== 740	USER>>seq2950	   72   [+5+] rfam
+* Block 582 <=== 744	USER>>seq2322	   70   [+0+] rfam
+* Block 583 <=== 741	USER>>seq3127	   72   [+2+] rfam
+* Block 584 <=== 746	USER>>seq2551	   70   [+7+] rfam
+* Block 585 <=== 745	USER>>seq2455	   70   [+1+] rfam
+* Block 586 <=== 748	USER>>seq2490	   72   [+0+] rfam
+* Block 587 <=== 649	USER>>seq1880	   70   [+0+] rfam
+* Block 588 <=== 629	USER>>seq1794	   70   [+0+] rfam
+* Block 589 <=== 576	USER>>seq1650	   68   [+3+] rfam
+* Block 590 <=== 627	USER>>seq1881	   70   [+2+] rfam
+* Block 591 <=== 630	USER>>seq1829	   71   [+0+] rfam
+* Block 592 <=== 628	USER>>seq1896	   70   [+1+] rfam
+* Block 593 <=== 626	USER>>seq1752	   72   [+0+] rfam
+* Block 594 <=== 650	USER>>seq1899	   70   [+1+] rfam
+* Block 595 <=== 739	USER>>seq2353	   70   [+0+] rfam
+* Block 596 <=== 747	USER>>seq3032	   70   [+1+] rfam
+* Block 597 <=== 749	USER>>seq2395	   72   [+0+] rfam
+* Block 598 <=== 750	USER>>seq3500	   68   [+1+] rfam
+* Block 599 <=== 751	USER>>seq2432	   70   [+0+] rfam
+* Block 600 <=== 645	USER>>seq1640	   72   [+1+] rfam
+* Block 601 <=== 644	USER>>seq1970	   72   [+0+] rfam
+* Block 602 <=== 637	USER>>seq1729	   72   [+10+] rfam
+* Block 603 <=== 638	USER>>seq1722	   72   [+0+] rfam
+* Block 604 <=== 639	USER>>seq1706	   72   [+0+] rfam
+* Block 605 <=== 636	USER>>seq1719	   72   [+3+] rfam
+* Block 606 <=== 640	USER>>seq1691	   72   [+0+] rfam
+* Block 607 <=== 641	USER>>seq2143	   72   [+0+] rfam
+* Block 608 <=== 634	USER>>seq2216	   72   [+1+] rfam
+* Block 609 <=== 635	USER>>seq1968	   72   [+0+] rfam
+* Block 610 <=== 632	USER>>seq1876	   72   [+0+] rfam
+* Block 611 <=== 642	USER>>seq1885	   71   [+0+] rfam
+* Block 612 <=== 643	USER>>seq2215	   72   [+0+] rfam
+* Block 613 <=== 633	USER>>seq2181	   72   [+0+] rfam
+* Block 614 <=== 631	USER>>seq1915	   71   [+3+] rfam
+* Block 615 <=== 647	USER>>seq1754	   72   [+0+] rfam
+* Block 616 <=== 646	USER>>seq2512	   72   [+0+] rfam
+* Block 617 <=== 648	USER>>seq1874	   70   [+0+] rfam
+* Block 618 <=== 651	USER>>seq1699	   73   [+0+] rfam
+* Block 619 <=== 652	USER>>seq2290	   69   [+1+] rfam
+* Block 620 <=== 653	USER>>seq3010	   71   [+0+] rfam
+* Block 621 <=== 654	USER>>seq1831	   72   [+0+] rfam
+* Block 622 <=== 655	USER>>seq1853	   70   [+0+] rfam
+* Block 623 <=== 656	USER>>seq1969	   72   [+0+] rfam
+* Block 624 <=== 658	USER>>seq1412	   70   [+0+] rfam
+* Block 625 <=== 664	USER>>seq1564	   70   [+0+] rfam
+* Block 626 <=== 663	USER>>seq2338	   72   [+1+] rfam
+* Block 627 <=== 732	USER>>seq2564	   72   [+0+] rfam
+* Block 628 <=== 577	USER>>seq2275	   70   [+0+] rfam
+* Block 629 <=== 670	USER>>seq2958	   68   [+0+] rfam
+* Block 630 <=== 759	USER>>seq2915	   70   [+0+] rfam
+* Block 631 <=== 596	USER>>seq1453	   71   [+0+] rfam
+* Block 632 <=== 578	USER>>seq1576	   73   [+0+] rfam
+* Block 633 <=== 600	USER>>seq1456	   75   [+0+] rfam
+* Block 634 <=== 615	USER>>seq1694	   72   [+0+] rfam
+* Block 635 <=== 758	USER>>seq1921	   72   [+0+] rfam
+* Block 636 <=== 662	USER>>seq2208	   71   [+0+] rfam
+* Block 637 <=== 661	USER>>seq1491	   72   [+0+] rfam
+* Block 638 <=== 597	USER>>seq1463	   72   [+0+] rfam
+* Block 639 <=== 605	USER>>seq1843	   68   [+1+] rfam
+* Block 640 <=== 610	USER>>seq2148	   69   [+0+] rfam
+* Block 641 <=== 579	USER>>seq1577	   70   [+0+] rfam
+* Block 642 <=== 589	USER>>seq1687	   70   [+0+] rfam
+* Block 643 <=== 587	USER>>seq1569	   70   [+2+] rfam
+* Block 644 <=== 590	USER>>seq1305	   70   [+2+] rfam
+* Block 645 <=== 591	USER>>seq1507	   70   [+2+] rfam
+* Block 646 <=== 580	USER>>seq1672	   71   [+0+] rfam
+* Block 647 <=== 586	USER>>seq2169	   72   [+0+] rfam
+* Block 648 <=== 592	USER>>seq1306	   70   [+0+] rfam
+* Block 649 <=== 593	USER>>seq1851	   70   [+0+] rfam
+* Block 650 <=== 594	USER>>seq2280	   72   [+0+] rfam
+* Block 651 <=== 607	USER>>seq2137	   72   [+0+] rfam
+* Block 652 <=== 599	USER>>seq2189	   72   [+0+] rfam
+* Block 653 <=== 598	USER>>seq2194	   68   [+0+] rfam
+* Block 654 <=== 606	USER>>seq2139	   70   [+0+] rfam
+* Block 655 <=== 608	USER>>seq2219	   69   [+0+] rfam
+* Block 656 <=== 609	USER>>seq1923	   72   [+0+] rfam
+* Block 657 <=== 611	USER>>seq1676	   69   [+0+] rfam
+* Block 658 <=== 595	USER>>seq1895	   68   [+0+] rfam
+* Block 659 <=== 614	USER>>seq1928	   71   [+0+] rfam
+* Block 660 <=== 613	USER>>seq1743	   72   [+1+] rfam
+* Block 661 <=== 616	USER>>seq1767	   71   [+0+] rfam
+* Block 662 <=== 617	USER>>seq1681	   72   [+0+] rfam
+* Block 663 <=== 620	USER>>seq1665	   71   [+0+] rfam
+* Block 664 <=== 618	USER>>seq1954	   70   [+1+] rfam
+* Block 665 <=== 619	USER>>seq2358	   72   [+0+] rfam
+* Block 666 <=== 612	USER>>seq1856	   68   [+0+] rfam
+* Block 667 <=== 603	USER>>seq1530	   72   [+1+] rfam
+* Block 668 <=== 588	USER>>seq2195	   70   [+0+] rfam
+* Block 669 <=== 602	USER>>seq1864	   70   [+0+] rfam
+* Block 670 <=== 601	USER>>seq1945	   70   [+0+] rfam
+* Block 671 <=== 621	USER>>seq1483	   72   [+0+] rfam
+* Block 672 <=== 604	USER>>seq1922	   72   [+0+] rfam
+* Block 673 <=== 622	USER>>seq1920	   68   [+0+] rfam
+* Block 674 <=== 624	USER>>seq1607	   71   [+0+] rfam
+* Block 675 <=== 713	USER>>seq1918	   72   [+0+] rfam
+* Block 676 <=== 623	USER>>seq2136	   72   [+0+] rfam
+* Block 677 <=== 715	USER>>seq2150	   71   [+0+] rfam
+* Block 678 <=== 585	USER>>seq1646	   70   [+0+] rfam
+* Block 679 <=== 706	USER>>seq2568	   79   [+0+] rfam
+* Block 680 <=== 712	USER>>seq1766	   74   [+0+] rfam
+* Block 681 <=== 625	USER>>seq1739	   84   [+0+] rfam
+* Block 682 <=== 674	USER>>seq2465	   85   [+0+] rfam
+* Block 683 <=== 681	USER>>seq2781	   76   [+0+] rfam
+* Block 684 <=== 676	USER>>seq2489	   72   [+0+] rfam
+* Block 685 <=== 680	USER>>seq1860	   73   [+0+] rfam
+* Block 686 <=== 677	USER>>seq1403	   75   [+3+] rfam
+* Block 687 <=== 675	USER>>seq1662	   72   [+1+] rfam
+* Block 688 <=== 678	USER>>seq2953	   75   [+0+] rfam
+* Block 689 <=== 679	USER>>seq3004	   71   [+0+] rfam
+* Block 690 <=== 683	USER>>seq2562	   71   [+0+] rfam
+* Block 691 <=== 684	USER>>seq2141	   88   [+0+] rfam
+* Block 692 <=== 703	USER>>seq1764	   84   [+0+] rfam
+* Block 693 <=== 701	USER>>seq2679	   76   [+0+] rfam
+* Block 694 <=== 698	USER>>seq2152	   87   [+0+] rfam
+* Block 695 <=== 700	USER>>seq2222	   88   [+1+] rfam
+* Block 696 <=== 695	USER>>seq2430	   80   [+1+] rfam
+* Block 697 <=== 697	USER>>seq2540	   84   [+1+] rfam
+* Block 698 <=== 699	USER>>seq2461	   84   [+0+] rfam
+* Block 699 <=== 696	USER>>seq2463	   80   [+0+] rfam
+* Block 700 <=== 694	USER>>seq2495	   86   [+1+] rfam
+* Block 701 <=== 702	USER>>seq1858	   84   [+1+] rfam
+* Block 702 <=== 704	USER>>seq2897	   84   [+0+] rfam
+* Block 703 <=== 705	USER>>seq2877	   84   [+0+] rfam
+* Block 704 <=== 692	USER>>seq2739	   86   [+1+] rfam
+* Block 705 <=== 691	USER>>seq2755	   88   [+0+] rfam
+* Block 706 <=== 688	USER>>seq2397	   84   [+0+] rfam
+* Block 707 <=== 690	USER>>seq2473	   88   [+0+] rfam
+* Block 708 <=== 687	USER>>seq2394	   88   [+1+] rfam
+* Block 709 <=== 689	USER>>seq2664	   87   [+0+] rfam
+* Block 710 <=== 685	USER>>seq2948	   81   [+0+] rfam
+* Block 711 <=== 693	USER>>seq2511	   86   [+0+] rfam
+* Block 712 <=== 686	USER>>seq2491	   78   [+0+] rfam
+* Block 713 <=== 682	USER>>seq2965	   74   [+0+] rfam
+* Block 714 <=== 708	USER>>seq2124	   77   [+2+] rfam
+* Block 715 <=== 709	USER>>seq2227	   79   [+3+] rfam
+* Block 716 <=== 707	USER>>seq2579	   83   [+0+] rfam
+* Block 717 <=== 763	USER>>seq1807	   75   [+0+] rfam
+* Block 718 <=== 818	USER>>seq1883	   73   [+1+] rfam
+* Block 719 <=== 767	USER>>seq3036	   68   [+0+] rfam
+* Block 720 <=== 672	USER>>seq3066	   87   [+0+] rfam
+* Block 721 <=== 766	USER>>seq1946	   71   [+0+] rfam
+* Block 722 <=== 665	USER>>seq1485	   71   [+0+] rfam
+* Block 723 <=== 720	USER>>seq2545	   71   [+10+] rfam
+* Block 724 <=== 772	USER>>seq2289	   71   [+0+] rfam
+* Block 725 <=== 771	USER>>seq2142	   73   [+0+] rfam
+* Block 726 <=== 725	USER>>seq2982	   73   [+0+] rfam
+* Block 727 <=== 722	USER>>seq2575	   73   [+1+] rfam
+* Block 728 <=== 724	USER>>seq3087	   73   [+0+] rfam
+* Block 729 <=== 734	USER>>seq2126	   71   [+2+] rfam
+* Block 730 <=== 723	USER>>seq3059	   73   [+0+] rfam
+* Block 731 <=== 721	USER>>seq2996	   72   [+0+] rfam
+* Block 732 <=== 666	USER>>seq1656	   70   [+0+] rfam
+* Block 733 <=== 657	USER>>seq1547	   72   [+0+] rfam
+* Block 734 <=== 659	USER>>seq1396	   70   [+0+] rfam
+* Block 735 <=== 667	USER>>seq2983	   70   [+0+] rfam
+* Block 736 <=== 726	USER>>seq2973	   71   [+0+] rfam
+* Block 737 <=== 773	USER>>seq2287	   70   [+0+] rfam
+* Block 738 <=== 660	USER>>seq1669	   68   [+0+] rfam
+* Block 739 <=== 727	USER>>seq2894	   71   [+1+] rfam
+* Block 740 <=== 728	USER>>seq1760	   72   [+0+] rfam
+* Block 741 <=== 668	USER>>seq2742	   70   [+1+] rfam
+* Block 742 <=== 730	USER>>seq2918	   69   [+0+] rfam
+* Block 743 <=== 669	USER>>seq2751	   69   [+0+] rfam
+* Block 744 <=== 729	USER>>seq2920	   69   [+0+] rfam
+* Block 745 <=== 770	USER>>seq2167	   73   [+0+] rfam
+* Block 746 <=== 754	USER>>seq3108	   70   [+0+] rfam
+* Block 747 <=== 731	USER>>seq2645	   69   [+0+] rfam
+* Block 748 <=== 738	USER>>seq1937	   79   [+0+] rfam
+* Block 749 <=== 736	USER>>seq2192	   80   [+2+] rfam
+* Block 750 <=== 769	USER>>seq2151	   70   [+0+] rfam
+* Block 751 <=== 806	USER>>seq2406	   70   [+0+] rfam
+* Block 752 <=== 825	USER>>seq1893	   67   [+0+] rfam
+* Block 753 <=== 826	USER>>seq2862	   72   [+1+] rfam
+* Block 754 <=== 824	USER>>seq2213	   67   [+0+] rfam
+* Block 755 <=== 733	USER>>seq2544	   69   [+1+] rfam
+* Block 756 <=== 827	USER>>seq2305	   72   [+0+] rfam
+* Block 757 <=== 735	USER>>seq2594	   70   [+0+] rfam
+* Block 758 <=== 765	USER>>seq2563	   70   [+0+] rfam
+* Block 759 <=== 761	USER>>seq1866	   69   [+0+] rfam
+* Block 760 <=== 762	USER>>seq1863	   67   [+0+] rfam
+* Block 761 <=== 757	USER>>seq2398	   69   [+0+] rfam
+* Block 762 <=== 671	USER>>seq1842	   69   [+0+] rfam
+* Block 763 <=== 753	USER>>seq2230	   70   [+0+] rfam
+* Block 764 <=== 756	USER>>seq1872	   71   [+5+] rfam
+* Block 765 <=== 755	USER>>seq1868	   70   [+0+] rfam
+* Block 766 <=== 752	USER>>seq2668	   72   [+1+] rfam
+* Block 767 <=== 760	USER>>seq2895	   73   [+0+] rfam
+* Block 768 <=== 816	USER>>seq2951	   73   [+0+] rfam
+* Block 769 <=== 764	USER>>seq2467	   71   [+0+] rfam
+* Block 770 <=== 855	USER>>seq2336	   72   [+0+] rfam
+* Block 771 <=== 856	USER>>seq2526	   73   [+0+] rfam
+* Block 772 <--- 673	USER>>seq2768	   67   [+0+] rfam
+* Block 773 <--- 710	USER>>seq1643	   68   [+0+] rfam
+* Block 774 <--- 711	USER>>seq1685	   72   [+1+] rfam
+* Block 775 <=== 716	USER>>seq2908	   73   [+3+] rfam
+* Block 776 <=== 717	USER>>seq3041	   70   [+0+] rfam
+* Block 777 <=== 714	USER>>seq2876	   72   [+0+] rfam
+* Block 778 <=== 718	USER>>seq1697	   68   [+0+] rfam
+* Block 779 <=== 719	USER>>seq1960	   72   [+1+] rfam
+* Block 780 <=== 778	USER>>seq2362	   71   [+0+] rfam
+* Block 781 <=== 775	USER>>seq2334	   75   [+0+] rfam
+* Block 782 <=== 798	USER>>seq2238	   74   [+2+] rfam
+* Block 783 <=== 862	USER>>seq2886	   75   [+0+] rfam
+* Block 784 <=== 863	USER>>seq2841	   72   [+0+] rfam
+* Block 785 <=== 803	USER>>seq2520	   75   [+0+] rfam
+* Block 786 <=== 737	USER>>seq2501	   77   [+0+] rfam
+* Block 787 <=== 780	USER>>seq2364	   69   [+0+] rfam
+* Block 788 <=== 779	USER>>seq2149	   84   [+0+] rfam
+* Block 789 <=== 861	USER>>seq2335	   70   [+0+] rfam
+* Block 790 <=== 870	USER>>seq2454	   72   [+0+] rfam
+* Block 791 <=== 869	USER>>seq2497	   72   [+0+] rfam
+* Block 792 <=== 865	USER>>seq3052	   72   [+0+] rfam
+* Block 793 <=== 868	USER>>seq2743	   70   [+0+] rfam
+* Block 794 <=== 830	USER>>seq2171	   71   [+0+] rfam
+* Block 795 <=== 867	USER>>seq2681	   69   [+0+] rfam
+* Block 796 <=== 914	USER>>seq2577	   69   [+0+] rfam
+* Block 797 <=== 895	USER>>seq3295	   71   [+0+] rfam
+* Block 798 <=== 892	USER>>seq2445	   72   [+0+] rfam
+* Block 799 <=== 893	USER>>seq2987	   71   [+1+] rfam
+* Block 800 <=== 891	USER>>seq2995	   71   [+0+] rfam
+* Block 801 <=== 894	USER>>seq2914	   72   [+3+] rfam
+* Block 802 <=== 890	USER>>seq2754	   72   [+1+] rfam
+* Block 803 <=== 889	USER>>seq2868	   72   [+3+] rfam
+* Block 804 <=== 888	USER>>seq2573	   68   [+0+] rfam
+* Block 805 <=== 887	USER>>seq2981	   72   [+0+] rfam
+* Block 806 <=== 885	USER>>seq2472	   70   [+0+] rfam
+* Block 807 <=== 877	USER>>seq2452	   72   [+1+] rfam
+* Block 808 <=== 876	USER>>seq3513	   68   [+2+] rfam
+* Block 809 <=== 774	USER>>seq2300	   82   [+1+] rfam
+* Block 810 <=== 864	USER>>seq2459	   70   [+0+] rfam
+* Block 811 <=== 860	USER>>seq2425	   71   [+0+] rfam
+* Block 812 <=== 836	USER>>seq1787	   70   [+0+] rfam
+* Block 813 <=== 831	USER>>seq1944	   72   [+0+] rfam
+* Block 814 <=== 768	USER>>seq1839	   82   [+0+] rfam
+* Block 815 <=== 871	USER>>seq2732	   68   [+0+] rfam
+* Block 816 <=== 857	USER>>seq2515	   70   [+0+] rfam
+* Block 817 <=== 858	USER>>seq2221	   86   [+0+] rfam
+* Block 818 <=== 859	USER>>seq2190	   86   [+0+] rfam
+* Block 819 <=== 854	USER>>seq2434	   72   [+0+] rfam
+* Block 820 <=== 853	USER>>seq1952	   71   [+0+] rfam
+* Block 821 <=== 942	USER>>seq3160	   70   [+0+] rfam
+* Block 822 <=== 823	USER>>seq2954	   70   [+0+] rfam
+* Block 823 <=== 866	USER>>seq2324	   70   [+6+] rfam
+* Block 824 <=== 900	USER>>seq2332	   70   [+1+] rfam
+* Block 825 <=== 898	USER>>seq2404	   70   [+0+] rfam
+* Block 826 <=== 901	USER>>seq2730	   70   [+3+] rfam
+* Block 827 <=== 899	USER>>seq2582	   72   [+6+] rfam
+* Block 828 <=== 872	USER>>seq2879	   69   [+0+] rfam
+* Block 829 <=== 875	USER>>seq2940	   71   [+0+] rfam
+* Block 830 <=== 794	USER>>seq2343	   88   [+0+] rfam
+* Block 831 <=== 814	USER>>seq2421	   71   [+2+] rfam
+* Block 832 <=== 812	USER>>seq2567	   71   [+0+] rfam
+* Block 833 <=== 815	USER>>seq2401	   70   [+0+] rfam
+* Block 834 <=== 810	USER>>seq2376	   81   [+7+] rfam
+* Block 835 <=== 811	USER>>seq2557	   81   [+77+] rfam
+* Block 836 <=== 813	USER>>seq2677	   81   [+0+] rfam
+* Block 837 <=== 809	USER>>seq2735	   86   [+1+] rfam
+* Block 838 <=== 828	USER>>seq2450	   68   [+0+] rfam
+* Block 839 <=== 822	USER>>seq2304	   69   [+0+] rfam
+* Block 840 <=== 848	USER>>seq1683	   88   [+0+] rfam
+* Block 841 <=== 821	USER>>seq2420	   72   [+0+] rfam
+* Block 842 <=== 777	USER>>seq2559	   74   [+0+] rfam
+* Block 843 <=== 801	USER>>seq2342	   79   [+1+] rfam
+* Block 844 <=== 776	USER>>seq2630	   77   [+0+] rfam
+* Block 845 <=== 817	USER>>seq2436	   72   [+0+] rfam
+* Block 846 <=== 819	USER>>seq2435	   70   [+0+] rfam
+* Block 847 <=== 845	USER>>seq2763	   83   [+5+] rfam
+* Block 848 <=== 843	USER>>seq2885	   78   [+0+] rfam
+* Block 849 <=== 846	USER>>seq2856	   81   [+5+] rfam
+* Block 850 <=== 847	USER>>seq2493	   84   [+1+] rfam
+* Block 851 <=== 844	USER>>seq2596	   87   [+0+] rfam
+* Block 852 <=== 842	USER>>seq2460	   74   [+0+] rfam
+* Block 853 <=== 839	USER>>seq2794	   88   [+7+] rfam
+* Block 854 <=== 841	USER>>seq2726	   84   [+0+] rfam
+* Block 855 <=== 838	USER>>seq2329	   84   [+0+] rfam
+* Block 856 <=== 840	USER>>seq2438	   88   [+0+] rfam
+* Block 857 <=== 804	USER>>seq2402	   73   [+0+] rfam
+* Block 858 <=== 820	USER>>seq1709	   74   [+0+] rfam
+* Block 859 <=== 805	USER>>seq2357	   70   [+0+] rfam
+* Block 860 <=== 802	USER>>seq3065	   81   [+0+] rfam
+* Block 861 <=== 800	USER>>seq2839	   78   [+2+] rfam
+* Block 862 <=== 799	USER>>seq2554	   76   [+0+] rfam
+* Block 863 <=== 808	USER>>seq2780	   73   [+1+] rfam
+* Block 864 <=== 796	USER>>seq2737	   73   [+1+] rfam
+* Block 865 <=== 797	USER>>seq2525	   86   [+0+] rfam
+* Block 866 <=== 795	USER>>seq2464	   79   [+0+] rfam
+* Block 867 <=== 783	USER>>seq2587	   70   [+0+] rfam
+* Block 868 <=== 785	USER>>seq2744	   80   [+3+] rfam
+* Block 869 <=== 786	USER>>seq2536	   81   [+0+] rfam
+* Block 870 <=== 787	USER>>seq2648	   80   [+0+] rfam
+* Block 871 <=== 784	USER>>seq2363	   78   [+0+] rfam
+* Block 872 <=== 788	USER>>seq2685	   80   [+43+] rfam
+* Block 873 <=== 782	USER>>seq2441	   85   [+0+] rfam
+* Block 874 <=== 789	USER>>seq2538	   83   [+0+] rfam
+* Block 875 <=== 781	USER>>seq2571	   83   [+5+] rfam
+* Block 876 <=== 791	USER>>seq2239	   88   [+0+] rfam
+* Block 877 <=== 793	USER>>seq2513	   84   [+0+] rfam
+* Block 878 <=== 790	USER>>seq2466	   88   [+0+] rfam
+* Block 879 <=== 792	USER>>seq2581	   84   [+0+] rfam
+* Block 880 <=== 919	USER>>seq2506	   68   [+1+] rfam
+* Block 881 <=== 922	USER>>seq2752	   68   [+0+] rfam
+* Block 882 <=== 932	USER>>seq2161	   68   [+0+] rfam
+* Block 883 <=== 920	USER>>seq2867	   68   [+0+] rfam
+* Block 884 <=== 934	USER>>seq2301	   68   [+0+] rfam
+* Block 885 <=== 933	USER>>seq2443	   72   [+0+] rfam
+* Block 886 <=== 935	USER>>seq2229	   70   [+0+] rfam
+* Block 887 <=== 936	USER>>seq3267	   69   [+4+] rfam
+* Block 888 <=== 931	USER>>seq1902	   70   [+0+] rfam
+* Block 889 <=== 921	USER>>seq2727	   67   [+0+] rfam
+* Block 890 <=== 930	USER>>seq2207	   68   [+3+] rfam
+* Block 891 <=== 929	USER>>seq2185	   68   [+0+] rfam
+* Block 892 <=== 916	USER>>seq1854	   68   [+1+] rfam
+* Block 893 <=== 917	USER>>seq2537	   68   [+1+] rfam
+* Block 894 <=== 918	USER>>seq2753	   71   [+0+] rfam
+* Block 895 <=== 910	USER>>seq2311	   72   [+0+] rfam
+* Block 896 <=== 904	USER>>seq2585	   70   [+0+] rfam
+* Block 897 <=== 927	USER>>seq1901	   70   [+0+] rfam
+* Block 898 <=== 881	USER>>seq2527	   72   [+0+] rfam
+* Block 899 <=== 906	USER>>seq2539	   67   [+0+] rfam
+* Block 900 <=== 923	USER>>seq3327	   69   [+0+] rfam
+* Block 901 <=== 928	USER>>seq2433	   67   [+14+] rfam
+* Block 902 <=== 905	USER>>seq2399	   70   [+0+] rfam
+* Block 903 <=== 938	USER>>seq2178	   70   [+0+] rfam
+* Block 904 <=== 940	USER>>seq2837	   70   [+0+] rfam
+* Block 905 <=== 937	USER>>seq3139	   72   [+0+] rfam
+* Block 906 <=== 939	USER>>seq1852	   70   [+0+] rfam
+* Block 907 <=== 912	USER>>seq2469	   70   [+0+] rfam
+* Block 908 <=== 924	USER>>seq1877	   69   [+1+] rfam
+* Block 909 <=== 925	USER>>seq2214	   69   [+0+] rfam
+* Block 910 <=== 915	USER>>seq2302	   70   [+1+] rfam
+* Block 911 <=== 886	USER>>seq2164	   70   [+1+] rfam
+* Block 912 <=== 911	USER>>seq2352	   68   [+0+] rfam
+* Block 913 <=== 903	USER>>seq2514	   72   [+0+] rfam
+* Block 914 <=== 909	USER>>seq2470	   70   [+0+] rfam
+* Block 915 <=== 902	USER>>seq2990	   71   [+0+] rfam
+* Block 916 <=== 908	USER>>seq2451	   70   [+0+] rfam
+* Block 917 <=== 941	USER>>seq2665	   70   [+2+] rfam
+* Block 918 <=== 926	USER>>seq2580	   72   [+1+] rfam
+* Block 919 <=== 873	USER>>seq2442	   71   [+0+] rfam
+* Block 920 <=== 807	USER>>seq2333	   73   [+0+] rfam
+* Block 921 <=== 907	USER>>seq2518	   69   [+2+] rfam
+* Block 922 <=== 913	USER>>seq2306	   70   [+0+] rfam
+* Block 923 <=== 878	USER>>seq2528	   69   [+11+] rfam
+* Block 924 <=== 880	USER>>seq3058	   69   [+0+] rfam
+* Block 925 <=== 897	USER>>seq2405	   72   [+0+] rfam
+* Block 926 <=== 879	USER>>seq2565	   72   [+0+] rfam
+* Block 927 <=== 882	USER>>seq2610	   72   [+2+] rfam
+* Block 928 <=== 874	USER>>seq2456	   68   [+0+] rfam
+* Block 929 <=== 883	USER>>seq2843	   68   [+0+] rfam
+* Block 930 <=== 832	USER>>seq2422	   73   [+0+] rfam
+* Block 931 <=== 833	USER>>seq2477	   84   [+0+] rfam
+* Block 932 <=== 834	USER>>seq2725	   78   [+0+] rfam
+* Block 933 <=== 829	USER>>seq2507	   80   [+0+] rfam
+* Block 934 <=== 835	USER>>seq1723	   75   [+1+] rfam
+* Block 935 <=== 849	USER>>seq1908	   70   [+1+] rfam
+* Block 936 <--- 837	USER>>seq1965	   78   [+0+] rfam
+* Block 937 <=== 850	USER>>seq2776	   73   [+1+] rfam
+* Block 938 <=== 851	USER>>seq2391	   73   [+0+] rfam
+* Block 939 <--- 852	USER>>seq2631	   72   [+2+] rfam
+* Block 940 <--- 884	USER>>seq2180	   70   [+0+] rfam
+* Block 941 <--- 896	USER>>seq1746	   86   [+27+] rfam
+* Block 942 <=== 972	USER>>seq2516	   75   [+0+] rfam
+* Block 943 <=== 976	USER>>seq2747	   71   [+0+] rfam
+* Block 944 <=== 975	USER>>seq2910	   75   [+0+] rfam
+* Block 945 <=== 973	USER>>seq2670	   72   [+1+] rfam
+* Block 946 <=== 991	USER>>seq2296	   72   [+0+] rfam
+* Block 947 <=== 987	USER>>seq2209	   71   [+1+] rfam
+* Block 948 <=== 974	USER>>seq2649	   72   [+0+] rfam
+* Block 949 <=== 988	USER>>seq2437	   71   [+0+] rfam
+* Block 950 <=== 957	USER>>seq2905	   74   [+0+] rfam
+* Block 951 <=== 985	USER>>seq2411	   74   [+0+] rfam
+* Block 952 <=== 989	USER>>seq2211	   73   [+0+] rfam
+* Block 953 <=== 963	USER>>seq2599	   74   [+0+] rfam
+* Block 954 <=== 958	USER>>seq2961	   70   [+2+] rfam
+* Block 955 <=== 990	USER>>seq2339	   70   [+0+] rfam
+* Block 956 <=== 964	USER>>seq3114	   74   [+1+] rfam
+* Block 957 <=== 959	USER>>seq2831	   70   [+0+] rfam
+* Block 958 <=== 962	USER>>seq3131	   73   [+0+] rfam
+* Block 959 <=== 960	USER>>seq2678	   74   [+0+] rfam
+* Block 960 <=== 961	USER>>seq2680	   73   [+0+] rfam
+* Block 961 <=== 956	USER>>seq3181	   74   [+3+] rfam
+* Block 962 <=== 984	USER>>seq2503	   71   [+0+] rfam
+* Block 963 <=== 955	USER>>seq2672	   75   [+0+] rfam
+* Block 964 <=== 986	USER>>seq2344	   73   [+0+] rfam
+* Block 965 <=== 968	USER>>seq2844	   72   [+0+] rfam
+* Block 966 <=== 983	USER>>seq2494	   69   [+0+] rfam
+* Block 967 <=== 992	USER>>seq1837	   76   [+0+] rfam
+* Block 968 <=== 978	USER>>seq3001	   70   [+0+] rfam
+* Block 969 <=== 977	USER>>seq2588	   75   [+0+] rfam
+* Block 970 <=== 954	USER>>seq3723	   72   [+1+] rfam
+* Block 971 <=== 945	USER>>seq2135	   74   [+0+] rfam
+* Block 972 <=== 943	USER>>seq3323	   70   [+2+] rfam
+* Block 973 <=== 969	USER>>seq3727	   72   [+0+] rfam
+* Block 974 <=== 944	USER>>seq3573	   71   [+1+] rfam
+* Block 975 <=== 965	USER>>seq3069	   72   [+0+] rfam
+* Block 976 <=== 952	USER>>seq2815	   71   [+59+] rfam
+* Block 977 <=== 949	USER>>seq2960	   75   [+0+] rfam
+* Block 978 <=== 946	USER>>seq3561	   75   [+3+] rfam
+* Block 979 <=== 948	USER>>seq3654	   71   [+2+] rfam
+* Block 980 <=== 950	USER>>seq3649	   74   [+1+] rfam
+* Block 981 <=== 953	USER>>seq3146	   71   [+1+] rfam
+* Block 982 <=== 947	USER>>seq3187	   71   [+0+] rfam
+* Block 983 <=== 951	USER>>seq3045	   71   [+0+] rfam
+* Block 984 <=== 979	USER>>seq2553	   75   [+0+] rfam
+* Block 985 <=== 980	USER>>seq2509	   72   [+0+] rfam
+* Block 986 <=== 982	USER>>seq2866	   71   [+1+] rfam
+* Block 987 <=== 981	USER>>seq2566	   70   [+0+] rfam
+* Block 988 <=== 967	USER>>seq2968	   71   [+0+] rfam
+* Block 989 <=== 966	USER>>seq2589	   74   [+0+] rfam
+* Block 990 <=== 971	USER>>seq1859	   71   [+0+] rfam
+* Block 991 <=== 970	USER>>seq3309	   71   [+0+] rfam
+* Block 992 <=== 1035	USER>>seq2449	   72   [+0+] rfam
+* Block 993 <=== 1040	USER>>seq3040	   71   [+0+] rfam
+* Block 994 <=== 993	USER>>seq2448	   69   [+0+] rfam
+* Block 995 <=== 1037	USER>>seq2928	   86   [+9+] rfam
+* Block 996 <=== 1034	USER>>seq2555	   86   [+0+] rfam
+* Block 997 <=== 1048	USER>>seq2899	   70   [+0+] rfam
+* Block 998 <=== 1047	USER>>seq2878	   69   [+0+] rfam
+* Block 999 <=== 1032	USER>>seq2955	   88   [+0+] rfam
+* Block 1000 <=== 1030	USER>>seq2863	   87   [+0+] rfam
+* Block 1001 <=== 1033	USER>>seq2957	   88   [+0+] rfam
+* Block 1002 <=== 1031	USER>>seq2408	   82   [+1+] rfam
+* Block 1003 <=== 997	USER>>seq3093	   71   [+0+] rfam
+* Block 1004 <=== 1069	USER>>seq4295	   71   [+4+] rfam
+* Block 1005 <=== 999	USER>>seq3002	   69   [+0+] rfam
+* Block 1006 <=== 995	USER>>seq3046	   69   [+0+] rfam
+* Block 1007 <=== 1029	USER>>seq3992	   83   [+0+] rfam
+* Block 1008 <=== 1028	USER>>seq4045	   88   [+0+] rfam
+* Block 1009 <=== 998	USER>>seq2901	   71   [+0+] rfam
+* Block 1010 <=== 1000	USER>>seq3496	   71   [+0+] rfam
+* Block 1011 <=== 994	USER>>seq1910	   68   [+3+] rfam
+* Block 1012 <=== 1001	USER>>seq3468	   72   [+0+] rfam
+* Block 1013 <=== 1027	USER>>seq4485	   72   [+0+] rfam
+* Block 1014 <=== 996	USER>>seq3012	   77   [+0+] rfam
+* Block 1015 <=== 1002	USER>>seq3117	   83   [+0+] rfam
+* Block 1016 <=== 1003	USER>>seq2912	   78   [+0+] rfam
+* Block 1017 <=== 1012	USER>>seq3614	   83   [+0+] rfam
+* Block 1018 <=== 1026	USER>>seq4087	   70   [+0+] rfam
+* Block 1019 <=== 1025	USER>>seq4480	   72   [+0+] rfam
+* Block 1020 <=== 1024	USER>>seq3338	   78   [+0+] rfam
+* Block 1021 <=== 1004	USER>>seq3803	   87   [+0+] rfam
+* Block 1022 <=== 1006	USER>>seq3817	   74   [+0+] rfam
+* Block 1023 <=== 1016	USER>>seq3954	   84   [+0+] rfam
+* Block 1024 <=== 1009	USER>>seq3798	   88   [+0+] rfam
+* Block 1025 <=== 1015	USER>>seq3023	   85   [+0+] rfam
+* Block 1026 <=== 1014	USER>>seq3526	   69   [+0+] rfam
+* Block 1027 <=== 1023	USER>>seq4191	   69   [+0+] rfam
+* Block 1028 <=== 1022	USER>>seq4259	   69   [+0+] rfam
+* Block 1029 <=== 1020	USER>>seq4139	   67   [+1+] rfam
+* Block 1030 <=== 1005	USER>>seq3280	   74   [+1+] rfam
+* Block 1031 <=== 1013	USER>>seq3186	   72   [+0+] rfam
+* Block 1032 <=== 1019	USER>>seq4108	   72   [+1+] rfam
+* Block 1033 <=== 1021	USER>>seq3657	   72   [+1+] rfam
+* Block 1034 <=== 1018	USER>>seq4313	   69   [+0+] rfam
+* Block 1035 <=== 1008	USER>>seq3813	   68   [+1+] rfam
+* Block 1036 <=== 1017	USER>>seq4043	   70   [+2+] rfam
+* Block 1037 <=== 1007	USER>>seq3643	   76   [+0+] rfam
+* Block 1038 <=== 1010	USER>>seq3608	   85   [+4+] rfam
+* Block 1039 <=== 1011	USER>>seq4002	   84   [+1+] rfam
+* Block 1040 <--- 1036	USER>>seq2510	   86   [+0+] rfam
+* Block 1041 <--- 1038	USER>>seq3033	   72   [+0+] rfam
+* Block 1042 <=== 1049	USER>>seq3339	   72   [+0+] rfam
+* Block 1043 <=== 1068	USER>>seq3381	   71   [+0+] rfam
+* Block 1044 <=== 1071	USER>>seq3545	   72   [+0+] rfam
+* Block 1045 <=== 1078	USER>>seq3260	   72   [+0+] rfam
+* Block 1046 <=== 1076	USER>>seq2738	   68   [+0+] rfam
+* Block 1047 <=== 1079	USER>>seq3003	   72   [+0+] rfam
+* Block 1048 <=== 1077	USER>>seq3014	   70   [+2+] rfam
+* Block 1049 <=== 1075	USER>>seq4198	   67   [+0+] rfam
+* Block 1050 <=== 1074	USER>>seq3711	   71   [+0+] rfam
+* Block 1051 <=== 1072	USER>>seq2979	   75   [+1+] rfam
+* Block 1052 <=== 1073	USER>>seq3345	   68   [+0+] rfam
+* Block 1053 <=== 1070	USER>>seq2916	   72   [+0+] rfam
+* Block 1054 <=== 1066	USER>>seq3634	   69   [+1+] rfam
+* Block 1055 <=== 1064	USER>>seq3462	   72   [+0+] rfam
+* Block 1056 <=== 1169	USER>>seq3035	   71   [+0+] rfam
+* Block 1057 <=== 1166	USER>>seq3486	   69   [+0+] rfam
+* Block 1058 <=== 1159	USER>>seq3484	   72   [+0+] rfam
+* Block 1059 <=== 1167	USER>>seq3648	   73   [+0+] rfam
+* Block 1060 <=== 1168	USER>>seq3722	   68   [+0+] rfam
+* Block 1061 <=== 1061	USER>>seq3456	   71   [+0+] rfam
+* Block 1062 <=== 1255	USER>>seq3983	   70   [+0+] rfam
+* Block 1063 <=== 1244	USER>>seq4143	   68   [+0+] rfam
+* Block 1064 <=== 1256	USER>>seq4039	   68   [+0+] rfam
+* Block 1065 <=== 1231	USER>>seq4079	   68   [+3+] rfam
+* Block 1066 <=== 1245	USER>>seq4093	   71   [+0+] rfam
+* Block 1067 <=== 1062	USER>>seq3626	   71   [+0+] rfam
+* Block 1068 <=== 1057	USER>>seq3498	   71   [+0+] rfam
+* Block 1069 <=== 1063	USER>>seq3633	   72   [+0+] rfam
+* Block 1070 <=== 1157	USER>>seq3538	   72   [+0+] rfam
+* Block 1071 <=== 1158	USER>>seq3549	   67   [+0+] rfam
+* Block 1072 <=== 1058	USER>>seq3532	   70   [+0+] rfam
+* Block 1073 <=== 1056	USER>>seq3164	   68   [+0+] rfam
+* Block 1074 <=== 1055	USER>>seq2941	   72   [+0+] rfam
+* Block 1075 <=== 1054	USER>>seq2939	   67   [+0+] rfam
+* Block 1076 <=== 1039	USER>>seq2874	   80   [+1+] rfam
+* Block 1077 <=== 1067	USER>>seq3541	   67   [+0+] rfam
+* Block 1078 <=== 1065	USER>>seq3662	   69   [+0+] rfam
+* Block 1079 <=== 1215	USER>>seq3051	   68   [+0+] rfam
+* Block 1080 <=== 1052	USER>>seq3034	   70   [+0+] rfam
+* Block 1081 <=== 1043	USER>>seq3008	   70   [+1+] rfam
+* Block 1082 <=== 1051	USER>>seq3007	   70   [+0+] rfam
+* Block 1083 <=== 1045	USER>>seq3049	   68   [+0+] rfam
+* Block 1084 <=== 1050	USER>>seq3060	   76   [+0+] rfam
+* Block 1085 <=== 1053	USER>>seq3027	   78   [+0+] rfam
+* Block 1086 <=== 1232	USER>>seq3521	   72   [+1+] rfam
+* Block 1087 <=== 1046	USER>>seq2666	   68   [+0+] rfam
+* Block 1088 <=== 1044	USER>>seq2576	   68   [+0+] rfam
+* Block 1089 <=== 1041	USER>>seq3572	   72   [+0+] rfam
+* Block 1090 <=== 1042	USER>>seq2998	   77   [+1+] rfam
+* Block 1091 <=== 1261	USER>>seq3807	   71   [+0+] rfam
+* Block 1092 <=== 1163	USER>>seq3150	   69   [+0+] rfam
+* Block 1093 <=== 1154	USER>>seq3576	   69   [+0+] rfam
+* Block 1094 <=== 1162	USER>>seq3277	   70   [+0+] rfam
+* Block 1095 <=== 1161	USER>>seq3086	   71   [+0+] rfam
+* Block 1096 <=== 1160	USER>>seq3796	   72   [+0+] rfam
+* Block 1097 <=== 1059	USER>>seq3511	   68   [+0+] rfam
+* Block 1098 <=== 1060	USER>>seq3620	   68   [+0+] rfam
+* Block 1099 <=== 1235	USER>>seq4151	   72   [+0+] rfam
+* Block 1100 <=== 1228	USER>>seq3968	   67   [+1+] rfam
+* Block 1101 <=== 1227	USER>>seq3753	   68   [+0+] rfam
+* Block 1102 <=== 1147	USER>>seq3294	   69   [+12+] rfam
+* Block 1103 <=== 1146	USER>>seq3351	   71   [+1+] rfam
+* Block 1104 <=== 1128	USER>>seq3558	   69   [+5+] rfam
+* Block 1105 <=== 1152	USER>>seq3704	   68   [+0+] rfam
+* Block 1106 <=== 1129	USER>>seq3184	   68   [+20+] rfam
+* Block 1107 <=== 1229	USER>>seq4119	   68   [+1+] rfam
+* Block 1108 <=== 1153	USER>>seq3336	   72   [+0+] rfam
+* Block 1109 <=== 1133	USER>>seq3261	   69   [+3+] rfam
+* Block 1110 <=== 1134	USER>>seq3317	   67   [+0+] rfam
+* Block 1111 <=== 1135	USER>>seq3801	   71   [+0+] rfam
+* Block 1112 <=== 1148	USER>>seq3207	   73   [+0+] rfam
+* Block 1113 <=== 1145	USER>>seq3340	   70   [+1+] rfam
+* Block 1114 <=== 1223	USER>>seq3816	   71   [+0+] rfam
+* Block 1115 <=== 1140	USER>>seq3031	   71   [+0+] rfam
+* Block 1116 <=== 1142	USER>>seq3109	   69   [+14+] rfam
+* Block 1117 <=== 1139	USER>>seq3094	   67   [+0+] rfam
+* Block 1118 <=== 1143	USER>>seq3078	   69   [+1+] rfam
+* Block 1119 <=== 1141	USER>>seq3278	   67   [+0+] rfam
+* Block 1120 <=== 1144	USER>>seq3678	   71   [+0+] rfam
+* Block 1121 <=== 1137	USER>>seq3651	   69   [+0+] rfam
+* Block 1122 <=== 1136	USER>>seq3364	   72   [+0+] rfam
+* Block 1123 <=== 1132	USER>>seq3178	   69   [+2+] rfam
+* Block 1124 <=== 1131	USER>>seq3337	   68   [+1+] rfam
+* Block 1125 <=== 1130	USER>>seq3147	   72   [+1+] rfam
+* Block 1126 <=== 1230	USER>>seq4125	   67   [+0+] rfam
+* Block 1127 <=== 1151	USER>>seq3836	   69   [+0+] rfam
+* Block 1128 <=== 1156	USER>>seq3409	   73   [+0+] rfam
+* Block 1129 <=== 1155	USER>>seq3293	   73   [+0+] rfam
+* Block 1130 <=== 1224	USER>>seq4046	   71   [+0+] rfam
+* Block 1131 <=== 1225	USER>>seq3668	   69   [+0+] rfam
+* Block 1132 <=== 1226	USER>>seq3775	   69   [+0+] rfam
+* Block 1133 <=== 1149	USER>>seq3524	   70   [+0+] rfam
+* Block 1134 <=== 1150	USER>>seq3461	   69   [+0+] rfam
+* Block 1135 <=== 1123	USER>>seq3650	   71   [+0+] rfam
+* Block 1136 <=== 1125	USER>>seq3189	   69   [+0+] rfam
+* Block 1137 <=== 1122	USER>>seq3167	   71   [+0+] rfam
+* Block 1138 <=== 1124	USER>>seq3265	   71   [+1+] rfam
+* Block 1139 <=== 1126	USER>>seq3485	   69   [+0+] rfam
+* Block 1140 <=== 1127	USER>>seq3137	   72   [+2+] rfam
+* Block 1141 <=== 1138	USER>>seq3091	   70   [+0+] rfam
+* Block 1142 <=== 1120	USER>>seq3100	   88   [+0+] rfam
+* Block 1143 <=== 1118	USER>>seq3130	   79   [+0+] rfam
+* Block 1144 <=== 1121	USER>>seq2964	   81   [+0+] rfam
+* Block 1145 <=== 1119	USER>>seq3082	   78   [+1+] rfam
+* Block 1146 <=== 1187	USER>>seq3516	   70   [+0+] rfam
+* Block 1147 <=== 1080	USER>>seq2674	   75   [+13+] rfam
+* Block 1148 <=== 1081	USER>>seq3898	   85   [+0+] rfam
+* Block 1149 <=== 1115	USER>>seq3264	   85   [+0+] rfam
+* Block 1150 <=== 1083	USER>>seq3020	   75   [+1+] rfam
+* Block 1151 <=== 1085	USER>>seq3275	   87   [+0+] rfam
+* Block 1152 <=== 1087	USER>>seq3153	   88   [+1+] rfam
+* Block 1153 <=== 1084	USER>>seq4123	   88   [+0+] rfam
+* Block 1154 <=== 1086	USER>>seq2872	   84   [+0+] rfam
+* Block 1155 <=== 1088	USER>>seq4284	   78   [+0+] rfam
+* Block 1156 <=== 1089	USER>>seq3047	   87   [+0+] rfam
+* Block 1157 <=== 1103	USER>>seq3274	   77   [+2+] rfam
+* Block 1158 <=== 1104	USER>>seq2887	   72   [+0+] rfam
+* Block 1159 <=== 1105	USER>>seq2967	   85   [+1+] rfam
+* Block 1160 <=== 1102	USER>>seq3096	   75   [+0+] rfam
+* Block 1161 <=== 1099	USER>>seq2943	   81   [+0+] rfam
+* Block 1162 <=== 1082	USER>>seq2900	   82   [+0+] rfam
+* Block 1163 <=== 1100	USER>>seq3044	   77   [+0+] rfam
+* Block 1164 <=== 1101	USER>>seq3000	   78   [+0+] rfam
+* Block 1165 <=== 1098	USER>>seq2934	   77   [+1+] rfam
+* Block 1166 <=== 1097	USER>>seq3067	   75   [+9+] rfam
+* Block 1167 <=== 1092	USER>>seq3097	   84   [+0+] rfam
+* Block 1168 <=== 1096	USER>>seq3168	   78   [+0+] rfam
+* Block 1169 <=== 1095	USER>>seq3042	   80   [+0+] rfam
+* Block 1170 <=== 1091	USER>>seq3013	   77   [+3+] rfam
+* Block 1171 <=== 1093	USER>>seq2992	   80   [+0+] rfam
+* Block 1172 <=== 1094	USER>>seq3148	   73   [+0+] rfam
+* Block 1173 <=== 1106	USER>>seq3077	   75   [+1+] rfam
+* Block 1174 <=== 1090	USER>>seq2999	   88   [+0+] rfam
+* Block 1175 <=== 1117	USER>>seq3080	   84   [+0+] rfam
+* Block 1176 <=== 1116	USER>>seq3015	   86   [+0+] rfam
+* Block 1177 <=== 1114	USER>>seq3021	   88   [+2+] rfam
+* Block 1178 <=== 1113	USER>>seq3170	   84   [+0+] rfam
+* Block 1179 <=== 1109	USER>>seq2922	   82   [+0+] rfam
+* Block 1180 <=== 1107	USER>>seq2936	   83   [+0+] rfam
+* Block 1181 <=== 1112	USER>>seq2913	   79   [+0+] rfam
+* Block 1182 <=== 1111	USER>>seq3092	   86   [+0+] rfam
+* Block 1183 <=== 1108	USER>>seq3118	   86   [+0+] rfam
+* Block 1184 <=== 1110	USER>>seq3085	   86   [+0+] rfam
+* Block 1185 <--- 1164	USER>>seq3255	   69   [+0+] rfam
+* Block 1186 <=== 1222	USER>>seq3387	   73   [+0+] rfam
+* Block 1187 <=== 1271	USER>>seq3568	   72   [+0+] rfam
+* Block 1188 <=== 1213	USER>>seq3063	   83   [+0+] rfam
+* Block 1189 <=== 1186	USER>>seq3508	   71   [+0+] rfam
+* Block 1190 <=== 1188	USER>>seq3098	   73   [+0+] rfam
+* Block 1191 <=== 1214	USER>>seq3084	   74   [+0+] rfam
+* Block 1192 <=== 1260	USER>>seq3815	   72   [+0+] rfam
+* Block 1193 <=== 1195	USER>>seq3505	   76   [+0+] rfam
+* Block 1194 <=== 1258	USER>>seq3899	   69   [+0+] rfam
+* Block 1195 <=== 1192	USER>>seq3669	   72   [+0+] rfam
+* Block 1196 <=== 1211	USER>>seq3161	   74   [+0+] rfam
+* Block 1197 <=== 1270	USER>>seq3771	   68   [+0+] rfam
+* Block 1198 <=== 1194	USER>>seq3197	   75   [+57+] rfam
+* Block 1199 <=== 1196	USER>>seq3017	   73   [+2+] rfam
+* Block 1200 <=== 1209	USER>>seq3188	   70   [+0+] rfam
+* Block 1201 <=== 1241	USER>>seq3476	   68   [+1+] rfam
+* Block 1202 <=== 1189	USER>>seq3290	   82   [+3+] rfam
+* Block 1203 <=== 1190	USER>>seq3481	   76   [+0+] rfam
+* Block 1204 <=== 1191	USER>>seq3272	   70   [+0+] rfam
+* Block 1205 <=== 1193	USER>>seq3301	   70   [+0+] rfam
+* Block 1206 <=== 1199	USER>>seq3459	   70   [+0+] rfam
+* Block 1207 <=== 1198	USER>>seq3175	   76   [+0+] rfam
+* Block 1208 <=== 1197	USER>>seq3548	   71   [+0+] rfam
+* Block 1209 <=== 1233	USER>>seq4073	   68   [+1+] rfam
+* Block 1210 <=== 1238	USER>>seq4197	   72   [+0+] rfam
+* Block 1211 <=== 1234	USER>>seq4146	   73   [+0+] rfam
+* Block 1212 <=== 1237	USER>>seq3980	   72   [+0+] rfam
+* Block 1213 <=== 1239	USER>>seq3784	   69   [+0+] rfam
+* Block 1214 <=== 1262	USER>>seq3143	   72   [+0+] rfam
+* Block 1215 <=== 1208	USER>>seq3366	   74   [+1+] rfam
+* Block 1216 <=== 1165	USER>>seq3499	   68   [+0+] rfam
+* Block 1217 <=== 1254	USER>>seq3896	   72   [+0+] rfam
+* Block 1218 <=== 1253	USER>>seq3559	   72   [+0+] rfam
+* Block 1219 <=== 1247	USER>>seq3705	   67   [+0+] rfam
+* Block 1220 <=== 1207	USER>>seq3365	   74   [+0+] rfam
+* Block 1221 <=== 1246	USER>>seq3833	   69   [+0+] rfam
+* Block 1222 <=== 1210	USER>>seq3263	   70   [+0+] rfam
+* Block 1223 <=== 1250	USER>>seq3761	   75   [+0+] rfam
+* Block 1224 <=== 1249	USER>>seq3901	   73   [+2+] rfam
+* Block 1225 <=== 1202	USER>>seq3286	   75   [+1+] rfam
+* Block 1226 <=== 1204	USER>>seq3424	   74   [+2+] rfam
+* Block 1227 <=== 1206	USER>>seq3335	   70   [+0+] rfam
+* Block 1228 <=== 1205	USER>>seq3458	   73   [+0+] rfam
+* Block 1229 <=== 1200	USER>>seq3480	   72   [+0+] rfam
+* Block 1230 <=== 1248	USER>>seq3995	   71   [+0+] rfam
+* Block 1231 <=== 1203	USER>>seq3502	   75   [+0+] rfam
+* Block 1232 <=== 1201	USER>>seq3396	   69   [+3+] rfam
+* Block 1233 <=== 1236	USER>>seq3592	   72   [+0+] rfam
+* Block 1234 <=== 1240	USER>>seq3642	   68   [+0+] rfam
+* Block 1235 <=== 1242	USER>>seq3674	   67   [+1+] rfam
+* Block 1236 <=== 1170	USER>>seq3492	   72   [+0+] rfam
+* Block 1237 <=== 1259	USER>>seq3357	   68   [+0+] rfam
+* Block 1238 <=== 1179	USER>>seq4124	   88   [+0+] rfam
+* Block 1239 <=== 1181	USER>>seq4155	   88   [+0+] rfam
+* Block 1240 <=== 1178	USER>>seq4131	   81   [+0+] rfam
+* Block 1241 <=== 1176	USER>>seq4279	   81   [+0+] rfam
+* Block 1242 <=== 1177	USER>>seq4150	   83   [+0+] rfam
+* Block 1243 <=== 1175	USER>>seq4164	   75   [+0+] rfam
+* Block 1244 <=== 1171	USER>>seq2892	   86   [+0+] rfam
+* Block 1245 <=== 1184	USER>>seq3395	   81   [+1+] rfam
+* Block 1246 <=== 1182	USER>>seq3324	   80   [+0+] rfam
+* Block 1247 <=== 1185	USER>>seq3166	   81   [+0+] rfam
+* Block 1248 <=== 1180	USER>>seq4035	   82   [+0+] rfam
+* Block 1249 <=== 1174	USER>>seq3190	   74   [+0+] rfam
+* Block 1250 <=== 1173	USER>>seq3134	   81   [+1+] rfam
+* Block 1251 <--- 1172	USER>>seq2906	   75   [+0+] rfam
+* Block 1252 <--- 1183	USER>>seq3099	   87   [+0+] rfam
+* Block 1253 <=== 1212	USER>>seq3353	   82   [+0+] rfam
+* Block 1254 <=== 1332	USER>>seq3536	   73   [+0+] rfam
+* Block 1255 <=== 1321	USER>>seq3870	   71   [+0+] rfam
+* Block 1256 <=== 1221	USER>>seq3360	   78   [+0+] rfam
+* Block 1257 <=== 1307	USER>>seq3967	   76   [+0+] rfam
+* Block 1258 <=== 1347	USER>>seq3285	   74   [+0+] rfam
+* Block 1259 <=== 1348	USER>>seq3333	   84   [+0+] rfam
+* Block 1260 <=== 1349	USER>>seq3751	   79   [+0+] rfam
+* Block 1261 <=== 1328	USER>>seq3120	   73   [+0+] rfam
+* Block 1262 <=== 1314	USER>>seq3971	   82   [+0+] rfam
+* Block 1263 <=== 1322	USER>>seq4074	   86   [+1+] rfam
+* Block 1264 <=== 1313	USER>>seq4011	   86   [+0+] rfam
+* Block 1265 <=== 1329	USER>>seq3394	   72   [+0+] rfam
+* Block 1266 <=== 1299	USER>>seq3562	   84   [+1+] rfam
+* Block 1267 <=== 1301	USER>>seq3820	   83   [+0+] rfam
+* Block 1268 <=== 1295	USER>>seq3159	   78   [+0+] rfam
+* Block 1269 <=== 1297	USER>>seq3095	   75   [+0+] rfam
+* Block 1270 <=== 1294	USER>>seq3785	   87   [+0+] rfam
+* Block 1271 <=== 1296	USER>>seq3569	   80   [+0+] rfam
+* Block 1272 <=== 1302	USER>>seq3115	   77   [+0+] rfam
+* Block 1273 <=== 1273	USER>>seq3090	   88   [+0+] rfam
+* Block 1274 <=== 1306	USER>>seq4165	   82   [+1+] rfam
+* Block 1275 <=== 1300	USER>>seq3205	   80   [+2+] rfam
+* Block 1276 <=== 1330	USER>>seq3367	   80   [+0+] rfam
+* Block 1277 <=== 1304	USER>>seq3810	   81   [+0+] rfam
+* Block 1278 <=== 1278	USER>>seq3489	   80   [+4+] rfam
+* Block 1279 <=== 1303	USER>>seq2942	   88   [+1+] rfam
+* Block 1280 <=== 1289	USER>>seq3006	   88   [+0+] rfam
+* Block 1281 <=== 1291	USER>>seq3358	   84   [+0+] rfam
+* Block 1282 <=== 1287	USER>>seq3341	   86   [+0+] rfam
+* Block 1283 <=== 1292	USER>>seq3356	   75   [+0+] rfam
+* Block 1284 <=== 1288	USER>>seq3671	   86   [+0+] rfam
+* Block 1285 <=== 1284	USER>>seq3531	   87   [+0+] rfam
+* Block 1286 <=== 1281	USER>>seq3583	   86   [+0+] rfam
+* Block 1287 <=== 1283	USER>>seq3628	   84   [+1+] rfam
+* Block 1288 <=== 1290	USER>>seq3019	   84   [+0+] rfam
+* Block 1289 <=== 1285	USER>>seq3305	   84   [+0+] rfam
+* Block 1290 <=== 1280	USER>>seq3169	   78   [+0+] rfam
+* Block 1291 <=== 1286	USER>>seq3079	   80   [+0+] rfam
+* Block 1292 <=== 1282	USER>>seq3113	   80   [+2+] rfam
+* Block 1293 <=== 1293	USER>>seq3795	   80   [+0+] rfam
+* Block 1294 <=== 1279	USER>>seq3268	   81   [+0+] rfam
+* Block 1295 <=== 1331	USER>>seq3463	   80   [+0+] rfam
+* Block 1296 <=== 1298	USER>>seq3571	   87   [+0+] rfam
+* Block 1297 <=== 1305	USER>>seq3759	   82   [+0+] rfam
+* Block 1298 <=== 1310	USER>>seq3734	   75   [+0+] rfam
+* Block 1299 <=== 1308	USER>>seq3943	   83   [+0+] rfam
+* Block 1300 <=== 1312	USER>>seq3832	   81   [+0+] rfam
+* Block 1301 <=== 1309	USER>>seq3972	   87   [+0+] rfam
+* Block 1302 <=== 1311	USER>>seq4068	   76   [+0+] rfam
+* Block 1303 <=== 1397	USER>>seq3607	   71   [+0+] rfam
+* Block 1304 <=== 1398	USER>>seq3594	   88   [+0+] rfam
+* Block 1305 <=== 1218	USER>>seq3385	   71   [+3+] rfam
+* Block 1306 <=== 1335	USER>>seq3028	   77   [+0+] rfam
+* Block 1307 <=== 1217	USER>>seq3307	   86   [+0+] rfam
+* Block 1308 <=== 1216	USER>>seq3767	   80   [+0+] rfam
+* Block 1309 <=== 1265	USER>>seq3863	   88   [+0+] rfam
+* Block 1310 <=== 1263	USER>>seq3659	   87   [+0+] rfam
+* Block 1311 <=== 1268	USER>>seq3158	   75   [+0+] rfam
+* Block 1312 <=== 1272	USER>>seq3138	   69   [+0+] rfam
+* Block 1313 <=== 1269	USER>>seq3119	   73   [+1+] rfam
+* Block 1314 <=== 1266	USER>>seq3964	   83   [+3+] rfam
+* Block 1315 <=== 1252	USER>>seq3563	   71   [+0+] rfam
+* Block 1316 <=== 1243	USER>>seq3469	   72   [+0+] rfam
+* Block 1317 <=== 1251	USER>>seq3282	   72   [+0+] rfam
+* Block 1318 <=== 1219	USER>>seq3811	   68   [+1+] rfam
+* Block 1319 <=== 1220	USER>>seq3969	   73   [+0+] rfam
+* Block 1320 <=== 1264	USER>>seq3800	   83   [+2+] rfam
+* Block 1321 <=== 1416	USER>>seq4005	   76   [+0+] rfam
+* Block 1322 <=== 1318	USER>>seq3757	   87   [+0+] rfam
+* Block 1323 <=== 1320	USER>>seq3756	   88   [+0+] rfam
+* Block 1324 <=== 1319	USER>>seq3749	   85   [+0+] rfam
+* Block 1325 <=== 1317	USER>>seq3786	   84   [+0+] rfam
+* Block 1326 <=== 1276	USER>>seq3355	   84   [+0+] rfam
+* Block 1327 <=== 1275	USER>>seq3504	   86   [+1+] rfam
+* Block 1328 <=== 1277	USER>>seq3283	   84   [+2+] rfam
+* Block 1329 <=== 1274	USER>>seq3471	   80   [+2+] rfam
+* Block 1330 <=== 1315	USER>>seq3755	   80   [+1+] rfam
+* Block 1331 <=== 1316	USER>>seq4179	   80   [+0+] rfam
+* Block 1332 <=== 1401	USER>>seq3809	   84   [+0+] rfam
+* Block 1333 <=== 1466	USER>>seq4227	   72   [+0+] rfam
+* Block 1334 <=== 1468	USER>>seq3806	   72   [+0+] rfam
+* Block 1335 <=== 1467	USER>>seq3951	   84   [+0+] rfam
+* Block 1336 <=== 1459	USER>>seq4418	   79   [+0+] rfam
+* Block 1337 <=== 1465	USER>>seq4268	   77   [+3+] rfam
+* Block 1338 <=== 1460	USER>>seq4580	   84   [+0+] rfam
+* Block 1339 <--- 1257	USER>>seq3472	   72   [+0+] rfam
+* Block 1340 <--- 1267	USER>>seq4183	   76   [+1+] rfam
+* Block 1341 <=== 1357	USER>>seq3629	   69   [+0+] rfam
+* Block 1342 <=== 1384	USER>>seq3623	   69   [+1+] rfam
+* Block 1343 <=== 1356	USER>>seq3955	   67   [+0+] rfam
+* Block 1344 <=== 1383	USER>>seq3714	   88   [+0+] rfam
+* Block 1345 <=== 1382	USER>>seq3717	   84   [+0+] rfam
+* Block 1346 <=== 1381	USER>>seq3665	   86   [+0+] rfam
+* Block 1347 <=== 1380	USER>>seq3560	   76   [+0+] rfam
+* Block 1348 <=== 1358	USER>>seq3554	   80   [+0+] rfam
+* Block 1349 <=== 1399	USER>>seq3593	   80   [+1+] rfam
+* Block 1350 <=== 1362	USER>>seq3523	   84   [+0+] rfam
+* Block 1351 <=== 1369	USER>>seq3710	   68   [+1+] rfam
+* Block 1352 <=== 1367	USER>>seq3655	   79   [+1+] rfam
+* Block 1353 <=== 1364	USER>>seq3695	   80   [+1+] rfam
+* Block 1354 <=== 1366	USER>>seq3622	   86   [+0+] rfam
+* Block 1355 <=== 1363	USER>>seq3488	   81   [+0+] rfam
+* Block 1356 <=== 1365	USER>>seq3529	   86   [+4+] rfam
+* Block 1357 <=== 1368	USER>>seq3720	   74   [+0+] rfam
+* Block 1358 <=== 1379	USER>>seq3262	   83   [+0+] rfam
+* Block 1359 <=== 1370	USER>>seq3721	   76   [+0+] rfam
+* Block 1360 <=== 1385	USER>>seq3725	   82   [+0+] rfam
+* Block 1361 <=== 1375	USER>>seq3539	   82   [+2+] rfam
+* Block 1362 <=== 1376	USER>>seq3555	   83   [+1+] rfam
+* Block 1363 <=== 1371	USER>>seq3325	   79   [+0+] rfam
+* Block 1364 <=== 1374	USER>>seq3386	   84   [+0+] rfam
+* Block 1365 <=== 1378	USER>>seq3482	   75   [+0+] rfam
+* Block 1366 <=== 1377	USER>>seq3790	   73   [+5+] rfam
+* Block 1367 <=== 1373	USER>>seq3861	   83   [+5+] rfam
+* Block 1368 <=== 1372	USER>>seq3495	   80   [+0+] rfam
+* Block 1369 <=== 1386	USER>>seq3577	   78   [+1+] rfam
+* Block 1370 <=== 1389	USER>>seq4061	   71   [+0+] rfam
+* Block 1371 <=== 1388	USER>>seq3527	   70   [+0+] rfam
+* Block 1372 <=== 1390	USER>>seq4044	   68   [+1+] rfam
+* Block 1373 <=== 1391	USER>>seq4015	   67   [+3+] rfam
+* Block 1374 <=== 1393	USER>>seq4010	   70   [+10+] rfam
+* Block 1375 <=== 1394	USER>>seq3672	   69   [+0+] rfam
+* Block 1376 <=== 1392	USER>>seq3551	   68   [+1+] rfam
+* Block 1377 <=== 1395	USER>>seq3570	   68   [+0+] rfam
+* Block 1378 <=== 1361	USER>>seq3750	   75   [+0+] rfam
+* Block 1379 <=== 1351	USER>>seq4022	   86   [+0+] rfam
+* Block 1380 <=== 1359	USER>>seq3479	   73   [+0+] rfam
+* Block 1381 <=== 1360	USER>>seq3965	   67   [+0+] rfam
+* Block 1382 <=== 1478	USER>>seq4398	   78   [+0+] rfam
+* Block 1383 <=== 1354	USER>>seq4083	   81   [+0+] rfam
+* Block 1384 <=== 1352	USER>>seq3938	   81   [+7+] rfam
+* Block 1385 <=== 1353	USER>>seq3712	   86   [+0+] rfam
+* Block 1386 <=== 1355	USER>>seq3637	   69   [+0+] rfam
+* Block 1387 <=== 1327	USER>>seq3842	   77   [+3+] rfam
+* Block 1388 <=== 1350	USER>>seq4145	   77   [+1+] rfam
+* Block 1389 <=== 1326	USER>>seq3510	   84   [+0+] rfam
+* Block 1390 <=== 1323	USER>>seq3039	   67   [+0+] rfam
+* Block 1391 <=== 1324	USER>>seq3352	   67   [+1+] rfam
+* Block 1392 <=== 1325	USER>>seq3530	   84   [+0+] rfam
+* Block 1393 <=== 1419	USER>>seq3944	   79   [+0+] rfam
+* Block 1394 <=== 1421	USER>>seq3342	   71   [+0+] rfam
+* Block 1395 <=== 1333	USER>>seq2947	   67   [+0+] rfam
+* Block 1396 <=== 1422	USER>>seq3446	   67   [+49+] rfam
+* Block 1397 <--- 1334	USER>>seq3140	   73   [+2+] rfam
+* Block 1398 <=== 1336	USER>>seq3030	   88   [+0+] rfam
+* Block 1399 <=== 1339	USER>>seq3229	   86   [+0+] rfam
+* Block 1400 <=== 1337	USER>>seq3162	   82   [+0+] rfam
+* Block 1401 <=== 1338	USER>>seq3050	   84   [+1+] rfam
+* Block 1402 <--- 1340	USER>>seq3043	   71   [+0+] rfam
+* Block 1403 <--- 1341	USER>>seq3061	   74   [+0+] rfam
+* Block 1404 <=== 1418	USER>>seq3306	   82   [+0+] rfam
+* Block 1405 <=== 1469	USER>>seq3331	   70   [+4+] rfam
+* Block 1406 <=== 1342	USER>>seq3048	   70   [+0+] rfam
+* Block 1407 <=== 1408	USER>>seq3507	   81   [+0+] rfam
+* Block 1408 <=== 1407	USER>>seq3658	   84   [+0+] rfam
+* Block 1409 <=== 1456	USER>>seq3612	   87   [+1+] rfam
+* Block 1410 <=== 1454	USER>>seq3322	   88   [+0+] rfam
+* Block 1411 <--- 1343	USER>>seq3054	   77   [+0+] rfam
+* Block 1412 <--- 1344	USER>>seq3141	   78   [+0+] rfam
+* Block 1413 <--- 1345	USER>>seq3142	   70   [+0+] rfam
+* Block 1414 <--- 1346	USER>>seq3152	   86   [+0+] rfam
+* Block 1415 <=== 1587	USER>>seq3991	   85   [+0+] rfam
+* Block 1416 <=== 1610	USER>>seq4472	   70   [+0+] rfam
+* Block 1417 <=== 1464	USER>>seq3970	   82   [+0+] rfam
+* Block 1418 <=== 1400	USER>>seq3663	   83   [+0+] rfam
+* Block 1419 <=== 1387	USER>>seq4086	   68   [+0+] rfam
+* Block 1420 <=== 1474	USER>>seq3347	   76   [+0+] rfam
+* Block 1421 <=== 1569	USER>>seq3666	   69   [+0+] rfam
+* Block 1422 <=== 1476	USER>>seq3715	   69   [+1+] rfam
+* Block 1423 <=== 1477	USER>>seq4397	   67   [+0+] rfam
+* Block 1424 <=== 1479	USER>>seq4458	   73   [+1+] rfam
+* Block 1425 <--- 1396	USER>>seq3827	   71   [+0+] rfam
+* Block 1426 <=== 1515	USER>>seq4589	   75   [+0+] rfam
+* Block 1427 <=== 1457	USER>>seq3647	   87   [+0+] rfam
+* Block 1428 <=== 1458	USER>>seq4141	   84   [+0+] rfam
+* Block 1429 <=== 1461	USER>>seq3862	   83   [+0+] rfam
+* Block 1430 <=== 1417	USER>>seq4436	   84   [+0+] rfam
+* Block 1431 <=== 1453	USER>>seq4438	   88   [+0+] rfam
+* Block 1432 <=== 1463	USER>>seq3731	   74   [+4+] rfam
+* Block 1433 <=== 1462	USER>>seq4220	   76   [+0+] rfam
+* Block 1434 <=== 1455	USER>>seq4057	   80   [+0+] rfam
+* Block 1435 <=== 1452	USER>>seq4158	   82   [+0+] rfam
+* Block 1436 <=== 1424	USER>>seq4510	   77   [+0+] rfam
+* Block 1437 <=== 1451	USER>>seq4282	   81   [+0+] rfam
+* Block 1438 <=== 1450	USER>>seq4551	   84   [+0+] rfam
+* Block 1439 <=== 1426	USER>>seq4133	   83   [+0+] rfam
+* Block 1440 <=== 1425	USER>>seq4507	   77   [+0+] rfam
+* Block 1441 <=== 1436	USER>>seq4382	   84   [+1+] rfam
+* Block 1442 <=== 1437	USER>>seq4306	   83   [+0+] rfam
+* Block 1443 <=== 1442	USER>>seq4403	   87   [+0+] rfam
+* Block 1444 <=== 1438	USER>>seq4390	   79   [+3+] rfam
+* Block 1445 <=== 1441	USER>>seq4358	   85   [+4+] rfam
+* Block 1446 <=== 1440	USER>>seq4246	   85   [+0+] rfam
+* Block 1447 <=== 1439	USER>>seq4340	   85   [+33+] rfam
+* Block 1448 <=== 1433	USER>>seq4265	   83   [+0+] rfam
+* Block 1449 <=== 1435	USER>>seq4369	   84   [+0+] rfam
+* Block 1450 <=== 1432	USER>>seq4247	   85   [+0+] rfam
+* Block 1451 <=== 1434	USER>>seq4240	   85   [+17+] rfam
+* Block 1452 <=== 1431	USER>>seq4287	   85   [+0+] rfam
+* Block 1453 <=== 1443	USER>>seq4225	   87   [+0+] rfam
+* Block 1454 <=== 1444	USER>>seq4286	   84   [+1+] rfam
+* Block 1455 <=== 1445	USER>>seq4311	   87   [+0+] rfam
+* Block 1456 <=== 1446	USER>>seq4292	   83   [+1+] rfam
+* Block 1457 <=== 1447	USER>>seq4178	   78   [+3+] rfam
+* Block 1458 <=== 1448	USER>>seq4445	   84   [+0+] rfam
+* Block 1459 <=== 1449	USER>>seq4102	   81   [+0+] rfam
+* Block 1460 <=== 1429	USER>>seq4138	   82   [+0+] rfam
+* Block 1461 <=== 1427	USER>>seq4499	   84   [+4+] rfam
+* Block 1462 <=== 1430	USER>>seq4371	   84   [+0+] rfam
+* Block 1463 <=== 1428	USER>>seq4204	   84   [+8+] rfam
+* Block 1464 <=== 1404	USER>>seq3848	   79   [+0+] rfam
+* Block 1465 <=== 1402	USER>>seq4424	   85   [+1+] rfam
+* Block 1466 <=== 1405	USER>>seq4257	   79   [+0+] rfam
+* Block 1467 <=== 1403	USER>>seq4359	   78   [+0+] rfam
+* Block 1468 <=== 1415	USER>>seq4219	   85   [+10+] rfam
+* Block 1469 <=== 1412	USER>>seq4500	   80   [+0+] rfam
+* Block 1470 <=== 1411	USER>>seq3581	   79   [+0+] rfam
+* Block 1471 <=== 1413	USER>>seq3708	   88   [+0+] rfam
+* Block 1472 <=== 1406	USER>>seq4159	   87   [+0+] rfam
+* Block 1473 <=== 1409	USER>>seq4236	   87   [+0+] rfam
+* Block 1474 <=== 1410	USER>>seq4226	   84   [+0+] rfam
+* Block 1475 <=== 1414	USER>>seq4280	   84   [+0+] rfam
+* Block 1476 <--- 1420	USER>>seq3835	   78   [+0+] rfam
+* Block 1477 <--- 1423	USER>>seq3308	   84   [+0+] rfam
+* Block 1478 <=== 1471	USER>>seq3350	   87   [+1+] rfam
+* Block 1479 <=== 1473	USER>>seq3460	   80   [+0+] rfam
+* Block 1480 <=== 1504	USER>>seq3673	   77   [+0+] rfam
+* Block 1481 <=== 1470	USER>>seq3652	   83   [+2+] rfam
+* Block 1482 <=== 1472	USER>>seq3616	   88   [+0+] rfam
+* Block 1483 <--- 1475	USER>>seq3534	   78   [+0+] rfam
+* Block 1484 <--- 1480	USER>>seq3362	   75   [+2+] rfam
+* Block 1485 <=== 1485	USER>>seq4200	   69   [+0+] rfam
+* Block 1486 <=== 1493	USER>>seq3372	   72   [+9+] rfam
+* Block 1487 <=== 1495	USER>>seq3621	   72   [+0+] rfam
+* Block 1488 <=== 1492	USER>>seq4052	   72   [+0+] rfam
+* Block 1489 <=== 1494	USER>>seq3818	   68   [+0+] rfam
+* Block 1490 <=== 1491	USER>>seq3834	   72   [+1+] rfam
+* Block 1491 <=== 1490	USER>>seq3844	   70   [+0+] rfam
+* Block 1492 <=== 1489	USER>>seq4144	   68   [+0+] rfam
+* Block 1493 <=== 1488	USER>>seq3580	   72   [+0+] rfam
+* Block 1494 <=== 1497	USER>>seq3414	   67   [+0+] rfam
+* Block 1495 <=== 1499	USER>>seq4132	   68   [+3+] rfam
+* Block 1496 <=== 1496	USER>>seq3738	   70   [+0+] rfam
+* Block 1497 <=== 1498	USER>>seq3475	   71   [+1+] rfam
+* Block 1498 <=== 1487	USER>>seq3728	   69   [+0+] rfam
+* Block 1499 <=== 1484	USER>>seq3780	   73   [+0+] rfam
+* Block 1500 <=== 1486	USER>>seq3773	   71   [+0+] rfam
+* Block 1501 <=== 1577	USER>>seq3903	   68   [+0+] rfam
+* Block 1502 <=== 1483	USER>>seq3945	   71   [+0+] rfam
+* Block 1503 <=== 1481	USER>>seq3627	   83   [+0+] rfam
+* Block 1504 <=== 1482	USER>>seq3537	   75   [+0+] rfam
+* Block 1505 <--- 1500	USER>>seq3393	   72   [+0+] rfam
+* Block 1506 <--- 1501	USER>>seq3494	   72   [+0+] rfam
+* Block 1507 <--- 1502	USER>>seq3509	   69   [+0+] rfam
+* Block 1508 <--- 1503	USER>>seq3610	   73   [+0+] rfam
+* Block 1509 <--- 1505	USER>>seq3515	   75   [+0+] rfam
+* Block 1510 <--- 1506	USER>>seq3518	   70   [+0+] rfam
+* Block 1511 <--- 1507	USER>>seq3522	   72   [+0+] rfam
+* Block 1512 <--- 1508	USER>>seq4013	   80   [+0+] rfam
+* Block 1513 <--- 1509	USER>>seq3632	   77   [+0+] rfam
+* Block 1514 <--- 1510	USER>>seq3845	   79   [+0+] rfam
+* Block 1515 <=== 1511	USER>>seq4393	   78   [+3+] rfam
+* Block 1516 <=== 1513	USER>>seq4465	   79   [+0+] rfam
+* Block 1517 <=== 1555	USER>>seq4484	   87   [+0+] rfam
+* Block 1518 <=== 1559	USER>>seq4405	   87   [+0+] rfam
+* Block 1519 <=== 1561	USER>>seq4065	   80   [+0+] rfam
+* Block 1520 <=== 1556	USER>>seq4360	   86   [+0+] rfam
+* Block 1521 <=== 1558	USER>>seq3533	   88   [+0+] rfam
+* Block 1522 <=== 1557	USER>>seq4293	   87   [+0+] rfam
+* Block 1523 <=== 1562	USER>>seq3599	   74   [+17+] rfam
+* Block 1524 <=== 1560	USER>>seq4048	   79   [+3+] rfam
+* Block 1525 <=== 1553	USER>>seq4512	   83   [+0+] rfam
+* Block 1526 <=== 1551	USER>>seq4543	   82   [+0+] rfam
+* Block 1527 <=== 1552	USER>>seq3741	   80   [+0+] rfam
+* Block 1528 <=== 1550	USER>>seq3606	   87   [+1+] rfam
+* Block 1529 <=== 1548	USER>>seq3752	   82   [+0+] rfam
+* Block 1530 <=== 1554	USER>>seq4260	   84   [+0+] rfam
+* Block 1531 <=== 1549	USER>>seq3582	   82   [+0+] rfam
+* Block 1532 <=== 1526	USER>>seq4290	   88   [+0+] rfam
+* Block 1533 <=== 1525	USER>>seq4289	   78   [+0+] rfam
+* Block 1534 <=== 1599	USER>>seq4532	   72   [+1+] rfam
+* Block 1535 <=== 1547	USER>>seq3782	   88   [+2+] rfam
+* Block 1536 <=== 1512	USER>>seq4186	   77   [+1+] rfam
+* Block 1537 <=== 1514	USER>>seq3989	   73   [+0+] rfam
+* Block 1538 <=== 1544	USER>>seq4489	   83   [+1+] rfam
+* Block 1539 <=== 1636	USER>>seq4482	   83   [+0+] rfam
+* Block 1540 <=== 1542	USER>>seq4521	   84   [+0+] rfam
+* Block 1541 <=== 1540	USER>>seq4548	   81   [+0+] rfam
+* Block 1542 <=== 1539	USER>>seq4531	   82   [+0+] rfam
+* Block 1543 <=== 1531	USER>>seq4454	   84   [+0+] rfam
+* Block 1544 <=== 1543	USER>>seq4021	   88   [+0+] rfam
+* Block 1545 <=== 1541	USER>>seq4008	   88   [+0+] rfam
+* Block 1546 <=== 1536	USER>>seq3895	   82   [+0+] rfam
+* Block 1547 <=== 1537	USER>>seq4444	   84   [+0+] rfam
+* Block 1548 <=== 1538	USER>>seq4492	   82   [+0+] rfam
+* Block 1549 <=== 1533	USER>>seq4520	   80   [+0+] rfam
+* Block 1550 <=== 1532	USER>>seq4474	   80   [+0+] rfam
+* Block 1551 <=== 1529	USER>>seq4421	   77   [+0+] rfam
+* Block 1552 <=== 1522	USER>>seq4036	   80   [+0+] rfam
+* Block 1553 <=== 1524	USER>>seq4168	   73   [+0+] rfam
+* Block 1554 <=== 1521	USER>>seq4547	   79   [+0+] rfam
+* Block 1555 <=== 1535	USER>>seq4529	   79   [+0+] rfam
+* Block 1556 <=== 1534	USER>>seq4451	   79   [+0+] rfam
+* Block 1557 <=== 1530	USER>>seq4497	   82   [+0+] rfam
+* Block 1558 <=== 1528	USER>>seq4587	   77   [+2+] rfam
+* Block 1559 <=== 1546	USER>>seq4312	   84   [+1+] rfam
+* Block 1560 <=== 1527	USER>>seq4528	   80   [+0+] rfam
+* Block 1561 <=== 1523	USER>>seq4527	   73   [+0+] rfam
+* Block 1562 <=== 1520	USER>>seq4523	   80   [+0+] rfam
+* Block 1563 <=== 1518	USER>>seq3826	   83   [+0+] rfam
+* Block 1564 <=== 1519	USER>>seq4463	   84   [+0+] rfam
+* Block 1565 <=== 1517	USER>>seq4582	   75   [+1+] rfam
+* Block 1566 <=== 1545	USER>>seq3797	   82   [+0+] rfam
+* Block 1567 <--- 1516	USER>>seq4468	   71   [+0+] rfam
+* Block 1568 <--- 1563	USER>>seq3611	   83   [+0+] rfam
+* Block 1569 <=== 1566	USER>>seq4262	   83   [+0+] rfam
+* Block 1570 <=== 1564	USER>>seq4190	   84   [+0+] rfam
+* Block 1571 <=== 1567	USER>>seq4081	   84   [+1+] rfam
+* Block 1572 <=== 1565	USER>>seq3635	   81   [+0+] rfam
+* Block 1573 <=== 1568	USER>>seq3716	   73   [+0+] rfam
+* Block 1574 <=== 1617	USER>>seq4309	   72   [+0+] rfam
+* Block 1575 <--- 1570	USER>>seq3677	   86   [+0+] rfam
+* Block 1576 <--- 1571	USER>>seq3692	   86   [+0+] rfam
+* Block 1577 <--- 1572	USER>>seq3707	   74   [+0+] rfam
+* Block 1578 <--- 1573	USER>>seq4254	   81   [+0+] rfam
+* Block 1579 <--- 1574	USER>>seq4216	   78   [+0+] rfam
+* Block 1580 <=== 1634	USER>>seq4476	   75   [+0+] rfam
+* Block 1581 <=== 1575	USER>>seq3744	   84   [+0+] rfam
+* Block 1582 <=== 1635	USER>>seq4478	   73   [+0+] rfam
+* Block 1583 <=== 1576	USER>>seq3760	   67   [+0+] rfam
+* Block 1584 <=== 1632	USER>>seq4466	   84   [+0+] rfam
+* Block 1585 <--- 1578	USER>>seq3779	   72   [+0+] rfam
+* Block 1586 <--- 1579	USER>>seq3799	   88   [+0+] rfam
+* Block 1587 <--- 1580	USER>>seq3819	   84   [+0+] rfam
+* Block 1588 <=== 1581	USER>>seq3838	   75   [+3+] rfam
+* Block 1589 <=== 1620	USER>>seq4383	   70   [+2+] rfam
+* Block 1590 <--- 1582	USER>>seq3894	   71   [+0+] rfam
+* Block 1591 <--- 1583	USER>>seq3932	   88   [+25+] rfam
+* Block 1592 <--- 1584	USER>>seq3982	   74   [+0+] rfam
+* Block 1593 <=== 1585	USER>>seq4059	   74   [+0+] rfam
+* Block 1594 <=== 1626	USER>>seq4428	   81   [+0+] rfam
+* Block 1595 <=== 1586	USER>>seq3958	   85   [+2+] rfam
+* Block 1596 <=== 1633	USER>>seq4470	   85   [+1+] rfam
+* Block 1597 <--- 1588	USER>>seq3999	   69   [+0+] rfam
+* Block 1598 <=== 1589	USER>>seq4425	   83   [+1+] rfam
+* Block 1599 <=== 1591	USER>>seq4251	   84   [+1+] rfam
+* Block 1600 <--- 1590	USER>>seq4007	   83   [+0+] rfam
+* Block 1601 <--- 1592	USER>>seq4026	   77   [+0+] rfam
+* Block 1602 <--- 1593	USER>>seq4440	   70   [+0+] rfam
+* Block 1603 <=== 1594	USER>>seq4250	   76   [+2+] rfam
+* Block 1604 <=== 1595	USER>>seq4354	   80   [+0+] rfam
+* Block 1605 <--- 1596	USER>>seq4488	   77   [+0+] rfam
+* Block 1606 <--- 1597	USER>>seq4443	   74   [+0+] rfam
+* Block 1607 <--- 1598	USER>>seq4591	   72   [+1+] rfam
+* Block 1608 <--- 1600	USER>>seq4042	   69   [+0+] rfam
+* Block 1609 <--- 1601	USER>>seq4540	   81   [+0+] rfam
+* Block 1610 <--- 1602	USER>>seq4053	   84   [+0+] rfam
+* Block 1611 <--- 1603	USER>>seq4085	   82   [+0+] rfam
+* Block 1612 <=== 1604	USER>>seq4546	   79   [+0+] rfam
+* Block 1613 <=== 1628	USER>>seq4441	   80   [+0+] rfam
+* Block 1614 <--- 1605	USER>>seq4058	   76   [+0+] rfam
+* Block 1615 <--- 1606	USER>>seq4075	   85   [+0+] rfam
+* Block 1616 <--- 1607	USER>>seq4077	   69   [+0+] rfam
+* Block 1617 <--- 1608	USER>>seq4098	   67   [+0+] rfam
+* Block 1618 <--- 1609	USER>>seq4142	   69   [+0+] rfam
+* Block 1619 <--- 1611	USER>>seq4455	   67   [+0+] rfam
+* Block 1620 <--- 1612	USER>>seq4156	   81   [+1+] rfam
+* Block 1621 <--- 1613	USER>>seq4209	   72   [+0+] rfam
+* Block 1622 <--- 1614	USER>>seq4278	   72   [+0+] rfam
+* Block 1623 <--- 1615	USER>>seq4304	   82   [+0+] rfam
+* Block 1624 <--- 1616	USER>>seq4305	   72   [+0+] rfam
+* Block 1625 <--- 1618	USER>>seq4423	   83   [+0+] rfam
+* Block 1626 <--- 1619	USER>>seq4375	   79   [+1+] rfam
+* Block 1627 <--- 1621	USER>>seq4385	   80   [+0+] rfam
+* Block 1628 <--- 1622	USER>>seq4388	   77   [+1+] rfam
+* Block 1629 <--- 1623	USER>>seq4541	   77   [+0+] rfam
+* Block 1630 <--- 1624	USER>>seq4409	   71   [+0+] rfam
+* Block 1631 <--- 1625	USER>>seq4471	   69   [+0+] rfam
+* Block 1632 <--- 1627	USER>>seq4431	   72   [+0+] rfam
+* Block 1633 <--- 1629	USER>>seq4449	   73   [+0+] rfam
+* Block 1634 <--- 1630	USER>>seq4592	   75   [+0+] rfam
+* Block 1635 <--- 1631	USER>>seq4450	   72   [+0+] rfam
+* Block 1636 <--- 1637	USER>>seq4490	   85   [+0+] rfam
+* Block 1637 <--- 1638	USER>>seq4496	   76   [+0+] rfam
+* Block 1638 <--- 1639	USER>>seq4514	   67   [+0+] rfam
+* Block 1639 <--- 1640	USER>>seq4544	   88   [+0+] rfam
+* Block 1640 <--- 1641	USER>>seq4555	   68   [+0+] rfam
+* Block 1641 <--- 1642	USER>>seq4559	   82   [+0+] rfam
+* Block 1642 <--- 1643	USER>>seq4566	   69   [+0+] rfam
+* Block 1643 <--- 1644	USER>>seq4569	   83   [+0+] rfam
+* Block 1644 <--- 1645	USER>>seq4572	   70   [+0+] rfam
+* Block 1645 <--- 1646	USER>>seq4604	   75   [+0+] rfam
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 1 window = 20
+ minscore = 999 pepscore = 0 list_limit = 10
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 1000
+
+(1 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+      USER>>seq3331
+1000
+      USER>>seq3048
+
+
+1645 groups ( 1 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 2 window = 22
+ minscore = 990 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 4 window = 24
+ minscore = 980 pepscore = 0 list_limit = 6
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 986
+
+(2 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     -- USER>>seq3842
+987
+     -- USER>>seq4145
+
+
+     -- USER>>seq2545
+985
+     -- USER>>seq2289
+
+
+1643 groups ( 3 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 8 window = 26
+ minscore = 970 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 974
+
+(5 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     ---- USER>>seq2455
+985
+     ---- USER>>seq1881
+
+
+     ---- USER>>seq2402
+972
+     ---- USER>>seq1709
+
+
+     ---- USER>>seq2670
+972
+     ---- USER>>seq2296
+
+
+     ---- USER>>seq2551
+971
+     ---- USER>>seq1896
+
+
+     ---- USER>>seq1129
+970
+     ---- USER>>seq1381
+
+
+1638 groups ( 8 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 8 window = 26
+ minscore = 960 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 8 window = 26
+ minscore = 950 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 955
+
+(12 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     ------ USER>>seq1189
+958
+     ------ USER>>seq930
+
+
+     ------ USER>>seq208
+957
+     ------ USER>>seq579
+
+
+     ------ USER>>seq1671
+957
+     ------ USER>>seq962
+
+
+     ------ USER>>seq2302
+957
+     ------ USER>>seq2164
+
+
+     ------ USER>>seq2747
+957
+     ------ USER>>seq2209
+
+
+     ------ USER>>seq1899
+957
+     ------ USER>>seq2353
+
+
+     ------ USER>>seq2398
+956
+     ------ USER>>seq1842
+
+
+     ------ USER>>seq1650
+955
+     ------ USER>>seq3500
+
+
+     ------ USER>>seq2867
+955
+     ------ USER>>seq2301
+
+
+     ------ USER>>seq3704
+955
+     ------ USER>>seq3184
+
+
+     ------ USER>>seq2561
+950
+     p----- USER>>seq2455
+     b----- USER>>seq1881
+950
+     ------ USER>>seq2322
+
+
+1626 groups ( 18 aligned )
+
+ nblocks = 1646 seedblk = 75 seedseq = 0
+picked USER>>seq246 (0.000000)
+picked USER>>seq124 (0.000000)
+picked USER>>seq138 (0.000000)
+picked USER>>seq225 (0.000000)
+picked USER>>seq338 (0.000000)
+picked USER>>seq410 (0.000000)
+picked USER>>seq140 (0.000000)
+picked USER>>seq123 (0.000000)
+picked USER>>seq438 (0.000000)
+picked USER>>seq647 (0.000000)
+picked USER>>seq335 (0.000000)
+picked USER>>seq645 (0.000000)
+picked USER>>seq139 (0.000000)
+picked USER>>seq88 (0.000000)
+picked USER>>seq305 (0.000000)
+picked USER>>seq181 (0.000000)
+picked USER>>seq148 (0.000000)
+picked USER>>seq149 (0.000000)
+picked USER>>seq130 (0.000000)
+picked USER>>seq319 (0.000000)
+picked USER>>seq10 (0.000000)
+picked USER>>seq457 (0.000000)
+picked USER>>seq223 (0.000000)
+picked USER>>seq197 (0.000000)
+picked USER>>seq337 (0.000000)
+picked USER>>seq584 (0.000000)
+picked USER>>seq18 (0.000000)
+picked USER>>seq111 (0.000000)
+picked USER>>seq109 (0.000000)
+picked USER>>seq963 (0.000000)
+picked USER>>seq970 (0.000000)
+picked USER>>seq844 (0.000000)
+picked USER>>seq1137 (0.000000)
+picked USER>>seq1011 (0.000000)
+picked USER>>seq857 (0.000000)
+picked USER>>seq816 (0.000000)
+picked USER>>seq1461 (0.000000)
+picked USER>>seq99 (0.000000)
+picked USER>>seq209 (0.000000)
+picked USER>>seq455 (0.000000)
+picked USER>>seq814 (0.000000)
+picked USER>>seq1386 (0.000000)
+picked USER>>seq1046 (0.000000)
+picked USER>>seq875 (0.000000)
+picked USER>>seq1128 (0.000000)
+picked USER>>seq1501 (0.000000)
+picked USER>>seq883 (0.000000)
+picked USER>>seq430 (0.000000)
+picked USER>>seq846 (0.000000)
+picked USER>>seq507 (0.000000)
+picked USER>>seq360 (0.000000)
+picked USER>>seq601 (0.000000)
+picked USER>>seq325 (0.000000)
+picked USER>>seq312 (0.000000)
+picked USER>>seq329 (0.000000)
+picked USER>>seq290 (0.000000)
+picked USER>>seq131 (0.000000)
+picked USER>>seq900 (0.000000)
+picked USER>>seq281 (0.000000)
+picked USER>>seq1003 (0.000000)
+picked USER>>seq127 (0.000000)
+picked USER>>seq1177 (0.000000)
+picked USER>>seq442 (0.000000)
+picked USER>>seq1165 (0.000000)
+picked USER>>seq1009 (0.000000)
+picked USER>>seq424 (0.000000)
+picked USER>>seq426 (0.000000)
+picked USER>>seq511 (0.000000)
+picked USER>>seq512 (0.000000)
+picked USER>>seq348 (0.000000)
+picked USER>>seq314 (0.000000)
+picked USER>>seq460 (0.000000)
+picked USER>>seq948 (0.000000)
+picked USER>>seq999 (0.000000)
+picked USER>>seq851 (0.000000)
+picked USER>SEED:>seq1 (-100.000000)
+picked USER>>seq914 (0.000000)
+picked USER>>seq425 (0.000000)
+picked USER>>seq83 (0.000000)
+picked USER>>seq191 (0.000000)
+picked USER>>seq14 (0.000000)
+picked USER>>seq231 (0.000000)
+picked USER>>seq132 (0.000000)
+picked USER>>seq115 (0.000000)
+picked USER>>seq12 (0.000000)
+picked USER>>seq102 (0.000000)
+picked USER>>seq294 (0.000000)
+picked USER>>seq344 (0.000000)
+picked USER>>seq168 (0.000000)
+picked USER>>seq8 (0.000000)
+picked USER>>seq346 (0.000000)
+picked USER>>seq82 (0.000000)
+picked USER>>seq4 (0.000000)
+picked USER>>seq104 (0.000000)
+picked USER>>seq141 (0.000000)
+picked USER>>seq650 (0.000000)
+picked USER>>seq671 (0.000000)
+picked USER>>seq476 (0.000000)
+picked USER>>seq5 (0.000000)
+picked USER>>seq552 (0.000000)
+picked USER>>seq183 (0.000000)
+picked USER>>seq307 (0.000000)
+picked USER>>seq212 (0.000000)
+picked USER>>seq134 (0.000000)
+picked USER>>seq6 (0.000000)
+picked USER>>seq182 (0.000000)
+picked USER>>seq137 (0.000000)
+picked USER>>seq228 (0.000000)
+picked USER>>seq310 (0.000000)
+picked USER>>seq151 (0.000000)
+picked USER>>seq136 (0.000000)
+picked USER>>seq275 (0.000000)
+picked USER>>seq91 (0.000000)
+picked USER>>seq1072 (0.000000)
+picked USER>>seq961 (0.000000)
+picked USER>>seq1106 (0.000000)
+picked USER>>seq965 (0.000000)
+picked USER>>seq1143 (0.000000)
+picked USER>>seq1445 (0.000000)
+picked USER>>seq935 (0.000000)
+picked USER>>seq1090 (0.000000)
+picked USER>>seq286 (0.000000)
+picked USER>>seq445 (0.000000)
+picked USER>>seq188 (0.000000)
+picked USER>>seq7 (0.000000)
+picked USER>>seq176 (0.000000)
+picked USER>>seq331 (0.000000)
+picked USER>>seq98 (0.000000)
+picked USER>>seq184 (0.000000)
+picked USER>>seq218 (0.000000)
+picked USER>>seq185 (0.000000)
+picked USER>>seq186 (0.000000)
+picked USER>>seq475 (0.000000)
+picked USER>>seq598 (0.000000)
+picked USER>>seq1557 (0.000000)
+picked USER>>seq1604 (0.000000)
+picked USER>>seq1075 (0.000000)
+picked USER>>seq850 (0.000000)
+picked USER>>seq1158 (0.000000)
+picked USER>>seq1171 (0.000000)
+picked USER>>seq896 (0.000000)
+picked USER>>seq1166 (0.000000)
+picked USER>>seq996 (0.000000)
+picked USER>>seq301 (0.000000)
+picked USER>>seq510 (0.000000)
+picked USER>>seq820 (0.000000)
+picked USER>>seq878 (0.000000)
+picked USER>>seq328 (0.000000)
+picked USER>>seq1032 (0.000000)
+picked USER>>seq942 (0.000000)
+picked USER>>seq675 (0.000000)
+picked USER>>seq1007 (0.000000)
+picked USER>>seq1103 (0.000000)
+picked USER>>seq651 (0.000000)
+picked USER>>seq204 (0.000000)
+picked USER>>seq666 (0.000000)
+picked USER>>seq551 (0.000000)
+picked USER>>seq233 (0.000000)
+picked USER>>seq330 (0.000000)
+picked USER>>seq311 (0.000000)
+picked USER>>seq1088 (0.000000)
+picked USER>>seq342 (0.000000)
+picked USER>>seq9 (0.000000)
+picked USER>>seq180 (0.000000)
+picked USER>>seq17 (0.000000)
+picked USER>>seq279 (0.000000)
+picked USER>>seq101 (0.000000)
+picked USER>>seq304 (0.000000)
+picked USER>>seq245 (0.000000)
+picked USER>>seq1251 (0.000000)
+picked USER>>seq208 (0.693147)
+picked USER>>seq559 (0.000000)
+picked USER>>seq910 (0.000000)
+picked USER>>seq975 (0.000000)
+picked USER>>seq582 (0.000000)
+picked USER>>seq545 (0.000000)
+picked USER>>seq604 (0.000000)
+picked USER>>seq1421 (0.000000)
+picked USER>>seq299 (0.000000)
+picked USER>>seq972 (0.000000)
+picked USER>>seq1185 (0.000000)
+picked USER>>seq928 (0.000000)
+picked USER>>seq629 (0.000000)
+picked USER>>seq1053 (0.000000)
+picked USER>>seq977 (0.000000)
+picked USER>>seq1207 (0.000000)
+picked USER>>seq1400 (0.000000)
+picked USER>>seq869 (0.000000)
+picked USER>>seq890 (0.000000)
+picked USER>>seq1189 (0.000000)
+picked USER>>seq540 (0.000000)
+picked USER>>seq1044 (0.000000)
+picked USER>>seq845 (0.000000)
+picked USER>>seq618 (0.000000)
+picked USER>>seq1120 (0.000000)
+picked USER>>seq964 (0.000000)
+picked USER>>seq812 (0.000000)
+picked USER>>seq947 (0.000000)
+picked USER>>seq1066 (0.000000)
+picked USER>>seq1020 (0.000000)
+picked USER>>seq943 (0.000000)
+picked USER>>seq804 (0.000000)
+picked USER>>seq528 (0.000000)
+picked USER>>seq958 (0.000000)
+picked USER>>seq915 (0.000000)
+picked USER>>seq918 (0.000000)
+picked USER>>seq660 (0.000000)
+picked USER>>seq437 (0.000000)
+picked USER>>seq572 (0.000000)
+picked USER>>seq801 (0.000000)
+picked USER>>seq483 (0.000000)
+picked USER>>seq1153 (0.000000)
+picked USER>>seq834 (0.000000)
+picked USER>>seq917 (0.000000)
+picked USER>>seq449 (0.000000)
+picked USER>>seq1121 (0.000000)
+picked USER>>seq840 (0.000000)
+picked USER>>seq807 (0.000000)
+picked USER>>seq353 (0.000000)
+picked USER>>seq347 (0.000000)
+picked USER>>seq1159 (0.000000)
+picked USER>>seq955 (0.000000)
+picked USER>>seq600 (0.000000)
+picked USER>>seq192 (0.000000)
+picked USER>>seq848 (0.000000)
+picked USER>>seq187 (0.000000)
+picked USER>>seq954 (0.000000)
+picked USER>>seq522 (0.000000)
+picked USER>>seq1108 (0.000000)
+picked USER>>seq1439 (0.000000)
+picked USER>>seq450 (0.000000)
+picked USER>>seq901 (0.000000)
+picked USER>>seq1248 (0.000000)
+picked USER>>seq1099 (0.000000)
+picked USER>>seq574 (0.000000)
+picked USER>>seq554 (0.000000)
+picked USER>>seq673 (0.000000)
+picked USER>>seq810 (0.000000)
+picked USER>>seq227 (0.000000)
+picked USER>>seq296 (0.000000)
+picked USER>>seq519 (0.000000)
+picked USER>>seq879 (0.000000)
+picked USER>>seq2396 (0.000000)
+picked USER>>seq998 (0.000000)
+picked USER>>seq800 (0.000000)
+picked USER>>seq859 (0.000000)
+picked USER>>seq1094 (0.000000)
+picked USER>>seq946 (0.000000)
+picked USER>>seq1397 (0.000000)
+picked USER>>seq1405 (0.000000)
+picked USER>>seq427 (0.000000)
+picked USER>>seq821 (0.000000)
+picked USER>>seq949 (0.000000)
+picked USER>>seq622 (0.000000)
+picked USER>>seq1392 (0.000000)
+picked USER>>seq709 (0.000000)
+picked USER>>seq936 (0.000000)
+picked USER>>seq563 (0.000000)
+picked USER>>seq1095 (0.000000)
+picked USER>>seq1316 (0.000000)
+picked USER>>seq655 (0.000000)
+picked USER>>seq1613 (0.000000)
+picked USER>>seq541 (0.000000)
+picked USER>>seq1114 (0.000000)
+picked USER>>seq1451 (0.000000)
+picked USER>>seq1489 (0.000000)
+picked USER>>seq1406 (0.000000)
+picked USER>>seq1751 (0.000000)
+picked USER>>seq557 (0.000000)
+picked USER>>seq1420 (0.000000)
+picked USER>>seq888 (0.000000)
+picked USER>>seq1098 (0.000000)
+picked USER>>seq1235 (0.000000)
+picked USER>>seq997 (0.000000)
+picked USER>>seq1671 (0.000000)
+picked USER>>seq951 (0.000000)
+picked USER>>seq653 (0.000000)
+picked USER>>seq887 (0.000000)
+picked USER>>seq1092 (0.000000)
+picked USER>>seq1378 (0.000000)
+picked USER>>seq1621 (0.000000)
+picked USER>>seq1566 (0.000000)
+picked USER>>seq1193 (0.000000)
+picked USER>>seq1462 (0.000000)
+picked USER>>seq1152 (0.000000)
+picked USER>>seq1720 (0.000000)
+picked USER>>seq1419 (0.000000)
+picked USER>>seq1119 (0.000000)
+picked USER>>seq1212 (0.000000)
+picked USER>>seq1129 (0.000000)
+picked USER>>seq1156 (0.000000)
+picked USER>>seq1257 (0.000000)
+picked USER>>seq1622 (0.000000)
+picked USER>>seq1651 (0.000000)
+picked USER>>seq1726 (0.000000)
+picked USER>>seq1623 (0.000000)
+picked USER>>seq957 (0.000000)
+picked USER>>seq661 (0.000000)
+picked USER>>seq2127 (0.000000)
+picked USER>>seq1013 (0.000000)
+picked USER>>seq464 (0.000000)
+picked USER>>seq1759 (0.000000)
+picked USER>>seq193 (0.000000)
+picked USER>>seq453 (0.000000)
+picked USER>>seq1490 (0.000000)
+picked USER>>seq921 (0.000000)
+picked USER>>seq2440 (0.000000)
+picked USER>>seq1056 (0.000000)
+picked USER>>seq2426 (0.000000)
+picked USER>>seq1025 (0.000000)
+picked USER>>seq1054 (0.000000)
+picked USER>>seq624 (0.000000)
+picked USER>>seq599 (0.000000)
+picked USER>>seq790 (0.000000)
+picked USER>>seq920 (0.000000)
+picked USER>>seq1242 (0.000000)
+picked USER>>seq1124 (0.000000)
+picked USER>>seq1005 (0.000000)
+picked USER>>seq1078 (0.000000)
+picked USER>>seq315 (0.000000)
+picked USER>>seq521 (0.000000)
+picked USER>>seq1167 (0.000000)
+picked USER>>seq1069 (0.000000)
+picked USER>>seq1390 (0.000000)
+picked USER>>seq1157 (0.000000)
+picked USER>>seq913 (0.000000)
+picked USER>>seq1195 (0.000000)
+picked USER>>seq1151 (0.000000)
+picked USER>>seq1101 (0.000000)
+picked USER>>seq1091 (0.000000)
+picked USER>>seq1272 (0.000000)
+picked USER>>seq1238 (0.000000)
+picked USER>>seq636 (0.000000)
+picked USER>>seq1243 (0.000000)
+picked USER>>seq1670 (0.000000)
+picked USER>>seq1725 (0.000000)
+picked USER>>seq959 (0.000000)
+picked USER>>seq1399 (0.000000)
+picked USER>>seq1010 (0.000000)
+picked USER>>seq1076 (0.000000)
+picked USER>>seq1519 (0.000000)
+picked USER>>seq1535 (0.000000)
+picked USER>>seq1234 (0.000000)
+picked USER>>seq1162 (0.000000)
+picked USER>>seq1587 (0.000000)
+picked USER>>seq1321 (0.000000)
+picked USER>>seq1202 (0.000000)
+picked USER>>seq1267 (0.000000)
+picked USER>>seq1198 (0.000000)
+picked USER>>seq1395 (0.000000)
+picked USER>>seq1190 (0.000000)
+picked USER>>seq1673 (0.000000)
+picked USER>>seq1638 (0.000000)
+picked USER>>seq1409 (0.000000)
+picked USER>>seq1311 (0.000000)
+picked USER>>seq593 (0.000000)
+picked USER>>seq459 (0.000000)
+picked USER>>seq2121 (0.000000)
+picked USER>>seq983 (0.000000)
+picked USER>>seq639 (0.000000)
+picked USER>>seq467 (0.000000)
+picked USER>>seq443 (0.000000)
+picked USER>>seq735 (0.000000)
+picked USER>>seq898 (0.000000)
+picked USER>>seq1389 (0.000000)
+picked USER>>seq1244 (0.000000)
+picked USER>>seq573 (0.000000)
+picked USER>>seq871 (0.000000)
+picked USER>>seq1417 (0.000000)
+picked USER>>seq808 (0.000000)
+picked USER>>seq903 (0.000000)
+picked USER>>seq1077 (0.000000)
+picked USER>>seq968 (0.000000)
+picked USER>>seq1086 (0.000000)
+picked USER>>seq1047 (0.000000)
+picked USER>>seq881 (0.000000)
+picked USER>>seq1111 (0.000000)
+picked USER>>seq1130 (0.000000)
+picked USER>>seq1104 (0.000000)
+picked USER>>seq1029 (0.000000)
+picked USER>>seq550 (0.000000)
+picked USER>>seq458 (0.000000)
+picked USER>>seq1126 (0.000000)
+picked USER>>seq953 (0.000000)
+picked USER>>seq1144 (0.000000)
+picked USER>>seq1030 (0.000000)
+picked USER>>seq1887 (0.000000)
+picked USER>>seq1741 (0.000000)
+picked USER>>seq1951 (0.000000)
+picked USER>>seq791 (0.000000)
+picked USER>>seq715 (0.000000)
+picked USER>>seq2188 (0.000000)
+picked USER>>seq1630 (0.000000)
+picked USER>>seq1110 (0.000000)
+picked USER>>seq941 (0.000000)
+picked USER>>seq1146 (0.000000)
+picked USER>>seq1935 (0.000000)
+picked USER>>seq1940 (0.000000)
+picked USER>>seq1938 (0.000000)
+picked USER>>seq2403 (0.000000)
+picked USER>>seq1812 (0.000000)
+picked USER>>seq1641 (0.000000)
+picked USER>>seq2191 (0.000000)
+picked USER>>seq1605 (0.000000)
+picked USER>>seq1889 (0.000000)
+picked USER>>seq1319 (0.000000)
+picked USER>>seq1387 (0.000000)
+picked USER>>seq2226 (0.000000)
+picked USER>>seq2210 (0.000000)
+picked USER>>seq1942 (0.000000)
+picked USER>>seq1715 (0.000000)
+picked USER>>seq2228 (0.000000)
+picked USER>>seq2087 (0.000000)
+picked USER>>seq1031 (0.000000)
+picked USER>>seq1149 (0.000000)
+picked USER>>seq1070 (0.000000)
+picked USER>>seq1055 (0.000000)
+picked USER>>seq1168 (0.000000)
+picked USER>>seq1080 (0.000000)
+picked USER>>seq1125 (0.000000)
+picked USER>>seq1160 (0.000000)
+picked USER>>seq753 (0.000000)
+picked USER>>seq1087 (0.000000)
+picked USER>>seq2971 (0.000000)
+picked USER>>seq3171 (0.000000)
+picked USER>>seq2959 (0.000000)
+picked USER>>seq2847 (0.000000)
+picked USER>>seq2946 (0.000000)
+picked USER>>seq3022 (0.000000)
+picked USER>>seq2174 (0.000000)
+picked USER>>seq2601 (0.000000)
+picked USER>>seq2427 (0.000000)
+picked USER>>seq2966 (0.000000)
+picked USER>>seq2669 (0.000000)
+picked USER>>seq1097 (0.000000)
+picked USER>>seq1503 (0.000000)
+picked USER>>seq1600 (0.000000)
+picked USER>>seq1778 (0.000000)
+picked USER>>seq1678 (0.000000)
+picked USER>>seq1626 (0.000000)
+picked USER>>seq1642 (0.000000)
+picked USER>>seq1266 (0.000000)
+picked USER>>seq1551 (0.000000)
+picked USER>>seq1219 (0.000000)
+picked USER>>seq1499 (0.000000)
+picked USER>>seq1150 (0.000000)
+picked USER>>seq1563 (0.000000)
+picked USER>>seq1262 (0.000000)
+picked USER>>seq1133 (0.000000)
+picked USER>>seq1703 (0.000000)
+picked USER>>seq1692 (0.000000)
+picked USER>>seq1700 (0.000000)
+picked USER>>seq1307 (0.000000)
+picked USER>>seq1163 (0.000000)
+picked USER>>seq2140 (0.000000)
+picked USER>>seq1882 (0.000000)
+picked USER>>seq2989 (0.000000)
+picked USER>>seq1059 (0.000000)
+picked USER>>seq1818 (0.000000)
+picked USER>>seq1502 (0.000000)
+picked USER>>seq1693 (0.000000)
+picked USER>>seq1891 (0.000000)
+picked USER>>seq2367 (0.000000)
+picked USER>>seq1961 (0.000000)
+picked USER>>seq1414 (0.000000)
+picked USER>>seq2147 (0.000000)
+picked USER>>seq2155 (0.000000)
+picked USER>>seq2607 (0.000000)
+picked USER>>seq1482 (0.000000)
+picked USER>>seq2980 (0.000000)
+picked USER>>seq2482 (0.000000)
+picked USER>>seq2488 (0.000000)
+picked USER>>seq1698 (0.000000)
+picked USER>>seq2170 (0.000000)
+picked USER>>seq2884 (0.000000)
+picked USER>>seq2500 (0.000000)
+picked USER>>seq2682 (0.000000)
+picked USER>>seq2779 (0.000000)
+picked USER>>seq2873 (0.000000)
+picked USER>>seq2419 (0.000000)
+picked USER>>seq1465 (0.000000)
+picked USER>>seq2671 (0.000000)
+picked USER>>seq1426 (0.000000)
+picked USER>>seq1546 (0.000000)
+picked USER>>seq1733 (0.000000)
+picked USER>>seq1782 (0.000000)
+picked USER>>seq1484 (0.000000)
+picked USER>>seq1570 (0.000000)
+picked USER>>seq1531 (0.000000)
+picked USER>>seq1271 (0.000000)
+picked USER>>seq1777 (0.000000)
+picked USER>>seq1572 (0.000000)
+picked USER>>seq1318 (0.000000)
+picked USER>>seq1424 (0.000000)
+picked USER>>seq1925 (0.000000)
+picked USER>>seq1770 (0.000000)
+picked USER>>seq1647 (0.000000)
+picked USER>>seq2133 (0.000000)
+picked USER>>seq1762 (0.000000)
+picked USER>>seq1772 (0.000000)
+picked USER>>seq1660 (0.000000)
+picked USER>>seq1320 (0.000000)
+picked USER>>seq1628 (0.000000)
+picked USER>>seq1571 (0.000000)
+picked USER>>seq1933 (0.000000)
+picked USER>>seq1442 (0.000000)
+picked USER>>seq1232 (0.000000)
+picked USER>>seq2439 (0.000000)
+picked USER>>seq2481 (0.000000)
+picked USER>>seq2297 (0.000000)
+picked USER>>seq2330 (0.000000)
+picked USER>>seq1520 (0.000000)
+picked USER>>seq1637 (0.000000)
+picked USER>>seq1481 (0.000000)
+picked USER>>seq1259 (0.000000)
+picked USER>>seq1509 (0.000000)
+picked USER>>seq1073 (0.000000)
+picked USER>>seq1122 (0.000000)
+picked USER>>seq2341 (0.000000)
+picked USER>>seq2453 (0.000000)
+picked USER>>seq1830 (0.000000)
+picked USER>>seq1763 (0.000000)
+picked USER>>seq1648 (0.000000)
+picked USER>>seq1060 (0.000000)
+picked USER>>seq1575 (0.000000)
+picked USER>>seq1558 (0.000000)
+picked USER>>seq1500 (0.000000)
+picked USER>>seq1924 (0.000000)
+picked USER>>seq1521 (0.000000)
+picked USER>>seq1369 (0.000000)
+picked USER>>seq1304 (0.000000)
+picked USER>>seq1523 (0.000000)
+picked USER>>seq1505 (0.000000)
+picked USER>>seq1127 (0.000000)
+picked USER>>seq1052 (0.000000)
+picked USER>>seq1862 (0.000000)
+picked USER>>seq1680 (0.000000)
+picked USER>>seq1742 (0.000000)
+picked USER>>seq1705 (0.000000)
+picked USER>>seq1598 (0.000000)
+picked USER>>seq1629 (0.000000)
+picked USER>>seq1838 (0.000000)
+picked USER>>seq1919 (0.000000)
+picked USER>>seq1696 (0.000000)
+picked USER>>seq1958 (0.000000)
+picked USER>>seq2521 (0.000000)
+picked USER>>seq1711 (0.000000)
+picked USER>>seq1803 (0.000000)
+picked USER>>seq1631 (0.000000)
+picked USER>>seq1559 (0.000000)
+picked USER>>seq1533 (0.000000)
+picked USER>>seq1282 (0.000000)
+picked USER>>seq2258 (0.000000)
+picked USER>>seq1708 (0.000000)
+picked USER>>seq1370 (0.000000)
+picked USER>>seq1425 (0.000000)
+picked USER>>seq1246 (0.000000)
+picked USER>>seq2412 (0.000000)
+picked USER>>seq1871 (0.000000)
+picked USER>>seq2138 (0.000000)
+picked USER>>seq1949 (0.000000)
+picked USER>>seq1913 (0.000000)
+picked USER>>seq1682 (0.000000)
+picked USER>>seq1441 (0.000000)
+picked USER>>seq1371 (0.000000)
+picked USER>>seq1479 (0.000000)
+picked USER>>seq1230 (0.000000)
+picked USER>>seq1374 (0.000000)
+picked USER>>seq1677 (0.000000)
+picked USER>>seq1323 (0.000000)
+picked USER>>seq1169 (0.000000)
+picked USER>>seq1050 (0.000000)
+picked USER>>seq1105 (0.000000)
+picked USER>>seq1384 (0.000000)
+picked USER>>seq1664 (0.000000)
+picked USER>>seq2561 (0.000000)
+picked USER>>seq2203 (0.000000)
+picked USER>>seq2950 (0.000000)
+picked USER>>seq3127 (0.000000)
+picked USER>>seq2551 (0.000000)
+picked USER>>seq2490 (0.000000)
+picked USER>>seq1880 (0.000000)
+picked USER>>seq1794 (0.000000)
+picked USER>>seq1650 (0.000000)
+picked USER>>seq1829 (0.000000)
+picked USER>>seq1752 (0.000000)
+picked USER>>seq1899 (0.000000)
+picked USER>>seq3032 (0.000000)
+picked USER>>seq2395 (0.000000)
+picked USER>>seq2432 (0.000000)
+picked USER>>seq1640 (0.000000)
+picked USER>>seq1970 (0.000000)
+picked USER>>seq1729 (0.000000)
+picked USER>>seq1722 (0.000000)
+picked USER>>seq1706 (0.000000)
+picked USER>>seq1719 (0.000000)
+picked USER>>seq1691 (0.000000)
+picked USER>>seq2143 (0.000000)
+picked USER>>seq2216 (0.000000)
+picked USER>>seq1968 (0.000000)
+picked USER>>seq1876 (0.000000)
+picked USER>>seq1885 (0.000000)
+picked USER>>seq2215 (0.000000)
+picked USER>>seq2181 (0.000000)
+picked USER>>seq1915 (0.000000)
+picked USER>>seq1754 (0.000000)
+picked USER>>seq2512 (0.000000)
+picked USER>>seq1874 (0.000000)
+picked USER>>seq1699 (0.000000)
+picked USER>>seq2290 (0.000000)
+picked USER>>seq3010 (0.000000)
+picked USER>>seq1831 (0.000000)
+picked USER>>seq1853 (0.000000)
+picked USER>>seq1969 (0.000000)
+picked USER>>seq1412 (0.000000)
+picked USER>>seq1564 (0.000000)
+picked USER>>seq2338 (0.000000)
+picked USER>>seq2564 (0.000000)
+picked USER>>seq2275 (0.000000)
+picked USER>>seq2958 (0.000000)
+picked USER>>seq2915 (0.000000)
+picked USER>>seq1453 (0.000000)
+picked USER>>seq1576 (0.000000)
+picked USER>>seq1456 (0.000000)
+picked USER>>seq1694 (0.000000)
+picked USER>>seq1921 (0.000000)
+picked USER>>seq2208 (0.000000)
+picked USER>>seq1491 (0.000000)
+picked USER>>seq1463 (0.000000)
+picked USER>>seq1843 (0.000000)
+picked USER>>seq2148 (0.000000)
+picked USER>>seq1577 (0.000000)
+picked USER>>seq1687 (0.000000)
+picked USER>>seq1569 (0.000000)
+picked USER>>seq1305 (0.000000)
+picked USER>>seq1507 (0.000000)
+picked USER>>seq1672 (0.000000)
+picked USER>>seq2169 (0.000000)
+picked USER>>seq1306 (0.000000)
+picked USER>>seq1851 (0.000000)
+picked USER>>seq2280 (0.000000)
+picked USER>>seq2137 (0.000000)
+picked USER>>seq2189 (0.000000)
+picked USER>>seq2194 (0.000000)
+picked USER>>seq2139 (0.000000)
+picked USER>>seq2219 (0.000000)
+picked USER>>seq1923 (0.000000)
+picked USER>>seq1676 (0.000000)
+picked USER>>seq1895 (0.000000)
+picked USER>>seq1928 (0.000000)
+picked USER>>seq1743 (0.000000)
+picked USER>>seq1767 (0.000000)
+picked USER>>seq1681 (0.000000)
+picked USER>>seq1665 (0.000000)
+picked USER>>seq1954 (0.000000)
+picked USER>>seq2358 (0.000000)
+picked USER>>seq1856 (0.000000)
+picked USER>>seq1530 (0.000000)
+picked USER>>seq2195 (0.000000)
+picked USER>>seq1864 (0.000000)
+picked USER>>seq1945 (0.000000)
+picked USER>>seq1483 (0.000000)
+picked USER>>seq1922 (0.000000)
+picked USER>>seq1920 (0.000000)
+picked USER>>seq1607 (0.000000)
+picked USER>>seq1918 (0.000000)
+picked USER>>seq2136 (0.000000)
+picked USER>>seq2150 (0.000000)
+picked USER>>seq1646 (0.000000)
+picked USER>>seq2568 (0.000000)
+picked USER>>seq1766 (0.000000)
+picked USER>>seq1739 (0.000000)
+picked USER>>seq2465 (0.000000)
+picked USER>>seq2781 (0.000000)
+picked USER>>seq2489 (0.000000)
+picked USER>>seq1860 (0.000000)
+picked USER>>seq1403 (0.000000)
+picked USER>>seq1662 (0.000000)
+picked USER>>seq2953 (0.000000)
+picked USER>>seq3004 (0.000000)
+picked USER>>seq2562 (0.000000)
+picked USER>>seq2141 (0.000000)
+picked USER>>seq1764 (0.000000)
+picked USER>>seq2679 (0.000000)
+picked USER>>seq2152 (0.000000)
+picked USER>>seq2222 (0.000000)
+picked USER>>seq2430 (0.000000)
+picked USER>>seq2540 (0.000000)
+picked USER>>seq2461 (0.000000)
+picked USER>>seq2463 (0.000000)
+picked USER>>seq2495 (0.000000)
+picked USER>>seq1858 (0.000000)
+picked USER>>seq2897 (0.000000)
+picked USER>>seq2877 (0.000000)
+picked USER>>seq2739 (0.000000)
+picked USER>>seq2755 (0.000000)
+picked USER>>seq2397 (0.000000)
+picked USER>>seq2473 (0.000000)
+picked USER>>seq2394 (0.000000)
+picked USER>>seq2664 (0.000000)
+picked USER>>seq2948 (0.000000)
+picked USER>>seq2511 (0.000000)
+picked USER>>seq2491 (0.000000)
+picked USER>>seq2965 (0.000000)
+picked USER>>seq2124 (0.000000)
+picked USER>>seq2227 (0.000000)
+picked USER>>seq2579 (0.000000)
+picked USER>>seq1807 (0.000000)
+picked USER>>seq1883 (0.000000)
+picked USER>>seq3036 (0.000000)
+picked USER>>seq3066 (0.000000)
+picked USER>>seq1946 (0.000000)
+picked USER>>seq1485 (0.000000)
+picked USER>>seq2545 (0.000000)
+picked USER>>seq2142 (0.000000)
+picked USER>>seq2982 (0.000000)
+picked USER>>seq2575 (0.000000)
+picked USER>>seq3087 (0.000000)
+picked USER>>seq2126 (0.000000)
+picked USER>>seq3059 (0.000000)
+picked USER>>seq2996 (0.000000)
+picked USER>>seq1656 (0.000000)
+picked USER>>seq1547 (0.000000)
+picked USER>>seq1396 (0.000000)
+picked USER>>seq2983 (0.000000)
+picked USER>>seq2973 (0.000000)
+picked USER>>seq2287 (0.000000)
+picked USER>>seq1669 (0.000000)
+picked USER>>seq2894 (0.000000)
+picked USER>>seq1760 (0.000000)
+picked USER>>seq2742 (0.000000)
+picked USER>>seq2918 (0.000000)
+picked USER>>seq2751 (0.000000)
+picked USER>>seq2920 (0.000000)
+picked USER>>seq2167 (0.000000)
+picked USER>>seq3108 (0.000000)
+picked USER>>seq2645 (0.000000)
+picked USER>>seq1937 (0.000000)
+picked USER>>seq2192 (0.000000)
+picked USER>>seq2151 (0.000000)
+picked USER>>seq2406 (0.000000)
+picked USER>>seq1893 (0.000000)
+picked USER>>seq2862 (0.000000)
+picked USER>>seq2213 (0.000000)
+picked USER>>seq2544 (0.000000)
+picked USER>>seq2305 (0.000000)
+picked USER>>seq2594 (0.000000)
+picked USER>>seq2563 (0.000000)
+picked USER>>seq1866 (0.000000)
+picked USER>>seq1863 (0.000000)
+picked USER>>seq2398 (0.000000)
+picked USER>>seq2230 (0.000000)
+picked USER>>seq1872 (0.000000)
+picked USER>>seq1868 (0.000000)
+picked USER>>seq2668 (0.000000)
+picked USER>>seq2895 (0.000000)
+picked USER>>seq2951 (0.000000)
+picked USER>>seq2467 (0.000000)
+picked USER>>seq2336 (0.000000)
+picked USER>>seq2526 (0.000000)
+picked USER>>seq2768 (0.000000)
+picked USER>>seq1643 (0.000000)
+picked USER>>seq1685 (0.000000)
+picked USER>>seq2908 (0.000000)
+picked USER>>seq3041 (0.000000)
+picked USER>>seq2876 (0.000000)
+picked USER>>seq1697 (0.000000)
+picked USER>>seq1960 (0.000000)
+picked USER>>seq2362 (0.000000)
+picked USER>>seq2334 (0.000000)
+picked USER>>seq2238 (0.000000)
+picked USER>>seq2886 (0.000000)
+picked USER>>seq2841 (0.000000)
+picked USER>>seq2520 (0.000000)
+picked USER>>seq2501 (0.000000)
+picked USER>>seq2364 (0.000000)
+picked USER>>seq2149 (0.000000)
+picked USER>>seq2335 (0.000000)
+picked USER>>seq2454 (0.000000)
+picked USER>>seq2497 (0.000000)
+picked USER>>seq3052 (0.000000)
+picked USER>>seq2743 (0.000000)
+picked USER>>seq2171 (0.000000)
+picked USER>>seq2681 (0.000000)
+picked USER>>seq2577 (0.000000)
+picked USER>>seq3295 (0.000000)
+picked USER>>seq2445 (0.000000)
+picked USER>>seq2987 (0.000000)
+picked USER>>seq2995 (0.000000)
+picked USER>>seq2914 (0.000000)
+picked USER>>seq2754 (0.000000)
+picked USER>>seq2868 (0.000000)
+picked USER>>seq2573 (0.000000)
+picked USER>>seq2981 (0.000000)
+picked USER>>seq2472 (0.000000)
+picked USER>>seq2452 (0.000000)
+picked USER>>seq3513 (0.000000)
+picked USER>>seq2300 (0.000000)
+picked USER>>seq2459 (0.000000)
+picked USER>>seq2425 (0.000000)
+picked USER>>seq1787 (0.000000)
+picked USER>>seq1944 (0.000000)
+picked USER>>seq1839 (0.000000)
+picked USER>>seq2732 (0.000000)
+picked USER>>seq2515 (0.000000)
+picked USER>>seq2221 (0.000000)
+picked USER>>seq2190 (0.000000)
+picked USER>>seq2434 (0.000000)
+picked USER>>seq1952 (0.000000)
+picked USER>>seq3160 (0.000000)
+picked USER>>seq2954 (0.000000)
+picked USER>>seq2324 (0.000000)
+picked USER>>seq2332 (0.000000)
+picked USER>>seq2404 (0.000000)
+picked USER>>seq2730 (0.000000)
+picked USER>>seq2582 (0.000000)
+picked USER>>seq2879 (0.000000)
+picked USER>>seq2940 (0.000000)
+picked USER>>seq2343 (0.000000)
+picked USER>>seq2421 (0.000000)
+picked USER>>seq2567 (0.000000)
+picked USER>>seq2401 (0.000000)
+picked USER>>seq2376 (0.000000)
+picked USER>>seq2557 (0.000000)
+picked USER>>seq2677 (0.000000)
+picked USER>>seq2735 (0.000000)
+picked USER>>seq2450 (0.000000)
+picked USER>>seq2304 (0.000000)
+picked USER>>seq1683 (0.000000)
+picked USER>>seq2420 (0.000000)
+picked USER>>seq2559 (0.000000)
+picked USER>>seq2342 (0.000000)
+picked USER>>seq2630 (0.000000)
+picked USER>>seq2436 (0.000000)
+picked USER>>seq2435 (0.000000)
+picked USER>>seq2763 (0.000000)
+picked USER>>seq2885 (0.000000)
+picked USER>>seq2856 (0.000000)
+picked USER>>seq2493 (0.000000)
+picked USER>>seq2596 (0.000000)
+picked USER>>seq2460 (0.000000)
+picked USER>>seq2794 (0.000000)
+picked USER>>seq2726 (0.000000)
+picked USER>>seq2329 (0.000000)
+picked USER>>seq2438 (0.000000)
+picked USER>>seq2402 (0.223144)
+picked USER>>seq2357 (0.000000)
+picked USER>>seq3065 (0.000000)
+picked USER>>seq2839 (0.000000)
+picked USER>>seq2554 (0.000000)
+picked USER>>seq2780 (0.000000)
+picked USER>>seq2737 (0.000000)
+picked USER>>seq2525 (0.000000)
+picked USER>>seq2464 (0.000000)
+picked USER>>seq2587 (0.000000)
+picked USER>>seq2744 (0.000000)
+picked USER>>seq2536 (0.000000)
+picked USER>>seq2648 (0.000000)
+picked USER>>seq2363 (0.000000)
+picked USER>>seq2685 (0.000000)
+picked USER>>seq2441 (0.000000)
+picked USER>>seq2538 (0.000000)
+picked USER>>seq2571 (0.000000)
+picked USER>>seq2239 (0.000000)
+picked USER>>seq2513 (0.000000)
+picked USER>>seq2466 (0.000000)
+picked USER>>seq2581 (0.000000)
+picked USER>>seq2506 (0.000000)
+picked USER>>seq2752 (0.000000)
+picked USER>>seq2161 (0.000000)
+picked USER>>seq2867 (0.000000)
+picked USER>>seq2443 (0.000000)
+picked USER>>seq2229 (0.000000)
+picked USER>>seq3267 (0.000000)
+picked USER>>seq1902 (0.000000)
+picked USER>>seq2727 (0.000000)
+picked USER>>seq2207 (0.000000)
+picked USER>>seq2185 (0.000000)
+picked USER>>seq1854 (0.000000)
+picked USER>>seq2537 (0.000000)
+picked USER>>seq2753 (0.000000)
+picked USER>>seq2311 (0.000000)
+picked USER>>seq2585 (0.000000)
+picked USER>>seq1901 (0.000000)
+picked USER>>seq2527 (0.000000)
+picked USER>>seq2539 (0.000000)
+picked USER>>seq3327 (0.000000)
+picked USER>>seq2433 (0.000000)
+picked USER>>seq2399 (0.000000)
+picked USER>>seq2178 (0.000000)
+picked USER>>seq2837 (0.000000)
+picked USER>>seq3139 (0.000000)
+picked USER>>seq1852 (0.000000)
+picked USER>>seq2469 (0.000000)
+picked USER>>seq1877 (0.000000)
+picked USER>>seq2214 (0.000000)
+picked USER>>seq2302 (0.000000)
+picked USER>>seq2352 (0.000000)
+picked USER>>seq2514 (0.000000)
+picked USER>>seq2470 (0.000000)
+picked USER>>seq2990 (0.000000)
+picked USER>>seq2451 (0.000000)
+picked USER>>seq2665 (0.000000)
+picked USER>>seq2580 (0.000000)
+picked USER>>seq2442 (0.000000)
+picked USER>>seq2333 (0.000000)
+picked USER>>seq2518 (0.000000)
+picked USER>>seq2306 (0.000000)
+picked USER>>seq2528 (0.000000)
+picked USER>>seq3058 (0.000000)
+picked USER>>seq2405 (0.000000)
+picked USER>>seq2565 (0.000000)
+picked USER>>seq2610 (0.000000)
+picked USER>>seq2456 (0.000000)
+picked USER>>seq2843 (0.000000)
+picked USER>>seq2422 (0.000000)
+picked USER>>seq2477 (0.000000)
+picked USER>>seq2725 (0.000000)
+picked USER>>seq2507 (0.000000)
+picked USER>>seq1723 (0.000000)
+picked USER>>seq1908 (0.000000)
+picked USER>>seq1965 (0.000000)
+picked USER>>seq2776 (0.000000)
+picked USER>>seq2391 (0.000000)
+picked USER>>seq2631 (0.000000)
+picked USER>>seq2180 (0.000000)
+picked USER>>seq1746 (0.000000)
+picked USER>>seq2516 (0.000000)
+picked USER>>seq2747 (0.000000)
+picked USER>>seq2910 (0.000000)
+picked USER>>seq2670 (0.000000)
+picked USER>>seq2649 (0.000000)
+picked USER>>seq2437 (0.000000)
+picked USER>>seq2905 (0.000000)
+picked USER>>seq2411 (0.000000)
+picked USER>>seq2211 (0.000000)
+picked USER>>seq2599 (0.000000)
+picked USER>>seq2961 (0.000000)
+picked USER>>seq2339 (0.000000)
+picked USER>>seq3114 (0.000000)
+picked USER>>seq2831 (0.000000)
+picked USER>>seq3131 (0.000000)
+picked USER>>seq2678 (0.000000)
+picked USER>>seq2680 (0.000000)
+picked USER>>seq3181 (0.000000)
+picked USER>>seq2503 (0.000000)
+picked USER>>seq2672 (0.000000)
+picked USER>>seq2344 (0.000000)
+picked USER>>seq2844 (0.000000)
+picked USER>>seq2494 (0.000000)
+picked USER>>seq1837 (0.000000)
+picked USER>>seq3001 (0.000000)
+picked USER>>seq2588 (0.000000)
+picked USER>>seq3723 (0.000000)
+picked USER>>seq2135 (0.000000)
+picked USER>>seq3323 (0.000000)
+picked USER>>seq3727 (0.000000)
+picked USER>>seq3573 (0.000000)
+picked USER>>seq3069 (0.000000)
+picked USER>>seq2815 (0.000000)
+picked USER>>seq2960 (0.000000)
+picked USER>>seq3561 (0.000000)
+picked USER>>seq3654 (0.000000)
+picked USER>>seq3649 (0.000000)
+picked USER>>seq3146 (0.000000)
+picked USER>>seq3187 (0.000000)
+picked USER>>seq3045 (0.000000)
+picked USER>>seq2553 (0.000000)
+picked USER>>seq2509 (0.000000)
+picked USER>>seq2866 (0.000000)
+picked USER>>seq2566 (0.000000)
+picked USER>>seq2968 (0.000000)
+picked USER>>seq2589 (0.000000)
+picked USER>>seq1859 (0.000000)
+picked USER>>seq3309 (0.000000)
+picked USER>>seq2449 (0.000000)
+picked USER>>seq3040 (0.000000)
+picked USER>>seq2448 (0.000000)
+picked USER>>seq2928 (0.000000)
+picked USER>>seq2555 (0.000000)
+picked USER>>seq2899 (0.000000)
+picked USER>>seq2878 (0.000000)
+picked USER>>seq2955 (0.000000)
+picked USER>>seq2863 (0.000000)
+picked USER>>seq2957 (0.000000)
+picked USER>>seq2408 (0.000000)
+picked USER>>seq3093 (0.000000)
+picked USER>>seq4295 (0.000000)
+picked USER>>seq3002 (0.000000)
+picked USER>>seq3046 (0.000000)
+picked USER>>seq3992 (0.000000)
+picked USER>>seq4045 (0.000000)
+picked USER>>seq2901 (0.000000)
+picked USER>>seq3496 (0.000000)
+picked USER>>seq1910 (0.000000)
+picked USER>>seq3468 (0.000000)
+picked USER>>seq4485 (0.000000)
+picked USER>>seq3012 (0.000000)
+picked USER>>seq3117 (0.000000)
+picked USER>>seq2912 (0.000000)
+picked USER>>seq3614 (0.000000)
+picked USER>>seq4087 (0.000000)
+picked USER>>seq4480 (0.000000)
+picked USER>>seq3338 (0.000000)
+picked USER>>seq3803 (0.000000)
+picked USER>>seq3817 (0.000000)
+picked USER>>seq3954 (0.000000)
+picked USER>>seq3798 (0.000000)
+picked USER>>seq3023 (0.000000)
+picked USER>>seq3526 (0.000000)
+picked USER>>seq4191 (0.000000)
+picked USER>>seq4259 (0.000000)
+picked USER>>seq4139 (0.000000)
+picked USER>>seq3280 (0.000000)
+picked USER>>seq3186 (0.000000)
+picked USER>>seq4108 (0.000000)
+picked USER>>seq3657 (0.000000)
+picked USER>>seq4313 (0.000000)
+picked USER>>seq3813 (0.000000)
+picked USER>>seq4043 (0.000000)
+picked USER>>seq3643 (0.000000)
+picked USER>>seq3608 (0.000000)
+picked USER>>seq4002 (0.000000)
+picked USER>>seq2510 (0.000000)
+picked USER>>seq3033 (0.000000)
+picked USER>>seq3339 (0.000000)
+picked USER>>seq3381 (0.000000)
+picked USER>>seq3545 (0.000000)
+picked USER>>seq3260 (0.000000)
+picked USER>>seq2738 (0.000000)
+picked USER>>seq3003 (0.000000)
+picked USER>>seq3014 (0.000000)
+picked USER>>seq4198 (0.000000)
+picked USER>>seq3711 (0.000000)
+picked USER>>seq2979 (0.000000)
+picked USER>>seq3345 (0.000000)
+picked USER>>seq2916 (0.000000)
+picked USER>>seq3634 (0.000000)
+picked USER>>seq3462 (0.000000)
+picked USER>>seq3035 (0.000000)
+picked USER>>seq3486 (0.000000)
+picked USER>>seq3484 (0.000000)
+picked USER>>seq3648 (0.000000)
+picked USER>>seq3722 (0.000000)
+picked USER>>seq3456 (0.000000)
+picked USER>>seq3983 (0.000000)
+picked USER>>seq4143 (0.000000)
+picked USER>>seq4039 (0.000000)
+picked USER>>seq4079 (0.000000)
+picked USER>>seq4093 (0.000000)
+picked USER>>seq3626 (0.000000)
+picked USER>>seq3498 (0.000000)
+picked USER>>seq3633 (0.000000)
+picked USER>>seq3538 (0.000000)
+picked USER>>seq3549 (0.000000)
+picked USER>>seq3532 (0.000000)
+picked USER>>seq3164 (0.000000)
+picked USER>>seq2941 (0.000000)
+picked USER>>seq2939 (0.000000)
+picked USER>>seq2874 (0.000000)
+picked USER>>seq3541 (0.000000)
+picked USER>>seq3662 (0.000000)
+picked USER>>seq3051 (0.000000)
+picked USER>>seq3034 (0.000000)
+picked USER>>seq3008 (0.000000)
+picked USER>>seq3007 (0.000000)
+picked USER>>seq3049 (0.000000)
+picked USER>>seq3060 (0.000000)
+picked USER>>seq3027 (0.000000)
+picked USER>>seq3521 (0.000000)
+picked USER>>seq2666 (0.000000)
+picked USER>>seq2576 (0.000000)
+picked USER>>seq3572 (0.000000)
+picked USER>>seq2998 (0.000000)
+picked USER>>seq3807 (0.000000)
+picked USER>>seq3150 (0.000000)
+picked USER>>seq3576 (0.000000)
+picked USER>>seq3277 (0.000000)
+picked USER>>seq3086 (0.000000)
+picked USER>>seq3796 (0.000000)
+picked USER>>seq3511 (0.000000)
+picked USER>>seq3620 (0.000000)
+picked USER>>seq4151 (0.000000)
+picked USER>>seq3968 (0.000000)
+picked USER>>seq3753 (0.000000)
+picked USER>>seq3294 (0.000000)
+picked USER>>seq3351 (0.000000)
+picked USER>>seq3558 (0.000000)
+picked USER>>seq3704 (0.000000)
+picked USER>>seq4119 (0.000000)
+picked USER>>seq3336 (0.000000)
+picked USER>>seq3261 (0.000000)
+picked USER>>seq3317 (0.000000)
+picked USER>>seq3801 (0.000000)
+picked USER>>seq3207 (0.000000)
+picked USER>>seq3340 (0.000000)
+picked USER>>seq3816 (0.000000)
+picked USER>>seq3031 (0.000000)
+picked USER>>seq3109 (0.000000)
+picked USER>>seq3094 (0.000000)
+picked USER>>seq3078 (0.000000)
+picked USER>>seq3278 (0.000000)
+picked USER>>seq3678 (0.000000)
+picked USER>>seq3651 (0.000000)
+picked USER>>seq3364 (0.000000)
+picked USER>>seq3178 (0.000000)
+picked USER>>seq3337 (0.000000)
+picked USER>>seq3147 (0.000000)
+picked USER>>seq4125 (0.000000)
+picked USER>>seq3836 (0.000000)
+picked USER>>seq3409 (0.000000)
+picked USER>>seq3293 (0.000000)
+picked USER>>seq4046 (0.000000)
+picked USER>>seq3668 (0.000000)
+picked USER>>seq3775 (0.000000)
+picked USER>>seq3524 (0.000000)
+picked USER>>seq3461 (0.000000)
+picked USER>>seq3650 (0.000000)
+picked USER>>seq3189 (0.000000)
+picked USER>>seq3167 (0.000000)
+picked USER>>seq3265 (0.000000)
+picked USER>>seq3485 (0.000000)
+picked USER>>seq3137 (0.000000)
+picked USER>>seq3091 (0.000000)
+picked USER>>seq3100 (0.000000)
+picked USER>>seq3130 (0.000000)
+picked USER>>seq2964 (0.000000)
+picked USER>>seq3082 (0.000000)
+picked USER>>seq3516 (0.000000)
+picked USER>>seq2674 (0.000000)
+picked USER>>seq3898 (0.000000)
+picked USER>>seq3264 (0.000000)
+picked USER>>seq3020 (0.000000)
+picked USER>>seq3275 (0.000000)
+picked USER>>seq3153 (0.000000)
+picked USER>>seq4123 (0.000000)
+picked USER>>seq2872 (0.000000)
+picked USER>>seq4284 (0.000000)
+picked USER>>seq3047 (0.000000)
+picked USER>>seq3274 (0.000000)
+picked USER>>seq2887 (0.000000)
+picked USER>>seq2967 (0.000000)
+picked USER>>seq3096 (0.000000)
+picked USER>>seq2943 (0.000000)
+picked USER>>seq2900 (0.000000)
+picked USER>>seq3044 (0.000000)
+picked USER>>seq3000 (0.000000)
+picked USER>>seq2934 (0.000000)
+picked USER>>seq3067 (0.000000)
+picked USER>>seq3097 (0.000000)
+picked USER>>seq3168 (0.000000)
+picked USER>>seq3042 (0.000000)
+picked USER>>seq3013 (0.000000)
+picked USER>>seq2992 (0.000000)
+picked USER>>seq3148 (0.000000)
+picked USER>>seq3077 (0.000000)
+picked USER>>seq2999 (0.000000)
+picked USER>>seq3080 (0.000000)
+picked USER>>seq3015 (0.000000)
+picked USER>>seq3021 (0.000000)
+picked USER>>seq3170 (0.000000)
+picked USER>>seq2922 (0.000000)
+picked USER>>seq2936 (0.000000)
+picked USER>>seq2913 (0.000000)
+picked USER>>seq3092 (0.000000)
+picked USER>>seq3118 (0.000000)
+picked USER>>seq3085 (0.000000)
+picked USER>>seq3255 (0.000000)
+picked USER>>seq3387 (0.000000)
+picked USER>>seq3568 (0.000000)
+picked USER>>seq3063 (0.000000)
+picked USER>>seq3508 (0.000000)
+picked USER>>seq3098 (0.000000)
+picked USER>>seq3084 (0.000000)
+picked USER>>seq3815 (0.000000)
+picked USER>>seq3505 (0.000000)
+picked USER>>seq3899 (0.000000)
+picked USER>>seq3669 (0.000000)
+picked USER>>seq3161 (0.000000)
+picked USER>>seq3771 (0.000000)
+picked USER>>seq3197 (0.000000)
+picked USER>>seq3017 (0.000000)
+picked USER>>seq3188 (0.000000)
+picked USER>>seq3476 (0.000000)
+picked USER>>seq3290 (0.000000)
+picked USER>>seq3481 (0.000000)
+picked USER>>seq3272 (0.000000)
+picked USER>>seq3301 (0.000000)
+picked USER>>seq3459 (0.000000)
+picked USER>>seq3175 (0.000000)
+picked USER>>seq3548 (0.000000)
+picked USER>>seq4073 (0.000000)
+picked USER>>seq4197 (0.000000)
+picked USER>>seq4146 (0.000000)
+picked USER>>seq3980 (0.000000)
+picked USER>>seq3784 (0.000000)
+picked USER>>seq3143 (0.000000)
+picked USER>>seq3366 (0.000000)
+picked USER>>seq3499 (0.000000)
+picked USER>>seq3896 (0.000000)
+picked USER>>seq3559 (0.000000)
+picked USER>>seq3705 (0.000000)
+picked USER>>seq3365 (0.000000)
+picked USER>>seq3833 (0.000000)
+picked USER>>seq3263 (0.000000)
+picked USER>>seq3761 (0.000000)
+picked USER>>seq3901 (0.000000)
+picked USER>>seq3286 (0.000000)
+picked USER>>seq3424 (0.000000)
+picked USER>>seq3335 (0.000000)
+picked USER>>seq3458 (0.000000)
+picked USER>>seq3480 (0.000000)
+picked USER>>seq3995 (0.000000)
+picked USER>>seq3502 (0.000000)
+picked USER>>seq3396 (0.000000)
+picked USER>>seq3592 (0.000000)
+picked USER>>seq3642 (0.000000)
+picked USER>>seq3674 (0.000000)
+picked USER>>seq3492 (0.000000)
+picked USER>>seq3357 (0.000000)
+picked USER>>seq4124 (0.000000)
+picked USER>>seq4155 (0.000000)
+picked USER>>seq4131 (0.000000)
+picked USER>>seq4279 (0.000000)
+picked USER>>seq4150 (0.000000)
+picked USER>>seq4164 (0.000000)
+picked USER>>seq2892 (0.000000)
+picked USER>>seq3395 (0.000000)
+picked USER>>seq3324 (0.000000)
+picked USER>>seq3166 (0.000000)
+picked USER>>seq4035 (0.000000)
+picked USER>>seq3190 (0.000000)
+picked USER>>seq3134 (0.000000)
+picked USER>>seq2906 (0.000000)
+picked USER>>seq3099 (0.000000)
+picked USER>>seq3353 (0.000000)
+picked USER>>seq3536 (0.000000)
+picked USER>>seq3870 (0.000000)
+picked USER>>seq3360 (0.000000)
+picked USER>>seq3967 (0.000000)
+picked USER>>seq3285 (0.000000)
+picked USER>>seq3333 (0.000000)
+picked USER>>seq3751 (0.000000)
+picked USER>>seq3120 (0.000000)
+picked USER>>seq3971 (0.000000)
+picked USER>>seq4074 (0.000000)
+picked USER>>seq4011 (0.000000)
+picked USER>>seq3394 (0.000000)
+picked USER>>seq3562 (0.000000)
+picked USER>>seq3820 (0.000000)
+picked USER>>seq3159 (0.000000)
+picked USER>>seq3095 (0.000000)
+picked USER>>seq3785 (0.000000)
+picked USER>>seq3569 (0.000000)
+picked USER>>seq3115 (0.000000)
+picked USER>>seq3090 (0.000000)
+picked USER>>seq4165 (0.000000)
+picked USER>>seq3205 (0.000000)
+picked USER>>seq3367 (0.000000)
+picked USER>>seq3810 (0.000000)
+picked USER>>seq3489 (0.000000)
+picked USER>>seq2942 (0.000000)
+picked USER>>seq3006 (0.000000)
+picked USER>>seq3358 (0.000000)
+picked USER>>seq3341 (0.000000)
+picked USER>>seq3356 (0.000000)
+picked USER>>seq3671 (0.000000)
+picked USER>>seq3531 (0.000000)
+picked USER>>seq3583 (0.000000)
+picked USER>>seq3628 (0.000000)
+picked USER>>seq3019 (0.000000)
+picked USER>>seq3305 (0.000000)
+picked USER>>seq3169 (0.000000)
+picked USER>>seq3079 (0.000000)
+picked USER>>seq3113 (0.000000)
+picked USER>>seq3795 (0.000000)
+picked USER>>seq3268 (0.000000)
+picked USER>>seq3463 (0.000000)
+picked USER>>seq3571 (0.000000)
+picked USER>>seq3759 (0.000000)
+picked USER>>seq3734 (0.000000)
+picked USER>>seq3943 (0.000000)
+picked USER>>seq3832 (0.000000)
+picked USER>>seq3972 (0.000000)
+picked USER>>seq4068 (0.000000)
+picked USER>>seq3607 (0.000000)
+picked USER>>seq3594 (0.000000)
+picked USER>>seq3385 (0.000000)
+picked USER>>seq3028 (0.000000)
+picked USER>>seq3307 (0.000000)
+picked USER>>seq3767 (0.000000)
+picked USER>>seq3863 (0.000000)
+picked USER>>seq3659 (0.000000)
+picked USER>>seq3158 (0.000000)
+picked USER>>seq3138 (0.000000)
+picked USER>>seq3119 (0.000000)
+picked USER>>seq3964 (0.000000)
+picked USER>>seq3563 (0.000000)
+picked USER>>seq3469 (0.000000)
+picked USER>>seq3282 (0.000000)
+picked USER>>seq3811 (0.000000)
+picked USER>>seq3969 (0.000000)
+picked USER>>seq3800 (0.000000)
+picked USER>>seq4005 (0.000000)
+picked USER>>seq3757 (0.000000)
+picked USER>>seq3756 (0.000000)
+picked USER>>seq3749 (0.000000)
+picked USER>>seq3786 (0.000000)
+picked USER>>seq3355 (0.000000)
+picked USER>>seq3504 (0.000000)
+picked USER>>seq3283 (0.000000)
+picked USER>>seq3471 (0.000000)
+picked USER>>seq3755 (0.000000)
+picked USER>>seq4179 (0.000000)
+picked USER>>seq3809 (0.000000)
+picked USER>>seq4227 (0.000000)
+picked USER>>seq3806 (0.000000)
+picked USER>>seq3951 (0.000000)
+picked USER>>seq4418 (0.000000)
+picked USER>>seq4268 (0.000000)
+picked USER>>seq4580 (0.000000)
+picked USER>>seq3472 (0.000000)
+picked USER>>seq4183 (0.000000)
+picked USER>>seq3629 (0.000000)
+picked USER>>seq3623 (0.000000)
+picked USER>>seq3955 (0.000000)
+picked USER>>seq3714 (0.000000)
+picked USER>>seq3717 (0.000000)
+picked USER>>seq3665 (0.000000)
+picked USER>>seq3560 (0.000000)
+picked USER>>seq3554 (0.000000)
+picked USER>>seq3593 (0.000000)
+picked USER>>seq3523 (0.000000)
+picked USER>>seq3710 (0.000000)
+picked USER>>seq3655 (0.000000)
+picked USER>>seq3695 (0.000000)
+picked USER>>seq3622 (0.000000)
+picked USER>>seq3488 (0.000000)
+picked USER>>seq3529 (0.000000)
+picked USER>>seq3720 (0.000000)
+picked USER>>seq3262 (0.000000)
+picked USER>>seq3721 (0.000000)
+picked USER>>seq3725 (0.000000)
+picked USER>>seq3539 (0.000000)
+picked USER>>seq3555 (0.000000)
+picked USER>>seq3325 (0.000000)
+picked USER>>seq3386 (0.000000)
+picked USER>>seq3482 (0.000000)
+picked USER>>seq3790 (0.000000)
+picked USER>>seq3861 (0.000000)
+picked USER>>seq3495 (0.000000)
+picked USER>>seq3577 (0.000000)
+picked USER>>seq4061 (0.000000)
+picked USER>>seq3527 (0.000000)
+picked USER>>seq4044 (0.000000)
+picked USER>>seq4015 (0.000000)
+picked USER>>seq4010 (0.000000)
+picked USER>>seq3672 (0.000000)
+picked USER>>seq3551 (0.000000)
+picked USER>>seq3570 (0.000000)
+picked USER>>seq3750 (0.000000)
+picked USER>>seq4022 (0.000000)
+picked USER>>seq3479 (0.000000)
+picked USER>>seq3965 (0.000000)
+picked USER>>seq4398 (0.000000)
+picked USER>>seq4083 (0.000000)
+picked USER>>seq3938 (0.000000)
+picked USER>>seq3712 (0.000000)
+picked USER>>seq3637 (0.000000)
+picked USER>>seq3842 (0.000000)
+picked USER>>seq3510 (0.000000)
+picked USER>>seq3039 (0.000000)
+picked USER>>seq3352 (0.000000)
+picked USER>>seq3530 (0.000000)
+picked USER>>seq3944 (0.000000)
+picked USER>>seq3342 (0.000000)
+picked USER>>seq2947 (0.000000)
+picked USER>>seq3446 (0.000000)
+picked USER>>seq3140 (0.000000)
+picked USER>>seq3030 (0.000000)
+picked USER>>seq3229 (0.000000)
+picked USER>>seq3162 (0.000000)
+picked USER>>seq3050 (0.000000)
+picked USER>>seq3043 (0.000000)
+picked USER>>seq3061 (0.000000)
+picked USER>>seq3306 (0.000000)
+picked USER>>seq3331 (0.000000)
+picked USER>>seq3507 (0.000000)
+picked USER>>seq3658 (0.000000)
+picked USER>>seq3612 (0.000000)
+picked USER>>seq3322 (0.000000)
+picked USER>>seq3054 (0.000000)
+picked USER>>seq3141 (0.000000)
+picked USER>>seq3142 (0.000000)
+picked USER>>seq3152 (0.000000)
+picked USER>>seq3991 (0.000000)
+picked USER>>seq4472 (0.000000)
+picked USER>>seq3970 (0.000000)
+picked USER>>seq3663 (0.000000)
+picked USER>>seq4086 (0.000000)
+picked USER>>seq3347 (0.000000)
+picked USER>>seq3666 (0.000000)
+picked USER>>seq3715 (0.000000)
+picked USER>>seq4397 (0.000000)
+picked USER>>seq4458 (0.000000)
+picked USER>>seq3827 (0.000000)
+picked USER>>seq4589 (0.000000)
+picked USER>>seq3647 (0.000000)
+picked USER>>seq4141 (0.000000)
+picked USER>>seq3862 (0.000000)
+picked USER>>seq4436 (0.000000)
+picked USER>>seq4438 (0.000000)
+picked USER>>seq3731 (0.000000)
+picked USER>>seq4220 (0.000000)
+picked USER>>seq4057 (0.000000)
+picked USER>>seq4158 (0.000000)
+picked USER>>seq4510 (0.000000)
+picked USER>>seq4282 (0.000000)
+picked USER>>seq4551 (0.000000)
+picked USER>>seq4133 (0.000000)
+picked USER>>seq4507 (0.000000)
+picked USER>>seq4382 (0.000000)
+picked USER>>seq4306 (0.000000)
+picked USER>>seq4403 (0.000000)
+picked USER>>seq4390 (0.000000)
+picked USER>>seq4358 (0.000000)
+picked USER>>seq4246 (0.000000)
+picked USER>>seq4340 (0.000000)
+picked USER>>seq4265 (0.000000)
+picked USER>>seq4369 (0.000000)
+picked USER>>seq4247 (0.000000)
+picked USER>>seq4240 (0.000000)
+picked USER>>seq4287 (0.000000)
+picked USER>>seq4225 (0.000000)
+picked USER>>seq4286 (0.000000)
+picked USER>>seq4311 (0.000000)
+picked USER>>seq4292 (0.000000)
+picked USER>>seq4178 (0.000000)
+picked USER>>seq4445 (0.000000)
+picked USER>>seq4102 (0.000000)
+picked USER>>seq4138 (0.000000)
+picked USER>>seq4499 (0.000000)
+picked USER>>seq4371 (0.000000)
+picked USER>>seq4204 (0.000000)
+picked USER>>seq3848 (0.000000)
+picked USER>>seq4424 (0.000000)
+picked USER>>seq4257 (0.000000)
+picked USER>>seq4359 (0.000000)
+picked USER>>seq4219 (0.000000)
+picked USER>>seq4500 (0.000000)
+picked USER>>seq3581 (0.000000)
+picked USER>>seq3708 (0.000000)
+picked USER>>seq4159 (0.000000)
+picked USER>>seq4236 (0.000000)
+picked USER>>seq4226 (0.000000)
+picked USER>>seq4280 (0.000000)
+picked USER>>seq3835 (0.000000)
+picked USER>>seq3308 (0.000000)
+picked USER>>seq3350 (0.000000)
+picked USER>>seq3460 (0.000000)
+picked USER>>seq3673 (0.000000)
+picked USER>>seq3652 (0.000000)
+picked USER>>seq3616 (0.000000)
+picked USER>>seq3534 (0.000000)
+picked USER>>seq3362 (0.000000)
+picked USER>>seq4200 (0.000000)
+picked USER>>seq3372 (0.000000)
+picked USER>>seq3621 (0.000000)
+picked USER>>seq4052 (0.000000)
+picked USER>>seq3818 (0.000000)
+picked USER>>seq3834 (0.000000)
+picked USER>>seq3844 (0.000000)
+picked USER>>seq4144 (0.000000)
+picked USER>>seq3580 (0.000000)
+picked USER>>seq3414 (0.000000)
+picked USER>>seq4132 (0.000000)
+picked USER>>seq3738 (0.000000)
+picked USER>>seq3475 (0.000000)
+picked USER>>seq3728 (0.000000)
+picked USER>>seq3780 (0.000000)
+picked USER>>seq3773 (0.000000)
+picked USER>>seq3903 (0.000000)
+picked USER>>seq3945 (0.000000)
+picked USER>>seq3627 (0.000000)
+picked USER>>seq3537 (0.000000)
+picked USER>>seq3393 (0.000000)
+picked USER>>seq3494 (0.000000)
+picked USER>>seq3509 (0.000000)
+picked USER>>seq3610 (0.000000)
+picked USER>>seq3515 (0.000000)
+picked USER>>seq3518 (0.000000)
+picked USER>>seq3522 (0.000000)
+picked USER>>seq4013 (0.000000)
+picked USER>>seq3632 (0.000000)
+picked USER>>seq3845 (0.000000)
+picked USER>>seq4393 (0.000000)
+picked USER>>seq4465 (0.000000)
+picked USER>>seq4484 (0.000000)
+picked USER>>seq4405 (0.000000)
+picked USER>>seq4065 (0.000000)
+picked USER>>seq4360 (0.000000)
+picked USER>>seq3533 (0.000000)
+picked USER>>seq4293 (0.000000)
+picked USER>>seq3599 (0.000000)
+picked USER>>seq4048 (0.000000)
+picked USER>>seq4512 (0.000000)
+picked USER>>seq4543 (0.000000)
+picked USER>>seq3741 (0.000000)
+picked USER>>seq3606 (0.000000)
+picked USER>>seq3752 (0.000000)
+picked USER>>seq4260 (0.000000)
+picked USER>>seq3582 (0.000000)
+picked USER>>seq4290 (0.000000)
+picked USER>>seq4289 (0.000000)
+picked USER>>seq4532 (0.000000)
+picked USER>>seq3782 (0.000000)
+picked USER>>seq4186 (0.000000)
+picked USER>>seq3989 (0.000000)
+picked USER>>seq4489 (0.000000)
+picked USER>>seq4482 (0.000000)
+picked USER>>seq4521 (0.000000)
+picked USER>>seq4548 (0.000000)
+picked USER>>seq4531 (0.000000)
+picked USER>>seq4454 (0.000000)
+picked USER>>seq4021 (0.000000)
+picked USER>>seq4008 (0.000000)
+picked USER>>seq3895 (0.000000)
+picked USER>>seq4444 (0.000000)
+picked USER>>seq4492 (0.000000)
+picked USER>>seq4520 (0.000000)
+picked USER>>seq4474 (0.000000)
+picked USER>>seq4421 (0.000000)
+picked USER>>seq4036 (0.000000)
+picked USER>>seq4168 (0.000000)
+picked USER>>seq4547 (0.000000)
+picked USER>>seq4529 (0.000000)
+picked USER>>seq4451 (0.000000)
+picked USER>>seq4497 (0.000000)
+picked USER>>seq4587 (0.000000)
+picked USER>>seq4312 (0.000000)
+picked USER>>seq4528 (0.000000)
+picked USER>>seq4527 (0.000000)
+picked USER>>seq4523 (0.000000)
+picked USER>>seq3826 (0.000000)
+picked USER>>seq4463 (0.000000)
+picked USER>>seq4582 (0.000000)
+picked USER>>seq3797 (0.000000)
+picked USER>>seq4468 (0.000000)
+picked USER>>seq3611 (0.000000)
+picked USER>>seq4262 (0.000000)
+picked USER>>seq4190 (0.000000)
+picked USER>>seq4081 (0.000000)
+picked USER>>seq3635 (0.000000)
+picked USER>>seq3716 (0.000000)
+picked USER>>seq4309 (0.000000)
+picked USER>>seq3677 (0.000000)
+picked USER>>seq3692 (0.000000)
+picked USER>>seq3707 (0.000000)
+picked USER>>seq4254 (0.000000)
+picked USER>>seq4216 (0.000000)
+picked USER>>seq4476 (0.000000)
+picked USER>>seq3744 (0.000000)
+picked USER>>seq4478 (0.000000)
+picked USER>>seq3760 (0.000000)
+picked USER>>seq4466 (0.000000)
+picked USER>>seq3779 (0.000000)
+picked USER>>seq3799 (0.000000)
+picked USER>>seq3819 (0.000000)
+picked USER>>seq3838 (0.000000)
+picked USER>>seq4383 (0.000000)
+picked USER>>seq3894 (0.000000)
+picked USER>>seq3932 (0.000000)
+picked USER>>seq3982 (0.000000)
+picked USER>>seq4059 (0.000000)
+picked USER>>seq4428 (0.000000)
+picked USER>>seq3958 (0.000000)
+picked USER>>seq4470 (0.000000)
+picked USER>>seq3999 (0.000000)
+picked USER>>seq4425 (0.000000)
+picked USER>>seq4251 (0.000000)
+picked USER>>seq4007 (0.000000)
+picked USER>>seq4026 (0.000000)
+picked USER>>seq4440 (0.000000)
+picked USER>>seq4250 (0.000000)
+picked USER>>seq4354 (0.000000)
+picked USER>>seq4488 (0.000000)
+picked USER>>seq4443 (0.000000)
+picked USER>>seq4591 (0.000000)
+picked USER>>seq4042 (0.000000)
+picked USER>>seq4540 (0.000000)
+picked USER>>seq4053 (0.000000)
+picked USER>>seq4085 (0.000000)
+picked USER>>seq4546 (0.000000)
+picked USER>>seq4441 (0.000000)
+picked USER>>seq4058 (0.000000)
+picked USER>>seq4075 (0.000000)
+picked USER>>seq4077 (0.000000)
+picked USER>>seq4098 (0.000000)
+picked USER>>seq4142 (0.000000)
+picked USER>>seq4455 (0.000000)
+picked USER>>seq4156 (0.000000)
+picked USER>>seq4209 (0.000000)
+picked USER>>seq4278 (0.000000)
+picked USER>>seq4304 (0.000000)
+picked USER>>seq4305 (0.000000)
+picked USER>>seq4423 (0.000000)
+picked USER>>seq4375 (0.000000)
+picked USER>>seq4385 (0.000000)
+picked USER>>seq4388 (0.000000)
+picked USER>>seq4541 (0.000000)
+picked USER>>seq4409 (0.000000)
+picked USER>>seq4471 (0.000000)
+picked USER>>seq4431 (0.000000)
+picked USER>>seq4449 (0.000000)
+picked USER>>seq4592 (0.000000)
+picked USER>>seq4450 (0.000000)
+picked USER>>seq4490 (0.000000)
+picked USER>>seq4496 (0.000000)
+picked USER>>seq4514 (0.000000)
+picked USER>>seq4544 (0.000000)
+picked USER>>seq4555 (0.000000)
+picked USER>>seq4559 (0.000000)
+picked USER>>seq4566 (0.000000)
+picked USER>>seq4569 (0.000000)
+picked USER>>seq4572 (0.000000)
+picked USER>>seq4604 (0.000000)
+ kept = 1626

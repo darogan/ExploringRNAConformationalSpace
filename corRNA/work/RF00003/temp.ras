@@ -1,0 +1,139 @@
+wireframe off
+backbone 150
+cpk 150
+select 63,76
+hbond 175
+colour hbonds blue 
+select 97,111
+hbond 171
+colour hbonds blue 
+select 100,108
+hbond 151
+colour hbonds blue 
+select 52,87
+hbond 147
+colour hbonds blue 
+select 60,79
+hbond 139
+colour hbonds blue 
+select 61,78
+hbond 135
+colour hbonds blue 
+select 50,89
+hbond 111
+colour hbonds blue 
+select 92,117
+hbond 107
+colour hbonds blue 
+select 93,116
+hbond 103
+colour hbonds blue 
+select 51,88
+hbond 95
+colour hbonds blue 
+select 96,112
+hbond 79
+colour hbonds blue 
+select 99,109
+hbond 75
+colour hbonds blue 
+select 94,115
+hbond 71
+colour hbonds blue 
+select 95,113
+hbond 39
+colour hbonds blue 
+select 62,77
+hbond 35
+colour hbonds blue 
+select 64,75
+hbond 31
+colour hbonds blue 
+select 60,77
+hbond 19
+colour hbonds blue 
+select 98,110
+hbond 3
+colour hbonds blue 
+select 142,159
+hbond 179
+colour hbonds green
+select 26,39
+hbond 167
+colour hbonds green
+select 141,160
+hbond 163
+colour hbonds green
+select 25,40
+hbond 159
+colour hbonds green
+select 147,154
+hbond 155
+colour hbonds green
+select 138,163
+hbond 143
+colour hbonds green
+select 146,155
+hbond 131
+colour hbonds green
+select 145,156
+hbond 127
+colour hbonds green
+select 139,162
+hbond 123
+colour hbonds green
+select 23,42
+hbond 119
+colour hbonds green
+select 140,161
+hbond 115
+colour hbonds green
+select 19,45
+hbond 99
+colour hbonds green
+select 14,120
+hbond 91
+colour hbonds green
+select 15,119
+hbond 87
+colour hbonds green
+select 18,46
+hbond 83
+colour hbonds green
+select 20,44
+hbond 67
+colour hbonds green
+select 24,41
+hbond 63
+colour hbonds green
+select 27,38
+hbond 59
+colour hbonds green
+select 17,47
+hbond 55
+colour hbonds green
+select 21,43
+hbond 51
+colour hbonds green
+select 144,157
+hbond 47
+colour hbonds green
+select 13,121
+hbond 43
+colour hbonds green
+select 12,122
+hbond 27
+colour hbonds green
+select 59,81
+hbond 23
+colour hbonds green
+select 156,164
+hbond 15
+colour hbonds green
+select 61,77
+hbond 11
+colour hbonds green
+select 16,118
+hbond 7
+colour hbonds green
+select

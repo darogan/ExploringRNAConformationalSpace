@@ -1,0 +1,8 @@
+wireframe off
+backbone 100
+colour group
+select *B
+cpk 200
+select
+set picking monitor
+label %r

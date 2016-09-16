@@ -1,0 +1,396 @@
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+10000 sequences to be read in length range 50 -> 500
+Reading user file of seq.s: align.seq
+End of user sequences
+434 sequences read into 434 blocks, (434 are keyed)
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 10
+ minscore = 900 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 20
+ minscore = 800 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 40
+ minscore = 700 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 60
+ minscore = 600 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 613
+(3 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+      USER>>RF00162=275
+617
+      USER>>RF00162=277
+
+
+      USER>>RF00162=364
+616
+      USER>>RF00162=374
+
+
+      USER>>RF00162=357
+607
+      USER>>RF00162=367
+
+
+block 275 = 2 seqs
+*USER>>RF00162=275 :	ACLY01000071.1/41239x41095
+*USER>>RF00162=277 :	ACMT01000176.1/7164x7023
+
+CTCTTATCAAGAGCAGGxTxGGxxxxxxxxxxxxxxxxxAGGGAxTTTGGxCCCGAxxTGAAxGCCxxCAGCAACCxGxA
+CTCTTATCAAGAGCAGGxTxGGxxxxxxxxxxxxxxxxxAGGGAxTTTGGxCCCGAxxTGAAxGCCxxCAGCAACCxGxA
+
+CCxGTAATACCATTGTGAAATGGGGxxxxxxxxxxxxxxxxxxxx   CGTATATTTACGACGCCAAAAGGCxACxxGGT
+CCxGTAATACCATTGTGAAATGGGxxxxxxxxxxxxxxxxxxxxxxxGCGTTTATTTACG   CCAAAAGGCxACxxGGT
+
+GCTAxATTCxxCAGxCAGAAAGxxxxxTATAxxxxxxxxxxxxxxxxxxxxxCTTTCxTGxGxTAxGATAAGAG
+GCTAxATTCxxCAGxCAGAAAGxxxxxTTTAxxxxxxxxxxxxxxxxxxxxxCTTTCxTGxGxCAxGATAAGAG
+
+
+block 357 = 2 seqs
+*USER>>RF00162=357 :	ACEW01000347.1/17844x17982
+*USER>>RF00162=367 :	ABJF01000395.1/4781x4624
+
+CGCTCATCCAGAGxGGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxCACGGxCCCGTxxTGAAxGCCxCCGGCAACCxCxT
+CGCTCATCCAGAGxGGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxCACGGxCCCGTxxTGAAxGCCxCCGGCAACCxCxT
+
+CCxAGTCGGTTCTCGCCAGCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGCGAGG CCCCGGCTAGGGxAAxxGGTGC
+CCxAGTCGGTTCTCGCGATCGCCCGCACGxxxxxxxxxxxxGCGACACCA GCGAGGTCCCCGGCTAGGGxAAxxGGTGC
+
+CAxATTCxxCGTxCTCATGGxxxxxCGAAGTGxxxxxxxxxxxxxxxxCGCCATGxGGxGxAAxGATGAGGA
+CAxATTCxxCGTxCTCATGGxxxxxCGAAGTGxxxxxxxxxxxxxxxxCGCCATGxGGxGxAAxGATGAGGA
+
+
+block 364 = 2 seqs
+*USER>>RF00162=364 :	ABVK02000003.1/176687x176823
+*USER>>RF00162=374 :	AP008226.1/728125x727989
+
+CTCTTATCCAGAGxCGGxTxGGxxxxxxxxxxxxxxxxxAGGGTxxACGGxCCCTGxxTGAAxACCxGCGGCAACCxTxC
+CTCTTATCCAGAGxCGGxTxGGxxxxxxxxxxxxxxxxxAGGGTxxACGGxCCCTGxxTGAAxGCCxGCGGCAACCxTxC
+
+CCxGCTCCTTCCGTTCCATxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGGCCGGAAGCGGGCGGGGxCTxxGGTGCC
+CCxGCCCCTTCCGTTCCATxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGGCCGGATGCGGGCGGGGxCTxxGGTGCC
+
+AxACGCxxCGGxCCCGGGCGGGGGxxxxAAxxxxxxxxxxxxxxxxxACGCCCGxGGxAxACxGATAAGAG
+AxACGCxxCGGxCCCGGGCGGGGGxxxxAAxxxxxxxxxxxxxxxxxACGCCCGxGGxGxACxGATAAGAG
+
+
+431 groups ( 3 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 80
+ minscore = 500 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 535
+(21 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     -- USER>>RF00162=346
+590
+     -- USER>>RF00162=348
+
+
+     -- USER>>RF00162=370
+585
+     -- USER>>RF00162=372
+
+
+     -- USER>>RF00162=386
+572
+     -- USER>>RF00162=396
+
+
+     p- USER>>RF00162=357
+     b- USER>>RF00162=367
+570
+     -- USER>>RF00162=359
+
+
+     -- USER>>RF00162=4
+563
+     -- USER>>RF00162=5
+
+
+     -- USER>>RF00162=247
+557
+     -- USER>>RF00162=249
+
+
+     -- USER>>RF00162=292
+547
+     -- USER>>RF00162=295
+
+
+     -- USER>>RF00162=9
+546
+     -- USER>>RF00162=10
+
+
+     -- USER>>RF00162=7
+516
+     -- USER>>RF00162=8
+
+
+     -- USER>>RF00162=49
+510
+     -- USER>>RF00162=53
+
+
+     -- USER>>RF00162=266
+509
+     -- USER>>RF00162=270
+
+
+     -- USER>>RF00162=333
+506
+     -- USER>>RF00162=341
+
+
+     -- USER>>RF00162=11
+503
+     -- USER>>RF00162=12
+
+
+     -- USER>>RF00162=15
+502
+     -- USER>>RF00162=16
+
+
+     -- USER>>RF00162=231
+501
+     -- USER>>RF00162=234
+
+
+block 4 = 2 seqs
+*USER>>RF00162=4 :	AL596164.1/95936x95817
+*USER>>RF00162=5 :	AL591974.1/109385x109266
+
+CTCTTATCGAGAGxCGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxxCTGGxCCCGAxxTGAAxGCCxxCGGCAACCxTxA
+CTCTTATCGAGAGxCGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxxCTGGxCCCGAxxTGAAxGCCxxCGGCAACCxTxA
+
+ACxTTTATTTAAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGCGTAAAGTGxAAxxGGTGCT
+ACxTTTATTTAAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGCATAAAGTGxAAxxGGTGCT
+
+AxATTCxxCAGxCAAAATGGxxxTGTATTxxxxxxxxxxxxxxxxxxxCCGTTTxTGxGxTAxGATAAGAG
+AxATTCxxCAGxCAAAATGGxxxTGTATTxxxxxxxxxxxxxxxxxxxCCGTTTxTGxGxTAxGATAAGAG
+
+
+block 7 = 2 seqs
+*USER>>RF00162=7 :	AL596169.1/221462x221354
+*USER>>RF00162=8 :	AL591980.1/66651x66543
+
+CTCTTATCCAGAGxCGGxTxAGxxxxxxxxxxxxxxxxxAGGGAxxCTGAxCCCTTxxTGAAxGCCxxCAGCAACCxTxA
+CTCTTATCCAGAGxCGGxTxAGxxxxxxxxxxxxxxxxxAGGGAxxCTGAxCCCTTxxTGAAxGCCxxCAGCAACCxTxA
+
+CAxCATATxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAAGTGAxAAxxGGTGCT
+CAxCATATxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxAAGTGAxAAxxGGTGCT
+
+AxATCTxGTTGxCAGGAGTxxxxAATATxxxxxxxxxxxxxxxxxxxxxxCTCCxTGxAxACxGATGAGAG
+AxATCTxGTTGxCAGGAGTxxxxATTATxxxxxxxxxxxxxxxxxxxxxxCTTCxTGxAxACxGATGAGAG
+
+
+block 9 = 2 seqs
+*USER>>RF00162=9 :	AL596172.1/176254x176136
+*USER>>RF00162=10 :	AL591983.1/96176x96058
+
+ATCTTATCCAGAGxTGGxTxGGxxxxxxxxxxxxxxxxxAGGGAxxAATGxCCCTGxxTGAAxACCxxCAGCAACCxTxA
+ATCTTATCCAGAGxTGGxTxGGxxxxxxxxxxxxxxxxxAGGGAxxAATGxCCCTAxxTGAAxGCCxxCAGCAACCxTxA
+
+AAxCAATAATTCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxATTATGTGTTTxAAxxGGTGCT
+AAxCAATAATTCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxATTATGTGTTTxAAxxGGTGCT
+
+AxAGTCxxATGxCAGAACAAxxxCGATTxxxxxxxxxxxxxxxxxxxxxTGTTCxTGxAxAAxGATGAGAA
+AxAGTCxxATGxCAGAACAAxxxCTAATxxxxxxxxxxxxxxxxxxxxxTGTTCxTGxAxAAxGATGAGAA
+
+
+block 11 = 2 seqs
+*USER>>RF00162=11 :	AL596170.1/192x86
+*USER>>RF00162=12 :	AL591980.1/89597x89491
+
+CTCTTATTATGAGxTGGxTxAGxxxxxxxxxxxxxxxxxAGGGAxxCTGGxCCCGTxxTGAAxACCxxCAGCAACCxTxT
+CTCTTATAATGAGxTGGxTxAGxxxxxxxxxxxxxxxxxAGGGAxxCTGGxCCCGTxxTGAAxACCxxCGGCAACCxTxT
+
+TCxAATTCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGTTGAAAxAxxxGGTGCT
+TCxAATACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGTTGAAAxAxxxGGTGCT
+
+AxAATCxxCTGxCGAAGTGxxxxxTGATxxxxxxxxxxxxxxxxxxxxxxGCTTxCGxAxGAxGATAAGAG
+AxAATCxxCTGxCGAAGTGxxxxxTGATxxxxxxxxxxxxxxxxxxxxxxGCTTxCGxAxGAxGATAAGAG
+
+
+block 15 = 2 seqs
+*USER>>RF00162=15 :	T36379.1/1x106
+*USER>>RF00162=16 :	L42943.1/254x144
+
+ATCCTxxxxxGAGxTGGxTxGGxxxxxxxxxxxxxxxxxAGGGAxCATGGACCCAAxxTGAAxACCxxCAGCAACCxTxC
+CTCTTATCCTGAGxTGGxTxGGxxxxxxxxxxxxxxxxxAGGGAxCATGGACCCAAxxTGAAxACCxxCAGCAACCxTxC
+
+TTxTTTTAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxTAAAAGAxAAxxGGTGCC
+TTxTTTTAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxTAAAAGAxAAxxGGTGCC
+
+AxAACCGTTTGxCAGACAxxxxxxAATAxxxxxxxxxxxxxxxxxxxxxxGGTCxTGxAxACxGATAAGAG
+AxAACCGTTTGxCAGACAxxxxxxAATAxxxxxxxxxxxxxxxxxxxxxxGGTCxTGxAxACxGATAAGAG
+
+
+block 49 = 2 seqs
+*USER>>RF00162=49 :	BA000043.1/972359x972191
+*USER>>RF00162=53 :	AE017333.1/1487506x1487363
+
+CTCTTATCAAGAGTTGGxCxTGxxxxxxxxxxxxxxxxxAGGGAxATTGGxCCCAAxxTGAAxGCCxxCAGCAACCxGxA
+CTCTTATCGAGAGTTGGxGxTGxxxxxxxxxxxxxxxxxAAGGAxxCTGGxCCTAAxxTGATxCCCAACAGCAACCxGxA
+
+CCxGTAATACTATCGTGAGATAGGGCGCA                CGCCAAGGGCGGCGCCGGAAGCGTCATGCTTCCGC
+CCxGTAATACCATTGTGAAATGGGGxxxxxxxxxxxxxxxxxxxxCGCGAATCTCTGCGCCGCTAG              
+
+AGGGCxACxxGGTGCTAxAGTCxxCAAxCAGAAAGACCGATGTCxxxxxxxxxxxxxxxxxxxxxxTTTCxTGxAxAAxG
+  GGCxACxxGGTGCTAxATTCxxCATxCAGACTTxxxxxTGAAxxxxxxxxxxxxxxxxxxxxxxxTTCxTGxAxGAxG
+
+ATAAGAG
+ATAAGAG
+
+
+block 231 = 2 seqs
+*USER>>RF00162=231 :	CP000764.1/3033666x3033778
+*USER>>RF00162=234 :	ACMW01000090.1/86610x86722
+
+TTCTTATCTAGAGxAGGxTxAGxxxxxxxxxxxxxxxxxAGGGAxxCTGGxCCCTAxxTGACxACCxTCAGCAACCxAxT
+TTCTTATCTAGAGxAGGxTxAGxxxxxxxxxxxxxxxxxAGGGAxxCTGGxCCCTAxxTGACxACCxTCAGCAACCxAxT
+
+TAxACAAACxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxTTGTTAATxAAxxGGTGCT
+TAxACACGTxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxTCGTTAATxAAxxGGTGCT
+
+AxATTCxxCAGxCAAATTAxxxxxTCAAAxxxxxxxxxxxxxxxxxxxxTAATTxTGxAxGAxGATAAGAA
+AxATTCxxCAGxCAAATTGxxxxxTGAAAxxxxxxxxxxxxxxxxxxxxAGATTxTGxAxCAxGATAAGAA
+
+
+block 247 = 2 seqs
+*USER>>RF00162=247 :	CP001393.1/1215384x1215507
+*USER>>RF00162=249 :	CP000679.1/1731346x1731467
+
+TTCTTATCAAGAGxTGGxCxGGxxxxxxxxxxxxxxxxxAGGGAxxCTGGxCCCAAxxTGAAxGCCxxCGGCAACCxGxG
+TTCTTATCAAGAGxTGGxTxGGxxxxxxxxxxxxxxxxxAGGGAxxCTGGxCCCAAxxTGAAxGCCxxCGGCAACCxGxG
+
+AAxAAAGGTAGGGxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGTGCCCTTTTTCxTTxxGGTGCC
+AAxAAAGGTATGGxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGTGCCCTTTTTCxTTxxGGTGCC
+
+AxATTCxxCAGxCAGGTATxxxxxTTTTTTAxxxxxxxxxxxxxxxxAAATACCxTGxGxCAxGATAAGAA
+AxATTCxxCAGxCAGGTATxxxxxTTTTAAxxxxxxxxxxxxxxxxxxAATACCxTGxGxCAxGATAAGAA
+
+
+block 266 = 2 seqs
+*USER>>RF00162=266 :	AARM02000086.1/6918x7038
+*USER>>RF00162=270 :	AARL02000014.1/678x559
+
+CTCTTATCGAGAGxCGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxxCTGGxCCCGAxxTGAAxGCCxxCGGCAACC TAx
+CTCTTATCGAGAGxCGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxxCTGGxCCCGAxxTGAAxGCCxxCGGCAACCxTxA
+
+ACTxTTATTTAAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGCGTAAAGTGxAAxxGGTGC
+ACxTTTATGTAAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx GCGTAAAGTGxAAxxGGTGC
+
+TAxATTCxxCAGxCAAAAATGxxxGxxTGTATxxxxxxxxxxxxxxxx TCCGTTTxTGxAxTAxGATAAGAG
+TAxATTCxxCAGxCAAAA TGxxxxxGTGTATxxxxxxxxxxxxxxxxxTCCGTTTxTGxGxTAxGATAAGAG
+
+
+block 292 = 2 seqs
+*USER>>RF00162=292 :	ACNI01000057.1/7157x7272
+*USER>>RF00162=295 :	ACLT01000057.1/24072x24187
+
+TACTTATCCAGAGxAGGxTxGGxxxxxxxxxxxxxxxxxAGGGAxxACGGxCCCTAxxAGAAxACCxTCAGCAACCxCxC
+TACTTATCCAGAGxAGGxTxGGxxxxxxxxxxxxxxxxxAGGGAxxACGGxCCCTAxxAGAAxACCxTCAGCAACCxCxC
+
+TAxTGCAATxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxTTTATAGGxAAxxGGTGCT
+TAxTGCAATxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxTTTATAGGxAAxxGGTGCT
+
+AxATTCxxCxGxCAGAGAAxxxxxCACGATGxxxxxxxxxxxxxxxxTGTTTTTxTGxAxAAxGATAAGAG
+AxATTCxxCxGxCAGAGGAxxxxxCACGATGxxxxxxxxxxxxxxxxTGTTTTTxTGxAxAAxGATAAGAG
+
+
+block 333 = 2 seqs
+*USER>>RF00162=333 :	ACEX01000437.1/2744x2885
+*USER>>RF00162=341 :	ABYX01000149.1/176896x177023
+
+CGCTCATCCAGAGxGGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxxACGGxCCCGTxxTGAAxGCCxCCGGCAACCxCxT
+AGCTCATCCAGAGxGGAxCxTGxxxxxxxxxxxxxxxxxAGGGAxxACGGxCCCGTxxTGAAxGTCxCCGGCAACCxCxT
+
+CCxAGCTGGTCTCGCGTCCTGTxxxxxxxxxxxxxxxxxxxxxxxxxxxAGCGAGGCTCCCAGCTCGGGxAAxxGGTGCC
+CCxTGCCGACCGCGAxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGGTCACGGTGGGGxAAxxGGTGCC
+
+AxATTCxxCGTxCTCGTGGxxxxxCGAAATGxxxxxxxxxxxxxxxxCGTCCCGxAGxGxAAxGATGAGGA
+AxATTCxxCGTxCTTGCGGxxxxxCGAAATGxxxxxxxxxxxxxxxxCGTCGCGxAGxGxAAxGATGAGGA
+
+
+block 346 = 2 seqs
+*USER>>RF00162=346 :	BA000030.3/4858626x4858480
+*USER>>RF00162=348 :	ACEZ01000126.1/65345x65190
+
+CGCTCATCCAGAGxGGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxTACGGxCCCGAxxTGAAxGCCxCCGGCAACCxCxT
+AGCTCATCCAGAGxGGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxAACGGxCCCGAxxTGAAxGCCxCCGGCAACCxCxT
+
+CCxAGCCGGTCTTGTCACGTTGATxxxxxxxxxxxxxxxxxxxxxxxGTGGCGAGGCTCCCGGCTCGGGxAAxxGGTGCC
+CCxAGTCGGTACTCGTAGGTCACTGGCGxxxxxxxxxxxxxxACCACTTCGCGAGGCTCCCGACTAGGGxAAxxGGTGCC
+
+AxAATCxxCGTxCTCACGGxxxxxCGAAGTGxxxxxxxxxxxxxxxxCGTCGTGxAGxGxAAxGATGAGGA
+AxAATCxxCGTxCTCACGGxxxxxCGAGATGxxxxxxxxxxxxxxxxCGTCGTGxAGxGxAAxGATGAGGA
+
+
+block 357 = 3 seqs
+*USER>>RF00162=357 :	ACEW01000347.1/17844x17982
+*USER>>RF00162=367 :	ABJF01000395.1/4781x4624
+*USER>>RF00162=359 :	ABJH01000081.1/1215x1362
+
+CGCTCATCCAGAGxGGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxCACGGxCCCGTxxTGAAxGCCxCCGGCAACCxCxT
+CGCTCATCCAGAGxGGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxCACGGxCCCGTxxTGAAxGCCxCCGGCAACCxCxT
+CGCTCATCCAGAGxGGGxCxAGxxxxxxxxxxxxxxxxxAGGGAxAACGGxCCCGTxxTGAAxGCCxCCGGCAACCxCxT
+
+CCxAGTCGGTTCTCGCCAGCxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxGCGAGG CCCCGGCTAGGGxAAxxGGTGC
+CCxAGTCGGTTCTCGCGATCGCCCGCACGxxxxxxxxxxxxGCGACACCA GCGAGGTCCCCGGCTAGGGxAAxxGGTGC
+CCxAGCCGGT CTCGTCGCGCACAGxxxxxxxxxxxxxxxxxxxxxxCGCAGCGGGGCTCCCGGCTCGGGxAAxxGGTGC
+
+CAxATTCxxCGTxCTCATGGxxxxxCGAAGTGxxxxxxxxxxxxxxxxCGCCATGxGGxGxAAxGATGAGGA
+CAxATTCxxCGTxCTCATGGxxxxxCGAAGTGxxxxxxxxxxxxxxxxCGCCATGxGGxGxAAxGATGAGGA
+CAxATTCxxCGTxCTCATGGxxxxxCGAAACGxxxxxxxxxxxxxxxxCGTCATGxAGxGxAAxGATGAGGA
+
+
+block 370 = 2 seqs
+*USER>>RF00162=3

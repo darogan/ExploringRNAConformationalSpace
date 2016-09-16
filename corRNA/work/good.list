@@ -1,0 +1,29 @@
+RF00003   3pgw 2310 14.09 OK but just 2 non-local (open str)
+RF00004   2lkr     -      not enough seqs overlap pdb
+RF00005   3wfs     -      little 3ry str (tRNA)
+RF00008   2qus     -      not enough seqs
+RF00010 * 3q1r 1516  4.39 v good + many non-local
+RF00011   2a64     -      not enough seqs
+RF00017 = 2j37  761  6.40 good but just 1 non-loc
+RF00026   4n0t     -      no 3ry fold
+RF00028 * 1grz  647  2.86 good --- many non-loc
+RF00029   1kxk     -      no 3ry str
+RF00050 * 3f30  683  6.10 OK few non-loc
+RF00059 * 3d2x  565  7.34 OK 1 long non-loc
+RF00114   2vaz     -      partial pdb
+RF00162 * 2gis  953 10.71 good with non-loc
+RF00167 * 4fe5  474  7.08 good 1 non-loc
+RF00168 * 3dj2  686  3.97 good 3 at end link hairpins
+RF00174 * 4gma 1325  7.09 pdb/seq length diff (fixed)
+RF00234 = 3l3c  271  1.94 good a few non-loc
+RF00374   1s9s     -      no 3ry str
+RF00380 * 2qbz  192  1.19 good a few non-loc (del in pdb)
+RF00504   3oxm  871 10.13 good no non-loc
+RF01051 * 3ucz 1075 13.11 good 1 non-loc
+RF01073 - 2lc8  660 11.19 ok single stem with long tail
+RF01734   3vrs  428  8.23 good end loops abutt (small)
+RF01831 * 3suy  178  1.80 good end loop lock
+RF01852   3hl2  468  5.37 good local = pred 
+RF01998   4fb0     -      str big seqs small
+RF02001   4fb0     -      str big seqs better but still small
+RF02095   2l3j     -      no 3ry str

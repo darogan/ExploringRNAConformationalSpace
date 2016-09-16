@@ -1,0 +1,7 @@
+wireframe off
+backbone 10
+colour group
+select *B
+backbone 100
+select
+set picking monitor

@@ -1,0 +1,19 @@
+using 0 pairs
+
+
+pairs = 0
+Running with 0 true pairs
+Running with 0 pred pairs
+Running with 0 grem pairs
+Unsmoothed
+ 17.648
+ 16.753
+ 17.147
+Smoothed1x
+ 16.398
+ 15.497
+ 15.862
+Smoothed2x
+ 15.612
+ 14.727
+ 15.067

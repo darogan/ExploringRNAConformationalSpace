@@ -1,0 +1,1 @@
+GGCT-TATC-AAGAG-AGG-T--GGAGGGA--CTGG-CCCGATGAA--ACC--CGGCAACCA--------------------------------------------------------------GAAAT----GGTGC-CA-ATTC--CTG--C--A-GCG---GAA--------------ACGT-T--G-A-AA-GATGCCA-

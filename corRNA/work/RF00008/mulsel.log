@@ -1,0 +1,2479 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+100000 sequences to be read in length range 50 -> 500
+
+Calculating peptide table based on length 6
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+632 sequences read into 632 blocks, (632 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 20
+Top 3 scores held per sequence
+Sequences in the range 1<Dij<100 scored
+Adjacent sequences scored with bonus of 10
+3643 pairs collected
+3752
+ npairs = 3752
+pre_order  npairs = 3752
+ malloc OK
+reorder  malloc OK done
+preorder  new block mallock OK
+cluster_pairs total list_alloc = 160
+pack_lists 575/632 blocks moved
+
+New sequence order is:
+* Block 0 <--- 1	USER>SEED:>RF00008	   69   [+0+] 2qus_A mol na length 69  Hammerhead ribozyme
+* Block 1 <=== 77	USER>>DQ680745.1/56-3	   54   [+2+] DQ680745.1/56-3 Peach latent mosaic viroid variant 261.2, complete genome.
+* Block 2 <=== 78	USER>>DQ680773.1/56-3	   54   [+0+] DQ680773.1/56-3 Peach latent mosaic viroid variant 100.2, complete genome.
+* Block 3 <=== 41	USER>>DQ680772.1/56-3	   54   [+50+] DQ680772.1/56-3 Peach latent mosaic viroid variant 97.2, complete genome.
+* Block 4 <=== 128	USER>>ET708845.1/56-3	   54   [+0+] ET708845.1/56-3 Peach latent mosaic viroid clone 223.3, complete genome.
+* Block 5 <=== 127	USER>>AJ241828.1/56-3	   54   [+0+] AJ241828.1/56-3 peach latent mosaic viroid, varient gds15-4s
+* Block 6 <=== 126	USER>>AJ241831.1/56-3	   54   [+0+] AJ241831.1/56-3 peach latent mosaic viroid, varient gds15-4as
+* Block 7 <=== 123	USER>>FM955277.1/56-3	   54   [+16+] FM955277.1/56-3 Peach latent mosaic viroid, complete genome, isolate India
+* Block 8 <=== 124	USER>>GT825982.1/54-1	   54   [+1+] GT825982.1/54-1 Peach latent mosaic viroid clone PLMVd-1tun, complete genome.
+* Block 9 <=== 42	USER>>DQ222075.1/56-3	   54   [+0+] DQ222075.1/56-3 Peach latent mosaic viroid isolate PC-P1.142.13, complete genome.
+* Block 10 <=== 109	USER>>AJ005310.1/56-3	   54   [+0+] AJ005310.1/56-3 Peach latent mosaic viroid, a hammerhead structure RNA, isolate Esc76906, variant esc14
+* Block 11 <=== 40	USER>>ET429320.1/56-3	   54   [+26+] ET429320.1/56-3 Peach latent mosaic viroid clone CC2, complete genome.
+* Block 12 <=== 121	USER>>AJ241840.1/56-3	   54   [+0+] AJ241840.1/56-3 peach latent mosaic viroid, varient esc10-3
+* Block 13 <=== 36	USER>>DQ839564.1/56-3	   54   [+18+] DQ839564.1/56-3 Peach latent mosaic viroid clone Eg18, complete genome.
+* Block 14 <=== 35	USER>>HM185110.1/56-3	   54   [+2+] HM185110.1/56-3 Peach latent mosaic viroid isolate AY09PG5 clonp4, complete genome.
+* Block 15 <=== 129	USER>>AF339740.1/56-3	   54   [+0+] AF339740.1/56-3 Peach latent mosaic viroid wild pear isolate, complete genome.
+* Block 16 <=== 130	USER>>AF170509.1/56-3	   54   [+0+] AF170509.1/56-3 Peach latent mosaic viroid variant #3 from Prunus persica Harrow Beauty cultivar, complete sequence.
+* Block 17 <=== 79	USER>>HM185108.1/56-3	   54   [+0+] HM185108.1/56-3 Peach latent mosaic viroid isolate 98.3s1clonPR02, complete genome.
+* Block 18 <=== 125	USER>>DQ680783.1/56-3	   54   [+1+] DQ680783.1/56-3 Peach latent mosaic viroid variant 369.4, complete genome.
+* Block 19 <=== 120	USER>>JF927892.1/56-3	   54   [+0+] JF927892.1/56-3 Peach latent mosaic viroid isolate V210, complete genome.
+* Block 20 <=== 20	USER>>DQ680797.1/56-3	   54   [+2+] DQ680797.1/56-3 Peach latent mosaic viroid variant 94.2, complete genome.
+* Block 21 <=== 19	USER>>GQ872135.1/56-3	   54   [+8+] GQ872135.1/56-3 Peach latent mosaic viroid isolate Laura.2, complete genome.
+* Block 22 <=== 122	USER>>AJ241819.1/56-3	   54   [+0+] AJ241819.1/56-3 peach latent mosaic viroid, varient gds6-1
+* Block 23 <=== 22	USER>>DQ680790.1/56-3	   54   [+0+] DQ680790.1/56-3 Peach latent mosaic viroid variant 162.3, complete genome.
+* Block 24 <=== 23	USER>>DQ680763.1/55-2	   54   [+0+] DQ680763.1/55-2 Peach latent mosaic viroid variant 101.3, complete genome.
+* Block 25 <=== 61	USER>>DQ680792.1/57-4	   54   [+7+] DQ680792.1/57-4 Peach latent mosaic viroid variant 155.1, complete genome.
+* Block 26 <=== 87	USER>>DQ680793.1/56-3	   54   [+1+] DQ680793.1/56-3 Peach latent mosaic viroid variant 155.2, complete genome.
+* Block 27 <=== 88	USER>>DQ680756.1/56-3	   54   [+1+] DQ680756.1/56-3 Peach latent mosaic viroid variant 244.4, complete genome.
+* Block 28 <=== 84	USER>>GQ872126.1/56-3	   54   [+15+] GQ872126.1/56-3 Peach latent mosaic viroid isolate GRE.2, complete genome.
+* Block 29 <=== 43	USER>>EF151300.1/56-3	   54   [+6+] EF151300.1/56-3 Peach latent mosaic viroid isolate PL151, complete genome.
+* Block 30 <=== 12	USER>>GT825986.1/54-1	   54   [+5+] GT825986.1/54-1 Peach latent mosaic viroid clone PLMVd-tun5, complete genome.
+* Block 31 <=== 86	USER>>DQ680801.1/56-3	   54   [+2+] DQ680801.1/56-3 Peach latent mosaic viroid variant 235.4, complete genome.
+* Block 32 <=== 11	USER>>DQ222083.1/56-3	   54   [+67+] DQ222083.1/56-3 Peach latent mosaic viroid isolate PC-P1.159.90, complete genome.
+* Block 33 <=== 5	USER>>JF927893.1/56-3	   54   [+18+] JF927893.1/56-3 Peach latent mosaic viroid isolate V206, complete genome.
+* Block 34 <=== 85	USER>>ET708835.1/56-3	   54   [+0+] ET708835.1/56-3 Peach latent mosaic viroid clone 214.2, complete genome.
+* Block 35 <=== 110	USER>>DQ222094.1/56-3	   54   [+0+] DQ222094.1/56-3 Peach latent mosaic viroid isolate PC-P1.148.44, complete genome.
+* Block 36 <=== 60	USER>>DQ222053.1/56-3	   54   [+4+] DQ222053.1/56-3 Peach latent mosaic viroid PC-P1.151, complete genome.
+* Block 37 <=== 2	USER>>HQ342884.1/55-2	   54   [+16+] HQ342884.1/55-2 Peach latent mosaic viroid isolate AY09PG6 clone P6, complete genome.
+* Block 38 <=== 6	USER>>HM185111.1/56-3	   54   [+1+] HM185111.1/56-3 Peach latent mosaic viroid isolate AY09PG35 clonp35, complete genome.
+* Block 39 <=== 4	USER>>DQ222079.1/56-3	   54   [+1+] DQ222079.1/56-3 Peach latent mosaic viroid isolate PC-P1.159.85, complete genome.
+* Block 40 <=== 117	USER>>AJ550545.1/56-3	   54   [+1+] AJ550545.1/56-3 Peach latent mosaic viroid complete genome, isolate PC-C31
+* Block 41 <=== 112	USER>>AJ550898.1/56-3	   54   [+0+] AJ550898.1/56-3 Peach latent mosaic viroid complete genome, isolate PC-C39
+* Block 42 <=== 7	USER>>DQ680759.1/56-3	   54   [+1+] DQ680759.1/56-3 Peach latent mosaic viroid variant 111.1, complete genome.
+* Block 43 <=== 81	USER>>AJ550899.1/56-3	   54   [+1+] AJ550899.1/56-3 Peach latent mosaic viroid complete genome, isolate PC-C41
+* Block 44 <=== 131	USER>>DQ680776.1/56-3	   54   [+0+] DQ680776.1/56-3 Peach latent mosaic viroid variant 155.3, complete genome.
+* Block 45 <=== 132	USER>>HM185113.1/56-3	   54   [+0+] HM185113.1/56-3 Peach latent mosaic viroid isolate AY09PG3.1 clonp3n, complete genome.
+* Block 46 <=== 133	USER>>AF339739.1/56-3	   54   [+0+] AF339739.1/56-3 Peach latent mosaic viroid peach isolate, complete genome.
+* Block 47 <=== 119	USER>>GQ872141.1/56-3	   54   [+0+] GQ872141.1/56-3 Peach latent mosaic viroid isolate Laura.8, complete genome.
+* Block 48 <=== 44	USER>>DQ680791.1/56-3	   54   [+0+] DQ680791.1/56-3 Peach latent mosaic viroid variant 210.1, complete genome.
+* Block 49 <=== 108	USER>>DQ222070.1/56-3	   54   [+0+] DQ222070.1/56-3 Peach latent mosaic viroid isolate PC-P1.142.01, complete genome.
+* Block 50 <=== 148	USER>>DQ680796.1/56-3	   54   [+0+] DQ680796.1/56-3 Peach latent mosaic viroid variant 94.3, complete genome.
+* Block 51 <=== 182	USER>>DQ680741.1/56-3	   54   [+0+] DQ680741.1/56-3 Peach latent mosaic viroid variant 298.3, complete genome.
+* Block 52 <=== 183	USER>>AF170517.1/56-3	   54   [+0+] AF170517.1/56-3 Peach latent mosaic viroid variant #11 from Prunus persica Agua cultivar, complete sequence.
+* Block 53 <=== 184	USER>>AJ241843.1/56-3	   54   [+0+] AJ241843.1/56-3 peach latent mosaic viroid, varient esc10-6b
+* Block 54 <=== 185	USER>>DQ222087.1/56-3	   54   [+1+] DQ222087.1/56-3 Peach latent mosaic viroid isolate PC-P1.148.18, complete genome.
+* Block 55 <=== 83	USER>>GQ499305.1/57-4	   54   [+0+] GQ499305.1/57-4 Peach latent mosaic viroid isolate 1, complete sequence.
+* Block 56 <=== 64	USER>>DQ680803.1/56-3	   54   [+2+] DQ680803.1/56-3 Peach latent mosaic viroid variant 387.2, complete genome.
+* Block 57 <=== 150	USER>>DQ680804.1/56-3	   54   [+0+] DQ680804.1/56-3 Peach latent mosaic viroid variant 387.3, complete genome.
+* Block 58 <=== 151	USER>>AJ550909.1/56-3	   54   [+0+] AJ550909.1/56-3 Peach latent mosaic viroid complete genome, isolate PC-C35
+* Block 59 <=== 113	USER>>DQ222096.1/56-3	   54   [+0+] DQ222096.1/56-3 Peach latent mosaic viroid isolate PC-P1.148.94, complete genome.
+* Block 60 <=== 114	USER>>AJ550911.1/56-3	   54   [+0+] AJ550911.1/56-3 Peach latent mosaic viroid complete genome, isolate PC-C28
+* Block 61 <=== 107	USER>>DQ222098.1/56-3	   54   [+0+] DQ222098.1/56-3 Peach latent mosaic viroid isolate PC-C40.101, complete genome.
+* Block 62 <=== 141	USER>>DQ222100.1/56-3	   54   [+1+] DQ222100.1/56-3 Peach latent mosaic viroid isolate PC-C40.106, complete genome.
+* Block 63 <=== 115	USER>>DQ222103.1/56-3	   54   [+3+] DQ222103.1/56-3 Peach latent mosaic viroid isolate PC-C40.130, complete genome.
+* Block 64 <=== 116	USER>>DQ680799.1/56-3	   54   [+0+] DQ680799.1/56-3 Peach latent mosaic viroid variant 88.1, complete genome.
+* Block 65 <=== 149	USER>>DQ222082.1/56-3	   54   [+2+] DQ222082.1/56-3 Peach latent mosaic viroid isolate PC-P1.159.89, complete genome.
+* Block 66 <=== 142	USER>>GQ499312.1/57-4	   54   [+0+] GQ499312.1/57-4 Peach latent mosaic viroid isolate 8, complete sequence.
+* Block 67 <=== 34	USER>>M83545.1/56-3	   54   [+0+] M83545.1/56-3 Peach latent mosaic viroid hammerhead structure RNA sequence.
+* Block 68 <=== 106	USER>>DQ680689.1/56-3	   54   [+0+] DQ680689.1/56-3 Peach latent mosaic viroid variant 143.4, complete genome.
+* Block 69 <=== 80	USER>>AJ550908.1/56-3	   54   [+2+] AJ550908.1/56-3 Peach latent mosaic viroid complete genome, isolate PC-C30
+* Block 70 <=== 63	USER>>DQ680691.1/56-3	   54   [+25+] DQ680691.1/56-3 Peach latent mosaic viroid variant 151.2, complete genome.
+* Block 71 <=== 62	USER>>GQ499321.1/57-4	   54   [+3+] GQ499321.1/57-4 Peach latent mosaic viroid isolate 17, complete sequence.
+* Block 72 <=== 18	USER>>DQ680706.1/56-3	   54   [+4+] DQ680706.1/56-3 Peach latent mosaic viroid variant 377.3, complete genome.
+* Block 73 <=== 21	USER>>DQ680703.1/56-3	   54   [+1+] DQ680703.1/56-3 Peach latent mosaic viroid variant 210.2, complete genome.
+* Block 74 <=== 13	USER>>ET708846.1/56-3	   54   [+0+] ET708846.1/56-3 Peach latent mosaic viroid clone 99.5, complete genome.
+* Block 75 <=== 181	USER>>AJ550907.1/56-3	   54   [+0+] AJ550907.1/56-3 Peach latent mosaic viroid complete genome, isolate PC-C42
+* Block 76 <=== 186	USER>>AJ005312.1/56-3	   54   [+0+] AJ005312.1/56-3 Peach latent mosaic viroid, a hammerhead structure RNA, isolate LS35, variant ls16b
+* Block 77 <=== 257	USER>>DQ680746.1/56-3	   54   [+0+] DQ680746.1/56-3 Peach latent mosaic viroid variant 261.3, complete genome.
+* Block 78 <=== 258	USER>>GQ872125.1/53-1	   53   [+0+] GQ872125.1/53-1 Peach latent mosaic viroid isolate GRE1, complete genome.
+* Block 79 <=== 187	USER>>AJ005318.1/56-3	   54   [+0+] AJ005318.1/56-3 Peach latent mosaic viroid, a hammerhead structure RNA, isolate LS35, variant ls19b
+* Block 80 <=== 188	USER>>DQ222074.1/56-3	   54   [+1+] DQ222074.1/56-3 Peach latent mosaic viroid isolate PC-P1.142.12, complete genome.
+* Block 81 <=== 189	USER>>DQ680770.1/56-3	   54   [+0+] DQ680770.1/56-3 Peach latent mosaic viroid variant 66.3, complete genome.
+* Block 82 <=== 190	USER>>ET708826.1/56-3	   54   [+0+] ET708826.1/56-3 Peach latent mosaic viroid clone 151.2, complete genome.
+* Block 83 <=== 303	USER>>AF170519.1/55-3	   53   [+1+] AF170519.1/55-3 Peach latent mosaic viroid variant #1 from Prunus persica Golden Health cultivar, complete sequence.
+* Block 84 <=== 14	USER>>DQ222059.1/56-3	   54   [+4+] DQ222059.1/56-3 Peach latent mosaic viroid PC-P2.44, complete genome.
+* Block 85 <=== 322	USER>>AF170503.1/55-3	   53   [+0+] AF170503.1/55-3 Peach latent mosaic viroid variant #8 from Prunus persica Hardired cultivar, complete sequence.
+* Block 86 <=== 111	USER>>GQ872136.1/56-3	   54   [+0+] GQ872136.1/56-3 Peach latent mosaic viroid isolate Laura.3, complete genome.
+* Block 87 <=== 118	USER>>GQ872137.1/56-3	   54   [+0+] GQ872137.1/56-3 Peach latent mosaic viroid isolate Laura.4, complete genome.
+* Block 88 <=== 82	USER>>AJ005305.1/56-3	   54   [+0+] AJ005305.1/56-3 Peach latent mosaic viroid, a hammerhead structure RNA, isolate Esc76906, variant esc8
+* Block 89 <=== 3	USER>>ET708827.1/55-2	   54   [+0+] ET708827.1/55-2 Peach latent mosaic viroid clone 151.3, complete genome.
+* Block 90 <=== 281	USER>>DQ222099.1/57-3	   55   [+0+] DQ222099.1/57-3 Peach latent mosaic viroid isolate PC-C40.104, complete genome.
+* Block 91 <=== 304	USER>>AF170521.1/55-3	   53   [+3+] AF170521.1/55-3 Peach latent mosaic viroid variant #2 from Prunus persica Tylor cultivar, complete sequence.
+* Block 92 <=== 302	USER>>GQ872140.1/56-3	   54   [+0+] GQ872140.1/56-3 Peach latent mosaic viroid isolate Laura.7, complete genome.
+* Block 93 <=== 306	USER>>AJ241838.1/56-3	   54   [+0+] AJ241838.1/56-3 peach latent mosaic viroid, varient esc10-1
+* Block 94 <=== 269	USER>>DQ222095.1/56-3	   54   [+1+] DQ222095.1/56-3 Peach latent mosaic viroid isolate PC-P1.148.58, complete genome.
+* Block 95 <=== 305	USER>>AJ241841.1/57-3	   55   [+0+] AJ241841.1/57-3 peach latent mosaic viroid, varient esc10-4
+* Block 96 <=== 90	USER>>AJ005312.1/282-335	   54   [+0+] AJ005312.1/282-335 Peach latent mosaic viroid, a hammerhead structure RNA, isolate LS35, variant ls16b
+* Block 97 <=== 157	USER>>AJ005302.1/281-334	   54   [+0+] AJ005302.1/281-334 Peach latent mosaic viroid, a hammerhead structure RNA, isolate D168, variant gds 13
+* Block 98 <=== 75	USER>>ET708839.1/283-336	   54   [+0+] ET708839.1/283-336 Peach latent mosaic viroid clone 215.3, complete genome.
+* Block 99 <=== 74	USER>>DQ222085.1/282-335	   54   [+0+] DQ222085.1/282-335 Peach latent mosaic viroid isolate PC-P1.148.01, complete genome.
+* Block 100 <=== 73	USER>>DQ222070.1/280-333	   54   [+10+] DQ222070.1/280-333 Peach latent mosaic viroid isolate PC-P1.142.01, complete genome.
+* Block 101 <=== 105	USER>>DQ680781.1/283-336	   54   [+0+] DQ680781.1/283-336 Peach latent mosaic viroid variant 100.3, complete genome.
+* Block 102 <=== 91	USER>>DQ680798.1/273-326	   54   [+0+] DQ680798.1/273-326 Peach latent mosaic viroid variant 235.2, complete genome.
+* Block 103 <=== 28	USER>>JF927895.1/280-333	   54   [+4+] JF927895.1/280-333 Peach latent mosaic viroid isolate V209, complete genome.
+* Block 104 <=== 97	USER>>EF151295.1/282-335	   54   [+0+] EF151295.1/282-335 Peach latent mosaic viroid isolate PL94, complete genome.
+* Block 105 <=== 135	USER>>DQ222060.1/281-334	   54   [+1+] DQ222060.1/281-334 Peach latent mosaic viroid PC-P2.46, complete genome.
+* Block 106 <=== 136	USER>>DQ680801.1/282-335	   54   [+2+] DQ680801.1/282-335 Peach latent mosaic viroid variant 235.4, complete genome.
+* Block 107 <=== 65	USER>>DQ839564.1/284-337	   54   [+1+] DQ839564.1/284-337 Peach latent mosaic viroid clone Eg18, complete genome.
+* Block 108 <=== 66	USER>>AF170504.1/284-337	   54   [+0+] AF170504.1/284-337 Peach latent mosaic viroid variant #11 from Prunus persica Redhaven cultivar, complete sequence.
+* Block 109 <=== 10	USER>>ET708838.1/283-336	   54   [+0+] ET708838.1/283-336 Peach latent mosaic viroid clone 215.2, complete genome.
+* Block 110 <=== 29	USER>>DQ680722.1/283-336	   54   [+3+] DQ680722.1/283-336 Peach latent mosaic viroid variant 353.4, complete genome.
+* Block 111 <=== 49	USER>>DQ680714.1/284-337	   54   [+0+] DQ680714.1/284-337 Peach latent mosaic viroid variant 124.3, complete genome.
+* Block 112 <=== 48	USER>>ET888599.1/280-333	   54   [+2+] ET888599.1/280-333 Peach latent mosaic viroid isolate PchMx.Azt2, complete genome.
+* Block 113 <=== 56	USER>>DQ680776.1/283-336	   54   [+4+] DQ680776.1/283-336 Peach latent mosaic viroid variant 155.3, complete genome.
+* Block 114 <=== 32	USER>>DQ680732.1/283-336	   54   [+0+] DQ680732.1/283-336 Peach latent mosaic viroid variant 107.4, complete genome.
+* Block 115 <=== 177	USER>>DQ680724.1/283-336	   54   [+0+] DQ680724.1/283-336 Peach latent mosaic viroid variant 133''.3, complete genome.
+* Block 116 <=== 24	USER>>AF170522.1/282-335	   54   [+3+] AF170522.1/282-335 Peach latent mosaic viroid variant #3 from Prunus persica Tylor cultivar, complete sequence.
+* Block 117 <=== 27	USER>>DQ680713.1/283-336	   54   [+1+] DQ680713.1/283-336 Peach latent mosaic viroid variant 88.3, complete genome.
+* Block 118 <=== 15	USER>>AY685181.1/283-336	   54   [+0+] AY685181.1/283-336 Peach latent mosaic viroid, complete sequence.
+* Block 119 <=== 102	USER>>DQ680725.1/283-336	   54   [+0+] DQ680725.1/283-336 Peach latent mosaic viroid variant 133''.1, complete genome.
+* Block 120 <=== 30	USER>>AJ241848.1/281-334	   54   [+0+] AJ241848.1/281-334 peach latent mosaic viroid, varient ls11-4
+* Block 121 <=== 16	USER>>AF339742.1/282-335	   54   [+32+] AF339742.1/282-335 Peach latent mosaic viroid plum isolate, complete genome.
+* Block 122 <=== 8	USER>>DQ680728.1/283-336	   54   [+1+] DQ680728.1/283-336 Peach latent mosaic viroid variant 107.1, complete genome.
+* Block 123 <=== 26	USER>>AF170505.1/284-337	   54   [+25+] AF170505.1/284-337 Peach latent mosaic viroid variant #12 from Prunus persica Redhaven cultivar, complete sequence.
+* Block 124 <=== 25	USER>>AJ241829.1/279-332	   54   [+5+] AJ241829.1/279-332 peach latent mosaic viroid, varient gds15-5s
+* Block 125 <=== 31	USER>>AJ241842.1/282-335	   54   [+10+] AJ241842.1/282-335 peach latent mosaic viroid, varient esc10-5
+* Block 126 <=== 46	USER>>AJ241825.1/282-335	   54   [+2+] AJ241825.1/282-335 peach latent mosaic viroid, varient gds6-22
+* Block 127 <=== 47	USER>>DQ222082.1/282-335	   54   [+3+] DQ222082.1/282-335 Peach latent mosaic viroid isolate PC-P1.159.89, complete genome.
+* Block 128 <=== 45	USER>>DQ680778.1/283-336	   54   [+16+] DQ680778.1/283-336 Peach latent mosaic viroid variant 133'.4, complete genome.
+* Block 129 <=== 57	USER>>HM185107.1/282-335	   54   [+0+] HM185107.1/282-335 Peach latent mosaic viroid isolate 98.3s2 clonPL01, complete genome.
+* Block 130 <=== 58	USER>>DQ222098.1/282-335	   54   [+0+] DQ222098.1/282-335 Peach latent mosaic viroid isolate PC-C40.101, complete genome.
+* Block 131 <=== 59	USER>>HM185110.1/282-335	   54   [+0+] HM185110.1/282-335 Peach latent mosaic viroid isolate AY09PG5 clonp4, complete genome.
+* Block 132 <=== 39	USER>>AJ241845.1/282-335	   54   [+0+] AJ241845.1/282-335 peach latent mosaic viroid, varient esc10-13
+* Block 133 <=== 95	USER>>DQ680733.1/282-335	   54   [+0+] DQ680733.1/282-335 Peach latent mosaic viroid variant 107.2, complete genome.
+* Block 134 <=== 76	USER>>DQ680745.1/283-336	   54   [+0+] DQ680745.1/283-336 Peach latent mosaic viroid variant 261.2, complete genome.
+* Block 135 <=== 104	USER>>DQ680747.1/283-336	   54   [+0+] DQ680747.1/283-336 Peach latent mosaic viroid variant 261.4, complete genome.
+* Block 136 <=== 92	USER>>DQ680744.1/282-335	   54   [+1+] DQ680744.1/282-335 Peach latent mosaic viroid variant 261.1, complete genome.
+* Block 137 <=== 72	USER>>AJ241840.1/282-335	   54   [+16+] AJ241840.1/282-335 peach latent mosaic viroid, varient esc10-3
+* Block 138 <=== 94	USER>>DQ680718.1/285-338	   54   [+0+] DQ680718.1/285-338 Peach latent mosaic viroid variant 278.3, complete genome.
+* Block 139 <=== 71	USER>>DQ680742.1/282-335	   54   [+0+] DQ680742.1/282-335 Peach latent mosaic viroid variant 298.2, complete genome.
+* Block 140 <=== 98	USER>>DQ680739.1/283-336	   54   [+5+] DQ680739.1/283-336 Peach latent mosaic viroid variant 52.2, complete genome.
+* Block 141 <=== 93	USER>>ET708826.1/283-336	   54   [+10+] ET708826.1/283-336 Peach latent mosaic viroid clone 151.2, complete genome.
+* Block 142 <=== 99	USER>>AJ005315.1/281-334	   54   [+1+] AJ005315.1/281-334 Peach latent mosaic viroid, a hammerhead structure RNA, isolate LS35, variant ls18b
+* Block 143 <=== 100	USER>>M83545.1/282-335	   54   [+7+] M83545.1/282-335 Peach latent mosaic viroid hammerhead structure RNA sequence.
+* Block 144 <=== 134	USER>>DQ680806.1/284-337	   54   [+2+] DQ680806.1/284-337 Peach latent mosaic viroid variant 387.1, complete genome.
+* Block 145 <=== 69	USER>>DQ680805.1/283-336	   54   [+0+] DQ680805.1/283-336 Peach latent mosaic viroid variant 387.4, complete genome.
+* Block 146 <=== 70	USER>>DQ680763.1/282-335	   54   [+0+] DQ680763.1/282-335 Peach latent mosaic viroid variant 101.3, complete genome.
+* Block 147 <=== 33	USER>>DQ680764.1/284-337	   54   [+2+] DQ680764.1/284-337 Peach latent mosaic viroid variant 101.4, complete genome.
+* Block 148 <=== 55	USER>>DQ680780.1/283-336	   54   [+0+] DQ680780.1/283-336 Peach latent mosaic viroid variant 100.1, complete genome.
+* Block 149 <=== 103	USER>>DQ680774.1/284-337	   54   [+0+] DQ680774.1/284-337 Peach latent mosaic viroid variant 369.1, complete genome.
+* Block 150 <=== 101	USER>>DQ680782.1/283-336	   54   [+1+] DQ680782.1/283-336 Peach latent mosaic viroid variant 369.2, complete genome.
+* Block 151 <=== 50	USER>>HQ342886.1/282-335	   54   [+0+] HQ342886.1/282-335 Peach latent mosaic viroid clone p95, complete genome.
+* Block 152 <=== 51	USER>>DQ680787.1/283-336	   54   [+10+] DQ680787.1/283-336 Peach latent mosaic viroid variant 330.3, complete genome.
+* Block 153 <=== 38	USER>>DQ680766.1/283-336	   54   [+4+] DQ680766.1/283-336 Peach latent mosaic viroid variant 265.2, complete genome.
+* Block 154 <=== 68	USER>>DQ680758.1/283-336	   54   [+7+] DQ680758.1/283-336 Peach latent mosaic viroid variant 244.2, complete genome.
+* Block 155 <=== 67	USER>>FM955277.1/283-336	   54   [+0+] FM955277.1/283-336 Peach latent mosaic viroid, complete genome, isolate India
+* Block 156 <=== 52	USER>>DQ222072.1/281-334	   54   [+0+] DQ222072.1/281-334 Peach latent mosaic viroid isolate PC-P1.142.09, complete genome.
+* Block 157 <=== 140	USER>>DQ680770.1/283-336	   54   [+0+] DQ680770.1/283-336 Peach latent mosaic viroid variant 66.3, complete genome.
+* Block 158 <=== 139	USER>>DQ222097.1/281-334	   54   [+2+] DQ222097.1/281-334 Peach latent mosaic viroid isolate PC-P1.148.95, complete genome.
+* Block 159 <=== 96	USER>>DQ222084.1/282-335	   54   [+5+] DQ222084.1/282-335 Peach latent mosaic viroid isolate PC-P1.159.91, complete genome.
+* Block 160 <=== 138	USER>>DQ222095.1/282-335	   54   [+0+] DQ222095.1/282-335 Peach latent mosaic viroid isolate PC-P1.148.58, complete genome.
+* Block 161 <=== 137	USER>>ET429320.1/283-336	   54   [+0+] ET429320.1/283-336 Peach latent mosaic viroid clone CC2, complete genome.
+* Block 162 <=== 37	USER>>DQ680790.1/283-336	   54   [+2+] DQ680790.1/283-336 Peach latent mosaic viroid variant 162.3, complete genome.
+* Block 163 <=== 53	USER>>DQ680791.1/283-336	   54   [+0+] DQ680791.1/283-336 Peach latent mosaic viroid variant 210.1, complete genome.
+* Block 164 <=== 153	USER>>DQ680754.1/283-336	   54   [+0+] DQ680754.1/283-336 Peach latent mosaic viroid variant 253.1, complete genome.
+* Block 165 <=== 9	USER>>GQ872137.1/282-335	   54   [+1+] GQ872137.1/282-335 Peach latent mosaic viroid isolate Laura.4, complete genome.
+* Block 166 <=== 54	USER>>AJ550899.1/282-335	   54   [+2+] AJ550899.1/282-335 Peach latent mosaic viroid complete genome, isolate PC-C41
+* Block 167 <=== 17	USER>>GQ872150.1/282-335	   54   [+11+] GQ872150.1/282-335 Peach latent mosaic viroid isolate Laura.17, complete genome.
+* Block 168 <=== 89	USER>>GQ872149.1/282-335	   54   [+0+] GQ872149.1/282-335 Peach latent mosaic viroid isolate Laura.16, complete genome.
+* Block 169 <=== 176	USER>>GQ872151.1/282-334	   53   [+0+] GQ872151.1/282-334 Peach latent mosaic viroid isolate Laura.18, complete genome.
+* Block 170 <=== 179	USER>>AJ550901.1/282-334	   53   [+0+] AJ550901.1/282-334 Peach latent mosaic viroid complete genome, isolate PC-C38
+* Block 171 <=== 152	USER>>GQ872147.1/282-335	   54   [+0+] GQ872147.1/282-335 Peach latent mosaic viroid isolate Laura.14, complete genome.
+* Block 172 <=== 321	USER>>GQ872138.1/282-334	   53   [+0+] GQ872138.1/282-334 Peach latent mosaic viroid isolate Luara.5, complete genome.
+* Block 173 <=== 293	USER>>EF591867.1/281-334	   54   [+1+] EF591867.1/281-334 Peach latent mosaic viroid isolate S2, complete sequence.
+* Block 174 <=== 296	USER>>ET708837.1/283-335	   53   [+0+] ET708837.1/283-335 Peach latent mosaic viroid clone 215.1, complete genome.
+* Block 175 <=== 295	USER>>ET708828.1/283-335	   53   [+0+] ET708828.1/283-335 Peach latent mosaic viroid clone 153.1, complete genome.
+* Block 176 <=== 297	USER>>DQ222090.1/282-337	   56   [+0+] DQ222090.1/282-337 Peach latent mosaic viroid isolate PC-P1.148.73, complete genome.
+* Block 177 <=== 299	USER>>DQ222091.1/282-335	   54   [+0+] DQ222091.1/282-335 Peach latent mosaic viroid isolate PC-P1.148.87, complete genome.
+* Block 178 <=== 154	USER>>ET708829.1/283-336	   54   [+0+] ET708829.1/283-336 Peach latent mosaic viroid clone 153.2, complete genome.
+* Block 179 <=== 155	USER>>GT825988.1/284-337	   54   [+0+] GT825988.1/284-337 Peach latent mosaic viroid clone PLMVd-tun7, complete genome.
+* Block 180 <=== 173	USER>>AJ005299.1/282-335	   54   [+0+] AJ005299.1/282-335 Peach latent mosaic viroid, a hammerhead structure RNA, isolate D168, variant gds1
+* Block 181 <=== 156	USER>>AJ241823.1/282-335	   54   [+0+] AJ241823.1/282-335 peach latent mosaic viroid, varient gds6-11
+* Block 182 <=== 167	USER>>AJ241828.1/281-335	   55   [+1+] AJ241828.1/281-335 peach latent mosaic viroid, varient gds15-4s
+* Block 183 <=== 163	USER>>EF151293.1/282-335	   54   [+1+] EF151293.1/282-335 Peach latent mosaic viroid isolate PL21, complete genome.
+* Block 184 <=== 175	USER>>HM185108.1/282-334	   53   [+0+] HM185108.1/282-334 Peach latent mosaic viroid isolate 98.3s1clonPR02, complete genome.
+* Block 185 <=== 146	USER>>DQ680720.1/283-336	   54   [+1+] DQ680720.1/283-336 Peach latent mosaic viroid variant 353.2, complete genome.
+* Block 186 <=== 298	USER>>DQ680792.1/285-337	   53   [+0+] DQ680792.1/285-337 Peach latent mosaic viroid variant 155.1, complete genome.
+* Block 187 <=== 250	USER>>DQ680793.1/283-335	   53   [+0+] DQ680793.1/283-335 Peach latent mosaic viroid variant 155.2, complete genome.
+* Block 188 <=== 174	USER>>AJ550907.1/281-333	   53   [+0+] AJ550907.1/281-333 Peach latent mosaic viroid complete genome, isolate PC-C42
+* Block 189 <=== 171	USER>>HM185111.1/283-335	   53   [+0+] HM185111.1/283-335 Peach latent mosaic viroid isolate AY09PG35 clonp35, complete genome.
+* Block 190 <=== 249	USER>>GT825987.1/280-332	   53   [+0+] GT825987.1/280-332 Peach latent mosaic viroid clone PLMVd-tun6, complete genome.
+* Block 191 <=== 178	USER>>DQ222086.1/282-334	   53   [+2+] DQ222086.1/282-334 Peach latent mosaic viroid isolate PC-P1.148.04, complete genome.
+* Block 192 <=== 166	USER>>AJ550906.1/282-334	   53   [+0+] AJ550906.1/282-334 Peach latent mosaic viroid complete genome, isolate PC-C36
+* Block 193 <=== 158	USER>>GT825983.1/281-334	   54   [+0+] GT825983.1/281-334 Peach latent mosaic viroid clone PLMVd-2tun, complete genome.
+* Block 194 <=== 145	USER>>DQ680779.1/284-337	   54   [+0+] DQ680779.1/284-337 Peach latent mosaic viroid variant 133'.1, complete genome.
+* Block 195 <=== 144	USER>>AJ241847.1/281-334	   54   [+0+] AJ241847.1/281-334 peach latent mosaic viroid, varient ls11-3
+* Block 196 <=== 143	USER>>EF151298.1/281-334	   54   [+0+] EF151298.1/281-334 Peach latent mosaic viroid isolate PL133A, complete genome.
+* Block 197 <=== 159	USER>>GQ872124.1/282-334	   53   [+2+] GQ872124.1/282-334 Peach latent mosaic viroid isolate DP.3, complete genome.
+* Block 198 <=== 147	USER>>DQ222083.1/281-333	   53   [+0+] DQ222083.1/281-333 Peach latent mosaic viroid isolate PC-P1.159.90, complete genome.
+* Block 199 <=== 160	USER>>ET708835.1/283-335	   53   [+14+] ET708835.1/283-335 Peach latent mosaic viroid clone 214.2, complete genome.
+* Block 200 <=== 165	USER>>GQ872122.1/283-335	   53   [+0+] GQ872122.1/283-335 Peach latent mosaic viroid isolate DP.1, complete genome.
+* Block 201 <=== 251	USER>>AJ241839.1/282-334	   53   [+0+] AJ241839.1/282-334 peach latent mosaic viroid, varient esc10-2
+* Block 202 <=== 252	USER>>DQ680740.1/283-336	   54   [+0+] DQ680740.1/283-336 Peach latent mosaic viroid variant 52.4, complete genome.
+* Block 203 <=== 170	USER>>AJ005300.1/282-335	   54   [+0+] AJ005300.1/282-335 Peach latent mosaic viroid, a hammerhead structure RNA, isolate D168, variant gds3
+* Block 204 <=== 162	USER>>AJ241830.1/282-334	   53   [+0+] AJ241830.1/282-334 peach latent mosaic viroid, varient gds15-6s
+* Block 205 <=== 161	USER>>AJ005295.1/282-334	   53   [+1+] AJ005295.1/282-334 Peach latent mosaic viroid, a hammerhead structure RNA, isolate D168, variant gds21
+* Block 206 <=== 168	USER>>DQ680771.1/283-336	   54   [+0+] DQ680771.1/283-336 Peach latent mosaic viroid variant 265.4, complete genome.
+* Block 207 <=== 169	USER>>GQ872126.1/283-335	   53   [+0+] GQ872126.1/283-335 Peach latent mosaic viroid isolate GRE.2, complete genome.
+* Block 208 <=== 245	USER>>AJ241833.1/282-334	   53   [+2+] AJ241833.1/282-334 peach latent mosaic viroid, varient gds15-7as
+* Block 209 <=== 164	USER>>AJ005321.1/281-333	   53   [+0+] AJ005321.1/281-333 Peach latent mosaic viroid, a hammerhead structure RNA, isolate LS35, variant ls6b
+* Block 210 <=== 180	USER>>GQ872131.1/283-335	   53   [+0+] GQ872131.1/283-335 Peach latent mosaic viroid isolate RG.1, complete genome.
+* Block 211 <=== 246	USER>>AJ005320.1/281-333	   53   [+3+] AJ005320.1/281-333 Peach latent mosaic viroid, a hammerhead structure RNA, isolate LS35, variant ls11b
+* Block 212 <=== 247	USER>>DQ839565.1/284-336	   53   [+0+] DQ839565.1/284-336 Peach latent mosaic viroid clone Eg19, complete genome.
+* Block 213 <=== 248	USER>>AJ241850.1/282-334	   53   [+0+] AJ241850.1/282-334 peach latent mosaic viroid, varient ls11-12
+* Block 214 <=== 292	USER>>DQ222103.1/282-334	   53   [+0+] DQ222103.1/282-334 Peach latent mosaic viroid isolate PC-C40.130, complete genome.
+* Block 215 <=== 267	USER>>ET708844.1/282-334	   53   [+7+] ET708844.1/282-334 Peach latent mosaic viroid clone 223.2, complete genome.
+* Block 216 <=== 300	USER>>DQ680743.1/283-335	   53   [+0+] DQ680743.1/283-335 Peach latent mosaic viroid variant 298.4, complete genome.
+* Block 217 <=== 268	USER>>AJ550910.1/282-336	   55   [+0+] AJ550910.1/282-336 Peach latent mosaic viroid complete genome, isolate PC-C37
+* Block 218 <=== 172	USER>>AJ550908.1/281-334	   54   [+0+] AJ550908.1/281-334 Peach latent mosaic viroid complete genome, isolate PC-C30
+* Block 219 <=== 266	USER>>GT825982.1/280-333	   54   [+0+] GT825982.1/280-333 Peach latent mosaic viroid clone PLMVd-1tun, complete genome.
+* Block 220 <=== 301	USER>>DQ222094.1/282-335	   54   [+0+] DQ222094.1/282-335 Peach latent mosaic viroid isolate PC-P1.148.44, complete genome.
+* Block 221 <=== 294	USER>>DQ222092.1/282-335	   54   [+0+] DQ222092.1/282-335 Peach latent mosaic viroid isolate PC-P1.148.06, complete genome.
+* Block 222 <=== 191	USER>>DQ680707.1/284-337	   54   [+2+] DQ680707.1/284-337 Peach latent mosaic viroid variant 377.4, complete genome.
+* Block 223 <=== 195	USER>>DQ680704.1/284-337	   54   [+0+] DQ680704.1/284-337 Peach latent mosaic viroid variant 377.1, complete genome.
+* Block 224 <=== 264	USER>>GQ499320.1/283-336	   54   [+1+] GQ499320.1/283-336 Peach latent mosaic viroid isolate 16, complete sequence.
+* Block 225 <=== 290	USER>>GQ499321.1/283-335	   53   [+0+] GQ499321.1/283-335 Peach latent mosaic viroid isolate 17, complete sequence.
+* Block 226 <=== 285	USER>>ET708846.1/282-334	   53   [+0+] ET708846.1/282-334 Peach latent mosaic viroid clone 99.5, complete genome.
+* Block 227 <=== 286	USER>>DQ680688.1/282-335	   54   [+0+] DQ680688.1/282-335 Peach latent mosaic viroid variant 143.1, complete genome.
+* Block 228 <=== 291	USER>>GQ499312.1/284-337	   54   [+1+] GQ499312.1/284-337 Peach latent mosaic viroid isolate 8, complete sequence.
+* Block 229 <=== 194	USER>>DQ680693.1/282-335	   54   [+0+] DQ680693.1/282-335 Peach latent mosaic viroid variant 151.4, complete genome.
+* Block 230 <=== 283	USER>>ET708848.1/282-334	   53   [+3+] ET708848.1/282-334 Peach latent mosaic viroid clone 99.3, complete genome.
+* Block 231 <=== 287	USER>>DQ680703.1/284-338	   55   [+0+] DQ680703.1/284-338 Peach latent mosaic viroid variant 210.2, complete genome.
+* Block 232 <=== 288	USER>>DQ680695.1/282-335	   54   [+0+] DQ680695.1/282-335 Peach latent mosaic viroid variant 162.2, complete genome.
+* Block 233 <=== 289	USER>>DQ680689.1/282-335	   54   [+0+] DQ680689.1/282-335 Peach latent mosaic viroid variant 143.4, complete genome.
+* Block 234 <=== 265	USER>>DQ680697.1/282-335	   54   [+0+] DQ680697.1/282-335 Peach latent mosaic viroid variant 240.4, complete genome.
+* Block 235 <=== 259	USER>>GQ499322.1/283-336	   54   [+0+] GQ499322.1/283-336 Peach latent mosaic viroid isolate 18, complete sequence.
+* Block 236 <=== 260	USER>>GQ499316.1/283-336	   54   [+11+] GQ499316.1/283-336 Peach latent mosaic viroid isolate 12, complete sequence.
+* Block 237 <=== 261	USER>>AF170503.1/280-333	   54   [+1+] AF170503.1/280-333 Peach latent mosaic viroid variant #8 from Prunus persica Hardired cultivar, complete sequence.
+* Block 238 <=== 193	USER>>GQ499313.1/283-336	   54   [+2+] GQ499313.1/283-336 Peach latent mosaic viroid isolate 9, complete sequence.
+* Block 239 <=== 262	USER>>GQ499307.1/283-336	   54   [+1+] GQ499307.1/283-336 Peach latent mosaic viroid isolate 3, complete sequence.
+* Block 240 <=== 282	USER>>GQ499317.1/284-336	   53   [+0+] GQ499317.1/284-336 Peach latent mosaic viroid isolate 13, complete sequence.
+* Block 241 <=== 284	USER>>GQ499315.1/284-336	   53   [+0+] GQ499315.1/284-336 Peach latent mosaic viroid isolate 11, complete sequence.
+* Block 242 <=== 263	USER>>EF151294.1/282-335	   54   [+0+] EF151294.1/282-335 Peach latent mosaic viroid isolate PL31A, complete genome.
+* Block 243 <=== 196	USER>>FJ647550.1/134-52	   83   [+5+] FJ647550.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 35, complete genome.
+* Block 244 <=== 207	USER>>FJ647527.1/134-52	   83   [+8+] FJ647527.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 12, complete genome.
+* Block 245 <=== 208	USER>>FJ647521.1/134-52	   83   [+4+] FJ647521.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 06, complete genome.
+* Block 246 <=== 209	USER>>FJ647529.1/134-52	   83   [+0+] FJ647529.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 14, complete genome.
+* Block 247 <=== 210	USER>>FJ647517.1/134-52	   83   [+46+] FJ647517.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 02, complete genome.
+* Block 248 <=== 211	USER>>FJ647498.1/134-52	   83   [+0+] FJ647498.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 5 clone 36, complete genome.
+* Block 249 <=== 204	USER>>HQ891017.1/134-52	   83   [+1+] HQ891017.1/134-52 Chrysanthemum chlorotic mottle viroid isolate H5-10, complete genome.
+* Block 250 <=== 242	USER>>FJ647331.1/142-60	   83   [+78+] FJ647331.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 41, partial sequence.
+* Block 251 <=== 243	USER>>FJ647314.1/142-60	   83   [+10+] FJ647314.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 24, partial sequence.
+* Block 252 <=== 244	USER>>FJ647292.1/142-60	   83   [+4+] FJ647292.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 02, partial sequence.
+* Block 253 <=== 197	USER>>FJ647546.1/134-52	   83   [+0+] FJ647546.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 31, complete genome.
+* Block 254 <=== 237	USER>>FJ647332.1/141-59	   83   [+18+] FJ647332.1/141-59 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 42, partial sequence.
+* Block 255 <=== 238	USER>>FJ647369.1/142-60	   83   [+0+] FJ647369.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 3 clone hammerhead 15, partial sequence.
+* Block 256 <=== 233	USER>>FJ647370.1/142-60	   83   [+0+] FJ647370.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 3 clone hammerhead 16, partial sequence.
+* Block 257 <=== 199	USER>>FJ647541.1/134-52	   83   [+3+] FJ647541.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 26, complete genome.
+* Block 258 <=== 201	USER>>FJ647543.1/134-52	   83   [+2+] FJ647543.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 28, complete genome.
+* Block 259 <=== 202	USER>>FJ647534.1/134-52	   83   [+0+] FJ647534.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 19, complete genome.
+* Block 260 <=== 232	USER>>FJ647398.1/142-60	   83   [+0+] FJ647398.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 3 clone hammerhead 44, partial sequence.
+* Block 261 <=== 231	USER>>FJ647403.1/142-60	   83   [+0+] FJ647403.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 3 clone hammerhead 49, partial sequence.
+* Block 262 <=== 230	USER>>FJ647416.1/134-52	   83   [+38+] FJ647416.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 01, complete genome.
+* Block 263 <=== 229	USER>>FJ647400.1/142-60	   83   [+3+] FJ647400.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 3 clone hammerhead 46, partial sequence.
+* Block 264 <=== 228	USER>>FJ647423.1/134-52	   83   [+0+] FJ647423.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 08, complete genome.
+* Block 265 <=== 227	USER>>FJ647452.1/134-52	   83   [+0+] FJ647452.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 37, complete genome.
+* Block 266 <=== 226	USER>>FJ647457.1/134-52	   83   [+1+] FJ647457.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 42, complete genome.
+* Block 267 <=== 225	USER>>FJ647420.1/134-52	   83   [+2+] FJ647420.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 05, complete genome.
+* Block 268 <=== 224	USER>>FJ647424.1/134-52	   83   [+1+] FJ647424.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 09, complete genome.
+* Block 269 <=== 223	USER>>FJ647454.1/134-52	   83   [+21+] FJ647454.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 39, complete genome.
+* Block 270 <=== 222	USER>>FJ647453.1/134-52	   83   [+0+] FJ647453.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 38, complete genome.
+* Block 271 <=== 221	USER>>FJ647462.1/134-52	   83   [+2+] FJ647462.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 47, complete genome.
+* Block 272 <=== 216	USER>>FJ647461.1/134-52	   83   [+0+] FJ647461.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 46, complete genome.
+* Block 273 <=== 215	USER>>FJ647514.1/134-52	   83   [+0+] FJ647514.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 5 clone 52, complete genome.
+* Block 274 <=== 214	USER>>FJ647515.1/134-52	   83   [+0+] FJ647515.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 5 clone 53, complete genome.
+* Block 275 <=== 213	USER>>FJ647533.1/134-52	   83   [+0+] FJ647533.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 18, complete genome.
+* Block 276 <=== 219	USER>>FJ647474.1/134-52	   83   [+0+] FJ647474.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 5 clone 12, complete genome.
+* Block 277 <=== 220	USER>>FJ647471.1/134-52	   83   [+0+] FJ647471.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 5 clone 09, complete genome.
+* Block 278 <=== 253	USER>>AJ878088.1/134-52	   83   [+6+] AJ878088.1/134-52 Chrysanthemum chlorotic mottle viroid, clone CM296 VR
+* Block 279 <=== 254	USER>>AJ878086.1/134-52	   83   [+0+] AJ878086.1/134-52 Chrysanthemum chlorotic mottle viroid, clone CM1
+* Block 280 <=== 218	USER>>FJ647480.1/134-52	   83   [+0+] FJ647480.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 5 clone 18, complete genome.
+* Block 281 <=== 217	USER>>FJ647450.1/134-52	   83   [+1+] FJ647450.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 35, complete genome.
+* Block 282 <=== 212	USER>>FJ647482.1/134-52	   83   [+0+] FJ647482.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 5 clone 20, complete genome.
+* Block 283 <=== 206	USER>>Y14700.1/134-52	   83   [+0+] Y14700.1/134-52 Chrysanthemum chlorotic mottle viroid
+* Block 284 <=== 255	USER>>FJ647336.1/143-60	   84   [+2+] FJ647336.1/143-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 46, partial sequence.
+* Block 285 <=== 256	USER>>FJ647333.1/142-60	   83   [+0+] FJ647333.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 43, partial sequence.
+* Block 286 <=== 192	USER>>AJ878089.1/134-52	   83   [+0+] AJ878089.1/134-52 Chrysanthemum chlorotic mottle viroid, clone CM298 VR
+* Block 287 <=== 200	USER>>FJ647538.1/134-52	   83   [+0+] FJ647538.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 23, complete genome.
+* Block 288 <=== 236	USER>>FJ647338.1/142-60	   83   [+0+] FJ647338.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 48, partial sequence.
+* Block 289 <=== 235	USER>>FJ647339.1/142-60	   83   [+7+] FJ647339.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 49, partial sequence.
+* Block 290 <=== 234	USER>>FJ647340.1/142-60	   83   [+0+] FJ647340.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 50, partial sequence.
+* Block 291 <=== 240	USER>>FJ647341.1/142-60	   83   [+0+] FJ647341.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 51, partial sequence.
+* Block 292 <=== 239	USER>>FJ647343.1/142-60	   83   [+0+] FJ647343.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 53, partial sequence.
+* Block 293 <=== 198	USER>>FJ647553.1/134-52	   83   [+0+] FJ647553.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 38, complete genome.
+* Block 294 <=== 203	USER>>FJ647537.1/134-52	   83   [+0+] FJ647537.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 22, complete genome.
+* Block 295 <--- 205	USER>>AB181858.1/133-52	   82   [+0+] AB181858.1/133-52 Chrysanthemum chlorotic mottle viroid genomic RNA, complete genome, clone: Ak1-8.
+* Block 296 <--- 241	USER>>FJ647322.1/142-60	   83   [+0+] FJ647322.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 32, partial sequence.
+* Block 297 <=== 280	USER>>FJ647373.1/142-60	   83   [+0+] FJ647373.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 3 clone hammerhead 19, partial sequence.
+* Block 298 <=== 307	USER>>FJ647231.1/142-60	   83   [+0+] FJ647231.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 1 clone hammerhead 04, partial sequence.
+* Block 299 <=== 347	USER>>FJ647277.1/143-61	   83   [+0+] FJ647277.1/143-61 Chrysanthemum chlorotic mottle viroid isolate plant 1 clone hammerhead 50, partial sequence.
+* Block 300 <=== 346	USER>>FJ647481.1/134-52	   83   [+0+] FJ647481.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 5 clone 19, complete genome.
+* Block 301 <=== 345	USER>>FJ647371.1/142-60	   83   [+0+] FJ647371.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 3 clone hammerhead 17, partial sequence.
+* Block 302 <=== 344	USER>>FJ647347.1/142-60	   83   [+0+] FJ647347.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 57, partial sequence.
+* Block 303 <=== 315	USER>>FJ647270.1/142-60	   83   [+0+] FJ647270.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 1 clone hammerhead 43, partial sequence.
+* Block 304 <=== 314	USER>>FJ647296.1/142-60	   83   [+0+] FJ647296.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 06, partial sequence.
+* Block 305 <=== 313	USER>>FJ647372.1/142-60	   83   [+0+] FJ647372.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 3 clone hammerhead 18, partial sequence.
+* Block 306 <=== 312	USER>>FJ647299.1/142-60	   83   [+0+] FJ647299.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 09, partial sequence.
+* Block 307 <=== 311	USER>>FJ647360.1/142-60	   83   [+0+] FJ647360.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 3 clone hammerhead 06, partial sequence.
+* Block 308 <=== 310	USER>>FJ647437.1/134-52	   83   [+0+] FJ647437.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 22, complete genome.
+* Block 309 <=== 317	USER>>FJ647438.1/134-52	   83   [+0+] FJ647438.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 23, complete genome.
+* Block 310 <=== 275	USER>>HQ891015.1/134-52	   83   [+1+] HQ891015.1/134-52 Chrysanthemum chlorotic mottle viroid isolate W2-7, complete genome.
+* Block 311 <=== 274	USER>>DQ402041.1/134-52	   83   [+0+] DQ402041.1/134-52 Chrysanthemum chlorotic mottle viroid RNA, complete genome.
+* Block 312 <=== 316	USER>>AJ247116.1/134-52	   83   [+0+] AJ247116.1/134-52 Chrysanthemum chlorotic mottle viroid RNA, variant CMNS 6
+* Block 313 <=== 271	USER>>AJ247118.1/134-52	   83   [+7+] AJ247118.1/134-52 Chrysanthemum chlorotic mottle viroid RNA, variant CMNS 25
+* Block 314 <=== 309	USER>>FJ647456.1/134-52	   83   [+0+] FJ647456.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 41, complete genome.
+* Block 315 <=== 273	USER>>AJ247122.1/133-51	   83   [+0+] AJ247122.1/133-51 Chrysanthemum chlorotic mottle viroid RNA, variant CMNS 38
+* Block 316 <=== 272	USER>>AJ247113.1/135-52	   84   [+0+] AJ247113.1/135-52 Chrysanthemum chlorotic mottle viroid RNA, variant CMNS 2
+* Block 317 <=== 276	USER>>DQ450682.1/134-52	   83   [+0+] DQ450682.1/134-52 Chrysanthemum chlorotic mottle viroid strain SSHA 6, complete genome.
+* Block 318 <=== 277	USER>>FJ647266.1/142-60	   83   [+0+] FJ647266.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 1 clone hammerhead 39, partial sequence.
+* Block 319 <=== 278	USER>>HQ891014.1/134-52	   83   [+0+] HQ891014.1/134-52 Chrysanthemum chlorotic mottle viroid isolate W2-4, complete genome.
+* Block 320 <=== 279	USER>>FN646404.1/133-51	   83   [+0+] FN646404.1/133-51 Chrysanthemum chlorotic mottle viroid complete genome, genomic RNA, isolate Palampur
+* Block 321 <=== 318	USER>>FJ647460.1/134-52	   83   [+2+] FJ647460.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 45, complete genome.
+* Block 322 <=== 319	USER>>FJ647536.1/134-52	   83   [+0+] FJ647536.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 6 clone 21, complete genome.
+* Block 323 <=== 270	USER>>FJ647359.1/142-60	   83   [+0+] FJ647359.1/142-60 Chrysanthemum chlorotic mottle viroid isolate plant 3 clone hammerhead 05, partial sequence.
+* Block 324 <=== 385	USER>>FJ647458.1/134-52	   83   [+0+] FJ647458.1/134-52 Chrysanthemum chlorotic mottle viroid isolate plant 4 clone 43, complete genome.
+* Block 325 <=== 419	USER>>FJ647349.1/135-60	   76   [+0+] FJ647349.1/135-60 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 59, partial sequence.
+* Block 326 <=== 308	USER>>M33000.1/55-110	   56   [+0+] M33000.1/55-110 Subterranean clover mottle virus satellite RNA.
+* Block 327 <=== 343	USER>>M33001.1/56-111	   56   [+0+] M33001.1/56-111 Subterranean clover mottle virus satellite RNA sequence.
+* Block 328 <=== 320	USER>>AP009384.1/4100083-4100026	   58   [+0+] AP009384.1/4100083-4100026 Azorhizobium caulinodans ORS 571 DNA, complete genome.
+* Block 329 <=== 384	USER>>AACY023806030.1/893-836	   58   [+0+] AACY023806030.1/893-836 Marine metagenome ctg_1101668613381, whole genome shotgun sequence.
+* Block 330 <=== 557	USER>>FN596494.1/6497250-6497193	   58   [+1+] FN596494.1/6497250-6497193 Vitis vinifera cv. PN40024, annotated scaffold_2.assembly12x
+* Block 331 <=== 579	USER>>CAAP03006083.1/173201-173257	   57   [+2+] CAAP03006083.1/173201-173257 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_7114
+* Block 332 <=== 525	USER>>FN594968.1/1063714-1063771	   58   [+2+] FN594968.1/1063714-1063771 Vitis vinifera cv. PN40024, annotated scaffold_72.assembly12x
+* Block 333 <=== 509	USER>>FN596502.1/7702704-7702647	   58   [+1+] FN596502.1/7702704-7702647 Vitis vinifera cv. PN40024, annotated scaffold_5.assembly12x
+* Block 334 <=== 561	USER>>CAAP03006699.1/10142-10085	   58   [+1+] CAAP03006699.1/10142-10085 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_2654
+* Block 335 <=== 562	USER>>FN596011.1/273843-273900	   58   [+1+] FN596011.1/273843-273900 Vitis vinifera cv. PN40024, annotated scaffold_99.assembly12x
+* Block 336 <=== 496	USER>>AM465121.2/2389-2332	   58   [+0+] AM465121.2/2389-2332 Vitis vinifera contig VV78X240564.3, whole genome shotgun sequence.
+* Block 337 <=== 410	USER>>FN595995.1/797300-797243	   58   [+2+] FN595995.1/797300-797243 Vitis vinifera cv. PN40024, annotated scaffold_56.assembly12x
+* Block 338 <=== 524	USER>>FN596746.1/2500110-2500167	   58   [+2+] FN596746.1/2500110-2500167 Vitis vinifera cv. PN40024, annotated scaffold_60.assembly12x
+* Block 339 <=== 461	USER>>AM479558.1/17057-17000	   58   [+0+] AM479558.1/17057-17000 Vitis vinifera, whole genome shotgun sequence, contig VV78X134167.3, clone ENTAV 115
+* Block 340 <=== 360	USER>>AM482949.2/8876-8933	   58   [+1+] AM482949.2/8876-8933 Vitis vinifera contig VV78X218385.12, whole genome shotgun sequence.
+* Block 341 <=== 394	USER>>CAAP03008124.1/4616-4559	   58   [+0+] CAAP03008124.1/4616-4559 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_188
+* Block 342 <=== 428	USER>>FN595763.1/416062-416119	   58   [+1+] FN595763.1/416062-416119 Vitis vinifera cv. PN40024, annotated scaffold_43.assembly12x
+* Block 343 <=== 408	USER>>AM456165.2/16384-16441	   58   [+0+] AM456165.2/16384-16441 Vitis vinifera contig VV78X169010.5, whole genome shotgun sequence.
+* Block 344 <=== 409	USER>>FN595751.1/863886-863943	   58   [+0+] FN595751.1/863886-863943 Vitis vinifera cv. PN40024, annotated scaffold_90.assembly12x
+* Block 345 <=== 416	USER>>CAAP03001098.1/55152-55209	   58   [+0+] CAAP03001098.1/55152-55209 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_7629
+* Block 346 <=== 358	USER>>AM462459.1/7869-7926	   58   [+0+] AM462459.1/7869-7926 Vitis vinifera, whole genome shotgun sequence, contig VV78X131272.10, clone ENTAV 115
+* Block 347 <=== 359	USER>>AM482949.2/9730-9787	   58   [+2+] AM482949.2/9730-9787 Vitis vinifera contig VV78X218385.12, whole genome shotgun sequence.
+* Block 348 <=== 357	USER>>AM431318.2/12750-12694	   57   [+2+] AM431318.2/12750-12694 Vitis vinifera contig VV78X241236.14, whole genome shotgun sequence.
+* Block 349 <=== 341	USER>>FN595998.1/2113778-2113835	   58   [+2+] FN595998.1/2113778-2113835 Vitis vinifera cv. PN40024, annotated scaffold_19.assembly12x
+* Block 350 <=== 323	USER>>FN595509.1/2211659-2211602	   58   [+2+] FN595509.1/2211659-2211602 Vitis vinifera cv. PN40024, annotated scaffold_64.assembly12x
+* Block 351 <=== 340	USER>>AM488647.1/14919-14862	   58   [+2+] AM488647.1/14919-14862 Vitis vinifera, whole genome shotgun sequence, contig VV78X161201.14, clone ENTAV 115
+* Block 352 <=== 342	USER>>FN594951.1/4534943-4534886	   58   [+0+] FN594951.1/4534943-4534886 Vitis vinifera cv. PN40024, annotated scaffold_4.assembly12x
+* Block 353 <=== 383	USER>>CAAP03002622.1/48547-48490	   58   [+0+] CAAP03002622.1/48547-48490 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_3301
+* Block 354 <=== 407	USER>>AM432923.2/13728-13785	   58   [+0+] AM432923.2/13728-13785 Vitis vinifera contig VV78X212839.8, whole genome shotgun sequence.
+* Block 355 <=== 536	USER>>AM472511.1/20242-20299	   58   [+2+] AM472511.1/20242-20299 Vitis vinifera, whole genome shotgun sequence, contig VV78X232107.9, clone ENTAV 115
+* Block 356 <=== 485	USER>>FN595513.1/4432612-4432555	   58   [+1+] FN595513.1/4432612-4432555 Vitis vinifera cv. PN40024, annotated scaffold_18.assembly12x
+* Block 357 <=== 429	USER>>AM448280.1/7188-7245	   58   [+0+] AM448280.1/7188-7245 Vitis vinifera, whole genome shotgun sequence, contig VV78X190114.6, clone ENTAV 115
+* Block 358 <=== 414	USER>>FN595513.1/4433474-4433417	   58   [+1+] FN595513.1/4433474-4433417 Vitis vinifera cv. PN40024, annotated scaffold_18.assembly12x
+* Block 359 <=== 475	USER>>AM479558.1/17932-17875	   58   [+0+] AM479558.1/17932-17875 Vitis vinifera, whole genome shotgun sequence, contig VV78X134167.3, clone ENTAV 115
+* Block 360 <=== 476	USER>>FN596011.1/272970-273027	   58   [+1+] FN596011.1/272970-273027 Vitis vinifera cv. PN40024, annotated scaffold_99.assembly12x
+* Block 361 <=== 448	USER>>FN595504.1/6227090-6227147	   58   [+2+] FN595504.1/6227090-6227147 Vitis vinifera cv. PN40024, annotated scaffold_9.assembly12x
+* Block 362 <=== 445	USER>>FN595513.1/703028-703085	   58   [+1+] FN595513.1/703028-703085 Vitis vinifera cv. PN40024, annotated scaffold_18.assembly12x
+* Block 363 <=== 431	USER>>AM462041.2/573-630	   58   [+0+] AM462041.2/573-630 Vitis vinifera contig VV78X035811.2, whole genome shotgun sequence.
+* Block 364 <=== 495	USER>>FN595513.1/550378-550435	   58   [+1+] FN595513.1/550378-550435 Vitis vinifera cv. PN40024, annotated scaffold_18.assembly12x
+* Block 365 <=== 527	USER>>AFSA01042060.1/361-304	   58   [+0+] AFSA01042060.1/361-304 Lactuca sativa, whole genome shotgun sequence.
+* Block 366 <=== 466	USER>>AFSA01088690.1/1353-1410	   58   [+0+] AFSA01088690.1/1353-1410 Lactuca sativa, whole genome shotgun sequence.
+* Block 367 <=== 465	USER>>AFSA01154721.1/458-401	   58   [+0+] AFSA01154721.1/458-401 Lactuca sativa, whole genome shotgun sequence.
+* Block 368 <=== 434	USER>>AFSA01098528.1/1069-1126	   58   [+0+] AFSA01098528.1/1069-1126 Lactuca sativa, whole genome shotgun sequence.
+* Block 369 <=== 479	USER>>AFSA01160420.1/919-976	   58   [+0+] AFSA01160420.1/919-976 Lactuca sativa, whole genome shotgun sequence.
+* Block 370 <=== 480	USER>>AFSA01088690.1/2001-2058	   58   [+0+] AFSA01088690.1/2001-2058 Lactuca sativa, whole genome shotgun sequence.
+* Block 371 <=== 481	USER>>AFSA01116803.1/2114-2170	   57   [+0+] AFSA01116803.1/2114-2170 Lactuca sativa, whole genome shotgun sequence.
+* Block 372 <=== 463	USER>>AFSA01088690.1/2650-2707	   58   [+0+] AFSA01088690.1/2650-2707 Lactuca sativa, whole genome shotgun sequence.
+* Block 373 <=== 365	USER>>AFSA01270167.1/986-930	   57   [+0+] AFSA01270167.1/986-930 Lactuca sativa, whole genome shotgun sequence.
+* Block 374 <=== 413	USER>>AFSA01160420.1/1566-1623	   58   [+0+] AFSA01160420.1/1566-1623 Lactuca sativa, whole genome shotgun sequence.
+* Block 375 <=== 366	USER>>AFSA01160420.1/278-335	   58   [+0+] AFSA01160420.1/278-335 Lactuca sativa, whole genome shotgun sequence.
+* Block 376 <=== 364	USER>>AFSA01282566.1/596-539	   58   [+0+] AFSA01282566.1/596-539 Lactuca sativa, whole genome shotgun sequence.
+* Block 377 <=== 367	USER>>AFSA01018053.1/5008-5065	   58   [+0+] AFSA01018053.1/5008-5065 Lactuca sativa, whole genome shotgun sequence.
+* Block 378 <=== 368	USER>>FJ147819.1/735-792	   58   [+0+] FJ147819.1/735-792 Daucus carota subsp. sativus clone BAC C237H08 genomic sequence.
+* Block 379 <=== 370	USER>>BABX01020569.1/2202-2146	   57   [+0+] BABX01020569.1/2202-2146 Jatropha curcas DNA, contig: JcCA0283691.
+* Block 380 <=== 369	USER>>BABX01120428.1/351-295	   57   [+0+] BABX01120428.1/351-295 Jatropha curcas DNA, contig: JcSR424065r.
+* Block 381 <=== 324	USER>>BABX01098206.1/893-837	   57   [+0+] BABX01098206.1/893-837 Jatropha curcas DNA, contig: JcCB0684591.
+* Block 382 <=== 363	USER>>BABX01022075.1/1985-1929	   57   [+0+] BABX01022075.1/1985-1929 Jatropha curcas DNA, contig: JcCA0029711.
+* Block 383 <=== 328	USER>>BABX01147764.1/476-420	   57   [+0+] BABX01147764.1/476-420 Jatropha curcas DNA, contig: JcCD0216485.
+* Block 384 <=== 379	USER>>BABX01122714.1/173-229	   57   [+0+] BABX01122714.1/173-229 Jatropha curcas DNA, contig: JcCC0198861.
+* Block 385 <=== 326	USER>>BABX01020569.1/2921-2865	   57   [+0+] BABX01020569.1/2921-2865 Jatropha curcas DNA, contig: JcCA0283691.
+* Block 386 <=== 330	USER>>BABX01107099.1/916-860	   57   [+0+] BABX01107099.1/916-860 Jatropha curcas DNA, contig: JcCB0818211.
+* Block 387 <=== 331	USER>>BABX01090305.1/175-231	   57   [+1+] BABX01090305.1/175-231 Jatropha curcas DNA, contig: JcCB0563331.
+* Block 388 <=== 332	USER>>BABX01080841.1/523-467	   57   [+0+] BABX01080841.1/523-467 Jatropha curcas DNA, contig: JcCB0421721.
+* Block 389 <=== 373	USER>>BABX01009221.1/590-646	   57   [+1+] BABX01009221.1/590-646 Jatropha curcas DNA, contig: JcCA0182141.
+* Block 390 <=== 325	USER>>BABX01120465.1/439-383	   57   [+0+] BABX01120465.1/439-383 Jatropha curcas DNA, contig: JcSR433168r.
+* Block 391 <=== 329	USER>>BABX01122714.1/913-969	   57   [+1+] BABX01122714.1/913-969 Jatropha curcas DNA, contig: JcCC0198861.
+* Block 392 <=== 327	USER>>BABX01069515.1/5017-4961	   57   [+7+] BABX01069515.1/5017-4961 Jatropha curcas DNA, contig: JcCB0251501.
+* Block 393 <=== 382	USER>>AP011976.1/657-601	   57   [+3+] AP011976.1/657-601 Jatropha curcas DNA, clone: JHL25P11.
+* Block 394 <=== 333	USER>>BABX01006879.1/1941-1885	   57   [+1+] BABX01006879.1/1941-1885 Jatropha curcas DNA, contig: JcCA0016091.
+* Block 395 <=== 381	USER>>BABX01017357.1/4281-4225	   57   [+1+] BABX01017357.1/4281-4225 Jatropha curcas DNA, contig: JcCA0254871.
+* Block 396 <=== 380	USER>>BABX01030123.1/423-367	   57   [+0+] BABX01030123.1/423-367 Jatropha curcas DNA, contig: JcCA0081591.
+* Block 397 <=== 377	USER>>BABX01072474.1/1285-1341	   57   [+0+] BABX01072474.1/1285-1341 Jatropha curcas DNA, contig: JcCB0294751.
+* Block 398 <=== 378	USER>>BABX01016267.1/1767-1711	   57   [+0+] BABX01016267.1/1767-1711 Jatropha curcas DNA, contig: JcCA0245101.
+* Block 399 <=== 334	USER>>BABX01109471.1/155-211	   57   [+0+] BABX01109471.1/155-211 Jatropha curcas DNA, contig: JcCB0863161.
+* Block 400 <=== 335	USER>>BABX01004857.1/5149-5093	   57   [+0+] BABX01004857.1/5149-5093 Jatropha curcas DNA, contig: JcCA0143001.
+* Block 401 <=== 467	USER>>BABX01016267.1/2549-2493	   57   [+0+] BABX01016267.1/2549-2493 Jatropha curcas DNA, contig: JcCA0245101.
+* Block 402 <=== 337	USER>>AP011967.1/82057-82001	   57   [+0+] AP011967.1/82057-82001 Jatropha curcas DNA, clone: JMS09K11.
+* Block 403 <=== 338	USER>>BABX01086374.1/2296-2352	   57   [+0+] BABX01086374.1/2296-2352 Jatropha curcas DNA, contig: JcCB0500501.
+* Block 404 <=== 336	USER>>BABX01029133.1/5822-5766	   57   [+0+] BABX01029133.1/5822-5766 Jatropha curcas DNA, contig: JcCA0072901.
+* Block 405 <=== 376	USER>>BABX01004193.1/1681-1625	   57   [+0+] BABX01004193.1/1681-1625 Jatropha curcas DNA, contig: JcCA0137041.
+* Block 406 <=== 361	USER>>BABX01095556.1/1622-1678	   57   [+0+] BABX01095556.1/1622-1678 Jatropha curcas DNA, contig: JcCB0638141.
+* Block 407 <=== 372	USER>>BABX01005373.1/5135-5191	   57   [+0+] BABX01005373.1/5135-5191 Jatropha curcas DNA, contig: JcCA0147641.
+* Block 408 <=== 371	USER>>BABX01021896.1/166-110	   57   [+0+] BABX01021896.1/166-110 Jatropha curcas DNA, contig: JcCA0029551.
+* Block 409 <=== 362	USER>>BABX01021550.1/3862-3918	   57   [+0+] BABX01021550.1/3862-3918 Jatropha curcas DNA, contig: JcCA0292461.
+* Block 410 <=== 339	USER>>BABX01021550.1/4579-4635	   57   [+0+] BABX01021550.1/4579-4635 Jatropha curcas DNA, contig: JcCA0292461.
+* Block 411 <=== 374	USER>>BABX01097964.1/595-539	   57   [+0+] BABX01097964.1/595-539 Jatropha curcas DNA, contig: JcCB0068161.
+* Block 412 <=== 375	USER>>BABX01080891.1/2524-2580	   57   [+0+] BABX01080891.1/2524-2580 Jatropha curcas DNA, contig: JcCB0422431.
+* Block 413 <=== 468	USER>>BABX01017832.1/646-590	   57   [+0+] BABX01017832.1/646-590 Jatropha curcas DNA, contig: JcCA0025921.
+* Block 414 <=== 438	USER>>BABX01067683.1/1853-1797	   57   [+0+] BABX01067683.1/1853-1797 Jatropha curcas DNA, contig: JcCB0225201.
+* Block 415 <=== 388	USER>>J02439.1/42-95	   54   [+0+] J02439.1/42-95 Velvet tobacco mottle virus Satellite RNA complete sequence.
+* Block 416 <=== 386	USER>>AACY023784794.1/810-864	   55   [+0+] AACY023784794.1/810-864 Marine metagenome ctg_1101668592145, whole genome shotgun sequence.
+* Block 417 <=== 348	USER>>AJ536619.1/206-152	   55   [+1+] AJ536619.1/206-152 Eggplant latent viroid complete genome, isolate 8
+* Block 418 <=== 352	USER>>AJ536618.1/204-150	   55   [+0+] AJ536618.1/204-150 Eggplant latent viroid complete genome, isolate 7
+* Block 419 <=== 351	USER>>AJ536614.1/206-152	   55   [+0+] AJ536614.1/206-152 Eggplant latent viroid complete genome, isolate 3
+* Block 420 <=== 349	USER>>AJ536617.1/206-152	   55   [+2+] AJ536617.1/206-152 Eggplant latent viroid complete genome, isolate 6
+* Block 421 <=== 403	USER>>AJ536615.1/206-152	   55   [+0+] AJ536615.1/206-152 Eggplant latent viroid complete genome, isolate 4
+* Block 422 <=== 350	USER>>AJ536620.1/206-152	   55   [+0+] AJ536620.1/206-152 Eggplant latent viroid complete genome, isolate 9
+* Block 423 <--- 353	USER>>AACY023802293.1/343-400	   58   [+0+] AACY023802293.1/343-400 Marine metagenome ctg_1101668609644, whole genome shotgun sequence.
+* Block 424 <=== 354	USER>>ABLW01115605.1/67-13	   55   [+0+] ABLW01115605.1/67-13 Marine metagenome 32705927, whole genome shotgun sequence.
+* Block 425 <=== 393	USER>>ABLW01138448.1/66-13	   54   [+0+] ABLW01138448.1/66-13 Marine metagenome 32556247, whole genome shotgun sequence.
+* Block 426 <=== 355	USER>>AACY023195290.1/1059-1114	   56   [+0+] AACY023195290.1/1059-1114 Marine metagenome ctg_1101668002641, whole genome shotgun sequence.
+* Block 427 <=== 418	USER>>ABML01222367.1/14-71	   58   [+0+] ABML01222367.1/14-71 Marine metagenome 3878724, whole genome shotgun sequence.
+* Block 428 <=== 356	USER>>M63666.1/246-192	   55   [+0+] M63666.1/246-192 Cereal yellow dwarf virus-RPA satellite RNA.
+* Block 429 <=== 387	USER>>HQ880433.1/9-64	   56   [+0+] HQ880433.1/9-64 Tncultured organism clone hhrIII-I1_74_04911s-1 hammerhead ribozyme type III gene, complete sequence.
+* Block 430 <=== 406	USER>>AACY023823868.1/1019-965	   55   [+0+] AACY023823868.1/1019-965 Marine metagenome ctg_1101668631219, whole genome shotgun sequence.
+* Block 431 <=== 390	USER>>AACY023352119.1/676-730	   55   [+0+] AACY023352119.1/676-730 Marine metagenome ctg_1101668159470, whole genome shotgun sequence.
+* Block 432 <=== 391	USER>>ADVT01001934.1/71-17	   55   [+0+] ADVT01001934.1/71-17 Freshwater metagenome November_2006_contig01948, whole genome shotgun sequence.
+* Block 433 <=== 389	USER>>J02386.1/42-95	   54   [+0+] J02386.1/42-95 Solanum nodiflorum mottle virus satellite RNA.
+* Block 434 <=== 392	USER>>AACY022776529.1/685-631	   55   [+0+] AACY022776529.1/685-631 Marine metagenome ctg_1101667183880, whole genome shotgun sequence.
+* Block 435 <=== 397	USER>>AACY022121822.1/536-590	   55   [+0+] AACY022121822.1/536-590 Marine metagenome 1092351329924, whole genome shotgun sequence.
+* Block 436 <--- 395	USER>>AACY021940384.1/538-592	   55   [+0+] AACY021940384.1/538-592 Marine metagenome 1095403265020, whole genome shotgun sequence.
+* Block 437 <--- 396	USER>>AACY020301409.1/776-832	   57   [+0+] AACY020301409.1/776-832 Marine metagenome 1096626378584, whole genome shotgun sequence.
+* Block 438 <=== 398	USER>>AACY022632013.1/418-363	   56   [+0+] AACY022632013.1/418-363 Marine metagenome ctg_1101667039364, whole genome shotgun sequence.
+* Block 439 <=== 404	USER>>AACY021247023.1/427-370	   58   [+0+] AACY021247023.1/427-370 Marine metagenome 1095522105316, whole genome shotgun sequence.
+* Block 440 <--- 399	USER>>ABMB01014284.1/20-74	   55   [+0+] ABMB01014284.1/20-74 Marine metagenome 2935084, whole genome shotgun sequence.
+* Block 441 <=== 400	USER>>AACY021791304.1/129-73	   57   [+0+] AACY021791304.1/129-73 Marine metagenome 1093017222198, whole genome shotgun sequence.
+* Block 442 <=== 421	USER>>AACY021652855.1/163-107	   57   [+0+] AACY021652855.1/163-107 Marine metagenome 1092351186502, whole genome shotgun sequence.
+* Block 443 <=== 401	USER>>AACY022830181.1/456-402	   55   [+0+] AACY022830181.1/456-402 Marine metagenome ctg_1101667237532, whole genome shotgun sequence.
+* Block 444 <=== 494	USER>>ABNI01008151.1/45-99	   55   [+0+] ABNI01008151.1/45-99 Freshwater metagenome 40682092, whole genome shotgun sequence.
+* Block 445 <=== 402	USER>>CP000511.1/2184555-2184609	   55   [+0+] CP000511.1/2184555-2184609 Mycobacterium vanbaalenii PYR-1, complete genome.
+* Block 446 <=== 477	USER>>CP002039.1/3593801-3593747	   55   [+0+] CP002039.1/3593801-3593747 Herbaspirillum seropedicae SmR1, complete genome.
+* Block 447 <=== 443	USER>>ADBK01001763.1/17635-17692	   58   [+0+] ADBK01001763.1/17635-17692 Arabidopsis lyrata subsp. lyrata ARALYscaffold_8_Cont1763, whole genome shotgun sequence.
+* Block 448 <=== 474	USER>>ADBK01000956.1/18397-18454	   58   [+0+] ADBK01000956.1/18397-18454 Arabidopsis lyrata subsp. lyrata ARALYscaffold_5_Cont956, whole genome shotgun sequence.
+* Block 449 <=== 405	USER>>AFNC01020637.1/13013-12955	   59   [+2+] AFNC01020637.1/13013-12955 Arabidopsis thaliana ecotype Kro-0, whole genome shotgun sequence.
+* Block 450 <=== 444	USER>>ADBK01000148.1/364984-364927	   58   [+0+] ADBK01000148.1/364984-364927 Arabidopsis lyrata subsp. lyrata ARALYscaffold_1_Cont148, whole genome shotgun sequence.
+* Block 451 <=== 425	USER>>ADBK01000597.1/144825-144882	   58   [+0+] ADBK01000597.1/144825-144882 Arabidopsis lyrata subsp. lyrata ARALYscaffold_3_Cont597, whole genome shotgun sequence.
+* Block 452 <--- 411	USER>>ET547491.1/273-219	   55   [+0+] ET547491.1/273-219 Mulberry small circular viroid-like RNA 1, complete genome.
+* Block 453 <=== 412	USER>>AACY023259265.1/429-488	   60   [+0+] AACY023259265.1/429-488 Marine metagenome ctg_1101668066616, whole genome shotgun sequence.
+* Block 454 <=== 432	USER>>AACY023259265.1/619-677	   59   [+0+] AACY023259265.1/619-677 Marine metagenome ctg_1101668066616, whole genome shotgun sequence.
+* Block 455 <--- 415	USER>>HQ880434.1/11-65	   55   [+0+] HQ880434.1/11-65 Tncultured organism clone hhrIII-G3_26_03977s-1 hammerhead ribozyme type III gene, complete sequence.
+* Block 456 <--- 417	USER>>AFSA01391656.1/377-434	   58   [+0+] AFSA01391656.1/377-434 Lactuca sativa, whole genome shotgun sequence.
+* Block 457 <=== 420	USER>>AACY020758631.1/863-807	   57   [+0+] AACY020758631.1/863-807 Marine metagenome 1095899022103, whole genome shotgun sequence.
+* Block 458 <=== 430	USER>>AACY022484984.1/628-685	   58   [+0+] AACY022484984.1/628-685 Marine metagenome 1093017958413, whole genome shotgun sequence.
+* Block 459 <=== 423	USER>>X01984.1/170-107	   64   [+0+] X01984.1/170-107 Lucerne transient streak virus satellite RNA (LTSV-A) RNA 2 sequence
+* Block 460 <=== 454	USER>>D00341.1/169-106	   64   [+0+] D00341.1/169-106 Lucerne transient streak virus satellite RNA, complete sequence.
+* Block 461 <=== 422	USER>>X01985.1/169-107	   63   [+0+] X01985.1/169-107 Lucerne transient streak virus (LTSV-N) RNA2 sequence
+* Block 462 <--- 424	USER>>FN595998.1/2114608-2114667	   60   [+2+] FN595998.1/2114608-2114667 Vitis vinifera cv. PN40024, annotated scaffold_19.assembly12x
+* Block 463 <=== 435	USER>>DQ357625.1/292-238	   55   [+0+] DQ357625.1/292-238 Cherry small circular viroid-like RNA 1 isolate cscRNA1.114, complete genome.
+* Block 464 <=== 491	USER>>DQ357628.1/295-241	   55   [+0+] DQ357628.1/295-241 Cherry small circular viroid-like RNA 1 isolate cscRNA1.150, complete genome.
+* Block 465 <=== 426	USER>>DQ357627.1/294-240	   55   [+0+] DQ357627.1/294-240 Cherry small circular viroid-like RNA 1 isolate cscRNA1.100, complete genome.
+* Block 466 <=== 450	USER>>DQ357626.1/292-238	   55   [+0+] DQ357626.1/292-238 Cherry small circular viroid-like RNA 1 isolate cscRNA1.113, complete genome.
+* Block 467 <=== 472	USER>>DQ357618.1/298-244	   55   [+1+] DQ357618.1/298-244 Cherry small circular viroid-like RNA 1 isolate cscRNA1.78, complete genome.
+* Block 468 <=== 436	USER>>DQ357615.1/303-249	   55   [+0+] DQ357615.1/303-249 Cherry small circular viroid-like RNA 1 isolate cscRNA1.84, complete genome.
+* Block 469 <=== 451	USER>>Y12833.1/339-285	   55   [+1+] Y12833.1/339-285 Cherry small circular viroid-like RNA, satellite RNA
+* Block 470 <=== 462	USER>>DQ357624.1/282-228	   55   [+0+] DQ357624.1/282-228 Cherry small circular viroid-like RNA 1 isolate cscRNA1.103, complete genome.
+* Block 471 <=== 449	USER>>DQ357621.1/268-214	   55   [+2+] DQ357621.1/268-214 Cherry small circular viroid-like RNA 2 isolate cscRNA2.81, complete genome.
+* Block 472 <=== 473	USER>>DQ357620.1/298-244	   55   [+0+] DQ357620.1/298-244 Cherry small circular viroid-like RNA 1 isolate cscRNA1.7O, complete genome.
+* Block 473 <--- 427	USER>>AACY023847113.1/873-813	   61   [+1+] AACY023847113.1/873-813 Marine metagenome ctg_1101668654464, whole genome shotgun sequence.
+* Block 474 <--- 433	USER>>AACY021842348.1/566-623	   58   [+0+] AACY021842348.1/566-623 Marine metagenome 1093012237061, whole genome shotgun sequence.
+* Block 475 <--- 437	USER>>ABRE01014749.1/1036-977	   60   [+0+] ABRE01014749.1/1036-977 Moniliophthora perniciosa FA553 Contig15012, whole genome shotgun sequence.
+* Block 476 <--- 439	USER>>AACY023366856.1/213-156	   58   [+0+] AACY023366856.1/213-156 Marine metagenome ctg_1101668174207, whole genome shotgun sequence.
+* Block 477 <--- 440	USER>>ABMW01161415.1/105-23	   83   [+0+] ABMW01161415.1/105-23 Freshwater metagenome 43239908, whole genome shotgun sequence.
+* Block 478 <--- 441	USER>>ADDK02000001.1/1582123-1582069	   55   [+0+] ADDK02000001.1/1582123-1582069 Dechlorosoma suillum PS ctg78, whole genome shotgun sequence.
+* Block 479 <=== 442	USER>>AFSA01104653.1/100-157	   58   [+0+] AFSA01104653.1/100-157 Lactuca sativa, whole genome shotgun sequence.
+* Block 480 <=== 499	USER>>AFSA01160914.1/1796-1739	   58   [+0+] AFSA01160914.1/1796-1739 Lactuca sativa, whole genome shotgun sequence.
+* Block 481 <=== 490	USER>>AFSA01156800.1/474-417	   58   [+0+] AFSA01156800.1/474-417 Lactuca sativa, whole genome shotgun sequence.
+* Block 482 <=== 464	USER>>AFSA01156800.1/1122-1065	   58   [+0+] AFSA01156800.1/1122-1065 Lactuca sativa, whole genome shotgun sequence.
+* Block 483 <=== 484	USER>>BABX01093136.1/1532-1588	   57   [+1+] BABX01093136.1/1532-1588 Jatropha curcas DNA, contig: JcCB0600041.
+* Block 484 <=== 455	USER>>BABX01004788.1/3325-3269	   57   [+0+] BABX01004788.1/3325-3269 Jatropha curcas DNA, contig: JcCA0142391.
+* Block 485 <=== 518	USER>>AFSA01029476.1/2742-2686	   57   [+0+] AFSA01029476.1/2742-2686 Lactuca sativa, whole genome shotgun sequence.
+* Block 486 <=== 568	USER>>AFSA01018053.1/5632-5575	   58   [+0+] AFSA01018053.1/5632-5575 Lactuca sativa, whole genome shotgun sequence.
+* Block 487 <--- 446	USER>>AGTN01140051.1/136-194	   59   [+0+] AGTN01140051.1/136-194 Bioreactor metagenome PBDCA2_GBB5CE401BFGDH_left, whole genome shotgun sequence.
+* Block 488 <--- 447	USER>>AAWT01061712.1/75822-75766	   57   [+0+] AAWT01061712.1/75822-75766 Schmidtea mediterranea strain S2F2 S_mediterranea_3.1_Cont1037.2, whole genome shotgun sequence.
+* Block 489 <--- 452	USER>>AACY021025315.1/526-581	   56   [+0+] AACY021025315.1/526-581 Marine metagenome 1092351061949, whole genome shotgun sequence.
+* Block 490 <--- 453	USER>>ABLX01073025.1/18-72	   55   [+0+] ABLX01073025.1/18-72 Marine metagenome 33020875, whole genome shotgun sequence.
+* Block 491 <--- 456	USER>>AFSA01073555.1/2043-1986	   58   [+0+] AFSA01073555.1/2043-1986 Lactuca sativa, whole genome shotgun sequence.
+* Block 492 <=== 493	USER>>AEVX01011239.1/17322-17397	   76   [+0+] AEVX01011239.1/17322-17397 Acromyrmex echinatior contig11239, whole genome shotgun sequence.
+* Block 493 <=== 508	USER>>AEVX01014653.1/67501-67425	   77   [+0+] AEVX01014653.1/67501-67425 Acromyrmex echinatior contig14653, whole genome shotgun sequence.
+* Block 494 <=== 630	USER>>AEVX01003024.1/5648-5572	   77   [+0+] AEVX01003024.1/5648-5572 Acromyrmex echinatior contig3024, whole genome shotgun sequence.
+* Block 495 <=== 457	USER>>AEKZ01001651.1/3092-3166	   75   [+0+] AEKZ01001651.1/3092-3166 Apis florea Contig1651, whole genome shotgun sequence.
+* Block 496 <=== 590	USER>>AFJA01006950.1/12750-12677	   74   [+0+] AFJA01006950.1/12750-12677 Megachile rotundata contig_0306076, whole genome shotgun sequence.
+* Block 497 <=== 492	USER>>AELG01009913.1/673-747	   75   [+0+] AELG01009913.1/673-747 Bombus terrestris Contig9917, whole genome shotgun sequence.
+* Block 498 <=== 515	USER>>AELG01009177.1/213-287	   75   [+0+] AELG01009177.1/213-287 Bombus terrestris Contig9180, whole genome shotgun sequence.
+* Block 499 <=== 529	USER>>AELG01003753.1/18664-18590	   75   [+0+] AELG01003753.1/18664-18590 Bombus terrestris Contig3753, whole genome shotgun sequence.
+* Block 500 <=== 516	USER>>AEQM02011150.1/40400-40473	   74   [+0+] AEQM02011150.1/40400-40473 Bombus impatiens ctg_1674001, whole genome shotgun sequence.
+* Block 501 <=== 514	USER>>AEQM02001860.1/807-880	   74   [+0+] AEQM02001860.1/807-880 Bombus impatiens ctg_0129001, whole genome shotgun sequence.
+* Block 502 <=== 541	USER>>AELG01005801.1/14146-14076	   71   [+0+] AELG01005801.1/14146-14076 Bombus terrestris Contig5801, whole genome shotgun sequence.
+* Block 503 <=== 589	USER>>AELG01005788.1/9138-9068	   71   [+0+] AELG01005788.1/9138-9068 Bombus terrestris Contig5788, whole genome shotgun sequence.
+* Block 504 <=== 629	USER>>AFJA01001167.1/3143-3216	   74   [+0+] AFJA01001167.1/3143-3216 Megachile rotundata contig_0048088, whole genome shotgun sequence.
+* Block 505 <=== 540	USER>>AFJA01002040.1/29870-29796	   75   [+0+] AFJA01002040.1/29870-29796 Megachile rotundata contig_0070088, whole genome shotgun sequence.
+* Block 506 <=== 556	USER>>AFJA01000378.1/278551-278624	   74   [+0+] AFJA01000378.1/278551-278624 Megachile rotundata contig_0022006, whole genome shotgun sequence.
+* Block 507 <=== 544	USER>>AEQM02005578.1/562-488	   75   [+0+] AEQM02005578.1/562-488 Bombus impatiens ctg_0413002, whole genome shotgun sequence.
+* Block 508 <=== 550	USER>>AEQM02004301.1/21469-21543	   75   [+0+] AEQM02004301.1/21469-21543 Bombus impatiens ctg_0276013, whole genome shotgun sequence.
+* Block 509 <=== 511	USER>>AEQM02004873.1/34322-34396	   75   [+0+] AEQM02004873.1/34322-34396 Bombus impatiens ctg_0325001, whole genome shotgun sequence.
+* Block 510 <=== 583	USER>>AEQM02007946.1/2506-2432	   75   [+1+] AEQM02007946.1/2506-2432 Bombus impatiens ctg_0647148, whole genome shotgun sequence.
+* Block 511 <=== 585	USER>>AEQM02010051.1/3451-3525	   75   [+0+] AEQM02010051.1/3451-3525 Bombus impatiens ctg_1174002, whole genome shotgun sequence.
+* Block 512 <=== 555	USER>>AEQM02004915.1/10370-10444	   75   [+0+] AEQM02004915.1/10370-10444 Bombus impatiens ctg_0342001, whole genome shotgun sequence.
+* Block 513 <=== 584	USER>>AEQM02000592.1/1683-1757	   75   [+2+] AEQM02000592.1/1683-1757 Bombus impatiens ctg_0039008, whole genome shotgun sequence.
+* Block 514 <=== 582	USER>>AEQM02001425.1/11697-11623	   75   [+0+] AEQM02001425.1/11697-11623 Bombus impatiens ctg_0096056, whole genome shotgun sequence.
+* Block 515 <=== 554	USER>>AEQM02003877.1/16411-16482	   72   [+1+] AEQM02003877.1/16411-16482 Bombus impatiens ctg_0246002, whole genome shotgun sequence.
+* Block 516 <=== 586	USER>>AEQM02004395.1/61846-61919	   74   [+0+] AEQM02004395.1/61846-61919 Bombus impatiens ctg_0296010, whole genome shotgun sequence.
+* Block 517 <=== 553	USER>>AEQM02008841.1/9504-9430	   75   [+0+] AEQM02008841.1/9504-9430 Bombus impatiens ctg_0859002, whole genome shotgun sequence.
+* Block 518 <=== 528	USER>>AEQM02003679.1/258-184	   75   [+0+] AEQM02003679.1/258-184 Bombus impatiens ctg_0235020, whole genome shotgun sequence.
+* Block 519 <=== 542	USER>>AEQM02008041.1/838-912	   75   [+0+] AEQM02008041.1/838-912 Bombus impatiens ctg_0658001, whole genome shotgun sequence.
+* Block 520 <=== 551	USER>>AEQM02008319.1/21964-22038	   75   [+0+] AEQM02008319.1/21964-22038 Bombus impatiens ctg_0714001, whole genome shotgun sequence.
+* Block 521 <=== 512	USER>>AEQM02000326.1/25836-25762	   75   [+0+] AEQM02000326.1/25836-25762 Bombus impatiens ctg_0027023, whole genome shotgun sequence.
+* Block 522 <=== 552	USER>>AEQM02005632.1/11302-11228	   75   [+0+] AEQM02005632.1/11302-11228 Bombus impatiens ctg_0418023, whole genome shotgun sequence.
+* Block 523 <=== 587	USER>>AEQM02004294.1/13360-13434	   75   [+0+] AEQM02004294.1/13360-13434 Bombus impatiens ctg_0276006, whole genome shotgun sequence.
+* Block 524 <=== 548	USER>>AEQM02005133.1/12615-12541	   75   [+0+] AEQM02005133.1/12615-12541 Bombus impatiens ctg_0376001, whole genome shotgun sequence.
+* Block 525 <=== 549	USER>>AEQM02008878.1/440-514	   75   [+0+] AEQM02008878.1/440-514 Bombus impatiens ctg_0872006, whole genome shotgun sequence.
+* Block 526 <=== 545	USER>>AEQM02003027.1/4120-4194	   75   [+0+] AEQM02003027.1/4120-4194 Bombus impatiens ctg_0196003, whole genome shotgun sequence.
+* Block 527 <=== 588	USER>>AEQM02003276.1/6161-6231	   71   [+0+] AEQM02003276.1/6161-6231 Bombus impatiens ctg_0213001, whole genome shotgun sequence.
+* Block 528 <=== 547	USER>>AEQM02001105.1/4688-4762	   75   [+0+] AEQM02001105.1/4688-4762 Bombus impatiens ctg_0083014, whole genome shotgun sequence.
+* Block 529 <=== 546	USER>>AEQM02007450.1/996-922	   75   [+0+] AEQM02007450.1/996-922 Bombus impatiens ctg_0618004, whole genome shotgun sequence.
+* Block 530 <=== 513	USER>>AEQM02006884.1/198-272	   75   [+0+] AEQM02006884.1/198-272 Bombus impatiens ctg_0540002, whole genome shotgun sequence.
+* Block 531 <=== 543	USER>>AEQM02003203.1/392003-392077	   75   [+0+] AEQM02003203.1/392003-392077 Bombus impatiens ctg_0203023, whole genome shotgun sequence.
+* Block 532 <=== 458	USER>>AADG06000508.1/14934-15008	   75   [+0+] AADG06000508.1/14934-15008 Apis mellifera strain DH4 Contig508, whole genome shotgun sequence.
+* Block 533 <--- 459	USER>>BABX01107099.1/153-97	   57   [+0+] BABX01107099.1/153-97 Jatropha curcas DNA, contig: JcCB0818211.
+* Block 534 <=== 460	USER>>FJ647334.1/1-61	   61   [+1+] FJ647334.1/1-61 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 44, partial sequence.
+* Block 535 <=== 558	USER>>FJ647309.1/1-61	   61   [+0+] FJ647309.1/1-61 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 19, partial sequence.
+* Block 536 <--- 469	USER>>ADBK01001767.1/20966-21023	   58   [+0+] ADBK01001767.1/20966-21023 Arabidopsis lyrata subsp. lyrata ARALYscaffold_8_Cont1767, whole genome shotgun sequence.
+* Block 537 <=== 470	USER>>AEQC01000211.1/20120-20179	   60   [+1+] AEQC01000211.1/20120-20179 Serpula lacrymans var. lacrymans S7.3 SERLA73scaffold_2_Cont211, whole genome shotgun sequence.
+* Block 538 <=== 507	USER>>ABWF01007153.1/1096-1155	   60   [+1+] ABWF01007153.1/1096-1155 Postia placenta Mad-698-R POSPLscaffold_217_Cont7153, whole genome shotgun sequence.
+* Block 539 <=== 575	USER>>ABWF01001581.1/10618-10677	   60   [+0+] ABWF01001581.1/10618-10677 Postia placenta Mad-698-R POSPLscaffold_23_Cont1581, whole genome shotgun sequence.
+* Block 540 <--- 471	USER>>AACY023348898.1/727-673	   55   [+0+] AACY023348898.1/727-673 Marine metagenome ctg_1101668156249, whole genome shotgun sequence.
+* Block 541 <--- 478	USER>>AGTN01301619.1/367-419	   53   [+0+] AGTN01301619.1/367-419 Bioreactor metagenome PBDCA2_FISTTAT01CH8W9, whole genome shotgun sequence.
+* Block 542 <=== 501	USER>>AAXJ01000388.1/18127-18183	   57   [+0+] AAXJ01000388.1/18127-18183 Perkinsus marinus ATCC 50983 gcontig_1104296192066, whole genome shotgun sequence.
+* Block 543 <=== 482	USER>>AAXJ01007742.1/834-778	   57   [+0+] AAXJ01007742.1/834-778 Perkinsus marinus ATCC 50983 gcontig_1104296167898, whole genome shotgun sequence.
+* Block 544 <=== 502	USER>>AAXJ01000114.1/40120-40064	   57   [+0+] AAXJ01000114.1/40120-40064 Perkinsus marinus ATCC 50983 gcontig_1104296396150, whole genome shotgun sequence.
+* Block 545 <=== 500	USER>>AAXJ01016906.1/845-901	   57   [+2+] AAXJ01016906.1/845-901 Perkinsus marinus ATCC 50983 gcontig_1104296167808, whole genome shotgun sequence.
+* Block 546 <=== 559	USER>>CABG01000054.1/628065-628007	   59   [+0+] CABG01000054.1/628065-628007 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0137, strain Puerto Rico
+* Block 547 <=== 574	USER>>HE601630.1/4870341-4870264	   78   [+0+] HE601630.1/4870341-4870264 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+* Block 548 <=== 503	USER>>HE601631.1/26113316-26113258	   59   [+1+] HE601631.1/26113316-26113258 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+* Block 549 <=== 504	USER>>HE601627.1/29682777-29682706	   72   [+0+] HE601627.1/29682777-29682706 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+* Block 550 <=== 566	USER>>CABG01000002.1/462343-462285	   59   [+0+] CABG01000002.1/462343-462285 Schistosoma mansoni, WGS project CABG00000000 data, chromosome 1 unplaced supercontig 0034, strain Puerto Rico
+* Block 551 <=== 593	USER>>HE601628.1/8559227-8559285	   59   [+0+] HE601628.1/8559227-8559285 Schistosoma mansoni strain Puerto Rico chromosome 5, complete genome
+* Block 552 <=== 489	USER>>HE601625.1/31729099-31729163	   65   [+0+] HE601625.1/31729099-31729163 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+* Block 553 <=== 616	USER>>HE601629.1/18534607-18534548	   60   [+0+] HE601629.1/18534607-18534548 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+* Block 554 <=== 603	USER>>HE601624.1/54420450-54420395	   56   [+0+] HE601624.1/54420450-54420395 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+* Block 555 <=== 604	USER>>HE601624.1/41701520-41701577	   58   [+0+] HE601624.1/41701520-41701577 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+* Block 556 <=== 530	USER>>HE601625.1/29418279-29418202	   78   [+0+] HE601625.1/29418279-29418202 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+* Block 557 <=== 531	USER>>HE601630.1/8725315-8725373	   59   [+0+] HE601630.1/8725315-8725373 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+* Block 558 <=== 615	USER>>HE601630.1/659323-659384	   62   [+0+] HE601630.1/659323-659384 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+* Block 559 <=== 578	USER>>HE601626.1/468262-468203	   60   [+0+] HE601626.1/468262-468203 Schistosoma mansoni strain Puerto Rico chromosome 3, complete genome
+* Block 560 <=== 610	USER>>HE601630.1/2806341-2806264	   78   [+0+] HE601630.1/2806341-2806264 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+* Block 561 <=== 608	USER>>CABG01000022.1/1111176-1111099	   78   [+0+] CABG01000022.1/1111176-1111099 Schistosoma mansoni, WGS project CABG00000000 data, chromosome 3 unplaced supercontig 0083, strain Puerto Rico
+* Block 562 <=== 594	USER>>HE601624.1/34460474-34460551	   78   [+0+] HE601624.1/34460474-34460551 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+* Block 563 <=== 533	USER>>HE601625.1/11328243-11328320	   78   [+0+] HE601625.1/11328243-11328320 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+* Block 564 <=== 607	USER>>HE601627.1/19521801-19521878	   78   [+0+] HE601627.1/19521801-19521878 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+* Block 565 <=== 609	USER>>CABG01000003.1/1364784-1364861	   78   [+0+] CABG01000003.1/1364784-1364861 Schistosoma mansoni, WGS project CABG00000000 data, chromosome 1 unplaced supercontig 0071, strain Puerto Rico
+* Block 566 <=== 564	USER>>HE601627.1/13820890-13820813	   78   [+0+] HE601627.1/13820890-13820813 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+* Block 567 <=== 599	USER>>HE601624.1/9473174-9473251	   78   [+0+] HE601624.1/9473174-9473251 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+* Block 568 <=== 605	USER>>HE601629.1/16475038-16475115	   78   [+0+] HE601629.1/16475038-16475115 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+* Block 569 <=== 600	USER>>CABG01000188.1/60875-60956	   82   [+0+] CABG01000188.1/60875-60956 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0321, strain Puerto Rico
+* Block 570 <=== 611	USER>>HE601631.1/20611687-20611629	   59   [+0+] HE601631.1/20611687-20611629 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+* Block 571 <=== 601	USER>>HE601631.1/1061500-1061559	   60   [+0+] HE601631.1/1061500-1061559 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+* Block 572 <=== 602	USER>>HE601628.1/7143946-7143888	   59   [+0+] HE601628.1/7143946-7143888 Schistosoma mansoni strain Puerto Rico chromosome 5, complete genome
+* Block 573 <=== 488	USER>>HE601629.1/17035532-17035609	   78   [+0+] HE601629.1/17035532-17035609 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+* Block 574 <=== 613	USER>>CABG01000043.1/809441-809364	   78   [+0+] CABG01000043.1/809441-809364 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0062, strain Puerto Rico
+* Block 575 <=== 519	USER>>HE601631.1/36374295-36374237	   59   [+0+] HE601631.1/36374295-36374237 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+* Block 576 <=== 598	USER>>CABG01000218.1/9143-9069	   75   [+0+] CABG01000218.1/9143-9069 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0357, strain Puerto Rico
+* Block 577 <=== 576	USER>>CABG01000043.1/1254038-1253984	   55   [+0+] CABG01000043.1/1254038-1253984 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0062, strain Puerto Rico
+* Block 578 <=== 606	USER>>HE601629.1/1075793-1075868	   76   [+0+] HE601629.1/1075793-1075868 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+* Block 579 <=== 532	USER>>CABG01000094.1/343533-343597	   65   [+0+] CABG01000094.1/343533-343597 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0208, strain Puerto Rico
+* Block 580 <=== 612	USER>>CABG01000105.1/6809-6867	   59   [+0+] CABG01000105.1/6809-6867 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0225, strain Puerto Rico
+* Block 581 <=== 595	USER>>HE601624.1/3560715-3560775	   61   [+0+] HE601624.1/3560715-3560775 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+* Block 582 <=== 534	USER>>HE601628.1/8069827-8069885	   59   [+0+] HE601628.1/8069827-8069885 Schistosoma mansoni strain Puerto Rico chromosome 5, complete genome
+* Block 583 <=== 614	USER>>CABG01000047.1/203569-203510	   60   [+0+] CABG01000047.1/203569-203510 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0113, strain Puerto Rico
+* Block 584 <=== 535	USER>>CABG01000045.1/186457-186515	   59   [+0+] CABG01000045.1/186457-186515 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0097, strain Puerto Rico
+* Block 585 <=== 505	USER>>HE601629.1/3309543-3309601	   59   [+0+] HE601629.1/3309543-3309601 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+* Block 586 <=== 483	USER>>HE601627.1/5024352-5024407	   56   [+0+] HE601627.1/5024352-5024407 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+* Block 587 <--- 486	USER>>AACY020000300.1/1983-1926	   58   [+0+] AACY020000300.1/1983-1926 Marine metagenome 1096624979632, whole genome shotgun sequence.
+* Block 588 <--- 487	USER>>ABNS01042565.1/85-29	   57   [+0+] ABNS01042565.1/85-29 Coral metagenome 39968719, whole genome shotgun sequence.
+* Block 589 <=== 498	USER>>AADG06003428.1/18474-18399	   76   [+0+] AADG06003428.1/18474-18399 Apis mellifera strain DH4 Contig3428, whole genome shotgun sequence.
+* Block 590 <=== 517	USER>>AEKZ01004080.1/872-797	   76   [+0+] AEKZ01004080.1/872-797 Apis florea Contig4080, whole genome shotgun sequence.
+* Block 591 <=== 497	USER>>AADG06003428.1/18768-18693	   76   [+1+] AADG06003428.1/18768-18693 Apis mellifera strain DH4 Contig3428, whole genome shotgun sequence.
+* Block 592 <--- 506	USER>>AGCE01120312.1/6570-6510	   61   [+0+] AGCE01120312.1/6570-6510 Saimiri boliviensis boliviensis contig120312, whole genome shotgun sequence.
+* Block 593 <--- 510	USER>>ABMF01215137.1/1-56	   56   [+0+] ABMF01215137.1/1-56 Saltern metagenome 42381927, whole genome shotgun sequence.
+* Block 594 <=== 520	USER>>HE601625.1/23886776-23886833	   58   [+0+] HE601625.1/23886776-23886833 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+* Block 595 <=== 620	USER>>CABG01000072.1/54904-54965	   62   [+0+] CABG01000072.1/54904-54965 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0172, strain Puerto Rico
+* Block 596 <=== 521	USER>>AFSA01177641.1/920-977	   58   [+0+] AFSA01177641.1/920-977 Lactuca sativa, whole genome shotgun sequence.
+* Block 597 <=== 560	USER>>AFSA01170855.1/1155-1098	   58   [+0+] AFSA01170855.1/1155-1098 Lactuca sativa, whole genome shotgun sequence.
+* Block 598 <--- 522	USER>>CABF01025454.1/5253-5183	   71   [+0+] CABF01025454.1/5253-5183 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C025426
+* Block 599 <--- 523	USER>>CABF01025457.1/3475-3545	   71   [+0+] CABF01025457.1/3475-3545 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C025429
+* Block 600 <--- 526	USER>>BADR02000935.1/57977-57924	   54   [+0+] BADR02000935.1/57977-57924 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_935.
+* Block 601 <--- 537	USER>>FN595498.1/248106-248049	   58   [+2+] FN595498.1/248106-248049 Vitis vinifera cv. PN40024, annotated scaffold_177.assembly12x
+* Block 602 <=== 569	USER>>BADR02003106.1/96971-97024	   54   [+0+] BADR02003106.1/96971-97024 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_3106.
+* Block 603 <=== 592	USER>>AAMC01028242.1/63241-63293	   53   [+0+] AAMC01028242.1/63241-63293 Xenopus (Silurana) tropicalis XENTRscaffold_76_Cont28242, whole genome shotgun sequence.
+* Block 604 <=== 624	USER>>AAMC01046682.1/71280-71223	   58   [+0+] AAMC01046682.1/71280-71223 Xenopus (Silurana) tropicalis XENTRscaffold_152_Cont46682, whole genome shotgun sequence.
+* Block 605 <=== 571	USER>>BADR02000534.1/430281-430229	   53   [+0+] BADR02000534.1/430281-430229 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_534.
+* Block 606 <=== 625	USER>>BADR02001261.1/11492-11439	   54   [+0+] BADR02001261.1/11492-11439 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_1261.
+* Block 607 <=== 538	USER>>BADR02002963.1/313629-313682	   54   [+0+] BADR02002963.1/313629-313682 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_2963.
+* Block 608 <=== 626	USER>>BADR02002134.1/35012-34959	   54   [+0+] BADR02002134.1/35012-34959 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_2134.
+* Block 609 <--- 539	USER>>AFSA01170855.1/508-451	   58   [+0+] AFSA01170855.1/508-451 Lactuca sativa, whole genome shotgun sequence.
+* Block 610 <--- 563	USER>>ABNK01030792.1/87-4	   84   [+0+] ABNK01030792.1/87-4 Coral metagenome 39613776, whole genome shotgun sequence.
+* Block 611 <--- 565	USER>>FN669541.1/124-58	   67   [+0+] FN669541.1/124-58 Chrysanthemum chlorotic mottle viroid complete genome, isolate Yellow Star, genomic RNA
+* Block 612 <--- 567	USER>>AFSA01119680.1/493-436	   58   [+0+] AFSA01119680.1/493-436 Lactuca sativa, whole genome shotgun sequence.
+* Block 613 <--- 570	USER>>ABMF01222492.1/76-21	   56   [+0+] ABMF01222492.1/76-21 Saltern metagenome 42698345, whole genome shotgun sequence.
+* Block 614 <--- 572	USER>>FN595515.1/240134-240191	   58   [+2+] FN595515.1/240134-240191 Vitis vinifera cv. PN40024, annotated scaffold_118.assembly12x
+* Block 615 <--- 573	USER>>AGTN01685281.1/143-199	   57   [+0+] AGTN01685281.1/143-199 Bioreactor metagenome PBDCA2_GBB5CE401BO5Q2_left, whole genome shotgun sequence.
+* Block 616 <--- 577	USER>>HE601627.1/11733048-11733105	   58   [+0+] HE601627.1/11733048-11733105 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+* Block 617 <--- 580	USER>>FN594950.1/7425599-7425654	   56   [+2+] FN594950.1/7425599-7425654 Vitis vinifera cv. PN40024, annotated scaffold_0.assembly12x
+* Block 618 <--- 581	USER>>AEVX01007644.1/5408-5340	   69   [+0+] AEVX01007644.1/5408-5340 Acromyrmex echinatior contig7644, whole genome shotgun sequence.
+* Block 619 <--- 591	USER>>ABCN01007282.1/11874-11933	   60   [+1+] ABCN01007282.1/11874-11933 Chlamydomonas reinhardtii strain CC-503 cw92 mt+ CHLREscaffold_77_Cont7282, whole genome shotgun sequence.
+* Block 620 <--- 596	USER>>CAAP03007143.1/131633-131576	   58   [+2+] CAAP03007143.1/131633-131576 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_448
+* Block 621 <--- 597	USER>>CABF01035406.1/921-989	   69   [+0+] CABF01035406.1/921-989 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C035371
+* Block 622 <--- 617	USER>>FN595515.1/240996-241053	   58   [+2+] FN595515.1/240996-241053 Vitis vinifera cv. PN40024, annotated scaffold_118.assembly12x
+* Block 623 <--- 618	USER>>AFSA01046730.1/721-664	   58   [+0+] AFSA01046730.1/721-664 Lactuca sativa, whole genome shotgun sequence.
+* Block 624 <--- 619	USER>>CABF01001172.1/615-681	   67   [+0+] CABF01001172.1/615-681 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C001171
+* Block 625 <--- 621	USER>>AM459779.1/27612-27669	   58   [+0+] AM459779.1/27612-27669 Vitis vinifera contig VV78X042738.17, whole genome shotgun sequence.
+* Block 626 <--- 622	USER>>AFSA01018053.1/4359-4416	   58   [+0+] AFSA01018053.1/4359-4416 Lactuca sativa, whole genome shotgun sequence.
+* Block 627 <--- 623	USER>>ADFJ01004186.1/4081-4141	   61   [+0+] ADFJ01004186.1/4081-4141 Selaginella moellendorffii SELMOscaffold_202_Cont4186, whole genome shotgun sequence.
+* Block 628 <--- 627	USER>>CABF01026894.1/1704-1646	   59   [+0+] CABF01026894.1/1704-1646 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C026866
+* Block 629 <--- 628	USER>>BA000030.3/5230823-5230770	   54   [+0+] BA000030.3/5230823-5230770 Streptomyces avermitilis MA-4680 DNA, complete genome.
+* Block 630 <--- 631	USER>>ET122193.1/66642-66581	   62   [+0+] ET122193.1/66642-66581 Myxine glutinosa clone BAC 90C8, complete sequence.
+* Block 631 <--- 632	USER>>CABF01059116.1/3994-4055	   62   [+0+] CABF01059116.1/3994-4055 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C059120
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 1 window = 20
+ minscore = 999 pepscore = 0 list_limit = 10
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 1000
+
+(19 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+      USER>>DQ222083.1/56-3
+1000
+      USER>>JF927893.1/56-3
+
+
+      USER>>AJ550545.1/56-3
+1000
+      USER>>AJ550898.1/56-3
+
+
+      USER>>DQ222098.1/56-3
+1000
+      USER>>DQ222100.1/56-3
+
+
+      USER>>GQ872136.1/56-3
+1000
+      USER>>GQ872137.1/56-3
+
+
+      USER>>GQ872131.1/283-335
+1000
+      USER>>AJ005320.1/281-333
+
+
+      USER>>DQ222094.1/282-335
+1000
+      USER>>DQ222092.1/282-335
+
+
+      USER>>FJ647550.1/134-52
+1000
+      USER>>FJ647527.1/134-52
+
+
+      USER>>HQ891017.1/134-52
+1000
+      USER>>FJ647331.1/142-60
+
+
+      USER>>FJ647369.1/142-60
+1000
+      USER>>FJ647370.1/142-60
+
+
+      USER>>AJ878086.1/134-52
+1000
+      USER>>FJ647480.1/134-52
+
+
+      USER>>FJ647340.1/142-60
+1000
+      USER>>FJ647341.1/142-60
+
+
+      USER>>FJ647373.1/142-60
+1000
+      USER>>FJ647231.1/142-60
+
+
+      USER>>FJ647437.1/134-52
+1000
+      USER>>FJ647438.1/134-52
+
+
+      USER>>AM482949.2/8876-8933
+1000
+      USER>>CAAP03008124.1/4616-4559
+
+
+      USER>>FN595751.1/863886-863943
+1000
+      USER>>CAAP03001098.1/55152-55209
+
+
+      USER>>FN594951.1/4534943-4534886
+1000
+      USER>>CAAP03002622.1/48547-48490
+
+
+      USER>>AJ536619.1/206-152
+1000
+      USER>>AJ536618.1/204-150
+
+
+      USER>>Y12833.1/339-285
+1000
+      USER>>DQ357624.1/282-228
+
+
+      USER>>AELG01009177.1/213-287
+1000
+      USER>>AELG01003753.1/18664-18590
+
+
+613 groups ( 19 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 2 window = 22
+ minscore = 990 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 1000
+
+(2 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+     -- USER>>FJ647517.1/134-52
+1000
+     p- USER>>HQ891017.1/134-52
+     b- USER>>FJ647331.1/142-60
+
+
+     -- USER>>FJ647332.1/141-59
+1000
+     -- USER>>FJ647541.1/134-52
+
+
+611 groups ( 20 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 4 window = 24
+ minscore = 980 pepscore = 0 list_limit = 6
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 983
+
+(206 pairs) cluster_pairs total list_alloc = 80
+pack_lists 
+update_blocks
+     ---- USER>>FJ647454.1/134-52
+1000
+     ---- USER>>FJ647461.1/134-52
+987
+     ---- USER>>FJ647462.1/134-52
+987
+     ---- USER>>FJ647453.1/134-52
+975
+     ---- USER>>FJ647533.1/134-52
+987
+     ---- USER>>FJ647515.1/134-52
+
+
+     ---- USER>>FJ647514.1/134-52
+1000
+     ---- USER>>FJ647474.1/134-52
+987
+     ---- USER>>AJ878088.1/134-52
+987
+     ---- USER>>FJ647471.1/134-52
+975
+     ..p- USER>>AJ878086.1/134-52
+     ..b- USER>>FJ647480.1/134-52
+1000
+     ---- USER>>Y14700.1/134-52
+
+
+     ---- USER>>FJ647398.1/142-60
+987
+     ---- USER>>FJ647400.1/142-60
+987
+     ---- USER>>FJ647403.1/142-60
+987
+     ---- USER>>FJ647416.1/134-52
+987
+     ---- USER>>FJ647423.1/134-52
+1000
+     ---- USER>>FJ647424.1/134-52
+
+
+     ---- USER>>FJ647529.1/134-52
+987
+     ..p- USER>>FJ647550.1/134-52
+     ..b- USER>>FJ647527.1/134-52
+987
+     ---- USER>>FJ647521.1/134-52
+987
+     p--- USER>>FJ647517.1/134-52
+     b-p- USER>>HQ891017.1/134-52
+     ..b- USER>>FJ647331.1/142-60
+987
+     ---- USER>>FJ647498.1/134-52
+975
+     ---- USER>>FJ647314.1/142-60
+
+
+     ---- USER>>FJ647292.1/142-60
+987
+     p--- USER>>FJ647332.1/141-59
+     b--- USER>>FJ647541.1/134-52
+987
+     ..p- USER>>FJ647369.1/142-60
+     ..b- USER>>FJ647370.1/142-60
+
+
+     ---- USER>>FJ647338.1/142-60
+987
+     ---- USER>>FJ647339.1/142-60
+987
+     ..p- USER>>FJ647340.1/142-60
+     ..b- USER>>FJ647341.1/142-60
+975
+     ---- USER>>FJ647343.1/142-60
+
+
+     ---- USER>>FJ647534.1/134-52
+987
+     ---- USER>>FJ647546.1/134-52
+987
+     ---- USER>>FJ647543.1/134-52
+
+
+     ---- USER>>FJ647347.1/142-60
+987
+     ---- USER>>FJ647270.1/142-60
+
+
+     ---- USER>>AEQM02004915.1/10370-10444
+973
+     ---- USER>>AEQM02010051.1/3451-3525
+973
+     ---- USER>>AEQM02007946.1/2506-2432
+986
+     ---- USER>>AEQM02000592.1/1683-1757
+986
+     ---- USER>>AEQM02001425.1/11697-11623
+
+
+     ---- USER>>AELG01009913.1/673-747
+986
+     ..p- USER>>AELG01009177.1/213-287
+     ..b- USER>>AELG01003753.1/18664-18590
+
+
+     ---- USER>>HE601628.1/8069827-8069885
+983
+     ---- USER>>CABG01000045.1/186457-186515
+
+
+     ---- USER>>BABX01122714.1/913-969
+982
+     ---- USER>>BABX01069515.1/5017-4961
+982
+     ---- USER>>BABX01080841.1/523-467
+964
+     ---- USER>>BABX01009221.1/590-646
+964
+     ---- USER>>BABX01120465.1/439-383
+964
+     ---- USER>>BABX01006879.1/1941-1885
+
+
+     ---- USER>>FN595763.1/416062-416119
+982
+     ---- USER>>AM456165.2/16384-16441
+
+
+     ..p- USER>>FN595751.1/863886-863943
+     ..b- USER>>CAAP03001098.1/55152-55209
+982
+     ---- USER>>AM462459.1/7869-7926
+
+
+     ---- USER>>BABX01017357.1/4281-4225
+982
+     ---- USER>>BABX01072474.1/1285-1341
+
+
+     ---- USER>>AM448280.1/7188-7245
+982
+     ---- USER>>FN595513.1/4433474-4433417
+
+
+     ---- USER>>M33000.1/55-110
+982
+     ---- USER>>M33001.1/56-111
+
+
+     ---- USER>>AAXJ01000388.1/18127-18183
+982
+     ---- USER>>AAXJ01016906.1/845-901
+982
+     ---- USER>>AAXJ01000114.1/40120-40064
+982
+     ---- USER>>AAXJ01007742.1/834-778
+
+
+     ---- USER>>DQ680756.1/56-3
+981
+     ---- USER>>DQ680792.1/57-4
+981
+     ---- USER>>DQ680793.1/56-3
+
+
+     ---- USER>>ET708845.1/56-3
+962
+     ---- USER>>DQ680773.1/56-3
+962
+     ---- USER>>FM955277.1/56-3
+981
+     ---- USER>>AJ241831.1/56-3
+981
+     ---- USER>>DQ680772.1/56-3
+981
+     ---- USER>>AJ241828.1/56-3
+
+
+     ---- USER>>AJ241819.1/56-3
+981
+     ---- USER>>DQ680790.1/56-3
+
+
+     ---- USER>>DQ222075.1/56-3
+981
+     ---- USER>>AJ005310.1/56-3
+981
+     ---- USER>>ET429320.1/56-3
+981
+     ---- USER>>AJ241840.1/56-3
+
+
+     ---- USER>>HM185110.1/56-3
+981
+     ---- USER>>HM185108.1/56-3
+
+
+     ---- USER>>JF927892.1/56-3
+981
+     ---- USER>>DQ680797.1/56-3
+
+
+     ---- USER>>AJ550907.1/281-333
+981
+     ---- USER>>HM185111.1/283-335
+962
+     ---- USER>>DQ680792.1/285-337
+981
+     ---- USER>>DQ680793.1/283-335
+981
+     ---- USER>>DQ222086.1/282-334
+981
+     ---- USER>>GT825987.1/280-332
+
+
+     ---- USER>>GQ872126.1/56-3
+981
+     ---- USER>>EF151300.1/56-3
+981
+     ..p- USER>>DQ222083.1/56-3
+     ..b- USER>>JF927893.1/56-3
+981
+     ---- USER>>ET708835.1/56-3
+
+
+     ---- USER>>AJ550901.1/282-334
+981
+     ---- USER>>GQ872151.1/282-334
+981
+     ---- USER>>GQ872138.1/282-334
+
+
+     ---- USER>>AJ005295.1/282-334
+981
+     ---- USER>>AJ241830.1/282-334
+981
+     ---- USER>>AJ241833.1/282-334
+981
+     ..p- USER>>GQ872131.1/283-335
+     ..b- USER>>AJ005320.1/281-333
+981
+     ---- USER>>AJ005321.1/281-333
+981
+     ---- USER>>GQ872126.1/283-335
+
+
+     ---- USER>>DQ839565.1/284-336
+981
+     ---- USER>>DQ222103.1/282-334
+981
+     ---- USER>>ET708844.1/282-334
+
+
+     ---- USER>>DQ680707.1/284-337
+981
+     ---- USER>>DQ680704.1/284-337
+981
+     ---- USER>>GQ499320.1/283-336
+
+
+     ---- USER>>ET708846.1/282-334
+981
+     ---- USER>>ET708848.1/282-334
+
+
+     ---- USER>>GQ499322.1/283-336
+981
+     ---- USER>>GQ499316.1/283-336
+981
+     ---- USER>>DQ680695.1/282-335
+981
+     ---- USER>>DQ680689.1/282-335
+981
+     ---- USER>>DQ680697.1/282-335
+981
+     ---- USER>>GQ499313.1/283-336
+
+
+     ---- USER>>AF170503.1/280-333
+981
+     ---- USER>>GQ499307.1/283-336
+
+
+     ---- USER>>GQ499317.1/284-336
+981
+     ---- USER>>GQ499315.1/284-336
+
+
+     ..p- USER>>AJ550545.1/56-3
+     ..b- USER>>AJ550898.1/56-3
+981
+     ---- USER>>AJ550899.1/56-3
+
+
+     ---- USER>>DQ680803.1/56-3
+981
+     ---- USER>>DQ680804.1/56-3
+
+
+     ---- USER>>AJ550911.1/56-3
+981
+     ..p- USER>>DQ222098.1/56-3
+     ..b- USER>>DQ222100.1/56-3
+981
+     ---- USER>>DQ222103.1/56-3
+981
+     ---- USER>>DQ222082.1/56-3
+
+
+     ---- USER>>GQ499321.1/57-4
+981
+     ---- USER>>DQ680689.1/56-3
+981
+     ---- USER>>DQ680691.1/56-3
+981
+     ---- USER>>DQ680703.1/56-3
+981
+     ---- USER>>AJ550908.1/56-3
+981
+     ---- USER>>ET708846.1/56-3
+
+
+     ---- USER>>GQ872125.1/53-1
+981
+     ---- USER>>DQ222074.1/56-3
+
+
+     ---- USER>>JF927895.1/280-333
+981
+     ---- USER>>DQ222070.1/280-333
+981
+     ---- USER>>DQ680781.1/283-336
+
+
+     ---- USER>>ET708838.1/283-336
+981
+     ---- USER>>DQ680722.1/283-336
+
+
+     ---- USER>>DQ680714.1/284-337
+981
+     ---- USER>>ET888599.1/280-333
+981
+     ---- USER>>DQ680776.1/283-336
+981
+     ---- USER>>DQ680732.1/283-336
+
+
+     ---- USER>>DQ680724.1/283-336
+981
+     ---- USER>>DQ680725.1/283-336
+981
+     ---- USER>>AY685181.1/283-336
+981
+     ---- USER>>DQ680713.1/283-336
+962
+     ---- USER>>AF339742.1/282-335
+981
+     ---- USER>>AF170505.1/284-337
+
+
+     ---- USER>>DQ680778.1/283-336
+981
+     ---- USER>>AJ241825.1/282-335
+981
+     ---- USER>>AJ241842.1/282-335
+981
+     ---- USER>>AJ241829.1/279-332
+981
+     ---- USER>>AJ241848.1/281-334
+981
+     ---- USER>>DQ680728.1/283-336
+
+
+     ---- USER>>DQ222082.1/282-335
+981
+     ---- USER>>DQ222098.1/282-335
+
+
+     ---- USER>>HM185107.1/282-335
+981
+     ---- USER>>HM185110.1/282-335
+
+
+     ---- USER>>DQ680745.1/283-336
+981
+     ---- USER>>DQ680747.1/283-336
+981
+     ---- USER>>DQ680744.1/282-335
+
+
+     ---- USER>>M83545.1/282-335
+981
+     ---- USER>>ET708826.1/283-336
+981
+     ---- USER>>DQ680742.1/282-335
+981
+     ---- USER>>DQ680739.1/283-336
+981
+     ---- USER>>AJ005315.1/281-334
+
+
+     ---- USER>>DQ680806.1/284-337
+981
+     ---- USER>>DQ680805.1/283-336
+
+
+     ---- USER>>DQ680763.1/282-335
+981
+     ---- USER>>DQ680764.1/284-337
+981
+     ---- USER>>DQ680780.1/283-336
+
+
+     ---- USER>>DQ222072.1/281-334
+962
+     ---- USER>>DQ680766.1/283-336
+981
+     ---- USER>>DQ680787.1/283-336
+981
+     ---- USER>>DQ680758.1/283-336
+981
+     ---- USER>>DQ680782.1/283-336
+981
+     ---- USER>>HQ342886.1/282-335
+
+
+     ---- USER>>DQ222095.1/282-335
+981
+     ---- USER>>DQ222097.1/281-334
+981
+     ---- USER>>DQ222084.1/282-335
+981
+     ---- USER>>ET429320.1/283-336
+
+
+     ---- USER>>GQ872149.1/282-335
+981
+     ---- USER>>GQ872150.1/282-335
+981
+     ---- USER>>AJ550899.1/282-335
+962
+     ---- USER>>GQ872137.1/282-335
+981
+     ---- USER>>DQ680790.1/283-336
+981
+     ---- USER>>DQ680791.1/283-336
+
+
+     ---- USER>>AJ536620.1/206-152
+981
+     ---- USER>>AJ536614.1/206-152
+981
+     ---- USER>>AJ536617.1/206-152
+981
+     ---- USER>>AJ536615.1/206-152
+
+
+     ---- USER>>DQ357627.1/294-240
+981
+     ---- USER>>DQ357626.1/292-238
+
+
+     ---- USER>>DQ357618.1/298-244
+981
+     ---- USER>>DQ357620.1/298-244
+
+
+     ..p- USER>>Y12833.1/339-285
+     ..b- USER>>DQ357624.1/282-228
+981
+     ---- USER>>DQ357621.1/268-214
+
+
+     ---- USER>>ET708835.1/283-335
+981
+     ---- USER>>GQ872124.1/282-334
+981
+     ---- USER>>DQ222083.1/281-333
+
+
+     ---- USER>>BADR02001261.1/11492-11439
+981
+     ---- USER>>BADR02002134.1/35012-34959
+981
+     ---- USER>>BADR02002963.1/313629-313682
+
+
+463 groups ( 66 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 8 window = 26
+ minscore = 970 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 976
+
+(104 pairs) cluster_pairs total list_alloc = 40
+pack_lists 
+update_blocks
+     ------ USER>>FJ647553.1/134-52
+987
+     ------ USER>>FJ647538.1/134-52
+987
+     ------ USER>>FJ647537.1/134-52
+
+
+     ------ USER>>FJ647452.1/134-52
+987
+     ------ USER>>FJ647450.1/134-52
+985
+     p----- USER>>FJ647454.1/134-52
+     b----- USER>>FJ647461.1/134-52
+     b----- USER>>FJ647462.1/134-52
+     b----- USER>>FJ647453.1/134-52
+     b----- USER>>FJ647533.1/134-52
+     b----- USER>>FJ647515.1/134-52
+972
+     p----- USER>>FJ647338.1/142-60
+     b----- USER>>FJ647339.1/142-60
+     b---p- USER>>FJ647340.1/142-60
+     |...b- USER>>FJ647341.1/142-60
+     b----- USER>>FJ647343.1/142-60
+
+
+     ------ USER>>FJ647371.1/142-60
+987
+     ------ USER>>HQ891015.1/134-52
+987
+     ------ USER>>DQ450682.1/134-52
+963
+     ------ USER>>FJ647372.1/142-60
+
+
+     ....p- USER>>FJ647437.1/134-52
+     ....b- USER>>FJ647438.1/134-52
+987
+     ------ USER>>FJ647456.1/134-52
+
+
+     ------ USER>>FJ647420.1/134-52
+978
+     p----- USER>>FJ647534.1/134-52
+     b----- USER>>FJ647546.1/134-52
+     b----- USER>>FJ647543.1/134-52
+986
+     ------ USER>>FJ647457.1/134-52
+
+
+     ------ USER>>DQ680763.1/55-2
+981
+     ------ USER>>GT825986.1/54-1
+981
+     ------ USER>>DQ680759.1/56-3
+
+
+     ------ USER>>AJ241845.1/282-335
+981
+     ------ USER>>AJ241840.1/282-335
+
+
+     ------ USER>>AF170504.1/284-337
+981
+     ------ USER>>AF170522.1/282-335
+
+
+     p----- USER>>FJ647529.1/134-52
+     b---p- USER>>FJ647550.1/134-52
+     |...b- USER>>FJ647527.1/134-52
+     b----- USER>>FJ647521.1/134-52
+     b-p--- USER>>FJ647517.1/134-52
+     |.b-p- USER>>HQ891017.1/134-52
+     |...b- USER>>FJ647331.1/142-60
+     b----- USER>>FJ647498.1/134-52
+     b----- USER>>FJ647314.1/142-60
+980
+     p----- USER>>FJ647398.1/142-60
+     b----- USER>>FJ647400.1/142-60
+     b----- USER>>FJ647403.1/142-60
+     b----- USER>>FJ647416.1/134-52
+     b----- USER>>FJ647423.1/134-52
+     b----- USER>>FJ647424.1/134-52
+980
+     p----- USER>>FJ647292.1/142-60
+     b-p--- USER>>FJ647332.1/141-59
+     |.b--- USER>>FJ647541.1/134-52
+     b---p- USER>>FJ647369.1/142-60
+     ....b- USER>>FJ647370.1/142-60
+980
+     p----- USER>>FJ647514.1/134-52
+     b----- USER>>FJ647474.1/134-52
+     b----- USER>>AJ878088.1/134-52
+     b----- USER>>FJ647471.1/134-52
+     b---p- USER>>AJ878086.1/134-52
+     |...b- USER>>FJ647480.1/134-52
+     b----- USER>>Y14700.1/134-52
+
+
+     ------ USER>>FJ647296.1/142-60
+975
+     ------ USER>>FJ647360.1/142-60
+975
+     ------ USER>>FJ647299.1/142-60
+975
+     ....p- USER>>FJ647373.1/142-60
+     ....b- USER>>FJ647231.1/142-60
+
+
+     ------ USER>>FJ647333.1/142-60
+975
+     ------ USER>>FJ647482.1/134-52
+975
+     ------ USER>>AJ878089.1/134-52
+975
+     ------ USER>>FJ647277.1/143-61
+
+
+     ------ USER>>AJ247116.1/134-52
+975
+     ------ USER>>HQ891014.1/134-52
+
+
+     ------ USER>>FJ647266.1/142-60
+975
+     ------ USER>>FJ647359.1/142-60
+
+
+     ------ USER>>DQ402041.1/134-52
+975
+     ------ USER>>AJ247118.1/134-52
+975
+     ------ USER>>AJ247122.1/133-51
+
+
+     ------ USER>>AEQM02008319.1/21964-22038
+960
+     ------ USER>>AEQM02005632.1/11302-11228
+973
+     ------ USER>>AEQM02008841.1/9504-9430
+973
+     ------ USER>>AEQM02008041.1/838-912
+
+
+     ------ USER>>AEQM02003679.1/258-184
+973
+     ------ USER>>AEQM02000326.1/25836-25762
+
+
+     ------ USER>>AADG06003428.1/18474-18399
+973
+     ------ USER>>AEKZ01004080.1/872-797
+
+
+     ------ USER>>AEQM02004301.1/21469-21543
+973
+     ------ USER>>AEQM02004873.1/34322-34396
+
+
+     ------ USER>>DQ680745.1/56-3
+972
+     p----- USER>>HM185110.1/56-3
+     b----- USER>>HM185108.1/56-3
+
+
+     ------ USER>>DQ839564.1/284-337
+972
+     p----- USER>>DQ222082.1/282-335
+     b----- USER>>DQ222098.1/282-335
+972
+     ------ USER>>DQ680718.1/285-338
+
+
+     ------ USER>>AELG01005801.1/14146-14076
+971
+     ------ USER>>AELG01005788.1/9138-9068
+
+
+     p----- USER>>ET708846.1/282-334
+     b----- USER>>ET708848.1/282-334
+971
+     p----- USER>>GQ499317.1/284-336
+     b----- USER>>GQ499315.1/284-336
+
+
+424 groups ( 75 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 8 window = 26
+ minscore = 960 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 964
+
+(117 pairs) cluster_pairs total list_alloc = 40
+pack_lists 
+update_blocks
+     p------- USER>>FJ647333.1/142-60
+     b------- USER>>FJ647482.1/134-52
+     b------- USER>>AJ878089.1/134-52
+     b------- USER>>FJ647277.1/143-61
+973
+     p------- USER>>FJ647296.1/142-60
+     b------- USER>>FJ647360.1/142-60
+     b------- USER>>FJ647299.1/142-60
+     b-----p- USER>>FJ647373.1/142-60
+     ......b- USER>>FJ647231.1/142-60
+978
+     p------- USER>>FJ647266.1/142-60
+     b------- USER>>FJ647359.1/142-60
+975
+     -------- USER>>FJ647481.1/134-52
+
+
+     ..p----- USER>>FJ647529.1/134-52
+     ..b---p- USER>>FJ647550.1/134-52
+     ..|...b- USER>>FJ647527.1/134-52
+     ..b----- USER>>FJ647521.1/134-52
+     ..b-p--- USER>>FJ647517.1/134-52
+     ..|.b-p- USER>>HQ891017.1/134-52
+     ..|...b- USER>>FJ647331.1/142-60
+     ..b----- USER>>FJ647498.1/134-52
+     p-b----- USER>>FJ647314.1/142-60
+     b-p----- USER>>FJ647398.1/142-60
+     |.b----- USER>>FJ647400.1/142-60
+     |.b----- USER>>FJ647403.1/142-60
+     |.b----- USER>>FJ647416.1/134-52
+     |.b----- USER>>FJ647423.1/134-52
+     |.b----- USER>>FJ647424.1/134-52
+     b-p----- USER>>FJ647292.1/142-60
+     |.b-p--- USER>>FJ647332.1/141-59
+     |.|.b--- USER>>FJ647541.1/134-52
+     |.b---p- USER>>FJ647369.1/142-60
+     |.....b- USER>>FJ647370.1/142-60
+     b-p----- USER>>FJ647514.1/134-52
+     ..b----- USER>>FJ647474.1/134-52
+     ..b----- USER>>AJ878088.1/134-52
+     ..b----- USER>>FJ647471.1/134-52
+     ..b---p- USER>>AJ878086.1/134-52
+     ..|...b- USER>>FJ647480.1/134-52
+     ..b----- USER>>Y14700.1/134-52
+969
+     p------- USER>>FJ647452.1/134-52
+     b------- USER>>FJ647450.1/134-52
+     b-p----- USER>>FJ647454.1/134-52
+     |.b----- USER>>FJ647461.1/134-52
+     |.b----- USER>>FJ647462.1/134-52
+     |.b----- USER>>FJ647453.1/134-52
+     |.b----- USER>>FJ647533.1/134-52
+     |.b----- USER>>FJ647515.1/134-52
+     b-p----- USER>>FJ647338.1/142-60
+     ..b----- USER>>FJ647339.1/142-60
+     ..b---p- USER>>FJ647340.1/142-60
+     ..|...b- USER>>FJ647341.1/142-60
+     ..b----- USER>>FJ647343.1/142-60
+972
+     p------- USER>>FJ647420.1/134-52
+     b-p----- USER>>FJ647534.1/134-52
+     |.b----- USER>>FJ647546.1/134-52
+     |.b----- USER>>FJ647543.1/134-52
+     b------- USER>>FJ647457.1/134-52
+973
+     p------- USER>>FJ647553.1/134-52
+     b------- USER>>FJ647538.1/134-52
+     b------- USER>>FJ647537.1/134-52
+
+
+     ..p----- USER>>GQ499322.1/283-336
+     ..b----- USER>>GQ499316.1/283-336
+     ..b----- USER>>DQ680695.1/282-335
+     ..b----- USER>>DQ680689.1/282-335
+     ..b----- USER>>DQ680697.1/282-335
+     ..b----- USER>>GQ499313.1/283-336
+968
+     ..p----- USER>>AF170503.1/280-333
+     ..b----- USER>>GQ499307.1/283-336
+
+
+     -------- USER>>AJ550906.1/282-334
+967
+     ..p----- USER>>ET708835.1/283-335
+     ..b----- USER>>GQ872124.1/282-334
+     ..b----- USER>>DQ222083.1/281-333
+
+
+     -------- USER>>FJ647334.1/1-61
+967
+     -------- USER>>FJ647309.1/1-61
+
+
+     -------- USER>>GQ872135.1/56-3
+962
+     -------- USER>>AF339740.1/56-3
+966
+     ..p----- USER>>GQ872126.1/56-3
+     ..b----- USER>>EF151300.1/56-3
+     ..b---p- USER>>DQ222083.1/56-3
+     ..|...b- USER>>JF927893.1/56-3
+     ..b----- USER>>ET708835.1/56-3
+966
+     -------- USER>>DQ222079.1/56-3
+
+
+     ..p----- USER>>DQ680756.1/56-3
+     ..b----- USER>>DQ680792.1/57-4
+     ..b----- USER>>DQ680793.1/56-3
+966
+     -------- USER>>DQ680801.1/56-3
+
+
+     ..p----- USER>>DQ680714.1/284-337
+     ..b----- USER>>ET888599.1/280-333
+     ..b----- USER>>DQ680776.1/283-336
+     ..b----- USER>>DQ680732.1/283-336
+966
+     -------- USER>>DQ680733.1/282-335
+
+
+     ..p----- USER>>FJ647347.1/142-60
+     ..b----- USER>>FJ647270.1/142-60
+961
+     p------- USER>>FJ647371.1/142-60
+     b------- USER>>HQ891015.1/134-52
+     b------- USER>>DQ450682.1/134-52
+     b------- USER>>FJ647372.1/142-60
+965
+     p------- USER>>AJ247116.1/134-52
+     b------- USER>>HQ891014.1/134-52
+
+
+     ......p- USER>>FN594951.1/4534943-4534886
+     ......b- USER>>CAAP03002622.1/48547-48490
+965
+     -------- USER>>AM432923.2/13728-13785
+
+
+     -------- USER>>BABX01090305.1/175-231
+964
+     ..p----- USER>>BABX01122714.1/913-969
+     ..b----- USER>>BABX01069515.1/5017-4961
+     ..b----- USER>>BABX01080841.1/523-467
+     ..b----- USER>>BABX01009221.1/590-646
+     ..b----- USER>>BABX01120465.1/439-383
+     ..b----- USER>>BABX01006879.1/1941-1885
+964
+     -------- USER>>BABX01147764.1/476-420
+964
+     -------- USER>>BABX01030123.1/423-367
+
+
+     -------- USER>>BABX01086374.1/2296-2352
+964
+     -------- USER>>BABX01029133.1/5822-5766
+964
+     -------- USER>>BABX01004193.1/1681-1625
+
+
+     -------- USER>>BABX01020569.1/2921-2865
+964
+     -------- USER>>BABX01016267.1/1767-1711
+
+
+     -------- USER>>BABX01095556.1/1622-1678
+964
+     -------- USER>>BABX01005373.1/5135-5191
+
+
+     -------- USER>>AP011976.1/657-601
+964
+     -------- USER>>BABX01109471.1/155-211
+
+
+     -------- USER>>BABX01021550.1/3862-3918
+964
+     -------- USER>>BABX01021550.1/4579-4635
+
+
+     -------- USER>>FJ647336.1/143-60
+963
+     -------- USER>>AB181858.1/133-52
+
+
+     -------- USER>>FJ647458.1/134-52
+963
+     -------- USER>>FJ647460.1/134-52
+963
+     -------- USER>>FJ647536.1/134-52
+
+
+     -------- USER>>DQ357615.1/303-249
+963
+     ......p- USER>>Y12833.1/339-285
+     ..p---b- USER>>DQ357624.1/282-228
+     ..b----- USER>>DQ357621.1/268-214
+
+
+     -------- USER>>ET708826.1/56-3
+962
+     -------- USER>>AJ005318.1/56-3
+962
+     -------- USER>>DQ680770.1/56-3
+
+
+     -------- USER>>DQ839564.1/56-3
+962
+     -------- USER>>GT825982.1/54-1
+962
+     -------- USER>>AF170509.1/56-3
+
+
+     -------- USER>>AEQM02004395.1/61846-61919
+945
+     p------- USER>>AEQM02004301.1/21469-21543
+     b------- USER>>AEQM02004873.1/34322-34396
+962
+     ..p----- USER>>AEQM02004915.1/10370-10444
+     ..b----- USER>>AEQM02010051.1/3451-3525
+     ..b----- USER>>AEQM02007946.1/2506-2432
+     ..b----- USER>>AEQM02000592.1/1683-1757
+     ..b----- USER>>AEQM02001425.1/11697-11623
+962
+     p------- USER>>AEQM02003679.1/258-184
+     b------- USER>>AEQM02000326.1/25836-25762
+
+
+     -------- USER>>ET708829.1/283-336
+962
+     -------- USER>>EF591867.1/281-334
+962
+     -------- USER>>GT825988.1/284-337
+962
+     -------- USER>>EF151293.1/282-335
+
+
+     -------- USER>>DQ222094.1/56-3
+962
+     -------- USER>>DQ222053.1/56-3
+962
+     -------- USER>>HM185111.1/56-3
+
+
+     ..p----- USER>>DQ222072.1/281-334
+     ..b----- USER>>DQ680766.1/283-336
+     ..b----- USER>>DQ680787.1/283-336
+     ..b----- USER>>DQ680758.1/283-336
+     ..b----- USER>>DQ680782.1/283-336
+     ..b----- USER>>HQ342886.1/282-335
+962
+     -------- USER>>FM955277.1/283-336
+962
+     -------- USER>>DQ680754.1/283-336
+
+
+     -------- USER>>HM185113.1/56-3
+962
+     -------- USER>>AF170517.1/56-3
+962
+     -------- USER>>AF339739.1/56-3
+
+
+     ..p----- USER>>GQ872125.1/53-1
+     ..b----- USER>>DQ222074.1/56-3
+962
+     -------- USER>>M83545.1/56-3
+962
+     -------- USER>>DQ680799.1/56-3
+962
+     -------- USER>>GQ499312.1/57-4
+
+
+     ..p----- USER>>AJ550907.1/281-333
+     ..b----- USER>>HM185111.1/283-335
+     ..b----- USER>>DQ680792.1/285-337
+     ..b----- USER>>DQ680793.1/283-335
+     ..b----- USER>>DQ222086.1/282-334
+     ..b----- USER>>GT825987.1/280-332
+962
+     -------- USER>>GQ872122.1/283-335
+
+
+     -------- USER>>AF170519.1/55-3
+962
+     -------- USER>>AF170521.1/55-3
+
+
+     -------- USER>>ET708839.1/283-336
+962
+     -------- USER>>DQ222085.1/282-335
+
+
+     -------- USER>>DQ680688.1/282-335
+962
+     -------- USER>>DQ680693.1/282-335
+
+
+     -------- USER>>GT825983.1/281-334
+962
+     -------- USER>>DQ680740.1/283-336
+962
+     -------- USER>>DQ680779.1/284-337
+962
+     -------- USER>>DQ680771.1/283-336
+
+
+     -------- USER>>ABLW01115605.1/67-13
+962
+     -------- USER>>ABLW01138448.1/66-13
+
+
+     -------- USER>>CABG01000022.1/1111176-1111099
+961
+     -------- USER>>HE601624.1/34460474-34460551
+
+
+366 groups ( 84 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 8 window = 26
+ minscore = 950 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 955
+
+(36 pairs) cluster_pairs total list_alloc = 40
+pack_lists 
+update_blocks
+     p--------- USER>>DQ839564.1/56-3
+     b--------- USER>>GT825982.1/54-1
+     b--------- USER>>AF170509.1/56-3
+964
+     ---------- USER>>HQ342884.1/55-2
+
+
+     ---------- USER>>DQ680770.1/283-336
+962
+     ---------- USER>>DQ222091.1/282-335
+
+
+     ........p- USER>>FJ647437.1/134-52
+     ..p-----b- USER>>FJ647438.1/134-52
+     ..b------- USER>>FJ647456.1/134-52
+960
+     ....p----- USER>>FJ647529.1/134-52
+     ....b---p- USER>>FJ647550.1/134-52
+     ....|...b- USER>>FJ647527.1/134-52
+     ....b----- USER>>FJ647521.1/134-52
+     ....b-p--- USER>>FJ647517.1/134-52
+     ....|.b-p- USER>>HQ891017.1/134-52
+     ....|...b- USER>>FJ647331.1/142-60
+     ....b----- USER>>FJ647498.1/134-52
+     ..p-b----- USER>>FJ647314.1/142-60
+     ..b-p----- USER>>FJ647398.1/142-60
+     ..|.b----- USER>>FJ647400.1/142-60
+     ..|.b----- USER>>FJ647403.1/142-60
+     ..|.b----- USER>>FJ647416.1/134-52
+     ..|.b----- USER>>FJ647423.1/134-52
+     ..|.b----- USER>>FJ647424.1/134-52
+     ..b-p----- USER>>FJ647292.1/142-60
+     ..|.b-p--- USER>>FJ647332.1/141-59
+     ..|.|.b--- USER>>FJ647541.1/134-52
+     ..|.b---p- USER>>FJ647369.1/142-60
+     ..|.....b- USER>>FJ647370.1/142-60
+     p-b-p----- USER>>FJ647514.1/134-52
+     |...b----- USER>>FJ647474.1/134-52
+     |...b----- USER>>AJ878088.1/134-52
+     |...b----- USER>>FJ647471.1/134-52
+     |...b---p- USER>>AJ878086.1/134-52
+     |...|...b- USER>>FJ647480.1/134-52
+     |...b----- USER>>Y14700.1/134-52
+     b-p------- USER>>FJ647452.1/134-52
+     |.b------- USER>>FJ647450.1/134-52
+     |.b-p----- USER>>FJ647454.1/134-52
+     |.|.b----- USER>>FJ647461.1/134-52
+     |.|.b----- USER>>FJ647462.1/134-52
+     |.|.b----- USER>>FJ647453.1/134-52
+     |.|.b----- USER>>FJ647533.1/134-52
+     |.|.b----- USER>>FJ647515.1/134-52
+     |.b-p----- USER>>FJ647338.1/142-60
+     |...b----- USER>>FJ647339.1/142-60
+     |...b---p- USER>>FJ647340.1/142-60
+     |...|...b- USER>>FJ647341.1/142-60
+     |...b----- USER>>FJ647343.1/142-60
+     b-p------- USER>>FJ647420.1/134-52
+     |.b-p----- USER>>FJ647534.1/134-52
+     |.|.b----- USER>>FJ647546.1/134-52
+     |.|.b----- USER>>FJ647543.1/134-52
+     |.b------- USER>>FJ647457.1/134-52
+     b-p------- USER>>FJ647553.1/134-52
+     ..b------- USER>>FJ647538.1/134-52
+     ..b------- USER>>FJ647537.1/134-52
+962
+     ..p------- USER>>FJ647333.1/142-60
+     ..b------- USER>>FJ647482.1/134-52
+     ..b------- USER>>AJ878089.1/134-52
+     p-b------- USER>>FJ647277.1/143-61
+     b-p------- USER>>FJ647296.1/142-60
+     |.b------- USER>>FJ647360.1/142-60
+     |.b------- USER>>FJ647299.1/142-60
+     |.b-----p- USER>>FJ647373.1/142-60
+     |.......b- USER>>FJ647231.1/142-60
+     b-p------- USER>>FJ647266.1/142-60
+     |.b------- USER>>FJ647359.1/142-60
+     b--------- USER>>FJ647481.1/134-52
+960
+     ....p----- USER>>FJ647347.1/142-60
+     p---b----- USER>>FJ647270.1/142-60
+     b-p------- USER>>FJ647371.1/142-60
+     |.b------- USER>>HQ891015.1/134-52
+     |.b------- USER>>DQ450682.1/134-52
+     |.b------- USER>>FJ647372.1/142-60
+     b-p------- USER>>AJ247116.1/134-52
+     ..b------- USER>>HQ891014.1/134-52
+
+
+     ....p----- USER>>AELG01009913.1/673-747
+     ....b---p- USER>>AELG01009177.1/213-287
+     ........b- USER>>AELG01003753.1/18664-18590
+954
+     ---------- USER>>AEQM02011150.1/40400-40473
+959
+     ---------- USER>>AEQM02001860.1/807-880
+
+
+     ....p----- USER>>HM185107.1/282-335
+     ....b----- USER>>HM185110.1/282-335
+959
+     ....p----- USER>>DQ680745.1/283-336
+     ....b----- USER>>DQ680747.1/283-336
+     ....b----- USER>>DQ680744.1/282-335
+953
+     ..p------- USER>>DQ839564.1/284-337
+     ..b-p----- USER>>DQ222082.1/282-335
+     ..|.b----- USER>>DQ222098.1/282-335
+     ..b------- USER>>DQ680718.1/285-338
+959
+     ....p----- USER>>DQ680778.1/283-336
+     ....b----- USER>>AJ241825.1/282-335
+     ....b----- USER>>AJ241842.1/282-335
+     ....b----- USER>>AJ241829.1/279-332
+     ....b----- USER>>AJ241848.1/281-334
+     ....b----- USER>>DQ680728.1/283-336
+
+
+     ..p------- USER>>DQ680763.1/55-2
+     ..b------- USER>>GT825986.1/54-1
+     ..b------- USER>>DQ680759.1/56-3
+959
+     ........p- USER>>AJ550545.1/56-3
+     ....p---b- USER>>AJ550898.1/56-3
+     ....b----- USER>>AJ550899.1/56-3
+
+
+     ....p----- USER>>ET708845.1/56-3
+     ....b----- USER>>DQ680773.1/56-3
+     ....b----- USER>>FM955277.1/56-3
+     ....b----- USER>>AJ241831.1/56-3
+     ....b----- USER>>DQ680772.1/56-3
+     ....b----- USER>>AJ241828.1/56-3
+959
+     ....p----- USER>>AJ241819.1/56-3
+     ....b----- USER>>DQ680790.1/56-3
+
+
+     ....p----- USER>>DQ222075.1/56-3
+     ....b----- USER>>AJ005310.1/56-3
+     ....b----- USER>>ET429320.1/56-3
+     ....b----- USER>>AJ241840.1/56-3
+957
+     p--------- USER>>DQ222094.1/56-3
+     b--------- USER>>DQ222053.1/56-3
+     b--------- USER>>HM185111.1/56-3
+
+
+     ---------- USER>>CABF01025454.1/5253-5183
+957
+     ---------- USER>>CABF01025457.1/3475-3545
+
+
+     ....p----- USER>>HE601628.1/8069827-8069885
+     ....b----- USER>>CABG01000045.1/186457-186515
+957
+     ---------- USER>>HE601629.1/3309543-3309601
+
+
+     ..p------- USER>>AEQM02008319.1/21964-22038
+     ..b------- USER>>AEQM02005632.1/11302-11228
+     ..b------- USER>>AEQM02008841.1/9504-9430
+     ..b------- USER>>AEQM02008041.1/838-912
+937
+     ---------- USER>>AEQM02003877.1/16411-16482
+954
+     p--------- USER>>AEQM02004395.1/61846-61919
+     b-p------- USER>>AEQM02004301.1/21469-21543
+     |.b------- USER>>AEQM02004873.1/34322-34396
+     b---p----- USER>>AEQM02004915.1/10370-10444
+     |...b----- USER>>AEQM02010051.1/3451-3525
+     |...b----- USER>>AEQM02007946.1/2506-2432
+     |...b----- USER>>AEQM02000592.1/1683-1757
+     |...b----- USER>>AEQM02001425.1/11697-11623
+     b-p------- USER>>AEQM02003679.1/258-184
+     ..b------- USER>>AEQM02000326.1/25836-25762
+956
+     ---------- USER>>AEQM02005133.1/12615-12541
+
+
+     p--------- USER>>AP011976.1/657-601
+     b--------- USER>>BABX01109471.1/155-211
+956
+     ....p----- USER>>BABX01017357.1/4281-4225
+     ....b----- USER>>BABX01072474.1/1285-1341
+
+
+     ....p----- USER>>JF927892.1/56-3
+     ....b----- USER>>DQ680797.1/56-3
+955
+     ....p----- USER>>DQ680756.1/56-3
+     ....b----- USER>>DQ680792.1/57-4
+     p---b----- USER>>DQ680793.1/56-3
+     b--------- USER>>DQ680801.1/56-3
+
+
+     ....p----- USER>>GQ872149.1/282-335
+     ....b----- USER>>GQ872150.1/282-335
+     ....b----- USER>>AJ550899.1/282-335
+     ....b----- USER>>GQ872137.1/282-335
+     ....b----- USER>>DQ680790.1/283-336
+     ....b----- USER>>DQ680791.1/283-336
+955
+     ---------- USER>>GQ872147.1/282-335
+
+
+     ..p------- USER>>DQ680745.1/56-3
+     ..b-p----- USER>>HM185110.1/56-3
+     ....b----- USER>>HM185108.1/56-3
+950
+     p--------- USER>>GQ872135.1/56-3
+     b--------- USER>>AF339740.1/56-3
+     b---p----- USER>>GQ872126.1/56-3
+     |...b----- USER>>EF151300.1/56-3
+     |...b---p- USER>>DQ222083.1/56-3
+     |...|...b- USER>>JF927893.1/56-3
+     |...b----- USER>>ET708835.1/56-3
+     b--------- USER>>DQ222079.1/56-3
+953
+     p--------- USER>>HM185113.1/56-3
+     b--------- USER>>AF170517.1/56-3
+     b--------- USER>>AF339739.1/56-3
+
+
+     p--------- USER>>ET708839.1/283-336
+     b--------- USER>>DQ222085.1/282-335
+953
+     ....p----- USER>>ET708838.1/283-336
+     ....b----- USER>>DQ680722.1/283-336
+951
+     ....p----- USER>>JF927895.1/280-333
+     ....b----- USER>>DQ222070.1/280-333
+     ....b----- USER>>DQ680781.1/283-336
+
+
+     ....p----- USER>>DQ680714.1/284-337
+     ....b----- USER>>ET888599.1/280-333
+     ....b----- USER>>DQ680776.1/283-336
+     p---b----- USER>>DQ680732.1/283-336
+     b--------- USER>>DQ680733.1/282-335
+953
+     ....p----- USER>>M83545.1/282-335
+     ....b----- USER>>ET708826.1/283-336
+     ....b----- USER>>DQ680742.1/282-335
+     ....b----- USER>>DQ680739.1/283-336
+     ....b----- USER>>AJ005315.1/281-334
+
+
+     ---------- USER>>X01984.1/170-107
+952
+     ---------- USER>>X01985.1/169-107
+
+
+     p--------- USER>>FJ647336.1/143-60
+     b--------- USER>>AB181858.1/133-52
+952
+     ---------- USER>>AJ247113.1/135-52
+
+
+     p--------- USER>>AJ550906.1/282-334
+     b---p----- USER>>ET708835.1/283-335
+     ....b----- USER>>GQ872124.1/282-334
+     ....b----- USER>>DQ222083.1/281-333
+950
+     ....p----- USER>>AJ005295.1/282-334
+     ....b----- USER>>AJ241830.1/282-334
+     ....b----- USER>>AJ241833.1/282-334
+     ....b---p- USER>>GQ872131.1/283-335
+     ....|...b- USER>>AJ005320.1/281-333
+     ....b----- USER>>AJ005321.1/281-333
+     ....b----- USER>>GQ872126.1/283-335
+952
+     ---------- USER>>AJ241850.1/282-334
+
+
+     ....p----- USER>>GQ499321.1/57-4
+     ....b----- USER>>DQ680689.1/56-3
+     ....b----- USER>>DQ680691.1/56-3
+     ....b----- USER>>DQ680703.1/56-3
+     ....b----- USER>>AJ550908.1/56-3
+     ....b----- USER>>ET708846.1/56-3
+950
+     ---------- USER>>AJ550907.1/56-3
+
+
+335 groups ( 69 aligned )
+
+ nblocks = 632 seedblk = 0 seedseq = 0
+picked USER>SEED:>RF00008 (-100.000000)
+picked USER>>DQ680745.1/56-3 (0.000000)
+picked USER>>ET708845.1/56-3 (0.000000)
+picked USER>>DQ222075.1/56-3 (0.000000)
+picked USER>>DQ839564.1/56-3 (0.000000)
+picked USER>>DQ680783.1/56-3 (0.000000)
+picked USER>>JF927892.1/56-3 (0.000000)
+picked USER>>DQ680763.1/55-2 (0.000000)
+picked USER>>DQ680776.1/56-3 (0.000000)
+picked USER>>GQ872141.1/56-3 (0.000000)
+picked USER>>DQ680791.1/56-3 (0.000000)
+picked USER>>DQ222070.1/56-3 (0.000000)
+picked USER>>DQ680796.1/56-3 (0.000000)
+picked USER>>DQ680741.1/56-3 (0.000000)
+picked USER>>AJ241843.1/56-3 (0.000000)
+picked USER>>DQ222087.1/56-3 (0.000000)
+picked USER>>GQ499305.1/57-4 (0.000000)
+picked USER>>DQ680803.1/56-3 (0.000000)
+picked USER>>AJ550909.1/56-3 (0.000000)
+picked USER>>DQ222096.1/56-3 (0.000000)
+picked USER>>AJ550911.1/56-3 (0.000000)
+picked USER>>GQ499321.1/57-4 (0.000000)
+picked USER>>DQ680706.1/56-3 (0.000000)
+picked USER>>AJ005312.1/56-3 (0.000000)
+picked USER>>DQ680746.1/56-3 (0.000000)
+picked USER>>DQ222074.1/56-3 (0.039221)
+picked USER>>ET708826.1/56-3 (0.000000)
+picked USER>>AF170519.1/55-3 (0.000000)
+picked USER>>DQ222059.1/56-3 (0.000000)
+picked USER>>AF170503.1/55-3 (0.000000)
+picked USER>>GQ872136.1/56-3 (0.000000)
+picked USER>>AJ005305.1/56-3 (0.000000)
+picked USER>>ET708827.1/55-2 (0.000000)
+picked USER>>DQ222099.1/57-3 (0.000000)
+picked USER>>GQ872140.1/56-3 (0.000000)
+picked USER>>AJ241838.1/56-3 (0.000000)
+picked USER>>DQ222095.1/56-3 (0.000000)
+picked USER>>AJ241841.1/57-3 (0.000000)
+picked USER>>AJ005312.1/282-335 (0.000000)
+picked USER>>AJ005302.1/281-334 (0.000000)
+picked USER>>ET708839.1/283-336 (0.000000)
+picked USER>>DQ680798.1/273-326 (0.000000)
+picked USER>>EF151295.1/282-335 (0.000000)
+picked USER>>DQ222060.1/281-334 (0.000000)
+picked USER>>DQ680801.1/282-335 (0.000000)
+picked USER>>AF170504.1/284-337 (0.000000)
+picked USER>>DQ680714.1/284-337 (0.000000)
+picked USER>>DQ680724.1/283-336 (0.000000)
+picked USER>>HM185107.1/282-335 (0.000000)
+picked USER>>AJ241845.1/282-335 (0.000000)
+picked USER>>DQ680806.1/284-337 (0.000000)
+picked USER>>DQ680763.1/282-335 (0.000000)
+picked USER>>DQ680774.1/284-337 (0.000000)
+picked USER>>DQ222072.1/281-334 (0.000000)
+picked USER>>DQ680770.1/283-336 (0.000000)
+picked USER>>DQ222095.1/282-335 (0.000000)
+picked USER>>GQ872149.1/282-335 (0.000000)
+picked USER>>AJ550901.1/282-334 (0.000000)
+picked USER>>ET708837.1/283-335 (0.000000)
+picked USER>>ET708828.1/283-335 (0.000000)
+picked USER>>DQ222090.1/282-337 (0.000000)
+picked USER>>ET708829.1/283-336 (0.000000)
+picked USER>>AJ005299.1/282-335 (0.000000)
+picked USER>>AJ241823.1/282-335 (0.000000)
+picked USER>>AJ241828.1/281-335 (0.000000)
+picked USER>>HM185108.1/282-334 (0.000000)
+picked USER>>DQ680720.1/283-336 (0.000000)
+picked USER>>AJ550907.1/281-333 (0.000000)
+picked USER>>AJ550906.1/282-334 (0.000000)
+picked USER>>GT825983.1/281-334 (0.000000)
+picked USER>>AJ241847.1/281-334 (0.000000)
+picked USER>>EF151298.1/281-334 (0.000000)
+picked USER>>AJ241839.1/282-334 (0.000000)
+picked USER>>AJ005300.1/282-335 (0.000000)
+picked USER>>DQ839565.1/284-336 (0.000000)
+picked USER>>DQ680743.1/283-335 (0.000000)
+picked USER>>AJ550910.1/282-336 (0.000000)
+picked USER>>AJ550908.1/281-334 (0.000000)
+picked USER>>GT825982.1/280-333 (0.000000)
+picked USER>>DQ222094.1/282-335 (0.000000)
+picked USER>>DQ680707.1/284-337 (0.000000)
+picked USER>>GQ499321.1/283-335 (0.000000)
+picked USER>>ET708846.1/282-334 (0.000000)
+picked USER>>DQ680688.1/282-335 (0.000000)
+picked USER>>GQ499312.1/284-337 (0.000000)
+picked USER>>DQ680703.1/284-338 (0.000000)
+picked USER>>GQ499322.1/283-336 (0.000000)
+picked USER>>EF151294.1/282-335 (0.000000)
+picked USER>>FJ647336.1/143-60 (0.367722)
+picked USER>>FJ647322.1/142-60 (0.000000)
+picked USER>>FJ647437.1/134-52 (0.000000)
+picked USER>>DQ402041.1/134-52 (0.000000)
+picked USER>>FN646404.1/133-51 (0.000000)
+picked USER>>FJ647458.1/134-52 (0.000000)
+picked USER>>FJ647349.1/135-60 (0.000000)
+picked USER>>M33000.1/55-110 (0.000000)
+picked USER>>AP009384.1/4100083-4100026 (0.000000)
+picked USER>>AACY023806030.1/893-836 (0.000000)
+picked USER>>FN596494.1/6497250-6497193 (0.000000)
+picked USER>>CAAP03006083.1/173201-173257 (0.000000)
+picked USER>>FN594968.1/1063714-1063771 (0.000000)
+picked USER>>FN596502.1/7702704-7702647 (0.000000)
+picked USER>>CAAP03006699.1/10142-10085 (0.000000)
+picked USER>>FN596011.1/273843-273900 (0.000000)
+picked USER>>AM465121.2/2389-2332 (0.000000)
+picked USER>>FN595995.1/797300-797243 (0.000000)
+picked USER>>FN596746.1/2500110-2500167 (0.000000)
+picked USER>>AM479558.1/17057-17000 (0.000000)
+picked USER>>AM482949.2/8876-8933 (0.000000)
+picked USER>>FN595763.1/416062-416119 (0.000000)
+picked USER>>FN595751.1/863886-863943 (0.000000)
+picked USER>>AM482949.2/9730-9787 (0.000000)
+picked USER>>AM431318.2/12750-12694 (0.000000)
+picked USER>>FN595998.1/2113778-2113835 (0.000000)
+picked USER>>FN595509.1/2211659-2211602 (0.000000)
+picked USER>>AM488647.1/14919-14862 (0.000000)
+picked USER>>FN594951.1/4534943-4534886 (0.000000)
+picked USER>>AM472511.1/20242-20299 (0.000000)
+picked USER>>FN595513.1/4432612-4432555 (0.000000)
+picked USER>>AM448280.1/7188-7245 (0.000000)
+picked USER>>AM479558.1/17932-17875 (0.000000)
+picked USER>>FN596011.1/272970-273027 (0.000000)
+picked USER>>FN595504.1/6227090-6227147 (0.000000)
+picked USER>>FN595513.1/703028-703085 (0.000000)
+picked USER>>AM462041.2/573-630 (0.000000)
+picked USER>>FN595513.1/550378-550435 (0.000000)
+picked USER>>AFSA01042060.1/361-304 (0.000000)
+picked USER>>AFSA01088690.1/1353-1410 (0.000000)
+picked USER>>AFSA01154721.1/458-401 (0.000000)
+picked USER>>AFSA01098528.1/1069-1126 (0.000000)
+picked USER>>AFSA01160420.1/919-976 (0.000000)
+picked USER>>AFSA01088690.1/2001-2058 (0.000000)
+picked USER>>AFSA01116803.1/2114-2170 (0.000000)
+picked USER>>AFSA01088690.1/2650-2707 (0.000000)
+picked USER>>AFSA01270167.1/986-930 (0.000000)
+picked USER>>AFSA01160420.1/1566-1623 (0.000000)
+picked USER>>AFSA01160420.1/278-335 (0.000000)
+picked USER>>AFSA01282566.1/596-539 (0.000000)
+picked USER>>AFSA01018053.1/5008-5065 (0.000000)
+picked USER>>FJ147819.1/735-792 (0.000000)
+picked USER>>BABX01020569.1/2202-2146 (0.000000)
+picked USER>>BABX01120428.1/351-295 (0.000000)
+picked USER>>BABX01098206.1/893-837 (0.000000)
+picked USER>>BABX01022075.1/1985-1929 (0.000000)
+picked USER>>BABX01122714.1/173-229 (0.000000)
+picked USER>>BABX01020569.1/2921-2865 (0.000000)
+picked USER>>BABX01107099.1/916-860 (0.000000)
+picked USER>>BABX01090305.1/175-231 (0.000000)
+picked USER>>AP011976.1/657-601 (0.000000)
+picked USER>>BABX01004857.1/5149-5093 (0.000000)
+picked USER>>BABX01016267.1/2549-2493 (0.000000)
+picked USER>>AP011967.1/82057-82001 (0.000000)
+picked USER>>BABX01086374.1/2296-2352 (0.000000)
+picked USER>>BABX01095556.1/1622-1678 (0.000000)
+picked USER>>BABX01021896.1/166-110 (0.000000)
+picked USER>>BABX01021550.1/3862-3918 (0.000000)
+picked USER>>BABX01097964.1/595-539 (0.000000)
+picked USER>>BABX01080891.1/2524-2580 (0.000000)
+picked USER>>BABX01017832.1/646-590 (0.000000)
+picked USER>>BABX01067683.1/1853-1797 (0.000000)
+picked USER>>J02439.1/42-95 (0.000000)
+picked USER>>AACY023784794.1/810-864 (0.000000)
+picked USER>>AJ536619.1/206-152 (0.000000)
+picked USER>>AJ536620.1/206-152 (0.000000)
+picked USER>>AACY023802293.1/343-400 (0.000000)
+picked USER>>ABLW01115605.1/67-13 (0.223144)
+picked USER>>AACY023195290.1/1059-1114 (0.000000)
+picked USER>>ABML01222367.1/14-71 (0.000000)
+picked USER>>M63666.1/246-192 (0.000000)
+picked USER>>HQ880433.1/9-64 (0.000000)
+picked USER>>AACY023823868.1/1019-965 (0.000000)
+picked USER>>AACY023352119.1/676-730 (0.000000)
+picked USER>>ADVT01001934.1/71-17 (0.000000)
+picked USER>>J02386.1/42-95 (0.000000)
+picked USER>>AACY022776529.1/685-631 (0.000000)
+picked USER>>AACY022121822.1/536-590 (0.000000)
+picked USER>>AACY021940384.1/538-592 (0.000000)
+picked USER>>AACY020301409.1/776-832 (0.000000)
+picked USER>>AACY022632013.1/418-363 (0.000000)
+picked USER>>AACY021247023.1/427-370 (0.000000)
+picked USER>>ABMB01014284.1/20-74 (0.000000)
+picked USER>>AACY021791304.1/129-73 (0.000000)
+picked USER>>AACY021652855.1/163-107 (0.000000)
+picked USER>>AACY022830181.1/456-402 (0.000000)
+picked USER>>ABNI01008151.1/45-99 (0.000000)
+picked USER>>CP000511.1/2184555-2184609 (0.000000)
+picked USER>>CP002039.1/3593801-3593747 (0.000000)
+picked USER>>ADBK01001763.1/17635-17692 (0.000000)
+picked USER>>ADBK01000956.1/18397-18454 (0.000000)
+picked USER>>AFNC01020637.1/13013-12955 (0.000000)
+picked USER>>ADBK01000148.1/364984-364927 (0.000000)
+picked USER>>ADBK01000597.1/144825-144882 (0.000000)
+picked USER>>ET547491.1/273-219 (0.000000)
+picked USER>>AACY023259265.1/429-488 (0.000000)
+picked USER>>AACY023259265.1/619-677 (0.000000)
+picked USER>>HQ880434.1/11-65 (0.000000)
+picked USER>>AFSA01391656.1/377-434 (0.000000)
+picked USER>>AACY020758631.1/863-807 (0.000000)
+picked USER>>AACY022484984.1/628-685 (0.000000)
+picked USER>>X01984.1/170-107 (0.223144)
+picked USER>>D00341.1/169-106 (0.000000)
+picked USER>>FN595998.1/2114608-2114667 (0.000000)
+picked USER>>DQ357625.1/292-238 (0.000000)
+picked USER>>DQ357628.1/295-241 (0.000000)
+picked USER>>DQ357627.1/294-240 (0.000000)
+picked USER>>DQ357618.1/298-244 (0.000000)
+picked USER>>DQ357615.1/303-249 (0.000000)
+picked USER>>AACY023847113.1/873-813 (0.000000)
+picked USER>>AACY021842348.1/566-623 (0.000000)
+picked USER>>ABRE01014749.1/1036-977 (0.000000)
+picked USER>>AACY023366856.1/213-156 (0.000000)
+picked USER>>ABMW01161415.1/105-23 (0.000000)
+picked USER>>ADDK02000001.1/1582123-1582069 (0.000000)
+picked USER>>AFSA01104653.1/100-157 (0.000000)
+picked USER>>AFSA01160914.1/1796-1739 (0.000000)
+picked USER>>AFSA01156800.1/474-417 (0.000000)
+picked USER>>AFSA01156800.1/1122-1065 (0.000000)
+picked USER>>BABX01093136.1/1532-1588 (0.000000)
+picked USER>>BABX01004788.1/3325-3269 (0.000000)
+picked USER>>AFSA01029476.1/2742-2686 (0.000000)
+picked USER>>AFSA01018053.1/5632-5575 (0.000000)
+picked USER>>AGTN01140051.1/136-194 (0.000000)
+picked USER>>AAWT01061712.1/75822-75766 (0.000000)
+picked USER>>AACY021025315.1/526-581 (0.000000)
+picked USER>>ABLX01073025.1/18-72 (0.000000)
+picked USER>>AFSA01073555.1/2043-1986 (0.000000)
+picked USER>>AEVX01011239.1/17322-17397 (0.000000)
+picked USER>>AEVX01014653.1/67501-67425 (0.000000)
+picked USER>>AEVX01003024.1/5648-5572 (0.000000)
+picked USER>>AEKZ01001651.1/3092-3166 (0.000000)
+picked USER>>AFJA01006950.1/12750-12677 (0.000000)
+picked USER>>AELG01009913.1/673-747 (0.148421)
+picked USER>>AELG01005801.1/14146-14076 (0.000000)
+picked USER>>AFJA01001167.1/3143-3216 (0.000000)
+picked USER>>AFJA01002040.1/29870-29796 (0.000000)
+picked USER>>AFJA01000378.1/278551-278624 (0.000000)
+picked USER>>AEQM02005578.1/562-488 (0.000000)
+picked USER>>AEQM02008319.1/21964-22038 (0.060625)
+picked USER>>AEQM02004294.1/13360-13434 (0.000000)
+picked USER>>AEQM02008878.1/440-514 (0.000000)
+picked USER>>AEQM02003027.1/4120-4194 (0.000000)
+picked USER>>AEQM02003276.1/6161-6231 (0.000000)
+picked USER>>AEQM02001105.1/4688-4762 (0.000000)
+picked USER>>AEQM02007450.1/996-922 (0.000000)
+picked USER>>AEQM02006884.1/198-272 (0.000000)
+picked USER>>AEQM02003203.1/392003-392077 (0.000000)
+picked USER>>AADG06000508.1/14934-15008 (0.000000)
+picked USER>>BABX01107099.1/153-97 (0.000000)
+picked USER>>FJ647334.1/1-61 (0.000000)
+picked USER>>ADBK01001767.1/20966-21023 (0.000000)
+picked USER>>AEQC01000211.1/20120-20179 (0.000000)
+picked USER>>ABWF01007153.1/1096-1155 (0.000000)
+picked USER>>ABWF01001581.1/10618-10677 (0.000000)
+picked USER>>AACY023348898.1/727-673 (0.000000)
+picked USER>>AGTN01301619.1/367-419 (0.000000)
+picked USER>>AAXJ01000388.1/18127-18183 (0.000000)
+picked USER>>CABG01000054.1/628065-628007 (0.000000)
+picked USER>>HE601630.1/4870341-4870264 (0.000000)
+picked USER>>HE601631.1/26113316-26113258 (0.000000)
+picked USER>>HE601627.1/29682777-29682706 (0.000000)
+picked USER>>CABG01000002.1/462343-462285 (0.000000)
+picked USER>>HE601628.1/8559227-8559285 (0.000000)
+picked USER>>HE601625.1/31729099-31729163 (0.000000)
+picked USER>>HE601629.1/18534607-18534548 (0.000000)
+picked USER>>HE601624.1/54420450-54420395 (0.000000)
+picked USER>>HE601624.1/41701520-41701577 (0.000000)
+picked USER>>HE601625.1/29418279-29418202 (0.000000)
+picked USER>>HE601630.1/8725315-8725373 (0.000000)
+picked USER>>HE601630.1/659323-659384 (0.000000)
+picked USER>>HE601626.1/468262-468203 (0.000000)
+picked USER>>HE601630.1/2806341-2806264 (0.000000)
+picked USER>>CABG01000022.1/1111176-1111099 (0.000000)
+picked USER>>HE601625.1/11328243-11328320 (0.000000)
+picked USER>>HE601627.1/19521801-19521878 (0.000000)
+picked USER>>CABG01000003.1/1364784-1364861 (0.000000)
+picked USER>>HE601627.1/13820890-13820813 (0.000000)
+picked USER>>HE601624.1/9473174-9473251 (0.000000)
+picked USER>>HE601629.1/16475038-16475115 (0.000000)
+picked USER>>CABG01000188.1/60875-60956 (0.000000)
+picked USER>>HE601631.1/20611687-20611629 (0.000000)
+picked USER>>HE601631.1/1061500-1061559 (0.000000)
+picked USER>>HE601628.1/7143946-7143888 (0.000000)
+picked USER>>HE601629.1/17035532-17035609 (0.000000)
+picked USER>>CABG01000043.1/809441-809364 (0.000000)
+picked USER>>HE601631.1/36374295-36374237 (0.000000)
+picked USER>>CABG01000218.1/9143-9069 (0.000000)
+picked USER>>CABG01000043.1/1254038-1253984 (0.000000)
+picked USER>>HE601629.1/1075793-1075868 (0.000000)
+picked USER>>CABG01000094.1/343533-343597 (0.000000)
+picked USER>>CABG01000105.1/6809-6867 (0.000000)
+picked USER>>HE601624.1/3560715-3560775 (0.000000)
+picked USER>>HE601628.1/8069827-8069885 (0.000000)
+picked USER>>CABG01000047.1/203569-203510 (0.000000)
+picked USER>>HE601627.1/5024352-5024407 (0.000000)
+picked USER>>AACY020000300.1/1983-1926 (0.000000)
+picked USER>>ABNS01042565.1/85-29 (0.000000)
+picked USER>>AADG06003428.1/18474-18399 (0.000000)
+picked USER>>AADG06003428.1/18768-18693 (0.000000)
+picked USER>>AGCE01120312.1/6570-6510 (0.000000)
+picked USER>>ABMF01215137.1/1-56 (0.000000)
+picked USER>>HE601625.1/23886776-23886833 (0.000000)
+picked USER>>CABG01000072.1/54904-54965 (0.000000)
+picked USER>>AFSA01177641.1/920-977 (0.000000)
+picked USER>>AFSA01170855.1/1155-1098 (0.000000)
+picked USER>>CABF01025454.1/5253-5183 (0.000000)
+picked USER>>BADR02000935.1/57977-57924 (0.000000)
+picked USER>>FN595498.1/248106-248049 (0.000000)
+picked USER>>BADR02003106.1/96971-97024 (0.000000)
+picked USER>>AAMC01028242.1/63241-63293 (0.000000)
+picked USER>>AAMC01046682.1/71280-71223 (0.000000)
+picked USER>>BADR02000534.1/430281-430229 (0.000000)
+picked USER>>BADR02001261.1/11492-11439 (0.000000)
+picked USER>>AFSA01170855.1/508-451 (0.000000)
+picked USER>>ABNK01030792.1/87-4 (0.000000)
+picked USER>>FN669541.1/124-58 (0.000000)
+picked USER>>AFSA01119680.1/493-436 (0.000000)
+picked USER>>ABMF01222492.1/76-21 (0.000000)
+picked USER>>FN595515.1/240134-240191 (0.000000)
+picked USER>>AGTN01685281.1/143-199 (0.000000)
+picked USER>>HE601627.1/11733048-11733105 (0.000000)
+picked USER>>FN594950.1/7425599-7425654 (0.000000)
+picked USER>>AEVX01007644.1/5408-5340 (0.000000)
+picked USER>>ABCN01007282.1/11874-11933 (0.000000)
+picked USER>>CAAP03007143.1/131633-131576 (0.000000)
+picked USER>>CABF01035406.1/921-989 (0.000000)
+picked USER>>FN595515.1/240996-241053 (0.000000)
+picked USER>>AFSA01046730.1/721-664 (0.000000)
+picked USER>>CABF01001172.1/615-681 (0.000000)
+picked USER>>AM459779.1/27612-27669 (0.000000)
+picked USER>>AFSA01018053.1/4359-4416 (0.000000)
+picked USER>>ADFJ01004186.1/4081-4141 (0.000000)
+picked USER>>CABF01026894.1/1704-1646 (0.000000)
+picked USER>>BA000030.3/5230823-5230770 (0.000000)
+picked USER>>ET122193.1/66642-66581 (0.000000)
+picked USER>>CABF01059116.1/3994-4055 (0.000000)
+ kept = 335

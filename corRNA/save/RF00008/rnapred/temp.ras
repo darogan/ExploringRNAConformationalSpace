@@ -1,0 +1,47 @@
+wireframe off
+backbone 150
+cpk 150
+colour group
+colour hbonds blue
+select
+select 9,56
+hbond 96
+select 8,57
+hbond 92
+select 7,58
+hbond 88
+select 6,59
+hbond 84
+select 5,60
+hbond 80
+select 4,61
+hbond 76
+select 41,48
+hbond 72
+select 40,49
+hbond 68
+select 39,50
+hbond 64
+select 3,62
+hbond 60
+select 2,63
+hbond 56
+select 18,26
+hbond 52
+select 17,27
+hbond 48
+select 1,64
+hbond 44
+select 16,28
+hbond 40
+select 15,29
+hbond 36
+select 14,30
+hbond 32
+select 13,31
+hbond 28
+select 11,54
+hbond 24
+select 10,55
+hbond 20
+select

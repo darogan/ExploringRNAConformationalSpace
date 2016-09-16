@@ -1,0 +1,14 @@
+Challenge 10 (March 2014)
+This problem consists in predicting the structure of a T-box riboswitch and tRNA 1:1 complex with the following sequence:
+
+T-box:
+5'-UGCGAUGAGAAGAAGAGUAUUAAGGAUUUACUAUGAUUAGCGACUCUA
+   GGAUAGUGAAAGCUAGAGGAUAGUAACCUUAAGAAGGCACUUCGAGCA-3'
+tRNA:
+5'-GCGGAAGUAGUUCAGUGGUAGAACACCACCUUGCCAAGGUGGGGGUCG
+   CGGGUUCGAAUCCCGUCUUCCGCUCCA-3'
+
+Crystal structure kindly provided by Adrian Ferré-D'amaré
+Zhang, J. & Ferré-D'Amaré, A.R. Co-crystal structure of a T-box riboswitch stem I domain in complex with its cognate tRNA. Nature 500, 363-366 (2013).
+
+PDB id: 4LCK 

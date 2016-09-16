@@ -1,0 +1,9 @@
+Challenge 3 (November 2011)
+A domain of a riboswitch was crystallized. The sequence is the following:
+5'-CUCUGGAGAGAACCGUUUAAUCGGUCGCCGAAGGAGCAAGCU    CUGCGCAUAUGCAGAGUGAAACUCUCAGGCAAAAGGACAGAG-3'
+The crystallized sequence was slightly different (an apical loop was replaced by a GAAA loop) but it was not mentioned to protect the crystallographers.
+
+Crystal structure kindly provided by Dinshaw Patel:
+Huang L, Serganov A, Patel DJ. 2010. Structural Insights into Ligand Recognition by a Sensing Domain of the Cooperative Glycine Riboswitch. Mol. Cell. 40, 774-786.
+
+PDB id: 3OWZ 3OWI 3OWW 3OW0 3OWB 3OWD 3OWE 3OWM 3OWJ 

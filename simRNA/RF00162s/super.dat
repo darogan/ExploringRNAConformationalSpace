@@ -1,0 +1,25 @@
+100 cycles
+2.0 = RMS   Unsmoothed  9.321  Smoothed 1x  8.322  Smoothed 2x  7.807
+1.9 = RMS   Unsmoothed  8.802  Smoothed 1x  7.815  Smoothed 2x  7.282
+1.8 = RMS   Unsmoothed  7.526  Smoothed 1x  6.480  Smoothed 2x  6.004
+1.7 = RMS   Unsmoothed  8.458  Smoothed 1x  7.392  Smoothed 2x  6.870
+1.6 = RMS   Unsmoothed  6.867  Smoothed 1x  5.884  Smoothed 2x  5.397
+1.5 = RMS   Unsmoothed  8.237  Smoothed 1x  7.199  Smoothed 2x  6.627
+1.4 = RMS   Unsmoothed  7.194  Smoothed 1x  6.452  Smoothed 2x  6.109
+1.3 = RMS   Unsmoothed  6.955  Smoothed 1x  5.976  Smoothed 2x  5.459
+1.2 = RMS   Unsmoothed  6.030  Smoothed 1x  5.254  Smoothed 2x  4.879
+1.1 = RMS   Unsmoothed  7.114  Smoothed 1x  6.355  Smoothed 2x  5.931
+1.0 = RMS   Unsmoothed  6.269  Smoothed 1x  5.417  Smoothed 2x  4.932
+
+200 cycles
+2.0 = RMS   Unsmoothed 11.174  Smoothed 1x 10.268  Smoothed 2x  9.801
+1.9 = RMS   Unsmoothed  9.297  Smoothed 1x  8.476  Smoothed 2x  8.111
+1.8 = RMS   Unsmoothed  7.651  Smoothed 1x  6.757  Smoothed 2x  6.332
+1.7 = RMS   Unsmoothed  9.085  Smoothed 1x  8.072  Smoothed 2x  7.542
+1.6 = RMS   Unsmoothed  8.098  Smoothed 1x  6.978  Smoothed 2x  6.317
+1.5 = RMS   Unsmoothed  9.421  Smoothed 1x  8.513  Smoothed 2x  7.960
+1.4 = RMS   Unsmoothed 10.016  Smoothed 1x  8.830  Smoothed 2x  8.114
+1.3 = RMS   Unsmoothed  9.449  Smoothed 1x  8.458  Smoothed 2x  7.907
+1.2 = RMS   Unsmoothed  7.701  Smoothed 1x  6.899  Smoothed 2x  6.520
+1.1 = RMS   Unsmoothed  9.178  Smoothed 1x  8.109  Smoothed 2x  7.532
+1.0 = RMS   Unsmoothed  7.885  Smoothed 1x  7.074  Smoothed 2x  6.576

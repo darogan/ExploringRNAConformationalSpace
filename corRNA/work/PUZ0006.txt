@@ -1,0 +1,12 @@
+Challenge 6 (October 2012)
+This problem consists in predicting the structure of a RNA molecule with the following sequence:
+
+5' - CGGCAGGUGCUCCCGACCCUGCGGUCGGGAGUUAAAAGGGAA
+     GCCGGUGCAAGUCCGGCACGGUCCCGCCACUGUGACGGGGAG
+     UCGCCCCUCGGGAUGUGCCACUGGCCCGAAGGCCGGGAAGGC
+     GGAGGGGCGGCGAGGAUCCGGAGUCAGGAAACCUGCCUGCCG - 3'
+
+Crystal structure kindly provided by Alexnder Serganov
+Peselis A and Serganov A. 2012. Structural insights into ligand binding and gene expression control by an adenosylcobalamin riboswitch. Nature Structural and Molecular Biology 19 (11), 1182-1184.
+
+PDB id: 4GXY 

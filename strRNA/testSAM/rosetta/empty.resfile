@@ -1,0 +1,4 @@
+#For all residue positions that are not specified below:
+NATAA           # allow just amino acids
+EX 1 EX 2 EX 3  # allow extra chi rotameters at chi-id 1, 2 and 3
+start

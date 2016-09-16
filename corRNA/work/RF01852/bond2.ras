@@ -1,0 +1,9 @@
+select 18,72
+hbond 23
+colour hbonds green
+select 8,79
+hbond 11
+colour hbonds green
+select 28,47
+hbond 3
+colour hbonds green

@@ -1,0 +1,73 @@
+select 72,79
+hbond 96
+colour hbonds blue 
+select 71,80
+hbond 92
+colour hbonds blue 
+select 70,81
+hbond 88
+colour hbonds blue 
+select 16,39
+hbond 84
+colour hbonds blue 
+select 15,40
+hbond 80
+colour hbonds blue 
+select 42,60
+hbond 76
+colour hbonds blue 
+select 69,82
+hbond 68
+colour hbonds blue 
+select 17,38
+hbond 60
+colour hbonds blue 
+select 3,91
+hbond 56
+colour hbonds blue 
+select 22,30
+hbond 40
+colour hbonds blue 
+select 5,89
+hbond 36
+colour hbonds blue 
+select 48,55
+hbond 32
+colour hbonds blue 
+select 4,90
+hbond 28
+colour hbonds blue 
+select 2,92
+hbond 20
+colour hbonds blue 
+select 8,86
+hbond 16
+colour hbonds blue 
+select 43,59
+hbond 8
+colour hbonds blue 
+select 13,41
+hbond 72
+colour hbonds green
+select 26,67
+hbond 64
+colour hbonds green
+select 25,68
+hbond 52
+colour hbonds green
+select 64,85
+hbond 48
+colour hbonds green
+select 18,37
+hbond 44
+colour hbonds green
+select 28,65
+hbond 24
+colour hbonds green
+select 27,66
+hbond 12
+colour hbonds green
+select 70,80
+hbond 4
+colour hbonds green
+select

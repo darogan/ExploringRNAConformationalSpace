@@ -1,0 +1,15 @@
+195=gGGGGg=200 + 75=cCCCC
+195--199 + 79--76
+
+
+G 200 75 C
+G
+G 198 76 C
+G 197 77 C
+G 196 78 C
+G 195 79 C
+C 194 80 G
+
+none in gremlin.300
+
+GGGGGC missing from end

@@ -1,0 +1,670 @@
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+10000 sequences to be read in length range 50 -> 500
+Reading user file of seq.s: align.seq
+End of user sequences
+20 sequences read into 20 blocks, (20 are keyed)
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 10
+ minscore = 900 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 1000
+(6 pairs) cluster_pairs total list_alloc = 10
+pack_lists 
+update_blocks
+      USER>>seq1
+1000
+      USER>>seq2
+
+
+      USER>>seq3
+1000
+      USER>>seq4
+
+
+block 0 = 2 seqs
+*USER>>seq1 :	top
+*USER>>seq2 :	top
+
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+
+
+block 2 = 2 seqs
+*USER>>seq3 :	top
+*USER>>seq4 :	top
+
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+
+
+18 groups ( 2 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 20
+ minscore = 800 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 862
+(5 pairs) cluster_pairs total list_alloc = 10
+pack_lists 
+update_blocks
+     p- USER>>seq1
+     b- USER>>seq2
+1000
+     p- USER>>seq3
+     b- USER>>seq4
+
+
+     -- USER>>seq8
+858
+     -- USER>>seq9
+
+
+block 0 = 4 seqs
+*USER>>seq1 :	top
+*USER>>seq2 :	top
+*USER>>seq3 :	top
+*USER>>seq4 :	top
+
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+
+
+block 7 = 2 seqs
+*USER>>seq8 :	top
+*USER>>seq9 :	top
+
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+
+TACTTTGTTACxxxxAAACACACTTTTTxxx
+TAATTTGTTACxxxxAATxACACATTTTxxx
+
+
+16 groups ( 2 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 40
+ minscore = 700 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 778
+(4 pairs) cluster_pairs total list_alloc = 10
+pack_lists 
+update_blocks
+     p--- USER>>seq8
+     b--- USER>>seq9
+824
+     ---- USER>>seq10
+
+
+     ---- USER>>seq5
+713
+     ---- USER>>seq6
+
+
+block 4 = 2 seqs
+*USER>>seq5 :	top
+*USER>>seq6 :	top
+
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTTTAATCTCTGAAAGTGTGAACACAACATTGATTATTTTGG
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTTTAATCTCTGAAAGTGCGAGTACAATCGTGATTATTTTGC
+
+TxCTCTGTGGCxxxxAGGGCCCCTxxxxxxx
+AACTCGGTCGGxxxxTTTxxxxxxxxxxxxx
+
+
+block 7 = 3 seqs
+*USER>>seq8 :	top
+*USER>>seq9 :	top
+*USER>>seq10 :	top
+
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGATCACTTAAC
+
+TACTTTGTTACxxxxAAACACACTTTTTxxx
+TAATTTGTTACxxxxAATxACACATTTTxxx
+TATTTTGTTACxxxxAACxACGATTTTTTxx
+
+
+14 groups ( 3 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 60
+ minscore = 600 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 702
+(2 pairs) cluster_pairs total list_alloc = 10
+pack_lists 
+update_blocks
+     ------ USER>>seq7
+791
+     ..p--- USER>>seq8
+     p-b--- USER>>seq9
+     b----- USER>>seq10
+
+
+block 6 = 4 seqs
+*USER>>seq7 :	top
+*USER>>seq8 :	top
+*USER>>seq9 :	top
+*USER>>seq10 :	top
+
+GCCATTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGCGTAACAACTGAAATxxxGACCTCAATGAGGATCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGATCACTTAAC
+
+TxxTAAGTTACxxxxAAxxxCACATTTTxxx
+TACTTTGTTACxxxxAAACACACTTTTTxxx
+TAATTTGTTACxxxxAATxACACATTTTxxx
+TATTTTGTTACxxxxAACxACGATTTTTTxx
+
+
+13 groups ( 3 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 80
+ minscore = 500 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 573
+(2 pairs) cluster_pairs total list_alloc = 10
+pack_lists 
+update_blocks
+     ..p----- USER>>seq5
+     ..b----- USER>>seq6
+607
+     p------- USER>>seq7
+     |...p--- USER>>seq8
+     b-p-b--- USER>>seq9
+     ..b----- USER>>seq10
+
+
+     -------- USER>>seq1
+539
+     -------- USER>>seq7
+
+
+block 4 = 6 seqs
+*USER>>seq5 :	top
+*USER>>seq6 :	top
+*USER>>seq7 :	top
+*USER>>seq8 :	top
+*USER>>seq9 :	top
+*USER>>seq10 :	top
+
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTTTAATCTCTGAAAGTGTGAACACAACATTGATTATTTTGG
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTTTAATCTCTGAAAGTGCGAGTACAATCGTGATTATTTTGC
+GCCATTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGCGTAACAACTGAAATxxxGACCTCAATGAGGATCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGATCACTTAAC
+
+TxCTCTGTGGCxxxxAGGGCCCCTxxxxxxx
+AACTCGGTCGGxxxxTTTxxxxxxxxxxxxx
+TxxTAAGTTACxxxxAAxxxCACATTTTxxx
+TACTTTGTTACxxxxAAACACACTTTTTxxx
+TAATTTGTTACxxxxAATxACACATTTTxxx
+TATTTTGTTACxxxxAACxACGATTTTTTxx
+
+
+block 10 = 2 seqs
+*USER>>seq1 :	bot
+*USER>>seq7 :	bot
+
+xxTCAATTTxCCAAAATCAGTAxCAGTTxxxxxTATCTGAxTATGTCTTCTCTCTACAGTAAAxxxxxxxAATTGAAGAA
+xxTCATTTTxCTAAGATCAGTGxTCGTTxxxxxTATCTGATTTT TCCTCTATCCATAAGAAAxxxxxxxAATGGAGGAA
+
+TATCGCAxxAGATGTTAAxxxxxxxxxxxxx   
+TATCACA  AGATATTAAxxxxxxxxxxxxxxxx
+
+
+11 groups ( 3 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 100
+ minscore = 400 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 416
+(4 pairs) cluster_pairs total list_alloc = 10
+pack_lists 
+update_blocks
+     ---------- USER>>seq4
+430
+     ---------- USER>>seq9
+
+
+     p--------- USER>>seq1
+     b--------- USER>>seq7
+417
+     ---------- USER>>seq2
+
+
+block 10 = 3 seqs
+*USER>>seq1 :	bot
+*USER>>seq7 :	bot
+*USER>>seq2 :	bot
+
+xxTCAATTTxCCAAAATCAGTAxCAGTTxxxxxTATCTGAxTATGTCTTCTCTCTACAGTAAAxxxxxxxAATTGAAGAA
+xxTCATTTTxCTAAGATCAGTGxTCGTTxxxxxTATCTGATTTT TCCTCTATCCATAAGAAAxxxxxxxAATGGAGGAA
+xxTCACTTTTTTAAGATCAGTAxCAGTTxxxxxGAGTTTAGTATTTCTGAGACATTTTCTCAxxxxxxxxxATTGTACAT
+
+TATCGCAxxAGATGTTAAxxxxxxxxxxxxx   
+TATCACA  AGATATTAAxxxxxxxxxxxxxxxx
+TTAAGGAGTAGCTGCTAxxxxxxxxxxxxxx   
+
+
+block 13 = 2 seqs
+*USER>>seq4 :	bot
+*USER>>seq9 :	bot
+
+xxTTGCTTTTCTAAGATCAGTAxCAAGTxxxxxTCTCCTGCCAATGTACC      TGAGAAATCTCTxxxxxxxTATAA
+xxTTGCTTTTCTAAGATCAGTAxTAATTxxxxxTATGC    AAAGTAGTGAAAAGTAAGAATACCxxxxxxxTAGTGAA
+
+GAACATATATTCATGAATATAxxxxxxxxxxxxxxxx
+GCACTTTTTTTT TGAGTAAxxxxxxxxxxxxxxxx 
+
+
+9 groups ( 4 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 120
+ minscore = 300 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 341
+(28 pairs) cluster_pairs total list_alloc = 10
+pack_lists 
+update_blocks
+     ------------ USER>>seq6
+398
+     ------------ USER>>seq8
+
+
+     p----------- USER>>seq4
+     b----------- USER>>seq9
+395
+     ------------ USER>>seq10
+
+
+     ..........p- USER>>seq1
+     ........p-b- USER>>seq2
+     ........b-p- USER>>seq3
+     ..........b- USER>>seq4
+391
+     ......p----- USER>>seq5
+     ..p---b----- USER>>seq6
+     ..b-p------- USER>>seq7
+     ....|...p--- USER>>seq8
+     ....b-p-b--- USER>>seq9
+     ......b----- USER>>seq10
+
+
+     ------------ USER>>seq3
+363
+     ------------ USER>>seq5
+
+
+block 0 = 10 seqs
+*USER>>seq1 :	top
+*USER>>seq2 :	top
+*USER>>seq3 :	top
+*USER>>seq4 :	top
+*USER>>seq5 :	top
+*USER>>seq6 :	top
+*USER>>seq7 :	top
+*USER>>seq8 :	top
+*USER>>seq9 :	top
+*USER>>seq10 :	top
+
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTTTAATCTCTGAAAGTGTGAACACAACATTGATTATTTTGG
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTTTAATCTCTGAAAGTGCGAGTACAATCGTGATTATTTTGC
+GCCATTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGCGTAACAACTGAAATxxxGACCTCAATGAGGATCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGATCACTTAAC
+
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC
+TxCTCTGTGGCxxxxAGGGCCCCTxxxxxxx
+AACTCGGTCGGxxxxTTTxxxxxxxxxxxxx
+TxxTAAGTTACxxxxAAxxxCACATTTTxxx
+TACTTTGTTACxxxxAAACACACTTTTTxxx
+TAATTTGTTACxxxxAATxACACATTTTxxx
+TATTTTGTTACxxxxAACxACGATTTTTTxx
+
+
+block 12 = 2 seqs
+*USER>>seq3 :	bot
+*USER>>seq5 :	bot
+
+xxTTGCTTTxCTGAGATCAGTAxTACTTxxxxxCGATACATGTGCAGAATGTGCAATTxTGTxxxxxxxTACATGTGCCA
+xxTTGATTTTCTAAGATCAGTAxTAGA          AxxxxxTCTGACAGGACACATTTGTxxxxCCCTATxxxxxxxA
+
+CGGTxxGATTGG          CTGxxxxxxxxxxxxxxxx
+CAGTAACAGAGGGCAATCTGTACTGxxxxxxxxxxxxxxxx
+
+
+block 13 = 3 seqs
+*USER>>seq4 :	bot
+*USER>>seq9 :	bot
+*USER>>seq10 :	bot
+
+xxTTGCTTTTCTAAGATCAGTAxCAAGTxxxxxTCTCCTGCCAATGTACC      TGAGAAATCTCTxxxxxxxTATAA
+xxTTGCTTTTCTAAGATCAGTAxTAATTxxxxxTATGC    AAAGTAGTGAAAAGTAAGAATACCxxxxxxxTAGTGAA
+xxGxGCTTTTCTAAGATCAGTAxTAGTTxxxxxTATACTTTAAATAxxxxxATAAATG    TTCTxxxxxxxTGCATGT
+
+GAACATATATTCATGAATATAxxxxxxxxxxxxxxxx
+GCACTTTTTTTT TGAGTAAxxxxxxxxxxxxxxxx 
+GAAAxTGTGTTT TGAAAGCCxxxxxxxxxxxxxxx 
+
+
+block 15 = 2 seqs
+*USER>>seq6 :	bot
+*USER>>seq8 :	bot
+
+xxTCCTTTTxCTGAGATCAGCAxAAGTTxxxxxTATCTGCTATGTCCTCCATCCAGTCxxxxxxxxxxxxxxxxxxxxxT
+xxTTGTTTTxCTAAGATCAATAxTAGTTxxxxxTATCTGATATGTCCCxxxTCCCCTAGGCTGTAxxxxxxxGGGCAGGG
+
+GTTCCAGTGAAGGGACGAAGGAGCCxxxxxx
+AATxCTGTTTATTGTTATAxxxxxxxxxxxx
+
+
+5 groups ( 5 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 140
+ minscore = 200 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 281
+(10 pairs) cluster_pairs total list_alloc = 10
+pack_lists 
+update_blocks
+     ....p--------- USER>>seq1
+     ..p-b--------- USER>>seq7
+     ..b----------- USER>>seq2
+349
+     p------------- USER>>seq6
+     b------------- USER>>seq8
+
+
+     p------------- USER>>seq3
+     b------------- USER>>seq5
+295
+     ..p----------- USER>>seq4
+     p-b----------- USER>>seq9
+     b------------- USER>>seq10
+
+
+block 10 = 5 seqs
+*USER>>seq1 :	bot
+*USER>>seq7 :	bot
+*USER>>seq2 :	bot
+*USER>>seq6 :	bot
+*USER>>seq8 :	bot
+
+xxTCAATTTxCCAAAATCAGTAxCAGTTxxxxxTATCTGAxTATGTCTTCTCTCTACAGTAAAxxxxxxxAATTGAAGAA
+xxTCATTTTxCTAAGATCAGTGxTCGTTxxxxxTATCTGATTTT TCCTCTATCCATAAGAAAxxxxxxxAATGGAGGAA
+xxTCACTTTTTTAAGATCAGTAxCAGTTxxxxxGAGTTTAGTATTTCTGAGACATTTTCTCAxxxxxxxxxATTGTACAT
+xxTCCTTTTxCTGAGATCAGCAxAAGTTxxxxxTATCTGC TATGTCCTCCATCCAGTCxxxxxxxxxxxxxxxxxxxxx
+xxTTGTTTTxCTAAGATCAATAxTAGTTxxxxxTATCTGA TATGTCCCxxxTCCCCTAGGCTGTAxxxxxxxGGGCAGG
+
+TATCGCAxxAGATGTTAAxxxxxxxxxxxxx   
+TATCACA  AGATATTAAxxxxxxxxxxxxxxxx
+TTAAGGAGTAGCTGCTAxxxxxxxxxxxxxx   
+TGTTCCAGTGAAGGGACGAAGGAGCCxxxxxx  
+GAATxCTGTTTATTGTTATAxxxxxxxxxxxx  
+
+
+block 12 = 5 seqs
+*USER>>seq3 :	bot
+*USER>>seq5 :	bot
+*USER>>seq4 :	bot
+*USER>>seq9 :	bot
+*USER>>seq10 :	bot
+
+xxTTGCTTTxCTGAGATCAGTAxTACTTxxxxx    CGATACATGTGCAGAATGTGCAATTxTGTxxxxxxxTACATGT
+xxTTGATTTTCTAAGATCAGTAxTAGA              AxxxxxTCTGACAGGACACATTTGTxxxxCCCTATxxxx
+xxTTGCTTTTCTAAGATCAGTAxCAAGTxxxxxTCTCCTGCCAATGTACC      TGAGAAATCTCTxxxxxxxTATAA
+xxTTGCTTTTCTAAGATCAGTAxTAATTxxxxxTATGC    AAAGTAGTGAAAAGTAAGAATACCxxxxxxxTAGTGAA
+xxGxGCTTTTCTAAGATCAGTAxTAGTTxxxxxTATACTTTAAATAxxxxxATAAATG    TTCTxxxxxxxTGCATGT
+
+GCCACGGTxxGATTGG          CTGxxxxxxxxxxxxxxxx
+xxxACAGTAACAGAGGGCAATCTGTACTGxxxxxxxxxxxxxxxx
+GAACATATATTCATGAATATAxxxxxxxxxxxxxxxx        
+GCACTTTTTTTT TGAGTAAxxxxxxxxxxxxxxxx         
+GAAAxTGTGTTT TGAAAGCCxxxxxxxxxxxxxxx         
+
+
+3 groups ( 3 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 160
+ minscore = 200 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 260
+(3 pairs) cluster_pairs total list_alloc = 10
+pack_lists 
+update_blocks
+     ......p--------- USER>>seq1
+     ....p-b--------- USER>>seq7
+     p---b----------- USER>>seq2
+     b-p------------- USER>>seq6
+     ..b------------- USER>>seq8
+284
+     ..p------------- USER>>seq3
+     p-b------------- USER>>seq5
+     |...p----------- USER>>seq4
+     b-p-b----------- USER>>seq9
+     ..b------------- USER>>seq10
+
+
+block 10 = 10 seqs
+*USER>>seq1 :	bot
+*USER>>seq7 :	bot
+*USER>>seq2 :	bot
+*USER>>seq6 :	bot
+*USER>>seq8 :	bot
+*USER>>seq3 :	bot
+*USER>>seq5 :	bot
+*USER>>seq4 :	bot
+*USER>>seq9 :	bot
+*USER>>seq10 :	bot
+
+xxTCAATTTxCCAAAATCAGTAxCAGTTxxxxxTAT CTGAxTATGTCTTCTCTCTACAGTAAAxxxxxxxAATTGAAGA
+xxTCATTTTxCTAAGATCAGTGxTCGTTxxxxxTAT CTGATTTT TCCTCTATCCATAAGAAAxxxxxxxAATGGAGGA
+xxTCACTTTTTTAAGATCAGTAxCAGTTxxxxxGAG TTTAGTATTTCTGAGACATTTTCTCAxxxxxxxxxATTGTACA
+xxTCCTTTTxCTGAGATCAGCAxAAGTTxxxxxTAT CTGC TATGTCCTCCATCCAGTCxxxxxxxxxxxxxxxxxxxx
+xxTTGTTTTxCTAAGATCAATAxTAGTTxxxxxTAT CTGA TATGTCCCxxxTCCCCTAGGCTGTAxxxxxxxGGGCAG
+xxTTGCTTTxCTGAGATCAGTAxTACTTxxxxx    CGATACATGTGCAGAATGTGCAATTxTGTxxxxxxxTACATGT
+xxTTGATTTTCTAAGATCAGTAxTAGA              AxxxxxTCTGACAGGACACATTTGTxxxxCCCTATxxxx
+xxTTGCTTTTCTAAGATCAGTAxCAAGTxxxxxTCTCCTGCCAATGTACC      TGAGAAATCTCTxxxxxxxTATAA
+xxTTGCTTTTCTAAGATCAGTAxTAATTxxxxxTATGC    AAAGTAGTGAAAAGTAAGAATACCxxxxxxxTAGTGAA
+xxGxGCTTTTCTAAGATCAGTAxTAGTTxxxxxTATACTTTAAATAxxxxxATAAATG    TTCTxxxxxxxTGCATGT
+
+ATATCGCAxxAGATGTTAAxxxxxxxxxxxxx             
+ATATCACA  AGATATTAAxxxxxxxxxxxxxxxx          
+TTTAAGGAGTAGCTGCTAxxxxxxxxxxxxxx             
+xTGTTCCAGTGAAGGGACGAAGGAGCCxxxxxx            
+GGAATxCTGTTTATTGTTATAxxxxxxxxxxxx            
+GCCACGGTxxGATTGG          CTGxxxxxxxxxxxxxxxx
+xxxACAGTAACAGAGGGCAATCTGTACTGxxxxxxxxxxxxxxxx
+GAACATATATTCATGAATATAxxxxxxxxxxxxxxxx        
+GCACTTTTTTTT TGAGTAAxxxxxxxxxxxxxxxx         
+GAAAxTGTGTTT TGAAAGCCxxxxxxxxxxxxxxx         
+
+
+2 groups ( 2 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 10 window = 180
+ minscore = 100 pepscore = 0 list_limit = 2
+ circles = 0 output = 1 outline = 80
+score_pairs 
+
+average score over cutoff = 240
+(1 pairs) cluster_pairs total list_alloc = 10
+pack_lists 
+update_blocks
+     ................p- USER>>seq1
+     ..............p-b- USER>>seq2
+     ....p---------b-p- USER>>seq3
+     ....|...........b- USER>>seq4
+     ....|.......p----- USER>>seq5
+     ....b---p---b----- USER>>seq6
+     ........b-p------- USER>>seq7
+     ..........|...p--- USER>>seq8
+     ..........b-p-b--- USER>>seq9
+     ............b----- USER>>seq10
+240
+     ........p--------- USER>>seq1
+     ......p-b--------- USER>>seq7
+     ..p---b----------- USER>>seq2
+     p-b-p------------- USER>>seq6
+     |...b------------- USER>>seq8
+     |...p------------- USER>>seq3
+     b-p-b------------- USER>>seq5
+     ..|...p----------- USER>>seq4
+     ..b-p-b----------- USER>>seq9
+     ....b------------- USER>>seq10
+
+
+block 0 = 20 seqs
+*USER>>seq1 :	top
+*USER>>seq2 :	top
+*USER>>seq3 :	top
+*USER>>seq4 :	top
+*USER>>seq5 :	top
+*USER>>seq6 :	top
+*USER>>seq7 :	top
+*USER>>seq8 :	top
+*USER>>seq9 :	top
+*USER>>seq10 :	top
+*USER>>seq1 :	bot
+*USER>>seq7 :	bot
+*USER>>seq2 :	bot
+*USER>>seq6 :	bot
+*USER>>seq8 :	bot
+*USER>>seq3 :	bot
+*USER>>seq5 :	bot
+*USER>>seq4 :	bot
+*USER>>seq9 :	bot
+*USER>>seq10 :	bot
+
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GGCAATACAGAGATGATCAGCAGTTCCCCTGCATAAGGATGAACCGTTTTACAAAGAGATTTCTTCGGGAATCTCTTTGC
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTTTAATCTCTGAAAGTGTGAACACAACATTGATTATTTTGG
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTTTAATCTCTGAAAGTGCGAGTACAATCGTGATTATTTTGC
+GCCATTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGCGTAACAACTGAAATxxxGACCTCAATGAGGATCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGCTCACTTTxx
+GCCTTTTGxGCTTAGATCAGTAGTATCTGTTCTTTTCAGTGTAACAACTGAAATxxxGACCTCAATGAGGATCACTTAAC
+xxTCAATTTxCCAAAATCAGTAxCAGTTxxxxxTAT CTGAxTATGTCTTCTCTCTACAGTAAAxxxxxxxAATTGAAGA
+xxTCATTTTxCTAAGATCAGTGxTCGTTxxxxxTAT CTGATTTT TCCTCTATCCATAAGAAAxxxxxxxAATGGAGGA
+xxTCACTTTTTTAAGATCAGTAxCAGTTxxxxxGAG TTTAGTATTTCTGAGACATTTTCTCAxxxxxxxxxATTGTACA
+xxTCCTTTTxCTGAGATCAGCAxAAGTTxxxxxTAT CTGC TATGTCCTCCATCCAGTCxxxxxxxxxxxxxxxxxxxx
+xxTTGTTTTxCTAAGATCAATAxTAGTTxxxxxTAT CTGA TATGTCCCxxxTCCCCTAGGCTGTAxxxxxxxGGGCAG
+xxTTGCTTTxCTGAGATCAGTAxTACTTxxxxx    CGATACATGTGCAGAATGTGCAATTxTGTxxxxxxxTACATGT
+xxTTGATTTTCTAAGATCAGTAxTAGA              AxxxxxTCTGACAGGACACATTTGTxxxxCCCTATxxxx
+xxTTGCTTTTCTAAGATCAGTAxCAAGTxxxxxTCTCCTGCCAATGTACC      TGAGAAATCTCTxxxxxxxTATAA
+xxTTGCTTTTCTAAGATCAGTAxTAATTxxxxxTATGC    AAAGTAGTGAAAAGTAAGAATACCxxxxxxxTAGTGAA
+xxGxGCTTTTCTAAGATCAGTAxTAGTTxxxxxTATACTTTAAATAxxxxxATAAATG    TTCTxxxxxxxTGCATGT
+
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC              
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC              
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC              
+CTTTTGGCTTAGATCAAGTGTAGTATCTGTC              
+TxCTCTGTGGCxxxxAGGGCCCCTxxxxxxx              
+AACTCGGTCGGxxxxTTTxxxxxxxxxxxxx              
+TxxTAAGTTACxxxxAAxxxCACATTTTxxx              
+TACTTTGTTACxxxxAAACACACTTTTTxxx              
+TAATTTGTTACxxxxAATxACACATTTTxxx              
+TATTTTGTTACxxxxAACxACGATTTTTTxx              
+ATATCGCAxxAGATGTTAAxxxxxxxxxxxxx             
+ATATCACA  AGATATTAAxxxxxxxxxxxxxxxx          
+TTTAAGGAGTAGCTGCTAxxxxxxxxxxxxxx             
+xTGTTCCAGTGAAGGGACGAAGGAGCCxxxxxx            
+GGAATxCTGTTTATTGTTATAxxxxxxxxxxxx            
+GCCACGGTxxGATTGG          CTGxxxxxxxxxxxxxxxx
+xxxACAGTAACAGAGGGCAATCTGTACTGxxxxxxxxxxxxxxxx
+GAACATATATTCATGAATATAxxxxxxxxxxxxxxxx        
+GCACTTTTTTTT TGAGTAAxxxxxxxxxxxxxxxx         
+GAAAxTGTGTTT TGAAAGCCxxxxxxxxxxxxxxx         
+
+
+1 groups ( 1 aligned )
+
+ nblocks = 20

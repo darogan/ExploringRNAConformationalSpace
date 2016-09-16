@@ -1,0 +1,10 @@
+
+ SimRNA (c) 2009-2014 Genesilico, ver. 3.20
+
+ program compiled as SimRNA3: 3 atoms per base
+
+directory 'data' is not detected
+please supply a copy of the 'data' directory in your working SimRNA directory, or make a symbolic link (recommended) named 'data' pointing to the 'data' directory
+
+the 'data' directory contains: energy function terms, etc.
+

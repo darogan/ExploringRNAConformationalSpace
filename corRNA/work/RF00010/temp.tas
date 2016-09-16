@@ -1,0 +1,17 @@
+select 56,325
+hbond 151
+colour hbonds red
+select 57,324
+hbond 143
+colour hbonds red
+select 12,313
+hbond 127
+select 64,247
+hbond 83
+colour hbonds red
+select 65,246
+hbond 31
+colour hbonds red
+select 66,245
+hbond 23
+colour hbonds red

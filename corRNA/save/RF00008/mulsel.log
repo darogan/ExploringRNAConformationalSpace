@@ -1,0 +1,538 @@
+ seedlen = 0 lowscore = 0
+Mutation Data Matrix (120 PAMs)
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 8
+Residue identity scores 10
+ARNDCQEGHILKMFPSTWYVBZX
+matrix constant = 0
+
+100000 sequences to be read in length range 50 -> 500
+
+Calculating peptide table based on length 6
+Reading user file of seq.s: final.seq
+ user_in = 1
+End of user sequences
+206 sequences read into 206 blocks, (206 are keyed)
+
+
+ ****** CYCLE 0 ******
+Minimum score held = 20
+Top 3 scores held per sequence
+Sequences in the range 1<Dij<1000 scored
+Adjacent sequences scored with bonus of 10
+386 pairs collected
+310
+ npairs = 310
+pre_order  npairs = 310
+ malloc OK
+reorder  malloc OK done
+preorder  new block mallock OK
+cluster_pairs total list_alloc = 40
+pack_lists 124/206 blocks moved
+
+New sequence order is:
+* Block 0 <--- 1	USER>SEED:>RF00008	   69   [+0+] 2qus_A mol na length 69  Hammerhead ribozyme
+* Block 1 <--- 2	USER>>DQ680783.1/56-3	   54   [+1+] DQ680783.1/56-3 Peach latent mosaic viroid variant 369.4, complete genome.
+* Block 2 <=== 3	USER>>DQ680796.1/56-3	   54   [+42+] DQ680796.1/56-3 Peach latent mosaic viroid variant 94.3, complete genome.
+* Block 3 <=== 5	USER>>GQ872136.1/56-3	   54   [+301+] GQ872136.1/56-3 Peach latent mosaic viroid isolate Laura.3, complete genome.
+* Block 4 <--- 4	USER>>AF170503.1/55-3	   53   [+0+] AF170503.1/55-3 Peach latent mosaic viroid variant #8 from Prunus persica Hardired cultivar, complete sequence.
+* Block 5 <--- 6	USER>>AJ550911.1/56-3	   54   [+58+] AJ550911.1/56-3 Peach latent mosaic viroid complete genome, isolate PC-C28
+* Block 6 <--- 7	USER>>DQ680805.1/56-3	   54   [+14+] DQ680805.1/56-3 Peach latent mosaic viroid variant 387.4, complete genome.
+* Block 7 <=== 12	USER>>GT825986.1/279-328	   50   [+12+] GT825986.1/279-328 Peach latent mosaic viroid clone PLMVd-tun5, complete genome.
+* Block 8 <=== 10	USER>>DQ680743.1/283-335	   53   [+36+] DQ680743.1/283-335 Peach latent mosaic viroid variant 298.4, complete genome.
+* Block 9 <=== 8	USER>>DQ222092.1/282-335	   54   [+73+] DQ222092.1/282-335 Peach latent mosaic viroid isolate PC-P1.148.06, complete genome.
+* Block 10 <=== 13	USER>>DQ680798.1/273-326	   54   [+3+] DQ680798.1/273-326 Peach latent mosaic viroid variant 235.2, complete genome.
+* Block 11 <=== 9	USER>>DQ680804.1/284-337	   54   [+219+] DQ680804.1/284-337 Peach latent mosaic viroid variant 387.3, complete genome.
+* Block 12 <=== 11	USER>>DQ680780.1/283-336	   54   [+32+] DQ680780.1/283-336 Peach latent mosaic viroid variant 100.1, complete genome.
+* Block 13 <--- 14	USER>>GQ499317.1/284-336	   53   [+41+] GQ499317.1/284-336 Peach latent mosaic viroid isolate 13, complete sequence.
+* Block 14 <--- 15	USER>>FN646404.1/133-51	   83   [+356+] FN646404.1/133-51 Chrysanthemum chlorotic mottle viroid complete genome, genomic RNA, isolate Palampur
+* Block 15 <--- 16	USER>>M33000.1/55-110	   56   [+1+] M33000.1/55-110 Subterranean clover mottle virus satellite RNA.
+* Block 16 <--- 17	USER>>AACY023806030.1/893-836	   58   [+0+] AACY023806030.1/893-836 Marine metagenome ctg_1101668613381, whole genome shotgun sequence.
+* Block 17 <--- 18	USER>>AP009384.1/4100083-4100026	   58   [+0+] AP009384.1/4100083-4100026 Azorhizobium caulinodans ORS 571 DNA, complete genome.
+* Block 18 <=== 19	USER>>AFSA01073555.1/2043-1986	   58   [+0+] AFSA01073555.1/2043-1986 Lactuca sativa, whole genome shotgun sequence.
+* Block 19 <=== 43	USER>>AFSA01046730.1/721-664	   58   [+0+] AFSA01046730.1/721-664 Lactuca sativa, whole genome shotgun sequence.
+* Block 20 <=== 21	USER>>AFSA01391656.1/377-434	   58   [+0+] AFSA01391656.1/377-434 Lactuca sativa, whole genome shotgun sequence.
+* Block 21 <=== 20	USER>>AFSA01170855.1/508-451	   58   [+0+] AFSA01170855.1/508-451 Lactuca sativa, whole genome shotgun sequence.
+* Block 22 <=== 40	USER>>AFSA01104653.1/100-157	   58   [+0+] AFSA01104653.1/100-157 Lactuca sativa, whole genome shotgun sequence.
+* Block 23 <=== 39	USER>>AFSA01160914.1/1796-1739	   58   [+0+] AFSA01160914.1/1796-1739 Lactuca sativa, whole genome shotgun sequence.
+* Block 24 <=== 30	USER>>AFSA01156800.1/474-417	   58   [+0+] AFSA01156800.1/474-417 Lactuca sativa, whole genome shotgun sequence.
+* Block 25 <=== 24	USER>>AFSA01156800.1/1122-1065	   58   [+0+] AFSA01156800.1/1122-1065 Lactuca sativa, whole genome shotgun sequence.
+* Block 26 <=== 26	USER>>AFSA01116803.1/2114-2170	   57   [+0+] AFSA01116803.1/2114-2170 Lactuca sativa, whole genome shotgun sequence.
+* Block 27 <=== 23	USER>>AFSA01029476.1/2742-2686	   57   [+0+] AFSA01029476.1/2742-2686 Lactuca sativa, whole genome shotgun sequence.
+* Block 28 <=== 25	USER>>AFSA01018053.1/5632-5575	   58   [+0+] AFSA01018053.1/5632-5575 Lactuca sativa, whole genome shotgun sequence.
+* Block 29 <=== 38	USER>>AFSA01088690.1/2001-2058	   58   [+7+] AFSA01088690.1/2001-2058 Lactuca sativa, whole genome shotgun sequence.
+* Block 30 <=== 22	USER>>AFSA01042060.1/361-304	   58   [+0+] AFSA01042060.1/361-304 Lactuca sativa, whole genome shotgun sequence.
+* Block 31 <=== 37	USER>>AFSA01154721.1/458-401	   58   [+3+] AFSA01154721.1/458-401 Lactuca sativa, whole genome shotgun sequence.
+* Block 32 <=== 42	USER>>AFSA01170855.1/1155-1098	   58   [+0+] AFSA01170855.1/1155-1098 Lactuca sativa, whole genome shotgun sequence.
+* Block 33 <=== 27	USER>>AFSA01018053.1/5008-5065	   58   [+0+] AFSA01018053.1/5008-5065 Lactuca sativa, whole genome shotgun sequence.
+* Block 34 <=== 29	USER>>BABX01097964.1/595-539	   57   [+11+] BABX01097964.1/595-539 Jatropha curcas DNA, contig: JcCB0068161.
+* Block 35 <=== 28	USER>>AFSA01018053.1/4359-4416	   58   [+0+] AFSA01018053.1/4359-4416 Lactuca sativa, whole genome shotgun sequence.
+* Block 36 <=== 31	USER>>BABX01004788.1/3325-3269	   57   [+0+] BABX01004788.1/3325-3269 Jatropha curcas DNA, contig: JcCA0142391.
+* Block 37 <=== 33	USER>>BABX01093136.1/1532-1588	   57   [+1+] BABX01093136.1/1532-1588 Jatropha curcas DNA, contig: JcCB0600041.
+* Block 38 <=== 35	USER>>BABX01022075.1/1985-1929	   57   [+34+] BABX01022075.1/1985-1929 Jatropha curcas DNA, contig: JcCA0029711.
+* Block 39 <=== 32	USER>>BABX01016267.1/2549-2493	   57   [+0+] BABX01016267.1/2549-2493 Jatropha curcas DNA, contig: JcCA0245101.
+* Block 40 <=== 36	USER>>BABX01017832.1/646-590	   57   [+0+] BABX01017832.1/646-590 Jatropha curcas DNA, contig: JcCA0025921.
+* Block 41 <=== 41	USER>>AACY020000300.1/1983-1926	   58   [+0+] AACY020000300.1/1983-1926 Marine metagenome 1096624979632, whole genome shotgun sequence.
+* Block 42 <=== 48	USER>>FJ147819.1/735-792	   58   [+0+] FJ147819.1/735-792 Daucus carota subsp. sativus clone BAC C237H08 genomic sequence.
+* Block 43 <=== 34	USER>>BABX01067683.1/1853-1797	   57   [+1+] BABX01067683.1/1853-1797 Jatropha curcas DNA, contig: JcCB0225201.
+* Block 44 <=== 46	USER>>AACY020301409.1/776-832	   57   [+0+] AACY020301409.1/776-832 Marine metagenome 1096626378584, whole genome shotgun sequence.
+* Block 45 <=== 44	USER>>ADBK01001767.1/20966-21023	   58   [+0+] ADBK01001767.1/20966-21023 Arabidopsis lyrata subsp. lyrata ARALYscaffold_8_Cont1767, whole genome shotgun sequence.
+* Block 46 <--- 45	USER>>BABX01107099.1/153-97	   57   [+0+] BABX01107099.1/153-97 Jatropha curcas DNA, contig: JcCB0818211.
+* Block 47 <=== 47	USER>>ADBK01000597.1/144825-144882	   58   [+0+] ADBK01000597.1/144825-144882 Arabidopsis lyrata subsp. lyrata ARALYscaffold_3_Cont597, whole genome shotgun sequence.
+* Block 48 <=== 49	USER>>ADBK01001763.1/17635-17692	   58   [+1+] ADBK01001763.1/17635-17692 Arabidopsis lyrata subsp. lyrata ARALYscaffold_8_Cont1763, whole genome shotgun sequence.
+* Block 49 <=== 50	USER>>AFNC01020637.1/13013-12955	   59   [+2+] AFNC01020637.1/13013-12955 Arabidopsis thaliana ecotype Kro-0, whole genome shotgun sequence.
+* Block 50 <=== 90	USER>>ADBK01000956.1/18397-18454	   58   [+0+] ADBK01000956.1/18397-18454 Arabidopsis lyrata subsp. lyrata ARALYscaffold_5_Cont956, whole genome shotgun sequence.
+* Block 51 <=== 55	USER>>FN595521.1/209142-209085	   58   [+1+] FN595521.1/209142-209085 Vitis vinifera cv. PN40024, annotated scaffold_189.assembly12x
+* Block 52 <=== 68	USER>>FN595513.1/4432612-4432555	   58   [+1+] FN595513.1/4432612-4432555 Vitis vinifera cv. PN40024, annotated scaffold_18.assembly12x
+* Block 53 <=== 64	USER>>FN595763.1/416062-416119	   58   [+2+] FN595763.1/416062-416119 Vitis vinifera cv. PN40024, annotated scaffold_43.assembly12x
+* Block 54 <=== 57	USER>>FN595995.1/797300-797243	   58   [+2+] FN595995.1/797300-797243 Vitis vinifera cv. PN40024, annotated scaffold_56.assembly12x
+* Block 55 <=== 61	USER>>FN595990.1/255231-255174	   58   [+2+] FN595990.1/255231-255174 Vitis vinifera cv. PN40024, annotated scaffold_35.assembly12x
+* Block 56 <=== 58	USER>>FN595990.1/254387-254330	   58   [+2+] FN595990.1/254387-254330 Vitis vinifera cv. PN40024, annotated scaffold_35.assembly12x
+* Block 57 <=== 60	USER>>FN596003.1/342263-342319	   57   [+2+] FN596003.1/342263-342319 Vitis vinifera cv. PN40024, annotated scaffold_156.assembly12x
+* Block 58 <=== 62	USER>>FN595751.1/863886-863943	   58   [+8+] FN595751.1/863886-863943 Vitis vinifera cv. PN40024, annotated scaffold_90.assembly12x
+* Block 59 <=== 66	USER>>AM472511.1/20242-20299	   58   [+2+] AM472511.1/20242-20299 Vitis vinifera, whole genome shotgun sequence, contig VV78X232107.9, clone ENTAV 115
+* Block 60 <=== 73	USER>>FN595513.1/4433474-4433417	   58   [+2+] FN595513.1/4433474-4433417 Vitis vinifera cv. PN40024, annotated scaffold_18.assembly12x
+* Block 61 <=== 65	USER>>FN596494.1/6497250-6497193	   58   [+1+] FN596494.1/6497250-6497193 Vitis vinifera cv. PN40024, annotated scaffold_2.assembly12x
+* Block 62 <=== 71	USER>>FN595504.1/6227090-6227147	   58   [+2+] FN595504.1/6227090-6227147 Vitis vinifera cv. PN40024, annotated scaffold_9.assembly12x
+* Block 63 <=== 52	USER>>CAAP03007143.1/130767-130710	   58   [+2+] CAAP03007143.1/130767-130710 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_448
+* Block 64 <=== 59	USER>>CAAP03002622.1/48547-48490	   58   [+7+] CAAP03002622.1/48547-48490 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_3301
+* Block 65 <=== 69	USER>>FN596746.1/2500110-2500167	   58   [+2+] FN596746.1/2500110-2500167 Vitis vinifera cv. PN40024, annotated scaffold_60.assembly12x
+* Block 66 <=== 56	USER>>AM465121.2/2389-2332	   58   [+0+] AM465121.2/2389-2332 Vitis vinifera contig VV78X240564.3, whole genome shotgun sequence.
+* Block 67 <=== 63	USER>>CAAP03009505.1/44637-44694	   58   [+2+] CAAP03009505.1/44637-44694 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_2463
+* Block 68 <=== 67	USER>>AM430431.2/46957-46901	   57   [+2+] AM430431.2/46957-46901 Vitis vinifera contig VV78X171234.10, whole genome shotgun sequence.
+* Block 69 <=== 72	USER>>FN596011.1/272970-273027	   58   [+2+] FN596011.1/272970-273027 Vitis vinifera cv. PN40024, annotated scaffold_99.assembly12x
+* Block 70 <=== 70	USER>>CAAP03007143.1/131633-131576	   58   [+2+] CAAP03007143.1/131633-131576 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_448
+* Block 71 <=== 54	USER>>FN594968.1/1063714-1063771	   58   [+2+] FN594968.1/1063714-1063771 Vitis vinifera cv. PN40024, annotated scaffold_72.assembly12x
+* Block 72 <=== 53	USER>>CAAP03012767.1/102926-102981	   56   [+2+] CAAP03012767.1/102926-102981 Vitis vinifera, whole genome shotgun sequence of line PN40024, contig_41
+* Block 73 <=== 51	USER>>FN595513.1/550378-550435	   58   [+4+] FN595513.1/550378-550435 Vitis vinifera cv. PN40024, annotated scaffold_18.assembly12x
+* Block 74 <=== 75	USER>>AM459779.1/27612-27669	   58   [+0+] AM459779.1/27612-27669 Vitis vinifera contig VV78X042738.17, whole genome shotgun sequence.
+* Block 75 <--- 74	USER>>AM475815.2/3913-3856	   58   [+2+] AM475815.2/3913-3856 Vitis vinifera contig VV78X246591.6, whole genome shotgun sequence.
+* Block 76 <=== 82	USER>>HQ880433.1/9-64	   56   [+0+] HQ880433.1/9-64 Tncultured organism clone hhrIII-I1_74_04911s-1 hammerhead ribozyme type III gene, complete sequence.
+* Block 77 <=== 84	USER>>AACY023784794.1/810-864	   55   [+0+] AACY023784794.1/810-864 Marine metagenome ctg_1101668592145, whole genome shotgun sequence.
+* Block 78 <=== 78	USER>>J02386.1/42-95	   54   [+1+] J02386.1/42-95 Solanum nodiflorum mottle virus satellite RNA.
+* Block 79 <=== 76	USER>>AACY022776529.1/685-631	   55   [+1+] AACY022776529.1/685-631 Marine metagenome ctg_1101667183880, whole genome shotgun sequence.
+* Block 80 <=== 79	USER>>ADVT01001934.1/71-17	   55   [+0+] ADVT01001934.1/71-17 Freshwater metagenome November_2006_contig01948, whole genome shotgun sequence.
+* Block 81 <=== 77	USER>>AACY023352119.1/676-730	   55   [+0+] AACY023352119.1/676-730 Marine metagenome ctg_1101668159470, whole genome shotgun sequence.
+* Block 82 <=== 81	USER>>AACY023823868.1/1019-965	   55   [+0+] AACY023823868.1/1019-965 Marine metagenome ctg_1101668631219, whole genome shotgun sequence.
+* Block 83 <--- 80	USER>>AACY022121822.1/536-590	   55   [+0+] AACY022121822.1/536-590 Marine metagenome 1092351329924, whole genome shotgun sequence.
+* Block 84 <--- 83	USER>>M63666.1/246-192	   55   [+0+] M63666.1/246-192 Cereal yellow dwarf virus-RPA satellite RNA.
+* Block 85 <--- 85	USER>>AJ536619.1/206-152	   55   [+8+] AJ536619.1/206-152 Eggplant latent viroid complete genome, isolate 8
+* Block 86 <--- 86	USER>>AACY023802293.1/343-400	   58   [+0+] AACY023802293.1/343-400 Marine metagenome ctg_1101668609644, whole genome shotgun sequence.
+* Block 87 <--- 87	USER>>ABLW01115605.1/67-13	   55   [+1+] ABLW01115605.1/67-13 Marine metagenome 32705927, whole genome shotgun sequence.
+* Block 88 <--- 88	USER>>AACY023195290.1/1059-1114	   56   [+0+] AACY023195290.1/1059-1114 Marine metagenome ctg_1101668002641, whole genome shotgun sequence.
+* Block 89 <--- 89	USER>>ABML01222367.1/14-71	   58   [+0+] ABML01222367.1/14-71 Marine metagenome 3878724, whole genome shotgun sequence.
+* Block 90 <--- 91	USER>>AACY021940384.1/538-592	   55   [+0+] AACY021940384.1/538-592 Marine metagenome 1095403265020, whole genome shotgun sequence.
+* Block 91 <=== 92	USER>>AACY022632013.1/418-363	   56   [+0+] AACY022632013.1/418-363 Marine metagenome ctg_1101667039364, whole genome shotgun sequence.
+* Block 92 <=== 94	USER>>ABNK01030792.1/87-4	   84   [+0+] ABNK01030792.1/87-4 Coral metagenome 39613776, whole genome shotgun sequence.
+* Block 93 <--- 93	USER>>AACY021247023.1/427-370	   58   [+0+] AACY021247023.1/427-370 Marine metagenome 1095522105316, whole genome shotgun sequence.
+* Block 94 <--- 95	USER>>AACY023847113.1/873-813	   61   [+1+] AACY023847113.1/873-813 Marine metagenome ctg_1101668654464, whole genome shotgun sequence.
+* Block 95 <--- 96	USER>>ABMB01014284.1/20-74	   55   [+0+] ABMB01014284.1/20-74 Marine metagenome 2935084, whole genome shotgun sequence.
+* Block 96 <--- 97	USER>>AACY021791304.1/129-73	   57   [+0+] AACY021791304.1/129-73 Marine metagenome 1093017222198, whole genome shotgun sequence.
+* Block 97 <--- 98	USER>>AACY021652855.1/163-107	   57   [+0+] AACY021652855.1/163-107 Marine metagenome 1092351186502, whole genome shotgun sequence.
+* Block 98 <--- 99	USER>>AACY022830181.1/456-402	   55   [+0+] AACY022830181.1/456-402 Marine metagenome ctg_1101667237532, whole genome shotgun sequence.
+* Block 99 <--- 100	USER>>ABNI01008151.1/45-99	   55   [+0+] ABNI01008151.1/45-99 Freshwater metagenome 40682092, whole genome shotgun sequence.
+* Block 100 <--- 101	USER>>CP000511.1/2184555-2184609	   55   [+0+] CP000511.1/2184555-2184609 Mycobacterium vanbaalenii PYR-1, complete genome.
+* Block 101 <--- 102	USER>>CP002039.1/3593801-3593747	   55   [+0+] CP002039.1/3593801-3593747 Herbaspirillum seropedicae SmR1, complete genome.
+* Block 102 <=== 109	USER>>BADR02001009.1/31966-32016	   51   [+1+] BADR02001009.1/31966-32016 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_1009.
+* Block 103 <=== 103	USER>>AAMC01092558.1/2418-2329	   90   [+0+] AAMC01092558.1/2418-2329 Xenopus (Silurana) tropicalis XENTRscaffold_484_Cont92558, whole genome shotgun sequence.
+* Block 104 <=== 105	USER>>BADR02000534.1/430281-430229	   53   [+0+] BADR02000534.1/430281-430229 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_534.
+* Block 105 <=== 106	USER>>BADR02001261.1/11492-11439	   54   [+2+] BADR02001261.1/11492-11439 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_1261.
+* Block 106 <=== 107	USER>>AAMC01046682.1/71280-71223	   58   [+0+] AAMC01046682.1/71280-71223 Xenopus (Silurana) tropicalis XENTRscaffold_152_Cont46682, whole genome shotgun sequence.
+* Block 107 <=== 104	USER>>AAMC01036080.1/7373-7463	   91   [+0+] AAMC01036080.1/7373-7463 Xenopus (Silurana) tropicalis XENTRscaffold_106_Cont36080, whole genome shotgun sequence.
+* Block 108 <=== 108	USER>>AAMC01028242.1/63241-63293	   53   [+0+] AAMC01028242.1/63241-63293 Xenopus (Silurana) tropicalis XENTRscaffold_76_Cont28242, whole genome shotgun sequence.
+* Block 109 <--- 110	USER>>ET547491.1/273-219	   55   [+0+] ET547491.1/273-219 Mulberry small circular viroid-like RNA 1, complete genome.
+* Block 110 <--- 111	USER>>AACY023259265.1/429-488	   60   [+0+] AACY023259265.1/429-488 Marine metagenome ctg_1101668066616, whole genome shotgun sequence.
+* Block 111 <--- 112	USER>>AACY023259265.1/619-677	   59   [+0+] AACY023259265.1/619-677 Marine metagenome ctg_1101668066616, whole genome shotgun sequence.
+* Block 112 <--- 113	USER>>HQ880434.1/11-65	   55   [+0+] HQ880434.1/11-65 Tncultured organism clone hhrIII-G3_26_03977s-1 hammerhead ribozyme type III gene, complete sequence.
+* Block 113 <--- 114	USER>>AACY020758631.1/863-807	   57   [+0+] AACY020758631.1/863-807 Marine metagenome 1095899022103, whole genome shotgun sequence.
+* Block 114 <--- 115	USER>>AACY022484984.1/628-685	   58   [+0+] AACY022484984.1/628-685 Marine metagenome 1093017958413, whole genome shotgun sequence.
+* Block 115 <--- 116	USER>>X01984.1/170-107	   64   [+1+] X01984.1/170-107 Lucerne transient streak virus satellite RNA (LTSV-A) RNA 2 sequence
+* Block 116 <--- 117	USER>>D00341.1/169-106	   64   [+0+] D00341.1/169-106 Lucerne transient streak virus satellite RNA, complete sequence.
+* Block 117 <--- 118	USER>>FN595998.1/2114608-2114667	   60   [+2+] FN595998.1/2114608-2114667 Vitis vinifera cv. PN40024, annotated scaffold_19.assembly12x
+* Block 118 <--- 119	USER>>DQ357618.1/298-244	   55   [+10+] DQ357618.1/298-244 Cherry small circular viroid-like RNA 1 isolate cscRNA1.78, complete genome.
+* Block 119 <--- 120	USER>>DQ357628.1/295-241	   55   [+2+] DQ357628.1/295-241 Cherry small circular viroid-like RNA 1 isolate cscRNA1.150, complete genome.
+* Block 120 <--- 121	USER>>AACY021842348.1/566-623	   58   [+0+] AACY021842348.1/566-623 Marine metagenome 1093012237061, whole genome shotgun sequence.
+* Block 121 <--- 122	USER>>ABRE01014749.1/1036-977	   60   [+0+] ABRE01014749.1/1036-977 Moniliophthora perniciosa FA553 Contig15012, whole genome shotgun sequence.
+* Block 122 <--- 123	USER>>AACY023366856.1/213-156	   58   [+0+] AACY023366856.1/213-156 Marine metagenome ctg_1101668174207, whole genome shotgun sequence.
+* Block 123 <--- 124	USER>>ABMW01161415.1/105-23	   83   [+0+] ABMW01161415.1/105-23 Freshwater metagenome 43239908, whole genome shotgun sequence.
+* Block 124 <--- 125	USER>>ADDK02000001.1/1582123-1582069	   55   [+0+] ADDK02000001.1/1582123-1582069 Dechlorosoma suillum PS ctg78, whole genome shotgun sequence.
+* Block 125 <--- 126	USER>>AGTN01140051.1/136-194	   59   [+0+] AGTN01140051.1/136-194 Bioreactor metagenome PBDCA2_GBB5CE401BFGDH_left, whole genome shotgun sequence.
+* Block 126 <--- 127	USER>>AAWT01061712.1/75822-75766	   57   [+0+] AAWT01061712.1/75822-75766 Schmidtea mediterranea strain S2F2 S_mediterranea_3.1_Cont1037.2, whole genome shotgun sequence.
+* Block 127 <--- 128	USER>>AACY021025315.1/526-581	   56   [+0+] AACY021025315.1/526-581 Marine metagenome 1092351061949, whole genome shotgun sequence.
+* Block 128 <--- 129	USER>>ABLX01073025.1/18-72	   55   [+0+] ABLX01073025.1/18-72 Marine metagenome 33020875, whole genome shotgun sequence.
+* Block 129 <=== 134	USER>>AELG01005788.1/9138-9068	   71   [+1+] AELG01005788.1/9138-9068 Bombus terrestris Contig5788, whole genome shotgun sequence.
+* Block 130 <=== 132	USER>>AELG01009913.1/673-747	   75   [+4+] AELG01009913.1/673-747 Bombus terrestris Contig9917, whole genome shotgun sequence.
+* Block 131 <=== 135	USER>>AFJA01001167.1/3143-3216	   74   [+1+] AFJA01001167.1/3143-3216 Megachile rotundata contig_0048088, whole genome shotgun sequence.
+* Block 132 <=== 137	USER>>AEKZ01001651.1/3092-3166	   75   [+1+] AEKZ01001651.1/3092-3166 Apis florea Contig1651, whole genome shotgun sequence.
+* Block 133 <=== 133	USER>>AEQM02007450.1/996-922	   75   [+3+] AEQM02007450.1/996-922 Bombus impatiens ctg_0618004, whole genome shotgun sequence.
+* Block 134 <=== 131	USER>>AEQM02006884.1/198-272	   75   [+24+] AEQM02006884.1/198-272 Bombus impatiens ctg_0540002, whole genome shotgun sequence.
+* Block 135 <=== 136	USER>>AFJA01006950.1/12750-12677	   74   [+0+] AFJA01006950.1/12750-12677 Megachile rotundata contig_0306076, whole genome shotgun sequence.
+* Block 136 <=== 138	USER>>AFJA01002040.1/29870-29796	   75   [+0+] AFJA01002040.1/29870-29796 Megachile rotundata contig_0070088, whole genome shotgun sequence.
+* Block 137 <=== 139	USER>>AEVX01003024.1/5648-5572	   77   [+0+] AEVX01003024.1/5648-5572 Acromyrmex echinatior contig3024, whole genome shotgun sequence.
+* Block 138 <=== 130	USER>>AEVX01011239.1/17322-17397	   76   [+0+] AEVX01011239.1/17322-17397 Acromyrmex echinatior contig11239, whole genome shotgun sequence.
+* Block 139 <=== 140	USER>>AEVX01014653.1/67501-67425	   77   [+0+] AEVX01014653.1/67501-67425 Acromyrmex echinatior contig14653, whole genome shotgun sequence.
+* Block 140 <--- 141	USER>>FJ647334.1/1-61	   61   [+2+] FJ647334.1/1-61 Chrysanthemum chlorotic mottle viroid isolate plant 2 clone hammerhead 44, partial sequence.
+* Block 141 <--- 142	USER>>AEQC01000211.1/20120-20179	   60   [+1+] AEQC01000211.1/20120-20179 Serpula lacrymans var. lacrymans S7.3 SERLA73scaffold_2_Cont211, whole genome shotgun sequence.
+* Block 142 <--- 143	USER>>ABWF01001581.1/10618-10677	   60   [+2+] ABWF01001581.1/10618-10677 Postia placenta Mad-698-R POSPLscaffold_23_Cont1581, whole genome shotgun sequence.
+* Block 143 <--- 144	USER>>AACY023348898.1/727-673	   55   [+0+] AACY023348898.1/727-673 Marine metagenome ctg_1101668156249, whole genome shotgun sequence.
+* Block 144 <--- 145	USER>>AGTN01301619.1/367-419	   53   [+0+] AGTN01301619.1/367-419 Bioreactor metagenome PBDCA2_FISTTAT01CH8W9, whole genome shotgun sequence.
+* Block 145 <--- 146	USER>>AAXJ01007742.1/834-778	   57   [+5+] AAXJ01007742.1/834-778 Perkinsus marinus ATCC 50983 gcontig_1104296167898, whole genome shotgun sequence.
+* Block 146 <=== 172	USER>>HE601628.1/7143946-7143888	   59   [+0+] HE601628.1/7143946-7143888 Schistosoma mansoni strain Puerto Rico chromosome 5, complete genome
+* Block 147 <=== 174	USER>>HE601624.1/38871776-38871869	   94   [+0+] HE601624.1/38871776-38871869 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+* Block 148 <=== 169	USER>>CABG01000047.1/203569-203510	   60   [+0+] CABG01000047.1/203569-203510 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0113, strain Puerto Rico
+* Block 149 <=== 171	USER>>CABG01000094.1/343533-343597	   65   [+0+] CABG01000094.1/343533-343597 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0208, strain Puerto Rico
+* Block 150 <=== 167	USER>>HE601627.1/13820890-13820813	   78   [+0+] HE601627.1/13820890-13820813 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+* Block 151 <=== 161	USER>>HE601626.1/468262-468203	   60   [+0+] HE601626.1/468262-468203 Schistosoma mansoni strain Puerto Rico chromosome 3, complete genome
+* Block 152 <=== 160	USER>>HE601624.1/41701520-41701577	   58   [+0+] HE601624.1/41701520-41701577 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+* Block 153 <=== 175	USER>>HE601629.1/17035532-17035609	   78   [+0+] HE601629.1/17035532-17035609 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+* Block 154 <=== 164	USER>>HE601631.1/20611687-20611629	   59   [+0+] HE601631.1/20611687-20611629 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+* Block 155 <=== 163	USER>>HE601629.1/1075793-1075868	   76   [+0+] HE601629.1/1075793-1075868 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+* Block 156 <=== 159	USER>>HE601627.1/29682777-29682706	   72   [+0+] HE601627.1/29682777-29682706 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+* Block 157 <=== 166	USER>>HE601631.1/1061500-1061559	   60   [+0+] HE601631.1/1061500-1061559 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+* Block 158 <=== 170	USER>>HE601628.1/8069827-8069885	   59   [+5+] HE601628.1/8069827-8069885 Schistosoma mansoni strain Puerto Rico chromosome 5, complete genome
+* Block 159 <=== 165	USER>>CABG01000043.1/1254038-1253984	   55   [+1+] CABG01000043.1/1254038-1253984 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0062, strain Puerto Rico
+* Block 160 <=== 158	USER>>HE601629.1/18534607-18534548	   60   [+0+] HE601629.1/18534607-18534548 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+* Block 161 <=== 168	USER>>HE601629.1/16475038-16475115	   78   [+0+] HE601629.1/16475038-16475115 Schistosoma mansoni strain Puerto Rico chromosome 6, complete genome
+* Block 162 <=== 162	USER>>HE601631.1/54090353-54090404	   52   [+0+] HE601631.1/54090353-54090404 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+* Block 163 <=== 173	USER>>HE601630.1/2806341-2806264	   78   [+3+] HE601630.1/2806341-2806264 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+* Block 164 <=== 176	USER>>CABG01000003.1/1364784-1364861	   78   [+6+] CABG01000003.1/1364784-1364861 Schistosoma mansoni, WGS project CABG00000000 data, chromosome 1 unplaced supercontig 0071, strain Puerto Rico
+* Block 165 <=== 155	USER>>CABG01000218.1/9143-9069	   75   [+0+] CABG01000218.1/9143-9069 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0357, strain Puerto Rico
+* Block 166 <=== 178	USER>>HE601625.1/29418279-29418202	   78   [+0+] HE601625.1/29418279-29418202 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+* Block 167 <=== 177	USER>>HE601630.1/659323-659384	   62   [+0+] HE601630.1/659323-659384 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+* Block 168 <=== 156	USER>>CABG01000002.1/462343-462285	   59   [+0+] CABG01000002.1/462343-462285 Schistosoma mansoni, WGS project CABG00000000 data, chromosome 1 unplaced supercontig 0034, strain Puerto Rico
+* Block 169 <=== 154	USER>>HE601625.1/31729099-31729163	   65   [+0+] HE601625.1/31729099-31729163 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+* Block 170 <=== 157	USER>>HE601624.1/54420450-54420395	   56   [+0+] HE601624.1/54420450-54420395 Schistosoma mansoni strain Puerto Rico chromosome 1, complete genome
+* Block 171 <=== 152	USER>>HE601628.1/8559227-8559285	   59   [+0+] HE601628.1/8559227-8559285 Schistosoma mansoni strain Puerto Rico chromosome 5, complete genome
+* Block 172 <=== 153	USER>>HE601631.1/26113316-26113258	   59   [+1+] HE601631.1/26113316-26113258 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+* Block 173 <=== 151	USER>>CABG01000054.1/628065-628007	   59   [+0+] CABG01000054.1/628065-628007 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0137, strain Puerto Rico
+* Block 174 <=== 179	USER>>HE601627.1/5024352-5024407	   56   [+0+] HE601627.1/5024352-5024407 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+* Block 175 <=== 150	USER>>CABG01000045.1/852436-852386	   51   [+0+] CABG01000045.1/852436-852386 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0097, strain Puerto Rico
+* Block 176 <=== 149	USER>>CABF01012811.1/1418-1469	   52   [+0+] CABF01012811.1/1418-1469 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C012719
+* Block 177 <=== 148	USER>>HE601631.1/45035245-45035195	   51   [+0+] HE601631.1/45035245-45035195 Schistosoma mansoni strain Puerto Rico chromosome W, complete genome
+* Block 178 <=== 147	USER>>HE601630.1/4870341-4870264	   78   [+0+] HE601630.1/4870341-4870264 Schistosoma mansoni strain Puerto Rico chromosome 7, complete genome
+* Block 179 <--- 180	USER>>ABNS01042565.1/85-29	   57   [+0+] ABNS01042565.1/85-29 Coral metagenome 39968719, whole genome shotgun sequence.
+* Block 180 <--- 181	USER>>AADG06003428.1/18474-18399	   76   [+3+] AADG06003428.1/18474-18399 Apis mellifera strain DH4 Contig3428, whole genome shotgun sequence.
+* Block 181 <--- 182	USER>>AGCE01120312.1/6570-6510	   61   [+0+] AGCE01120312.1/6570-6510 Saimiri boliviensis boliviensis contig120312, whole genome shotgun sequence.
+* Block 182 <--- 183	USER>>ABMF01215137.1/1-56	   56   [+0+] ABMF01215137.1/1-56 Saltern metagenome 42381927, whole genome shotgun sequence.
+* Block 183 <--- 184	USER>>BADR02003106.1/96971-97024	   54   [+0+] BADR02003106.1/96971-97024 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_3106.
+* Block 184 <--- 185	USER>>HE601625.1/23886776-23886833	   58   [+0+] HE601625.1/23886776-23886833 Schistosoma mansoni strain Puerto Rico chromosome 2, complete genome
+* Block 185 <--- 186	USER>>CABG01000072.1/54904-54965	   62   [+0+] CABG01000072.1/54904-54965 Schistosoma mansoni, WGS project CABG00000000 data, supercontig 0172, strain Puerto Rico
+* Block 186 <--- 187	USER>>CABF01025454.1/5253-5183	   71   [+1+] CABF01025454.1/5253-5183 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C025426
+* Block 187 <--- 188	USER>>BADR02000935.1/57977-57924	   54   [+0+] BADR02000935.1/57977-57924 Clonorchis sinensis DNA, contig: CSINDRAFTv2.0_contig_935.
+* Block 188 <--- 189	USER>>ABMF01222492.1/76-21	   56   [+0+] ABMF01222492.1/76-21 Saltern metagenome 42698345, whole genome shotgun sequence.
+* Block 189 <--- 190	USER>>AACY022770668.1/50-1	   50   [+0+] AACY022770668.1/50-1 Marine metagenome ctg_1101667178019, whole genome shotgun sequence.
+* Block 190 <--- 191	USER>>FN595995.1/798158-798109	   50   [+2+] FN595995.1/798158-798109 Vitis vinifera cv. PN40024, annotated scaffold_56.assembly12x
+* Block 191 <--- 192	USER>>AGTN01685281.1/143-199	   57   [+0+] AGTN01685281.1/143-199 Bioreactor metagenome PBDCA2_GBB5CE401BO5Q2_left, whole genome shotgun sequence.
+* Block 192 <--- 193	USER>>HE601627.1/11733048-11733105	   58   [+0+] HE601627.1/11733048-11733105 Schistosoma mansoni strain Puerto Rico chromosome 4, complete genome
+* Block 193 <--- 194	USER>>AEVX01007644.1/5408-5340	   69   [+0+] AEVX01007644.1/5408-5340 Acromyrmex echinatior contig7644, whole genome shotgun sequence.
+* Block 194 <--- 195	USER>>ABCN01007282.1/11874-11933	   60   [+1+] ABCN01007282.1/11874-11933 Chlamydomonas reinhardtii strain CC-503 cw92 mt+ CHLREscaffold_77_Cont7282, whole genome shotgun sequence.
+* Block 195 <--- 196	USER>>ABEG02005712.1/25285-25390	  106   [+0+] ABEG02005712.1/25285-25390 Caenorhabditis brenneri strain PB2801 C_brenneri-6.0.1_Cont271.2, whole genome shotgun sequence.
+* Block 196 <--- 197	USER>>CABF01035406.1/921-989	   69   [+0+] CABF01035406.1/921-989 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C035371
+* Block 197 <--- 198	USER>>AAPY01083586.1/5838-5787	   52   [+0+] AAPY01083586.1/5838-5787 Tupaia belangeri cont1.083585, whole genome shotgun sequence.
+* Block 198 <--- 199	USER>>FN595515.1/240996-241053	   58   [+2+] FN595515.1/240996-241053 Vitis vinifera cv. PN40024, annotated scaffold_118.assembly12x
+* Block 199 <--- 200	USER>>CABF01001172.1/615-681	   67   [+0+] CABF01001172.1/615-681 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C001171
+* Block 200 <--- 201	USER>>ADFJ01004186.1/4081-4141	   61   [+0+] ADFJ01004186.1/4081-4141 Selaginella moellendorffii SELMOscaffold_202_Cont4186, whole genome shotgun sequence.
+* Block 201 <--- 202	USER>>CABF01026894.1/1704-1646	   59   [+0+] CABF01026894.1/1704-1646 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C026866
+* Block 202 <--- 203	USER>>BA000030.3/5230823-5230770	   54   [+0+] BA000030.3/5230823-5230770 Streptomyces avermitilis MA-4680 DNA, complete genome.
+* Block 203 <--- 204	USER>>ET122193.1/66642-66581	   62   [+0+] ET122193.1/66642-66581 Myxine glutinosa clone BAC 90C8, complete sequence.
+* Block 204 <--- 205	USER>>CABF01059116.1/3994-4055	   62   [+0+] CABF01059116.1/3994-4055 Schistosoma japonicum isolate Anhui whole genome shotgun sequence assembly, contig SJC_C059120
+* Block 205 <--- 206	USER>>AAGW02062664.1/92889-92940	   52   [+0+] AAGW02062664.1/92889-92940 Oryctolagus cuniculus cont2.62663, whole genome shotgun sequence.
+
+('*' = keyed block)
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 1 window = 20
+ minscore = 980 pepscore = 0 list_limit = 10
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 2 window = 22
+ minscore = 960 pepscore = 0 list_limit = 8
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 4 window = 24
+ minscore = 940 pepscore = 0 list_limit = 6
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 8 window = 26
+ minscore = 920 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 8 window = 26
+ minscore = 900 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+average score over cutoff = 905
+
+(5 pairs) cluster_pairs total list_alloc = 20
+pack_lists 
+update_blocks
+      USER>>FN595513.1/550378-550435
+913
+      USER>>AM459779.1/27612-27669
+
+
+      USER>>DQ680804.1/284-337
+907
+      USER>>DQ680780.1/283-336
+
+
+      USER>>AJ550911.1/56-3
+907
+      USER>>DQ680805.1/56-3
+
+
+      USER>>DQ222092.1/282-335
+900
+      USER>>GT825986.1/279-328
+900
+      USER>>DQ680743.1/283-335
+
+
+201 groups ( 4 aligned )
+
+
+
+PARAMETERS for next cycle
+ mul_wt = 0 damp = 0 mat_wt = 0
+ gap_pen = 20 span = 8 window = 26
+ minscore = 900 pepscore = 0 list_limit = 4
+ circles = 0 output = 999 outline = 80
+score_pairs 
+
+No pairs over cutoff
+
+ nblocks = 206 seedblk = 0 seedseq = 0
+picked USER>SEED:>RF00008 (-100.000000)
+picked USER>>DQ680783.1/56-3 (0.000000)
+picked USER>>DQ680796.1/56-3 (0.000000)
+picked USER>>GQ872136.1/56-3 (0.000000)
+picked USER>>AF170503.1/55-3 (0.000000)
+picked USER>>AJ550911.1/56-3 (0.000000)
+picked USER>>DQ680743.1/283-335 (0.367726)
+picked USER>>DQ680798.1/273-326 (0.000000)
+picked USER>>DQ680804.1/284-337 (0.000000)
+picked USER>>GQ499317.1/284-336 (0.000000)
+picked USER>>FN646404.1/133-51 (0.000000)
+picked USER>>M33000.1/55-110 (0.000000)
+picked USER>>AACY023806030.1/893-836 (0.000000)
+picked USER>>AP009384.1/4100083-4100026 (0.000000)
+picked USER>>AFSA01073555.1/2043-1986 (0.000000)
+picked USER>>AFSA01046730.1/721-664 (0.000000)
+picked USER>>AFSA01391656.1/377-434 (0.000000)
+picked USER>>AFSA01170855.1/508-451 (0.000000)
+picked USER>>AFSA01104653.1/100-157 (0.000000)
+picked USER>>AFSA01160914.1/1796-1739 (0.000000)
+picked USER>>AFSA01156800.1/474-417 (0.000000)
+picked USER>>AFSA01156800.1/1122-1065 (0.000000)
+picked USER>>AFSA01116803.1/2114-2170 (0.000000)
+picked USER>>AFSA01029476.1/2742-2686 (0.000000)
+picked USER>>AFSA01018053.1/5632-5575 (0.000000)
+picked USER>>AFSA01088690.1/2001-2058 (0.000000)
+picked USER>>AFSA01042060.1/361-304 (0.000000)
+picked USER>>AFSA01154721.1/458-401 (0.000000)
+picked USER>>AFSA01170855.1/1155-1098 (0.000000)
+picked USER>>AFSA01018053.1/5008-5065 (0.000000)
+picked USER>>BABX01097964.1/595-539 (0.000000)
+picked USER>>AFSA01018053.1/4359-4416 (0.000000)
+picked USER>>BABX01004788.1/3325-3269 (0.000000)
+picked USER>>BABX01093136.1/1532-1588 (0.000000)
+picked USER>>BABX01022075.1/1985-1929 (0.000000)
+picked USER>>BABX01016267.1/2549-2493 (0.000000)
+picked USER>>BABX01017832.1/646-590 (0.000000)
+picked USER>>AACY020000300.1/1983-1926 (0.000000)
+picked USER>>FJ147819.1/735-792 (0.000000)
+picked USER>>BABX01067683.1/1853-1797 (0.000000)
+picked USER>>AACY020301409.1/776-832 (0.000000)
+picked USER>>ADBK01001767.1/20966-21023 (0.000000)
+picked USER>>BABX01107099.1/153-97 (0.000000)
+picked USER>>ADBK01000597.1/144825-144882 (0.000000)
+picked USER>>ADBK01001763.1/17635-17692 (0.000000)
+picked USER>>AFNC01020637.1/13013-12955 (0.000000)
+picked USER>>ADBK01000956.1/18397-18454 (0.000000)
+picked USER>>FN595521.1/209142-209085 (0.000000)
+picked USER>>FN595513.1/4432612-4432555 (0.000000)
+picked USER>>FN595763.1/416062-416119 (0.000000)
+picked USER>>FN595995.1/797300-797243 (0.000000)
+picked USER>>FN595990.1/255231-255174 (0.000000)
+picked USER>>FN595990.1/254387-254330 (0.000000)
+picked USER>>FN596003.1/342263-342319 (0.000000)
+picked USER>>FN595751.1/863886-863943 (0.000000)
+picked USER>>AM472511.1/20242-20299 (0.000000)
+picked USER>>FN595513.1/4433474-4433417 (0.000000)
+picked USER>>FN596494.1/6497250-6497193 (0.000000)
+picked USER>>FN595504.1/6227090-6227147 (0.000000)
+picked USER>>CAAP03007143.1/130767-130710 (0.000000)
+picked USER>>CAAP03002622.1/48547-48490 (0.000000)
+picked USER>>FN596746.1/2500110-2500167 (0.000000)
+picked USER>>AM465121.2/2389-2332 (0.000000)
+picked USER>>CAAP03009505.1/44637-44694 (0.000000)
+picked USER>>AM430431.2/46957-46901 (0.000000)
+picked USER>>FN596011.1/272970-273027 (0.000000)
+picked USER>>CAAP03007143.1/131633-131576 (0.000000)
+picked USER>>FN594968.1/1063714-1063771 (0.000000)
+picked USER>>CAAP03012767.1/102926-102981 (0.000000)
+picked USER>>FN595513.1/550378-550435 (0.000000)
+picked USER>>AM475815.2/3913-3856 (0.000000)
+picked USER>>HQ880433.1/9-64 (0.000000)
+picked USER>>AACY023784794.1/810-864 (0.000000)
+picked USER>>J02386.1/42-95 (0.000000)
+picked USER>>AACY022776529.1/685-631 (0.000000)
+picked USER>>ADVT01001934.1/71-17 (0.000000)
+picked USER>>AACY023352119.1/676-730 (0.000000)
+picked USER>>AACY023823868.1/1019-965 (0.000000)
+picked USER>>AACY022121822.1/536-590 (0.000000)
+picked USER>>M63666.1/246-192 (0.000000)
+picked USER>>AJ536619.1/206-152 (0.000000)
+picked USER>>AACY023802293.1/343-400 (0.000000)
+picked USER>>ABLW01115605.1/67-13 (0.000000)
+picked USER>>AACY023195290.1/1059-1114 (0.000000)
+picked USER>>ABML01222367.1/14-71 (0.000000)
+picked USER>>AACY021940384.1/538-592 (0.000000)
+picked USER>>AACY022632013.1/418-363 (0.000000)
+picked USER>>ABNK01030792.1/87-4 (0.000000)
+picked USER>>AACY021247023.1/427-370 (0.000000)
+picked USER>>AACY023847113.1/873-813 (0.000000)
+picked USER>>ABMB01014284.1/20-74 (0.000000)
+picked USER>>AACY021791304.1/129-73 (0.000000)
+picked USER>>AACY021652855.1/163-107 (0.000000)
+picked USER>>AACY022830181.1/456-402 (0.000000)
+picked USER>>ABNI01008151.1/45-99 (0.000000)
+picked USER>>CP000511.1/2184555-2184609 (0.000000)
+picked USER>>CP002039.1/3593801-3593747 (0.000000)
+picked USER>>BADR02001009.1/31966-32016 (0.000000)
+picked USER>>AAMC01092558.1/2418-2329 (0.000000)
+picked USER>>BADR02000534.1/430281-430229 (0.000000)
+picked USER>>BADR02001261.1/11492-11439 (0.000000)
+picked USER>>AAMC01046682.1/71280-71223 (0.000000)
+picked USER>>AAMC01036080.1/7373-7463 (0.000000)
+picked USER>>AAMC01028242.1/63241-63293 (0.000000)
+picked USER>>ET547491.1/273-219 (0.000000)
+picked USER>>AACY023259265.1/429-488 (0.000000)
+picked USER>>AACY023259265.1/619-677 (0.000000)
+picked USER>>HQ880434.1/11-65 (0.000000)
+picked USER>>AACY020758631.1/863-807 (0.000000)
+picked USER>>AACY022484984.1/628-685 (0.000000)
+picked USER>>X01984.1/170-107 (0.000000)
+picked USER>>D00341.1/169-106 (0.000000)
+picked USER>>FN595998.1/2114608-2114667 (0.000000)
+picked USER>>DQ357618.1/298-244 (0.000000)
+picked USER>>DQ357628.1/295-241 (0.000000)
+picked USER>>AACY021842348.1/566-623 (0.000000)
+picked USER>>ABRE01014749.1/1036-977 (0.000000)
+picked USER>>AACY023366856.1/213-156 (0.000000)
+picked USER>>ABMW01161415.1/105-23 (0.000000)
+picked USER>>ADDK02000001.1/1582123-1582069 (0.000000)
+picked USER>>AGTN01140051.1/136-194 (0.000000)
+picked USER>>AAWT01061712.1/75822-75766 (0.000000)
+picked USER>>AACY021025315.1/526-581 (0.000000)
+picked USER>>ABLX01073025.1/18-72 (0.000000)
+picked USER>>AELG01005788.1/9138-9068 (0.000000)
+picked USER>>AELG01009913.1/673-747 (0.000000)
+picked USER>>AFJA01001167.1/3143-3216 (0.000000)
+picked USER>>AEKZ01001651.1/3092-3166 (0.000000)
+picked USER>>AEQM02007450.1/996-922 (0.000000)
+picked USER>>AEQM02006884.1/198-272 (0.000000)
+picked USER>>AFJA01006950.1/12750-12677 (0.000000)
+picked USER>>AFJA01002040.1/29870-29796 (0.000000)
+picked USER>>AEVX01003024.1/5648-5572 (0.000000)
+picked USER>>AEVX01011239.1/17322-17397 (0.000000)
+picked USER>>AEVX01014653.1/67501-67425 (0.000000)
+picked USER>>FJ647334.1/1-61 (0.000000)
+picked USER>>AEQC01000211.1/20120-20179 (0.000000)
+picked USER>>ABWF01001581.1/10618-10677 (0.000000)
+picked USER>>AACY023348898.1/727-673 (0.000000)
+picked USER>>AGTN01301619.1/367-419 (0.000000)
+picked USER>>AAXJ01007742.1/834-778 (0.000000)
+picked USER>>HE601628.1/7143946-7143888 (0.000000)
+picked USER>>HE601624.1/38871776-38871869 (0.000000)
+picked USER>>CABG01000047.1/203569-203510 (0.000000)
+picked USER>>CABG01000094.1/343533-343597 (0.000000)
+picked USER>>HE601627.1/13820890-13820813 (0.000000)
+picked USER>>HE601626.1/468262-468203 (0.000000)
+picked USER>>HE601624.1/41701520-41701577 (0.000000)
+picked USER>>HE601629.1/17035532-17035609 (0.000000)
+picked USER>>HE601631.1/20611687-20611629 (0.000000)
+picked USER>>HE601629.1/1075793-1075868 (0.000000)
+picked USER>>HE601627.1/29682777-29682706 (0.000000)
+picked USER>>HE601631.1/1061500-1061559 (0.000000)
+picked USER>>HE601628.1/8069827-8069885 (0.000000)
+picked USER>>CABG01000043.1/1254038-1253984 (0.000000)
+picked USER>>HE601629.1/18534607-18534548 (0.000000)
+picked USER>>HE601629.1/16475038-16475115 (0.000000)
+picked USER>>HE601631.1/54090353-54090404 (0.000000)
+picked USER>>HE601630.1/2806341-2806264 (0.000000)
+picked USER>>CABG01000003.1/1364784-1364861 (0.000000)
+picked USER>>CABG01000218.1/9143-9069 (0.000000)
+picked USER>>HE601625.1/29418279-29418202 (0.000000)
+picked USER>>HE601630.1/659323-659384 (0.000000)
+picked USER>>CABG01000002.1/462343-462285 (0.000000)
+picked USER>>HE601625.1/31729099-31729163 (0.000000)
+picked USER>>HE601624.1/54420450-54420395 (0.000000)
+picked USER>>HE601628.1/8559227-8559285 (0.000000)
+picked USER>>HE601631.1/26113316-26113258 (0.000000)
+picked USER>>CABG01000054.1/628065-628007 (0.000000)
+picked USER>>HE601627.1/5024352-5024407 (0.000000)
+picked USER>>CABG01000045.1/852436-852386 (0.000000)
+picked USER>>CABF01012811.1/1418-1469 (0.000000)
+picked USER>>HE601631.1/45035245-45035195 (0.000000)
+picked USER>>HE601630.1/4870341-4870264 (0.000000)
+picked USER>>ABNS01042565.1/85-29 (0.000000)
+picked USER>>AADG06003428.1/18474-18399 (0.000000)
+picked USER>>AGCE01120312.1/6570-6510 (0.000000)
+picked USER>>ABMF01215137.1/1-56 (0.000000)
+picked USER>>BADR02003106.1/96971-97024 (0.000000)
+picked USER>>HE601625.1/23886776-23886833 (0.000000)
+picked USER>>CABG01000072.1/54904-54965 (0.000000)
+picked USER>>CABF01025454.1/5253-5183 (0.000000)
+picked USER>>BADR02000935.1/57977-57924 (0.000000)
+picked USER>>ABMF01222492.1/76-21 (0.000000)
+picked USER>>AACY022770668.1/50-1 (0.000000)
+picked USER>>FN595995.1/798158-798109 (0.000000)
+picked USER>>AGTN01685281.1/143-199 (0.000000)
+picked USER>>HE601627.1/11733048-11733105 (0.000000)
+picked USER>>AEVX01007644.1/5408-5340 (0.000000)
+picked USER>>ABCN01007282.1/11874-11933 (0.000000)
+picked USER>>ABEG02005712.1/25285-25390 (0.000000)
+picked USER>>CABF01035406.1/921-989 (0.000000)
+picked USER>>AAPY01083586.1/5838-5787 (0.000000)
+picked USER>>FN595515.1/240996-241053 (0.000000)
+picked USER>>CABF01001172.1/615-681 (0.000000)
+picked USER>>ADFJ01004186.1/4081-4141 (0.000000)
+picked USER>>CABF01026894.1/1704-1646 (0.000000)
+picked USER>>BA000030.3/5230823-5230770 (0.000000)
+picked USER>>ET122193.1/66642-66581 (0.000000)
+picked USER>>CABF01059116.1/3994-4055 (0.000000)
+picked USER>>AAGW02062664.1/92889-92940 (0.000000)
+ kept = 201

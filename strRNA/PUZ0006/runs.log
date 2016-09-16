@@ -1,0 +1,53 @@
+using 47 pairs and 10 models
+
+
+move = 4
+Running with 30 true pairs
+Running with 47 pred pairs
+Running with 47 grem pairs
+Unsmoothed
+ 13.678
+ 17.198
+ 13.964
+Smoothed1x
+ 12.723
+ 16.254
+ 13.076
+Smoothed2x
+ 12.099
+ 15.601
+ 12.507
+
+move = 6
+Running with 30 true pairs
+Running with 47 pred pairs
+Running with 47 grem pairs
+Unsmoothed
+ 16.247
+ 18.795
+ 16.190
+Smoothed1x
+ 15.268
+ 17.862
+ 15.182
+Smoothed2x
+ 14.614
+ 17.215
+ 14.505
+
+move = 8
+Running with 30 true pairs
+Running with 47 pred pairs
+Running with 47 grem pairs
+Unsmoothed
+ 19.084
+ 20.004
+ 18.059
+Smoothed1x
+ 18.147
+ 19.035
+ 17.106
+Smoothed2x
+ 17.498
+ 18.355
+ 16.468

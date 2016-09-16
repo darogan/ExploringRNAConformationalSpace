@@ -1,0 +1,54 @@
+# 1 = RF00123
+# seqs.run aligns single sequences in align.seq
+# alns.run aligns single/aligned files of sequences in align.lis
+
+# rfam RF00123.afa.txt --> seq with gaps as "x"
+tcsh seed2seq.csh $argv[1]
+cat query.seq seed.seq > align.seq
+echo aligning seed sequences
+cp seqs.run test.run
+./multas > multas.log
+grep seqs final.aln
+# delete SEED and convert fasta to seq
+sed -i '2 d' final.afa
+tcsh afa2seq.csh $argv[1]
+# final.afa written to seed.seq.cut (with gaps as "x")
+cat query.seq seed.cut.seq > final.seq
+echo aligning cut seed sequences
+./multas > multas.log
+cp final.aln seed.aln
+# check
+grep seqs final.aln
+grep '>' final.afa | wc -l
+echo top
+grep -v '>' final.afa | head
+echo bot
+grep -v '>' final.afa | tail
+# combine and resort seed and full sequences
+cat mulsel.seq seed.cut.seq | tr -d "x" > final.seq
+cp skip.seed.run skip.run
+./mulsel > mulsel.log
+tail -1 mulsel.log
+# scatter the query through the mulsel seqs (every 20)
+cat final.seq | awk '{if(match($1,">")){n++; if(n==20){print "here"; n=0} print $1; }else{ print }}' > temp.seq
+cat temp.seq | sed 's/^/echo "/' | sed 's/$/"/'  | sed 's/echo "here"/cat insert.seq/' > temp.csh
+sed 's/SEED:/SKIP:/' query.seq > insert.seq
+cp   query.seq       align.seq
+tcsh temp.csh     >> align.seq
+cat  insert.seq   >> align.seq
+#
+echo aligning combined sequences with seed profile
+cp alns.run test.run
+./multas > multas.log
+#
+# strip out queries and seeds
+head -2 final.afa > strip.afa
+awk '{if(match($1,">")){  if(match($0,"SKIP")){skip=1}else{skip=0} }; if(skip==0){print}}' final.afa >> strip.afa
+mv strip.afa final.afa
+# count
+grep seqs final.aln
+grep '>' final.afa | wc -l
+echo top
+grep -v '>' final.afa | head
+echo bot
+grep -v '>' final.afa | tail

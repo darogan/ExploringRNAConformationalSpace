@@ -1,0 +1,151 @@
+wireframe off
+backbone 150
+cpk 300
+set picking monitor
+label %r
+colour labels white
+select 34,59
+hbond 190
+colour hbonds blue 
+select 35,58
+hbond 186
+colour hbonds blue 
+select 32,61
+hbond 182
+colour hbonds blue 
+select 31,62
+hbond 178
+colour hbonds blue 
+select 33,60
+hbond 174
+colour hbonds blue 
+select 89,105
+hbond 170
+colour hbonds blue 
+select 90,104
+hbond 166
+colour hbonds blue 
+select 91,103
+hbond 162
+colour hbonds blue 
+select 88,106
+hbond 158
+colour hbonds blue 
+select 87,107
+hbond 154
+colour hbonds blue 
+select 146,157
+hbond 150
+colour hbonds blue 
+select 92,102
+hbond 146
+colour hbonds blue 
+select 36,57
+hbond 142
+colour hbonds blue 
+select 86,108
+hbond 138
+colour hbonds blue 
+select 22,70
+hbond 134
+colour hbonds blue 
+select 121,133
+hbond 130
+colour hbonds blue 
+select 147,156
+hbond 126
+colour hbonds blue 
+select 118,136
+hbond 122
+colour hbonds blue 
+select 119,135
+hbond 118
+colour hbonds blue 
+select 18,74
+hbond 114
+colour hbonds blue 
+select 17,75
+hbond 110
+colour hbonds blue 
+select 120,134
+hbond 106
+colour hbonds blue 
+select 145,158
+hbond 102
+colour hbonds blue 
+select 84,111
+hbond 98
+colour hbonds blue 
+select 122,132
+hbond 94
+colour hbonds blue 
+select 117,137
+hbond 90
+colour hbonds blue 
+select 123,131
+hbond 86
+colour hbonds blue 
+select 85,109
+hbond 82
+colour hbonds blue 
+select 16,76
+hbond 78
+colour hbonds blue 
+select 83,112
+hbond 74
+colour hbonds blue 
+select 19,73
+hbond 70
+colour hbonds blue 
+select 148,155
+hbond 66
+colour hbonds blue 
+select 30,63
+hbond 62
+colour hbonds blue 
+select 144,159
+hbond 58
+colour hbonds blue 
+select 93,101
+hbond 54
+colour hbonds blue 
+select 6,169
+hbond 46
+colour hbonds blue 
+select 7,168
+hbond 38
+colour hbonds blue 
+select 5,170
+hbond 30
+colour hbonds blue 
+select 37,56
+hbond 22
+colour hbonds blue 
+select 82,113
+hbond 10
+colour hbonds blue 
+select 20,72
+hbond 50
+colour hbonds green
+select 21,71
+hbond 42
+colour hbonds green
+select 116,138
+hbond 34
+colour hbonds green
+select 29,64
+hbond 26
+colour hbonds green
+select 44,97
+hbond 18
+colour hbonds green
+select 43,98
+hbond 14
+colour hbonds green
+select 45,96
+hbond 6
+colour hbonds green
+select 40,47
+hbond 2
+colour hbonds green
+select
