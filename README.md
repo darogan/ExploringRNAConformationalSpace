@@ -1,3 +1,10 @@
+# Supplementary Materials For Exploring RNA Conformational Space Under Sparse Distance Restraints #
+
+## Contact Details ##
+William R. Taylor & Russell S. Hamilton
+
+## Repository Description ##
+
 The two simulation programs are in simgen and simrna.
 Links to the these will need to be changed to the local copies.
 
