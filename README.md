@@ -16,3 +16,12 @@ simRNA runs the same simulations for simrna.
 
 strRNAfew runs the series of restraint removals.   In each application directory (eg RF00162)
 executing the script code/runs.csh creats the full deletion series.    Similarly in simRNAfew
+
+
+## Missing Files ##
+Due to their large file size the following files are missing from the repository, but are publically available for download.
+
+    corRNA/infernal/Rfam.cm (ftp://ftp.ebi.ac.uk/pub/databases/Rfam)
+    corRNA/rfam9full/Rfam.full (ftp://ftp.ebi.ac.uk/pub/databases/Rfam)
+    corRNA/save/seqs/pdb_seqres.txt (ftp://ftp.wwpdb.org/pub/pdb/derived_data/pdb_seqres.txt)
+    corRNA/seqs/pdb_seqres.txt (ftp://ftp.wwpdb.org/pub/pdb/derived_data/pdb_seqres.txt)
